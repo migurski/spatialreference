@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../../static/css/base.css" />
+    <title>Upload Custom Projection -- Spatial Reference</title>
+     
+<script type="text/javascript" charset="utf-8" src="http://openlayers.org/api/OpenLayers.js">	</script>
+<script type="text/javascript" src="http://openstreetmap.org/openlayers/OpenStreetMap.js"></script>
+
+<script type="text/javascript">
+
+    var map, base_layer, panel, controls;
+
+    function goTo(location){
+        //alert(document.getElementById('address').value);
+        var address = 'address=' + location;
+        var request = OpenLayers.Request.POST({
+          url: "/lookup/",
+          data: address,
+          callback: gotoLocation
+        });
+      }
+
+    function gotoLocation(request) {
+        var response = request.responseText;
+        if (response){
+         var json = eval('(' + response + ')');
+         var centerPoint = new OpenLayers.LonLat(json.lon, json.lat);
+		     map.setCenter(centerPoint.transform(new OpenLayers.Projection("EPSG:4326"),map.getProjectionObject()),6);
+        }else{
+          $('georesponse').innerHTML = '<p class="errorlist">Try searching again...</p>';
+         }
+      }
+      
+    function setBoundsFromMap(e) {
+        var merc_extent = map.getExtent();
+        var displayProjection = new OpenLayers.Projection("EPSG:4326");
+        var wgs_extent = merc_extent.transform(map.getProjectionObject(), displayProjection) //transform.(from,to)
+        $('id_bounds').value = wgs_extent.toGeometry();
+    }
+
+    function setExtentFromBounds(bounds) {
+        var wkt = new OpenLayers.Format.WKT();
+        var wgs_extent = wkt.read($('id_bounds').value);
+        var wgs_bounds = wgs_extent.geometry.getBounds(); //new OpenLayers.Bounds(wgs_extent);
+        var displayProjection = new OpenLayers.Projection("EPSG:4326");
+        var merc_bounds = wgs_bounds.transform(displayProjection,map.getProjectionObject()) //transform.(from,to)
+        map.zoomToExtent(merc_bounds);
+    }
+    
+    function init_map(){
+        var map_options = { 
+            'units' : "m",
+            'maxResolution' : 156543.0339,
+            'numZoomLevels' : 22,
+            'projection' : new OpenLayers.Projection("EPSG:900913"),
+            'displayProjection' : new OpenLayers.Projection("EPSG:4326"),
+            'maxExtent' : new OpenLayers.Bounds(-20037508,-20037508,20037508,20037508)
+        }
+
+    map = new OpenLayers.Map('map', map_options);    
+    map.layers.base = new OpenLayers.Layer.OSM.Mapnik("OpenStreetMap (Mapnik)");
+    map.addLayer(map.layers.base);
+    
+    // To enable gmaps base layers uncomment this block and the GMAP_API_KEY script link above
+    //var gphy = new OpenLayers.Layer.Google( "Google Terrain", {type: G_PHYSICAL_MAP, 'sphericalMercator': true} );
+    //var gmap = new OpenLayers.Layer.Google( "Google Streets", {'sphericalMercator': true});
+    //var ghyb = new OpenLayers.Layer.Google("Google Satellite", {type: G_HYBRID_MAP, 'sphericalMercator': true} );
+    //map.addLayers([ghyb, gmap, gphy]);
+
+    // Main map controls including the toolbar panel
+    panel = new OpenLayers.Control.Panel({'displayClass': 'olControlEditingToolbar'});
+    var nav = new OpenLayers.Control.Navigation();
+    controls = [nav];
+        
+    panel.addControls(controls);
+    map.addControl(panel);
+    
+    // Then add optional visual controls
+    map.addControl(new OpenLayers.Control.MousePosition());
+    map.addControl(new OpenLayers.Control.Scale());
+    map.addControl(new OpenLayers.Control.LayerSwitcher());
+    //map.addControl(new OpenLayers.Control.Permalink('permalink'));
+    
+    //new OpenLayers.Bounds
+    if ($('id_bounds').value){
+      setExtentFromBounds()
+    }else{
+      map.zoomToMaxExtent();
+      map.zoomIn(2)
+    }
+    
+    // Register *after* we set the map for the first time
+    map.events.register("moveend", map, setBoundsFromMap);
+    map.events.register("zoomend", map, setBoundsFromMap);
+    
+    }
+    </script>
+  </head>
+  
+
+
+</head>
+
+<body onload="init_map();">
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Upload Custom Projection
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="../index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="index.html">Upload Your Own</a> | 
+            <a href="../sr-org/index.html">List user-contributed references</a> | 
+            <a href="../index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+        
+    <h2> Upload your own Projection in Well Known Text (WKT) format</h2>
+   <div style="width:45%; height:350px; float:right">Zoom to the Projection's Relevant Area:
+   <div id="map" style="width:100%;height:350px"></div>
+   <p><input type="search" autosave="http://spatialreference.org" results="10" size="40" id="goto" value="Go to Location" onfocus="this.value=' ';" onchange="goTo(this.value);"><button onclick="goTo(document.getElementById('goto').value);" type="submit">Go to</button></p><div id="georesponse"></div>
+   </div>
+   
+   <div id="form" style="width:40%;float:left">
+
+    
+    
+    <form method="post" action="index.html">
+   
+   <p><label for="id_title">Title:</label> <input id="id_title" type="text" class="required" name="title" size="70" /></p>
+<p><label for="id_description">Description:</label> <textarea id="id_description" rows="3" cols="70" name="description" class="required"></textarea></p>
+<p><label for="id_wkt">WKT:</label> <textarea id="id_wkt" rows="5" cols="70" name="wkt" class="required"></textarea><input type="hidden" name="bounds" id="id_bounds" /></p>
+   
+    
+    <p>Type the words below:</h4>
+    
+    <script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdqtAMAAAAAAKSF9XhMCel1SmIstzbuVmlrCQgm"></script>
+
+<noscript>
+  <iframe src="http://api.recaptcha.net/noscript?k=6LdqtAMAAAAAAKSF9XhMCel1SmIstzbuVmlrCQgm" height="300" width="500" frameborder="0"></iframe><br />
+  <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  <input type='hidden' name='recaptcha_response_field' value='manual_challenge' />
+</noscript>
+
+   <input type="submit" value="Post Your Projection" />
+   </form>
+   </div>
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

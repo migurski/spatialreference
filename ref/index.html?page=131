@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=130">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=132">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/61077/index.html">IAU2000:61077</a>: Janus Albers AUTO</li>
+
+  <li><a href="iau2000/61078/index.html">IAU2000:61078</a>: Janus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61079/index.html">IAU2000:61079</a>: Janus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61100/index.html">IAU2000:61100</a>: Epimetheus 2000</li>
+
+  <li><a href="iau2000/61101/index.html">IAU2000:61101</a>: Epimetheus 2000</li>
+
+  <li><a href="iau2000/61110/index.html">IAU2000:61110</a>: Epimetheus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61111/index.html">IAU2000:61111</a>: Epimetheus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61112/index.html">IAU2000:61112</a>: Epimetheus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61113/index.html">IAU2000:61113</a>: Epimetheus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61114/index.html">IAU2000:61114</a>: Epimetheus Sinusoidal</li>
+
+  <li><a href="iau2000/61115/index.html">IAU2000:61115</a>: Epimetheus Sinusoidal</li>
+
+  <li><a href="iau2000/61116/index.html">IAU2000:61116</a>: Epimetheus Sinusoidal</li>
+
+  <li><a href="iau2000/61117/index.html">IAU2000:61117</a>: Epimetheus Sinusoidal</li>
+
+  <li><a href="iau2000/61118/index.html">IAU2000:61118</a>: Epimetheus North Pole Stereographic</li>
+
+  <li><a href="iau2000/61119/index.html">IAU2000:61119</a>: Epimetheus North Pole Stereographic</li>
+
+  <li><a href="iau2000/61120/index.html">IAU2000:61120</a>: Epimetheus South Pole Stereographic</li>
+
+  <li><a href="iau2000/61121/index.html">IAU2000:61121</a>: Epimetheus South Pole Stereographic</li>
+
+  <li><a href="iau2000/61160/index.html">IAU2000:61160</a>: Epimetheus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61161/index.html">IAU2000:61161</a>: Epimetheus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61162/index.html">IAU2000:61162</a>: Epimetheus Stereographic AUTO</li>
+
+  <li><a href="iau2000/61163/index.html">IAU2000:61163</a>: Epimetheus Stereographic AUTO</li>
+
+  <li><a href="iau2000/61164/index.html">IAU2000:61164</a>: Epimetheus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61165/index.html">IAU2000:61165</a>: Epimetheus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61166/index.html">IAU2000:61166</a>: Epimetheus Orthographic AUTO</li>
+
+  <li><a href="iau2000/61167/index.html">IAU2000:61167</a>: Epimetheus Orthographic AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/61168/index.html">IAU2000:61168</a>: Epimetheus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61169/index.html">IAU2000:61169</a>: Epimetheus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61170/index.html">IAU2000:61170</a>: Epimetheus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61171/index.html">IAU2000:61171</a>: Epimetheus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61172/index.html">IAU2000:61172</a>: Epimetheus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61173/index.html">IAU2000:61173</a>: Epimetheus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61174/index.html">IAU2000:61174</a>: Epimetheus Mercator AUTO</li>
+
+  <li><a href="iau2000/61175/index.html">IAU2000:61175</a>: Epimetheus Mercator AUTO</li>
+
+  <li><a href="iau2000/61176/index.html">IAU2000:61176</a>: Epimetheus Albers AUTO</li>
+
+  <li><a href="iau2000/61177/index.html">IAU2000:61177</a>: Epimetheus Albers AUTO</li>
+
+  <li><a href="iau2000/61178/index.html">IAU2000:61178</a>: Epimetheus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61179/index.html">IAU2000:61179</a>: Epimetheus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61200/index.html">IAU2000:61200</a>: Helene 2000</li>
+
+  <li><a href="iau2000/61201/index.html">IAU2000:61201</a>: Helene 2000</li>
+
+  <li><a href="iau2000/61210/index.html">IAU2000:61210</a>: Helene Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61211/index.html">IAU2000:61211</a>: Helene Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61212/index.html">IAU2000:61212</a>: Helene Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61213/index.html">IAU2000:61213</a>: Helene Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61214/index.html">IAU2000:61214</a>: Helene Sinusoidal</li>
+
+  <li><a href="iau2000/61215/index.html">IAU2000:61215</a>: Helene Sinusoidal</li>
+
+  <li><a href="iau2000/61216/index.html">IAU2000:61216</a>: Helene Sinusoidal</li>
+
+  <li><a href="iau2000/61217/index.html">IAU2000:61217</a>: Helene Sinusoidal</li>
+
+  <li><a href="iau2000/61218/index.html">IAU2000:61218</a>: Helene North Pole Stereographic</li>
+
+  <li><a href="iau2000/61219/index.html">IAU2000:61219</a>: Helene North Pole Stereographic</li>
+
+  <li><a href="iau2000/61220/index.html">IAU2000:61220</a>: Helene South Pole Stereographic</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=130">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=132">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=107">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=109">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="esri/37212/index.html">ESRI:37212</a>: GCS Beacon E 1945</li>
+
+  <li><a href="esri/37213/index.html">ESRI:37213</a>: GCS Tern Island 1961</li>
+
+  <li><a href="esri/37214/index.html">ESRI:37214</a>: GCS Astro 1952</li>
+
+  <li><a href="esri/37215/index.html">ESRI:37215</a>: GCS Bellevue IGN</li>
+
+  <li><a href="esri/37216/index.html">ESRI:37216</a>: GCS Canton 1966</li>
+
+  <li><a href="esri/37217/index.html">ESRI:37217</a>: GCS Chatham Island 1971</li>
+
+  <li><a href="esri/37218/index.html">ESRI:37218</a>: GCS DOS 1968</li>
+
+  <li><a href="esri/37219/index.html">ESRI:37219</a>: GCS Easter Island 1967</li>
+
+  <li><a href="esri/37220/index.html">ESRI:37220</a>: GCS Guam 1963</li>
+
+  <li><a href="esri/37221/index.html">ESRI:37221</a>: GCS GUX 1</li>
+
+  <li><a href="esri/37222/index.html">ESRI:37222</a>: GCS Johnston Island 1961</li>
+
+  <li><a href="esri/37223/index.html">ESRI:37223</a>: GCS Carthage Degree</li>
+
+  <li><a href="esri/37224/index.html">ESRI:37224</a>: GCS Midway 1961</li>
+
+  <li><a href="esri/37226/index.html">ESRI:37226</a>: GCS Pitcairn 1967</li>
+
+  <li><a href="esri/37227/index.html">ESRI:37227</a>: GCS Santo DOS 1965</li>
+
+  <li><a href="esri/37228/index.html">ESRI:37228</a>: GCS Viti Levu 1916</li>
+
+  <li><a href="esri/37229/index.html">ESRI:37229</a>: GCS Wake Eniwetok 1960</li>
+
+  <li><a href="esri/37230/index.html">ESRI:37230</a>: GCS Wake Island 1952</li>
+
+  <li><a href="esri/37231/index.html">ESRI:37231</a>: GCS Anna 1 1965</li>
+
+  <li><a href="esri/37232/index.html">ESRI:37232</a>: GCS Gan 1970</li>
+
+  <li><a href="esri/37233/index.html">ESRI:37233</a>: GCS ISTS 073 1969</li>
+
+  <li><a href="esri/37234/index.html">ESRI:37234</a>: GCS Kerguelen Island 1949</li>
+
+  <li><a href="esri/37235/index.html">ESRI:37235</a>: GCS Reunion</li>
+
+  <li><a href="esri/37237/index.html">ESRI:37237</a>: GCS Ascension Island 1958</li>
+
+  <li><a href="esri/37238/index.html">ESRI:37238</a>: GCS DOS 71 4</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="esri/37239/index.html">ESRI:37239</a>: GCS Cape Canaveral</li>
+
+  <li><a href="esri/37240/index.html">ESRI:37240</a>: GCS Fort Thomas 1955</li>
+
+  <li><a href="esri/37241/index.html">ESRI:37241</a>: GCS Graciosa Base SW 1948</li>
+
+  <li><a href="esri/37242/index.html">ESRI:37242</a>: GCS ISTS 061 1968</li>
+
+  <li><a href="esri/37243/index.html">ESRI:37243</a>: GCS LC5 1961</li>
+
+  <li><a href="esri/37245/index.html">ESRI:37245</a>: GCS Observ Meteorologico 1939</li>
+
+  <li><a href="esri/37246/index.html">ESRI:37246</a>: GCS Pico de Las Nieves</li>
+
+  <li><a href="esri/37247/index.html">ESRI:37247</a>: GCS Porto Santo 1936</li>
+
+  <li><a href="esri/37249/index.html">ESRI:37249</a>: GCS Sao Braz</li>
+
+  <li><a href="esri/37250/index.html">ESRI:37250</a>: GCS Selvagem Grande 1938</li>
+
+  <li><a href="esri/37251/index.html">ESRI:37251</a>: GCS Tristan 1968</li>
+
+  <li><a href="esri/37252/index.html">ESRI:37252</a>: GCS Samoa 1962</li>
+
+  <li><a href="esri/37253/index.html">ESRI:37253</a>: GCS Camp Area</li>
+
+  <li><a href="esri/37254/index.html">ESRI:37254</a>: GCS Deception Island</li>
+
+  <li><a href="esri/37255/index.html">ESRI:37255</a>: GCS Gunung Segara</li>
+
+  <li><a href="esri/37257/index.html">ESRI:37257</a>: GCS S42 Hungary</li>
+
+  <li><a href="esri/37259/index.html">ESRI:37259</a>: GCS Kusaie 1951</li>
+
+  <li><a href="esri/37260/index.html">ESRI:37260</a>: GCS Alaskan Islands</li>
+
+  <li><a href="iau2000/39900/index.html">IAU2000:39900</a>: Earth 2000</li>
+
+  <li><a href="iau2000/39901/index.html">IAU2000:39901</a>: Earth 2000</li>
+
+  <li><a href="iau2000/39910/index.html">IAU2000:39910</a>: Earth Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/39911/index.html">IAU2000:39911</a>: Earth Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/39912/index.html">IAU2000:39912</a>: Earth Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/39913/index.html">IAU2000:39913</a>: Earth Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/39914/index.html">IAU2000:39914</a>: Earth Sinusoidal</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=107">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=109">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

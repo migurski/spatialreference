@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=156">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=158">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="esri/102165/index.html">ESRI:102165</a>: Lisboa Hayford Gauss IPCC</li>
+
+  <li><a href="esri/102166/index.html">ESRI:102166</a>: Observ Meteorologico 1939 UTM Zone 25N</li>
+
+  <li><a href="esri/102167/index.html">ESRI:102167</a>: Porto Santo 1936 UTM Zone 28N</li>
+
+  <li><a href="esri/102168/index.html">ESRI:102168</a>: Sao Braz UTM Zone 26N</li>
+
+  <li><a href="esri/102169/index.html">ESRI:102169</a>: Selvagem Grande 1938 UTM Zone 28N</li>
+
+  <li><a href="esri/102191/index.html">ESRI:102191</a>: Nord Maroc Degree</li>
+
+  <li><a href="esri/102192/index.html">ESRI:102192</a>: Sud Maroc Degree</li>
+
+  <li><a href="esri/102193/index.html">ESRI:102193</a>: Sahara Degree</li>
+
+  <li><a href="esri/102229/index.html">ESRI:102229</a>: NAD 1983 HARN StatePlane Alabama East FIPS 0101</li>
+
+  <li><a href="esri/102230/index.html">ESRI:102230</a>: NAD 1983 HARN StatePlane Alabama West FIPS 0102</li>
+
+  <li><a href="esri/102241/index.html">ESRI:102241</a>: NAD 1983 HARN StatePlane California I FIPS 0401</li>
+
+  <li><a href="esri/102242/index.html">ESRI:102242</a>: NAD 1983 HARN StatePlane California II FIPS 0402</li>
+
+  <li><a href="esri/102243/index.html">ESRI:102243</a>: NAD 1983 HARN StatePlane California III FIPS 0403</li>
+
+  <li><a href="esri/102244/index.html">ESRI:102244</a>: NAD 1983 HARN StatePlane California IV FIPS 0404</li>
+
+  <li><a href="esri/102245/index.html">ESRI:102245</a>: NAD 1983 HARN StatePlane California V FIPS 0405</li>
+
+  <li><a href="esri/102246/index.html">ESRI:102246</a>: NAD 1983 HARN StatePlane California VI FIPS 0406</li>
+
+  <li><a href="esri/102248/index.html">ESRI:102248</a>: NAD 1983 HARN StatePlane Arizona East FIPS 0201</li>
+
+  <li><a href="esri/102249/index.html">ESRI:102249</a>: NAD 1983 HARN StatePlane Arizona Central FIPS 0202</li>
+
+  <li><a href="esri/102250/index.html">ESRI:102250</a>: NAD 1983 HARN StatePlane Arizona West FIPS 0203</li>
+
+  <li><a href="esri/102251/index.html">ESRI:102251</a>: NAD 1983 HARN StatePlane Arkansas North FIPS 0301</li>
+
+  <li><a href="esri/102252/index.html">ESRI:102252</a>: NAD 1983 HARN StatePlane Arkansas South FIPS 0302</li>
+
+  <li><a href="esri/102253/index.html">ESRI:102253</a>: NAD 1983 HARN StatePlane Colorado North FIPS 0501</li>
+
+  <li><a href="esri/102254/index.html">ESRI:102254</a>: NAD 1983 HARN StatePlane Colorado Central FIPS 0502</li>
+
+  <li><a href="esri/102255/index.html">ESRI:102255</a>: NAD 1983 HARN StatePlane Colorado South FIPS 0503</li>
+
+  <li><a href="esri/102256/index.html">ESRI:102256</a>: NAD 1983 HARN StatePlane Connecticut FIPS 0600</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="esri/102257/index.html">ESRI:102257</a>: NAD 1983 HARN StatePlane Delaware FIPS 0700</li>
+
+  <li><a href="esri/102258/index.html">ESRI:102258</a>: NAD 1983 HARN StatePlane Florida East FIPS 0901</li>
+
+  <li><a href="esri/102259/index.html">ESRI:102259</a>: NAD 1983 HARN StatePlane Florida West FIPS 0902</li>
+
+  <li><a href="esri/102260/index.html">ESRI:102260</a>: NAD 1983 HARN StatePlane Florida North FIPS 0903</li>
+
+  <li><a href="esri/102261/index.html">ESRI:102261</a>: NAD 1983 HARN StatePlane Hawaii 1 FIPS 5101</li>
+
+  <li><a href="esri/102262/index.html">ESRI:102262</a>: NAD 1983 HARN StatePlane Hawaii 2 FIPS 5102</li>
+
+  <li><a href="esri/102263/index.html">ESRI:102263</a>: NAD 1983 HARN StatePlane Hawaii 3 FIPS 5103</li>
+
+  <li><a href="esri/102264/index.html">ESRI:102264</a>: NAD 1983 HARN StatePlane Hawaii 4 FIPS 5104</li>
+
+  <li><a href="esri/102265/index.html">ESRI:102265</a>: NAD 1983 HARN StatePlane Hawaii 5 FIPS 5105</li>
+
+  <li><a href="esri/102266/index.html">ESRI:102266</a>: NAD 1983 HARN StatePlane Georgia East FIPS 1001</li>
+
+  <li><a href="esri/102267/index.html">ESRI:102267</a>: NAD 1983 HARN StatePlane Georgia West FIPS 1002</li>
+
+  <li><a href="esri/102268/index.html">ESRI:102268</a>: NAD 1983 HARN StatePlane Idaho East FIPS 1101</li>
+
+  <li><a href="esri/102269/index.html">ESRI:102269</a>: NAD 1983 HARN StatePlane Idaho Central FIPS 1102</li>
+
+  <li><a href="esri/102270/index.html">ESRI:102270</a>: NAD 1983 HARN StatePlane Idaho West FIPS 1103</li>
+
+  <li><a href="esri/102271/index.html">ESRI:102271</a>: NAD 1983 HARN StatePlane Illinois East FIPS 1201</li>
+
+  <li><a href="esri/102272/index.html">ESRI:102272</a>: NAD 1983 HARN StatePlane Illinois West FIPS 1202</li>
+
+  <li><a href="esri/102273/index.html">ESRI:102273</a>: NAD 1983 HARN StatePlane Indiana East FIPS 1301</li>
+
+  <li><a href="esri/102274/index.html">ESRI:102274</a>: NAD 1983 HARN StatePlane Indiana West FIPS 1302</li>
+
+  <li><a href="esri/102277/index.html">ESRI:102277</a>: NAD 1983 HARN StatePlane Kansas North FIPS 1501</li>
+
+  <li><a href="esri/102278/index.html">ESRI:102278</a>: NAD 1983 HARN StatePlane Kansas South FIPS 1502</li>
+
+  <li><a href="esri/102279/index.html">ESRI:102279</a>: NAD 1983 HARN StatePlane Kentucky North FIPS 1601</li>
+
+  <li><a href="esri/102280/index.html">ESRI:102280</a>: NAD 1983 HARN StatePlane Kentucky South FIPS 1602</li>
+
+  <li><a href="esri/102281/index.html">ESRI:102281</a>: NAD 1983 HARN StatePlane Louisiana North FIPS 1701</li>
+
+  <li><a href="esri/102282/index.html">ESRI:102282</a>: NAD 1983 HARN StatePlane Louisiana South FIPS 1702</li>
+
+  <li><a href="esri/102283/index.html">ESRI:102283</a>: NAD 1983 HARN StatePlane Maine East FIPS 1801</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=156">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=158">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

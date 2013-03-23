@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=113">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=115">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/50465/index.html">IAU2000:50465</a>: Callisto Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/50466/index.html">IAU2000:50466</a>: Callisto Orthographic AUTO</li>
+
+  <li><a href="iau2000/50467/index.html">IAU2000:50467</a>: Callisto Orthographic AUTO</li>
+
+  <li><a href="iau2000/50468/index.html">IAU2000:50468</a>: Callisto Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/50469/index.html">IAU2000:50469</a>: Callisto Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/50470/index.html">IAU2000:50470</a>: Callisto Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/50471/index.html">IAU2000:50471</a>: Callisto Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/50472/index.html">IAU2000:50472</a>: Callisto Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/50473/index.html">IAU2000:50473</a>: Callisto Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/50474/index.html">IAU2000:50474</a>: Callisto Mercator AUTO</li>
+
+  <li><a href="iau2000/50475/index.html">IAU2000:50475</a>: Callisto Mercator AUTO</li>
+
+  <li><a href="iau2000/50476/index.html">IAU2000:50476</a>: Callisto Albers AUTO</li>
+
+  <li><a href="iau2000/50477/index.html">IAU2000:50477</a>: Callisto Albers AUTO</li>
+
+  <li><a href="iau2000/50478/index.html">IAU2000:50478</a>: Callisto Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/50479/index.html">IAU2000:50479</a>: Callisto Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/50500/index.html">IAU2000:50500</a>: Amalthea 2000</li>
+
+  <li><a href="iau2000/50501/index.html">IAU2000:50501</a>: Amalthea 2000</li>
+
+  <li><a href="iau2000/50510/index.html">IAU2000:50510</a>: Amalthea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/50511/index.html">IAU2000:50511</a>: Amalthea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/50512/index.html">IAU2000:50512</a>: Amalthea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/50513/index.html">IAU2000:50513</a>: Amalthea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/50514/index.html">IAU2000:50514</a>: Amalthea Sinusoidal</li>
+
+  <li><a href="iau2000/50515/index.html">IAU2000:50515</a>: Amalthea Sinusoidal</li>
+
+  <li><a href="iau2000/50516/index.html">IAU2000:50516</a>: Amalthea Sinusoidal</li>
+
+  <li><a href="iau2000/50517/index.html">IAU2000:50517</a>: Amalthea Sinusoidal</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/50518/index.html">IAU2000:50518</a>: Amalthea North Pole Stereographic</li>
+
+  <li><a href="iau2000/50519/index.html">IAU2000:50519</a>: Amalthea North Pole Stereographic</li>
+
+  <li><a href="iau2000/50520/index.html">IAU2000:50520</a>: Amalthea South Pole Stereographic</li>
+
+  <li><a href="iau2000/50521/index.html">IAU2000:50521</a>: Amalthea South Pole Stereographic</li>
+
+  <li><a href="iau2000/50560/index.html">IAU2000:50560</a>: Amalthea Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/50561/index.html">IAU2000:50561</a>: Amalthea Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/50562/index.html">IAU2000:50562</a>: Amalthea Stereographic AUTO</li>
+
+  <li><a href="iau2000/50563/index.html">IAU2000:50563</a>: Amalthea Stereographic AUTO</li>
+
+  <li><a href="iau2000/50564/index.html">IAU2000:50564</a>: Amalthea Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/50565/index.html">IAU2000:50565</a>: Amalthea Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/50566/index.html">IAU2000:50566</a>: Amalthea Orthographic AUTO</li>
+
+  <li><a href="iau2000/50567/index.html">IAU2000:50567</a>: Amalthea Orthographic AUTO</li>
+
+  <li><a href="iau2000/50568/index.html">IAU2000:50568</a>: Amalthea Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/50569/index.html">IAU2000:50569</a>: Amalthea Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/50570/index.html">IAU2000:50570</a>: Amalthea Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/50571/index.html">IAU2000:50571</a>: Amalthea Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/50572/index.html">IAU2000:50572</a>: Amalthea Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/50573/index.html">IAU2000:50573</a>: Amalthea Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/50574/index.html">IAU2000:50574</a>: Amalthea Mercator AUTO</li>
+
+  <li><a href="iau2000/50575/index.html">IAU2000:50575</a>: Amalthea Mercator AUTO</li>
+
+  <li><a href="iau2000/50576/index.html">IAU2000:50576</a>: Amalthea Albers AUTO</li>
+
+  <li><a href="iau2000/50577/index.html">IAU2000:50577</a>: Amalthea Albers AUTO</li>
+
+  <li><a href="iau2000/50578/index.html">IAU2000:50578</a>: Amalthea Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/50579/index.html">IAU2000:50579</a>: Amalthea Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/50600/index.html">IAU2000:50600</a>: Himalia 2000</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=113">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=115">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=90">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=92">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/28409/index.html">EPSG:28409</a>: Pulkovo 1942 / Gauss-Kruger zone 9</li>
+
+  <li><a href="epsg/28410/index.html">EPSG:28410</a>: Pulkovo 1942 / Gauss-Kruger zone 10</li>
+
+  <li><a href="epsg/28411/index.html">EPSG:28411</a>: Pulkovo 1942 / Gauss-Kruger zone 11</li>
+
+  <li><a href="epsg/28412/index.html">EPSG:28412</a>: Pulkovo 1942 / Gauss-Kruger zone 12</li>
+
+  <li><a href="epsg/28413/index.html">EPSG:28413</a>: Pulkovo 1942 / Gauss-Kruger zone 13</li>
+
+  <li><a href="epsg/28414/index.html">EPSG:28414</a>: Pulkovo 1942 / Gauss-Kruger zone 14</li>
+
+  <li><a href="epsg/28415/index.html">EPSG:28415</a>: Pulkovo 1942 / Gauss-Kruger zone 15</li>
+
+  <li><a href="epsg/28416/index.html">EPSG:28416</a>: Pulkovo 1942 / Gauss-Kruger zone 16</li>
+
+  <li><a href="epsg/28417/index.html">EPSG:28417</a>: Pulkovo 1942 / Gauss-Kruger zone 17</li>
+
+  <li><a href="epsg/28418/index.html">EPSG:28418</a>: Pulkovo 1942 / Gauss-Kruger zone 18</li>
+
+  <li><a href="epsg/28419/index.html">EPSG:28419</a>: Pulkovo 1942 / Gauss-Kruger zone 19</li>
+
+  <li><a href="epsg/28420/index.html">EPSG:28420</a>: Pulkovo 1942 / Gauss-Kruger zone 20</li>
+
+  <li><a href="epsg/28421/index.html">EPSG:28421</a>: Pulkovo 1942 / Gauss-Kruger zone 21</li>
+
+  <li><a href="epsg/28422/index.html">EPSG:28422</a>: Pulkovo 1942 / Gauss-Kruger zone 22</li>
+
+  <li><a href="epsg/28423/index.html">EPSG:28423</a>: Pulkovo 1942 / Gauss-Kruger zone 23</li>
+
+  <li><a href="epsg/28424/index.html">EPSG:28424</a>: Pulkovo 1942 / Gauss-Kruger zone 24</li>
+
+  <li><a href="epsg/28425/index.html">EPSG:28425</a>: Pulkovo 1942 / Gauss-Kruger zone 25</li>
+
+  <li><a href="epsg/28426/index.html">EPSG:28426</a>: Pulkovo 1942 / Gauss-Kruger zone 26</li>
+
+  <li><a href="epsg/28427/index.html">EPSG:28427</a>: Pulkovo 1942 / Gauss-Kruger zone 27</li>
+
+  <li><a href="epsg/28428/index.html">EPSG:28428</a>: Pulkovo 1942 / Gauss-Kruger zone 28</li>
+
+  <li><a href="epsg/28429/index.html">EPSG:28429</a>: Pulkovo 1942 / Gauss-Kruger zone 29</li>
+
+  <li><a href="epsg/28430/index.html">EPSG:28430</a>: Pulkovo 1942 / Gauss-Kruger zone 30</li>
+
+  <li><a href="epsg/28431/index.html">EPSG:28431</a>: Pulkovo 1942 / Gauss-Kruger zone 31</li>
+
+  <li><a href="epsg/28432/index.html">EPSG:28432</a>: Pulkovo 1942 / Gauss-Kruger zone 32</li>
+
+  <li><a href="epsg/28462/index.html">EPSG:28462</a>: Pulkovo 1942 / Gauss-Kruger 2N</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/28463/index.html">EPSG:28463</a>: Pulkovo 1942 / Gauss-Kruger 3N</li>
+
+  <li><a href="epsg/28464/index.html">EPSG:28464</a>: Pulkovo 1942 / Gauss-Kruger 4N</li>
+
+  <li><a href="epsg/28465/index.html">EPSG:28465</a>: Pulkovo 1942 / Gauss-Kruger 5N</li>
+
+  <li><a href="epsg/28466/index.html">EPSG:28466</a>: Pulkovo 1942 / Gauss-Kruger 6N</li>
+
+  <li><a href="epsg/28467/index.html">EPSG:28467</a>: Pulkovo 1942 / Gauss-Kruger 7N</li>
+
+  <li><a href="epsg/28468/index.html">EPSG:28468</a>: Pulkovo 1942 / Gauss-Kruger 8N</li>
+
+  <li><a href="epsg/28469/index.html">EPSG:28469</a>: Pulkovo 1942 / Gauss-Kruger 9N</li>
+
+  <li><a href="epsg/28470/index.html">EPSG:28470</a>: Pulkovo 1942 / Gauss-Kruger 10N</li>
+
+  <li><a href="epsg/28471/index.html">EPSG:28471</a>: Pulkovo 1942 / Gauss-Kruger 11N</li>
+
+  <li><a href="epsg/28472/index.html">EPSG:28472</a>: Pulkovo 1942 / Gauss-Kruger 12N</li>
+
+  <li><a href="epsg/28473/index.html">EPSG:28473</a>: Pulkovo 1942 / Gauss-Kruger 13N</li>
+
+  <li><a href="epsg/28474/index.html">EPSG:28474</a>: Pulkovo 1942 / Gauss-Kruger 14N</li>
+
+  <li><a href="epsg/28475/index.html">EPSG:28475</a>: Pulkovo 1942 / Gauss-Kruger 15N</li>
+
+  <li><a href="epsg/28476/index.html">EPSG:28476</a>: Pulkovo 1942 / Gauss-Kruger 16N</li>
+
+  <li><a href="epsg/28477/index.html">EPSG:28477</a>: Pulkovo 1942 / Gauss-Kruger 17N</li>
+
+  <li><a href="epsg/28478/index.html">EPSG:28478</a>: Pulkovo 1942 / Gauss-Kruger 18N</li>
+
+  <li><a href="epsg/28479/index.html">EPSG:28479</a>: Pulkovo 1942 / Gauss-Kruger 19N</li>
+
+  <li><a href="epsg/28480/index.html">EPSG:28480</a>: Pulkovo 1942 / Gauss-Kruger 20N</li>
+
+  <li><a href="epsg/28481/index.html">EPSG:28481</a>: Pulkovo 1942 / Gauss-Kruger 21N</li>
+
+  <li><a href="epsg/28482/index.html">EPSG:28482</a>: Pulkovo 1942 / Gauss-Kruger 22N</li>
+
+  <li><a href="epsg/28483/index.html">EPSG:28483</a>: Pulkovo 1942 / Gauss-Kruger 23N</li>
+
+  <li><a href="epsg/28484/index.html">EPSG:28484</a>: Pulkovo 1942 / Gauss-Kruger 24N</li>
+
+  <li><a href="epsg/28485/index.html">EPSG:28485</a>: Pulkovo 1942 / Gauss-Kruger 25N</li>
+
+  <li><a href="epsg/28486/index.html">EPSG:28486</a>: Pulkovo 1942 / Gauss-Kruger 26N</li>
+
+  <li><a href="epsg/28487/index.html">EPSG:28487</a>: Pulkovo 1942 / Gauss-Kruger 27N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=90">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=92">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

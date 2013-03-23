@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=33">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=35">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3571/index.html">EPSG:3571</a>: WGS 84 / North Pole LAEA Bering Sea</li>
+
+  <li><a href="epsg/3572/index.html">EPSG:3572</a>: WGS 84 / North Pole LAEA Alaska</li>
+
+  <li><a href="epsg/3573/index.html">EPSG:3573</a>: WGS 84 / North Pole LAEA Canada</li>
+
+  <li><a href="epsg/3574/index.html">EPSG:3574</a>: WGS 84 / North Pole LAEA Atlantic</li>
+
+  <li><a href="epsg/3575/index.html">EPSG:3575</a>: WGS 84 / North Pole LAEA Europe</li>
+
+  <li><a href="epsg/3576/index.html">EPSG:3576</a>: WGS 84 / North Pole LAEA Russia</li>
+
+  <li><a href="epsg/3577/index.html">EPSG:3577</a>: GDA94 / Australian Albers</li>
+
+  <li><a href="epsg/3578/index.html">EPSG:3578</a>: NAD83 / Yukon Albers</li>
+
+  <li><a href="epsg/3579/index.html">EPSG:3579</a>: NAD83(CSRS) / Yukon Albers</li>
+
+  <li><a href="epsg/3580/index.html">EPSG:3580</a>: NAD83 / NWT Lambert</li>
+
+  <li><a href="epsg/3581/index.html">EPSG:3581</a>: NAD83(CSRS) / NWT Lambert</li>
+
+  <li><a href="epsg/3582/index.html">EPSG:3582</a>: NAD83(NSRS2007) / Maryland (ftUS)</li>
+
+  <li><a href="epsg/3583/index.html">EPSG:3583</a>: NAD83(NSRS2007) / Massachusetts Island</li>
+
+  <li><a href="epsg/3584/index.html">EPSG:3584</a>: NAD83(NSRS2007) / Massachusetts Island (ftUS)</li>
+
+  <li><a href="epsg/3585/index.html">EPSG:3585</a>: NAD83(NSRS2007) / Massachusetts Mainland</li>
+
+  <li><a href="epsg/3586/index.html">EPSG:3586</a>: NAD83(NSRS2007) / Massachusetts Mainland (ftUS)</li>
+
+  <li><a href="epsg/3587/index.html">EPSG:3587</a>: NAD83(NSRS2007) / Michigan Central</li>
+
+  <li><a href="epsg/3588/index.html">EPSG:3588</a>: NAD83(NSRS2007) / Michigan Central (ft)</li>
+
+  <li><a href="epsg/3589/index.html">EPSG:3589</a>: NAD83(NSRS2007) / Michigan North</li>
+
+  <li><a href="epsg/3590/index.html">EPSG:3590</a>: NAD83(NSRS2007) / Michigan North (ft)</li>
+
+  <li><a href="epsg/3591/index.html">EPSG:3591</a>: NAD83(NSRS2007) / Michigan Oblique Mercator</li>
+
+  <li><a href="epsg/3592/index.html">EPSG:3592</a>: NAD83(NSRS2007) / Michigan South</li>
+
+  <li><a href="epsg/3593/index.html">EPSG:3593</a>: NAD83(NSRS2007) / Michigan South (ft)</li>
+
+  <li><a href="epsg/3594/index.html">EPSG:3594</a>: NAD83(NSRS2007) / Minnesota Central</li>
+
+  <li><a href="epsg/3595/index.html">EPSG:3595</a>: NAD83(NSRS2007) / Minnesota North</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3596/index.html">EPSG:3596</a>: NAD83(NSRS2007) / Minnesota South</li>
+
+  <li><a href="epsg/3597/index.html">EPSG:3597</a>: NAD83(NSRS2007) / Mississippi East</li>
+
+  <li><a href="epsg/3598/index.html">EPSG:3598</a>: NAD83(NSRS2007) / Mississippi East (ftUS)</li>
+
+  <li><a href="epsg/3599/index.html">EPSG:3599</a>: NAD83(NSRS2007) / Mississippi West</li>
+
+  <li><a href="epsg/3600/index.html">EPSG:3600</a>: NAD83(NSRS2007) / Mississippi West (ftUS)</li>
+
+  <li><a href="epsg/3601/index.html">EPSG:3601</a>: NAD83(NSRS2007) / Missouri Central</li>
+
+  <li><a href="epsg/3602/index.html">EPSG:3602</a>: NAD83(NSRS2007) / Missouri East</li>
+
+  <li><a href="epsg/3603/index.html">EPSG:3603</a>: NAD83(NSRS2007) / Missouri West</li>
+
+  <li><a href="epsg/3604/index.html">EPSG:3604</a>: NAD83(NSRS2007) / Montana</li>
+
+  <li><a href="epsg/3605/index.html">EPSG:3605</a>: NAD83(NSRS2007) / Montana (ft)</li>
+
+  <li><a href="epsg/3606/index.html">EPSG:3606</a>: NAD83(NSRS2007) / Nebraska</li>
+
+  <li><a href="epsg/3607/index.html">EPSG:3607</a>: NAD83(NSRS2007) / Nevada Central</li>
+
+  <li><a href="epsg/3608/index.html">EPSG:3608</a>: NAD83(NSRS2007) / Nevada Central (ft US)</li>
+
+  <li><a href="epsg/3609/index.html">EPSG:3609</a>: NAD83(NSRS2007) / Nevada East</li>
+
+  <li><a href="epsg/3610/index.html">EPSG:3610</a>: NAD83(NSRS2007) / Nevada East (ft US)</li>
+
+  <li><a href="epsg/3611/index.html">EPSG:3611</a>: NAD83(NSRS2007) / Nevada West</li>
+
+  <li><a href="epsg/3612/index.html">EPSG:3612</a>: NAD83(NSRS2007) / Nevada West (ft US)</li>
+
+  <li><a href="epsg/3613/index.html">EPSG:3613</a>: NAD83(NSRS2007) / New Hampshire</li>
+
+  <li><a href="epsg/3614/index.html">EPSG:3614</a>: NAD83(NSRS2007) / New Hampshire (ftUS)</li>
+
+  <li><a href="epsg/3615/index.html">EPSG:3615</a>: NAD83(NSRS2007) / New Jersey</li>
+
+  <li><a href="epsg/3616/index.html">EPSG:3616</a>: NAD83(NSRS2007) / New Jersey (ft US)</li>
+
+  <li><a href="epsg/3617/index.html">EPSG:3617</a>: NAD83(NSRS2007) / New Mexico Central</li>
+
+  <li><a href="epsg/3618/index.html">EPSG:3618</a>: NAD83(NSRS2007) / New Mexico Central (ftUS)</li>
+
+  <li><a href="epsg/3619/index.html">EPSG:3619</a>: NAD83(NSRS2007) / New Mexico East</li>
+
+  <li><a href="epsg/3620/index.html">EPSG:3620</a>: NAD83(NSRS2007) / New Mexico East (ftUS)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=33">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=35">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

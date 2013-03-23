@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="../index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="../upload/index.html">Upload Your Own</a> | 
+            <a href="index.html">List user-contributed references</a> | 
+            <a href="../index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=4">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="http://spatialreference.org/ref/sr-org/?page=6">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6705/">SR-ORG:6705</a>: Canadian Wind Energy Atlas</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6706/">SR-ORG:6706</a>: North American 1983 (CSRS98)</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6707/">SR-ORG:6707</a>: Local_CS</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6708/">SR-ORG:6708</a>: Minsk</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6709/">SR-ORG:6709</a>: Sri Lanka</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6710/">SR-ORG:6710</a>: Test_a</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6711/">SR-ORG:6711</a>: PrecipAnalysis Stereographic</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6712/">SR-ORG:6712</a>: PrecipAnalysis Stereographic</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6713/">SR-ORG:6713</a>: poznan</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6714/">SR-ORG:6714</a>: ETRS89 / UTM zone 33N with leading 33</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6715/">SR-ORG:6715</a>: ETRS89 / UTM zone 32N with leading 32</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6716/">SR-ORG:6716</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6717/">SR-ORG:6717</a>: GeoGratis Canada Lambert</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6718/">SR-ORG:6718</a>: CIS_LCC</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6719/">SR-ORG:6719</a>: Test UTM-K 1</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6720/">SR-ORG:6720</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6721/">SR-ORG:6721</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6722/">SR-ORG:6722</a>: google map</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6723/">SR-ORG:6723</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6724/">SR-ORG:6724</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6725/">SR-ORG:6725</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6726/">SR-ORG:6726</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6727/">SR-ORG:6727</a>: NAD_1983_HARN_Adj_WI_Polk_Feet</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6728/">SR-ORG:6728</a>: Ouranos North American Polar Stereographic</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6729/">SR-ORG:6729</a>: 19703</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6730/">SR-ORG:6730</a>: NTF Lambert I Nord Carto</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6731/">SR-ORG:6731</a>: GTM</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6732/">SR-ORG:6732</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6733/">SR-ORG:6733</a>: adf</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6734/">SR-ORG:6734</a>: Brandenburg</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6735/">SR-ORG:6735</a>: mio</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6736/">SR-ORG:6736</a>: Landfire spatial reference</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6737/">SR-ORG:6737</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6738/">SR-ORG:6738</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6739/">SR-ORG:6739</a>: ADMCS</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6740/">SR-ORG:6740</a>: ADMINCS1</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6741/">SR-ORG:6741</a>: ADMINCS2</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6742/">SR-ORG:6742</a>: ADMINCS3</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6743/">SR-ORG:6743</a>: ADMINCS4</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6744/">SR-ORG:6744</a>: mundo</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6745/">SR-ORG:6745</a>: mundo</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6746/">SR-ORG:6746</a>: salamanca</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6747/">SR-ORG:6747</a>: mundo</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6748/">SR-ORG:6748</a>: unknown</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6749/">SR-ORG:6749</a>: soul to wgs defined</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6750/">SR-ORG:6750</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6751/">SR-ORG:6751</a>: test</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6752/">SR-ORG:6752</a>: our proj</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6753/">SR-ORG:6753</a>: test_pk</li>
+
+  <li><a href="http://spatialreference.org/ref/sr-org/6754/">SR-ORG:6754</a>: EPSG:42304</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=4">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="http://spatialreference.org/ref/sr-org/?page=6">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

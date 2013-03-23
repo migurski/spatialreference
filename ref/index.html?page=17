@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=16">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=18">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2720/index.html">EPSG:2720</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 84E</li>
+
+  <li><a href="epsg/2721/index.html">EPSG:2721</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 87E</li>
+
+  <li><a href="epsg/2722/index.html">EPSG:2722</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 90E</li>
+
+  <li><a href="epsg/2723/index.html">EPSG:2723</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 93E</li>
+
+  <li><a href="epsg/2724/index.html">EPSG:2724</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 96E</li>
+
+  <li><a href="epsg/2725/index.html">EPSG:2725</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 99E</li>
+
+  <li><a href="epsg/2726/index.html">EPSG:2726</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 102E</li>
+
+  <li><a href="epsg/2727/index.html">EPSG:2727</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 105E</li>
+
+  <li><a href="epsg/2728/index.html">EPSG:2728</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 108E</li>
+
+  <li><a href="epsg/2729/index.html">EPSG:2729</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 111E</li>
+
+  <li><a href="epsg/2730/index.html">EPSG:2730</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 114E</li>
+
+  <li><a href="epsg/2731/index.html">EPSG:2731</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 117E</li>
+
+  <li><a href="epsg/2732/index.html">EPSG:2732</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 120E</li>
+
+  <li><a href="epsg/2733/index.html">EPSG:2733</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 123E</li>
+
+  <li><a href="epsg/2734/index.html">EPSG:2734</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 126E</li>
+
+  <li><a href="epsg/2735/index.html">EPSG:2735</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 129E</li>
+
+  <li><a href="epsg/2736/index.html">EPSG:2736</a>: Tete / UTM zone 36S</li>
+
+  <li><a href="epsg/2737/index.html">EPSG:2737</a>: Tete / UTM zone 37S</li>
+
+  <li><a href="epsg/2738/index.html">EPSG:2738</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 132E</li>
+
+  <li><a href="epsg/2739/index.html">EPSG:2739</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 135E</li>
+
+  <li><a href="epsg/2740/index.html">EPSG:2740</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 138E</li>
+
+  <li><a href="epsg/2741/index.html">EPSG:2741</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 141E</li>
+
+  <li><a href="epsg/2742/index.html">EPSG:2742</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 144E</li>
+
+  <li><a href="epsg/2743/index.html">EPSG:2743</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 147E</li>
+
+  <li><a href="epsg/2744/index.html">EPSG:2744</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 150E</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2745/index.html">EPSG:2745</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 153E</li>
+
+  <li><a href="epsg/2746/index.html">EPSG:2746</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 156E</li>
+
+  <li><a href="epsg/2747/index.html">EPSG:2747</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 159E</li>
+
+  <li><a href="epsg/2748/index.html">EPSG:2748</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 162E</li>
+
+  <li><a href="epsg/2749/index.html">EPSG:2749</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 165E</li>
+
+  <li><a href="epsg/2750/index.html">EPSG:2750</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 168E</li>
+
+  <li><a href="epsg/2751/index.html">EPSG:2751</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 171E</li>
+
+  <li><a href="epsg/2752/index.html">EPSG:2752</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 174E</li>
+
+  <li><a href="epsg/2753/index.html">EPSG:2753</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 177E</li>
+
+  <li><a href="epsg/2754/index.html">EPSG:2754</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 180E</li>
+
+  <li><a href="epsg/2755/index.html">EPSG:2755</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 177W</li>
+
+  <li><a href="epsg/2756/index.html">EPSG:2756</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 174W</li>
+
+  <li><a href="epsg/2757/index.html">EPSG:2757</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 171W</li>
+
+  <li><a href="epsg/2758/index.html">EPSG:2758</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 168W</li>
+
+  <li><a href="epsg/2759/index.html">EPSG:2759</a>: NAD83(HARN) / Alabama East</li>
+
+  <li><a href="epsg/2760/index.html">EPSG:2760</a>: NAD83(HARN) / Alabama West</li>
+
+  <li><a href="epsg/2761/index.html">EPSG:2761</a>: NAD83(HARN) / Arizona East</li>
+
+  <li><a href="epsg/2762/index.html">EPSG:2762</a>: NAD83(HARN) / Arizona Central</li>
+
+  <li><a href="epsg/2763/index.html">EPSG:2763</a>: NAD83(HARN) / Arizona West</li>
+
+  <li><a href="epsg/2764/index.html">EPSG:2764</a>: NAD83(HARN) / Arkansas North</li>
+
+  <li><a href="epsg/2765/index.html">EPSG:2765</a>: NAD83(HARN) / Arkansas South</li>
+
+  <li><a href="epsg/2766/index.html">EPSG:2766</a>: NAD83(HARN) / California zone 1</li>
+
+  <li><a href="epsg/2767/index.html">EPSG:2767</a>: NAD83(HARN) / California zone 2</li>
+
+  <li><a href="epsg/2768/index.html">EPSG:2768</a>: NAD83(HARN) / California zone 3</li>
+
+  <li><a href="epsg/2769/index.html">EPSG:2769</a>: NAD83(HARN) / California zone 4</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=16">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=18">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

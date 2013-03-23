@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=36">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=38">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3721/index.html">EPSG:3721</a>: NAD83(NSRS2007) / UTM zone 14N</li>
+
+  <li><a href="epsg/3722/index.html">EPSG:3722</a>: NAD83(NSRS2007) / UTM zone 15N</li>
+
+  <li><a href="epsg/3723/index.html">EPSG:3723</a>: NAD83(NSRS2007) / UTM zone 16N</li>
+
+  <li><a href="epsg/3724/index.html">EPSG:3724</a>: NAD83(NSRS2007) / UTM zone 17N</li>
+
+  <li><a href="epsg/3725/index.html">EPSG:3725</a>: NAD83(NSRS2007) / UTM zone 18N</li>
+
+  <li><a href="epsg/3726/index.html">EPSG:3726</a>: NAD83(NSRS2007) / UTM zone 19N</li>
+
+  <li><a href="epsg/3727/index.html">EPSG:3727</a>: Reunion 1947 / TM Reunion</li>
+
+  <li><a href="epsg/3728/index.html">EPSG:3728</a>: NAD83(NSRS2007) / Ohio North (ftUS)</li>
+
+  <li><a href="epsg/3729/index.html">EPSG:3729</a>: NAD83(NSRS2007) / Ohio South (ftUS)</li>
+
+  <li><a href="epsg/3730/index.html">EPSG:3730</a>: NAD83(NSRS2007) / Wyoming East (ftUS)</li>
+
+  <li><a href="epsg/3731/index.html">EPSG:3731</a>: NAD83(NSRS2007) / Wyoming East Central (ftUS)</li>
+
+  <li><a href="epsg/3732/index.html">EPSG:3732</a>: NAD83(NSRS2007) / Wyoming West Central (ftUS)</li>
+
+  <li><a href="epsg/3733/index.html">EPSG:3733</a>: NAD83(NSRS2007) / Wyoming West (ftUS)</li>
+
+  <li><a href="epsg/3734/index.html">EPSG:3734</a>: NAD83 / Ohio North (ftUS)</li>
+
+  <li><a href="epsg/3735/index.html">EPSG:3735</a>: NAD83 / Ohio South (ftUS)</li>
+
+  <li><a href="epsg/3736/index.html">EPSG:3736</a>: NAD83 / Wyoming East (ftUS)</li>
+
+  <li><a href="epsg/3737/index.html">EPSG:3737</a>: NAD83 / Wyoming East Central (ftUS)</li>
+
+  <li><a href="epsg/3738/index.html">EPSG:3738</a>: NAD83 / Wyoming West Central (ftUS)</li>
+
+  <li><a href="epsg/3739/index.html">EPSG:3739</a>: NAD83 / Wyoming West (ftUS)</li>
+
+  <li><a href="epsg/3740/index.html">EPSG:3740</a>: NAD83(HARN) / UTM zone 10N</li>
+
+  <li><a href="epsg/3741/index.html">EPSG:3741</a>: NAD83(HARN) / UTM zone 11N</li>
+
+  <li><a href="epsg/3742/index.html">EPSG:3742</a>: NAD83(HARN) / UTM zone 12N</li>
+
+  <li><a href="epsg/3743/index.html">EPSG:3743</a>: NAD83(HARN) / UTM zone 13N</li>
+
+  <li><a href="epsg/3744/index.html">EPSG:3744</a>: NAD83(HARN) / UTM zone 14N</li>
+
+  <li><a href="epsg/3745/index.html">EPSG:3745</a>: NAD83(HARN) / UTM zone 15N</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3746/index.html">EPSG:3746</a>: NAD83(HARN) / UTM zone 16N</li>
+
+  <li><a href="epsg/3747/index.html">EPSG:3747</a>: NAD83(HARN) / UTM zone 17N</li>
+
+  <li><a href="epsg/3748/index.html">EPSG:3748</a>: NAD83(HARN) / UTM zone 18N</li>
+
+  <li><a href="epsg/3749/index.html">EPSG:3749</a>: NAD83(HARN) / UTM zone 19N</li>
+
+  <li><a href="epsg/3750/index.html">EPSG:3750</a>: NAD83(HARN) / UTM zone 4N</li>
+
+  <li><a href="epsg/3751/index.html">EPSG:3751</a>: NAD83(HARN) / UTM zone 5N</li>
+
+  <li><a href="epsg/3752/index.html">EPSG:3752</a>: WGS 84 / Mercator 41</li>
+
+  <li><a href="epsg/3753/index.html">EPSG:3753</a>: NAD83(HARN) / Ohio North (ftUS)</li>
+
+  <li><a href="epsg/3754/index.html">EPSG:3754</a>: NAD83(HARN) / Ohio South (ftUS)</li>
+
+  <li><a href="epsg/3755/index.html">EPSG:3755</a>: NAD83(HARN) / Wyoming East (ftUS)</li>
+
+  <li><a href="epsg/3756/index.html">EPSG:3756</a>: NAD83(HARN) / Wyoming East Central (ftUS)</li>
+
+  <li><a href="epsg/3757/index.html">EPSG:3757</a>: NAD83(HARN) / Wyoming West Central (ftUS)</li>
+
+  <li><a href="epsg/3758/index.html">EPSG:3758</a>: NAD83(HARN) / Wyoming West (ftUS)</li>
+
+  <li><a href="epsg/3759/index.html">EPSG:3759</a>: NAD83 / Hawaii zone 3 (ftUS)</li>
+
+  <li><a href="epsg/3760/index.html">EPSG:3760</a>: NAD83(HARN) / Hawaii zone 3 (ftUS)</li>
+
+  <li><a href="epsg/3761/index.html">EPSG:3761</a>: NAD83(CSRS) / UTM zone 22N</li>
+
+  <li><a href="epsg/3762/index.html">EPSG:3762</a>: WGS 84 / South Georgia Lambert</li>
+
+  <li><a href="epsg/3763/index.html">EPSG:3763</a>: ETRS89 / Portugal TM06</li>
+
+  <li><a href="epsg/3764/index.html">EPSG:3764</a>: NZGD2000 / Chatham Island Circuit 2000</li>
+
+  <li><a href="epsg/3765/index.html">EPSG:3765</a>: HTRS96 / Croatia TM</li>
+
+  <li><a href="epsg/3766/index.html">EPSG:3766</a>: HTRS96 / Croatia LCC</li>
+
+  <li><a href="epsg/3767/index.html">EPSG:3767</a>: HTRS96 / UTM zone 33N</li>
+
+  <li><a href="epsg/3768/index.html">EPSG:3768</a>: HTRS96 / UTM zone 34N</li>
+
+  <li><a href="epsg/3769/index.html">EPSG:3769</a>: Bermuda 1957 / UTM zone 20N</li>
+
+  <li><a href="epsg/3770/index.html">EPSG:3770</a>: BDA2000 / Bermuda 2000 National Grid</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=36">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=38">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,4 @@
+from mapnik import Map, Layer
+proj4 = '+proj=utm +zone=12 +south +ellps=WGS72 +units=m +no_defs'
+m = Map(256,256,proj4)
+lyr = Layer('Name',proj4)

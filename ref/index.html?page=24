@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=23">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=25">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3071/index.html">EPSG:3071</a>: NAD83(HARN) / Wisconsin Transverse Mercator</li>
+
+  <li><a href="epsg/3072/index.html">EPSG:3072</a>: NAD83 / Maine CS2000 East</li>
+
+  <li><a href="epsg/3073/index.html">EPSG:3073</a>: NAD83 / Maine CS2000 Central</li>
+
+  <li><a href="epsg/3074/index.html">EPSG:3074</a>: NAD83 / Maine CS2000 West</li>
+
+  <li><a href="epsg/3075/index.html">EPSG:3075</a>: NAD83(HARN) / Maine CS2000 East</li>
+
+  <li><a href="epsg/3076/index.html">EPSG:3076</a>: NAD83(HARN) / Maine CS2000 Central</li>
+
+  <li><a href="epsg/3077/index.html">EPSG:3077</a>: NAD83(HARN) / Maine CS2000 West</li>
+
+  <li><a href="epsg/3078/index.html">EPSG:3078</a>: NAD83 / Michigan Oblique Mercator</li>
+
+  <li><a href="epsg/3079/index.html">EPSG:3079</a>: NAD83(HARN) / Michigan Oblique Mercator</li>
+
+  <li><a href="epsg/3080/index.html">EPSG:3080</a>: NAD27 / Shackleford</li>
+
+  <li><a href="epsg/3081/index.html">EPSG:3081</a>: NAD83 / Texas State Mapping System</li>
+
+  <li><a href="epsg/3082/index.html">EPSG:3082</a>: NAD83 / Texas Centric Lambert Conformal</li>
+
+  <li><a href="epsg/3083/index.html">EPSG:3083</a>: NAD83 / Texas Centric Albers Equal Area</li>
+
+  <li><a href="epsg/3084/index.html">EPSG:3084</a>: NAD83(HARN) / Texas Centric Lambert Conformal</li>
+
+  <li><a href="epsg/3085/index.html">EPSG:3085</a>: NAD83(HARN) / Texas Centric Albers Equal Area</li>
+
+  <li><a href="epsg/3086/index.html">EPSG:3086</a>: NAD83 / Florida GDL Albers</li>
+
+  <li><a href="epsg/3087/index.html">EPSG:3087</a>: NAD83(HARN) / Florida GDL Albers</li>
+
+  <li><a href="epsg/3088/index.html">EPSG:3088</a>: NAD83 / Kentucky Single Zone</li>
+
+  <li><a href="epsg/3089/index.html">EPSG:3089</a>: NAD83 / Kentucky Single Zone (ftUS)</li>
+
+  <li><a href="epsg/3090/index.html">EPSG:3090</a>: NAD83(HARN) / Kentucky Single Zone</li>
+
+  <li><a href="epsg/3091/index.html">EPSG:3091</a>: NAD83(HARN) / Kentucky Single Zone (ftUS)</li>
+
+  <li><a href="epsg/3092/index.html">EPSG:3092</a>: Tokyo / UTM zone 51N</li>
+
+  <li><a href="epsg/3093/index.html">EPSG:3093</a>: Tokyo / UTM zone 52N</li>
+
+  <li><a href="epsg/3094/index.html">EPSG:3094</a>: Tokyo / UTM zone 53N</li>
+
+  <li><a href="epsg/3095/index.html">EPSG:3095</a>: Tokyo / UTM zone 54N</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3096/index.html">EPSG:3096</a>: Tokyo / UTM zone 55N</li>
+
+  <li><a href="epsg/3097/index.html">EPSG:3097</a>: JGD2000 / UTM zone 51N</li>
+
+  <li><a href="epsg/3098/index.html">EPSG:3098</a>: JGD2000 / UTM zone 52N</li>
+
+  <li><a href="epsg/3099/index.html">EPSG:3099</a>: JGD2000 / UTM zone 53N</li>
+
+  <li><a href="epsg/3100/index.html">EPSG:3100</a>: JGD2000 / UTM zone 54N</li>
+
+  <li><a href="epsg/3101/index.html">EPSG:3101</a>: JGD2000 / UTM zone 55N</li>
+
+  <li><a href="epsg/3102/index.html">EPSG:3102</a>: American Samoa 1962 / American Samoa Lambert</li>
+
+  <li><a href="epsg/3103/index.html">EPSG:3103</a>: Mauritania 1999 / UTM zone 28N</li>
+
+  <li><a href="epsg/3104/index.html">EPSG:3104</a>: Mauritania 1999 / UTM zone 29N</li>
+
+  <li><a href="epsg/3105/index.html">EPSG:3105</a>: Mauritania 1999 / UTM zone 30N</li>
+
+  <li><a href="epsg/3106/index.html">EPSG:3106</a>: Gulshan 303 / Bangladesh Transverse Mercator</li>
+
+  <li><a href="epsg/3107/index.html">EPSG:3107</a>: GDA94 / SA Lambert</li>
+
+  <li><a href="epsg/3108/index.html">EPSG:3108</a>: ETRS89 / Guernsey Grid</li>
+
+  <li><a href="epsg/3109/index.html">EPSG:3109</a>: ETRS89 / Jersey Transverse Mercator</li>
+
+  <li><a href="epsg/3110/index.html">EPSG:3110</a>: AGD66 / Vicgrid66</li>
+
+  <li><a href="epsg/3111/index.html">EPSG:3111</a>: GDA94 / Vicgrid94</li>
+
+  <li><a href="epsg/3112/index.html">EPSG:3112</a>: GDA94 / Geoscience Australia Lambert</li>
+
+  <li><a href="epsg/3113/index.html">EPSG:3113</a>: GDA94 / BCSG02</li>
+
+  <li><a href="epsg/3114/index.html">EPSG:3114</a>: MAGNA-SIRGAS / Colombia Far West zone</li>
+
+  <li><a href="epsg/3115/index.html">EPSG:3115</a>: MAGNA-SIRGAS / Colombia West zone</li>
+
+  <li><a href="epsg/3116/index.html">EPSG:3116</a>: MAGNA-SIRGAS / Colombia Bogota zone</li>
+
+  <li><a href="epsg/3117/index.html">EPSG:3117</a>: MAGNA-SIRGAS / Colombia East Central zone</li>
+
+  <li><a href="epsg/3118/index.html">EPSG:3118</a>: MAGNA-SIRGAS / Colombia East zone</li>
+
+  <li><a href="epsg/3119/index.html">EPSG:3119</a>: Douala 1948 / AEF west</li>
+
+  <li><a href="epsg/3120/index.html">EPSG:3120</a>: Pulkovo 1942(58) / Poland zone I</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=23">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=25">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

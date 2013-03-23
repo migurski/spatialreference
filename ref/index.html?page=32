@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=31">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=33">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3471/index.html">EPSG:3471</a>: NAD83(NSRS2007) / Alaska zone 4</li>
+
+  <li><a href="epsg/3472/index.html">EPSG:3472</a>: NAD83(NSRS2007) / Alaska zone 5</li>
+
+  <li><a href="epsg/3473/index.html">EPSG:3473</a>: NAD83(NSRS2007) / Alaska zone 6</li>
+
+  <li><a href="epsg/3474/index.html">EPSG:3474</a>: NAD83(NSRS2007) / Alaska zone 7</li>
+
+  <li><a href="epsg/3475/index.html">EPSG:3475</a>: NAD83(NSRS2007) / Alaska zone 8</li>
+
+  <li><a href="epsg/3476/index.html">EPSG:3476</a>: NAD83(NSRS2007) / Alaska zone 9</li>
+
+  <li><a href="epsg/3477/index.html">EPSG:3477</a>: NAD83(NSRS2007) / Alaska zone 10</li>
+
+  <li><a href="epsg/3478/index.html">EPSG:3478</a>: NAD83(NSRS2007) / Arizona Central</li>
+
+  <li><a href="epsg/3479/index.html">EPSG:3479</a>: NAD83(NSRS2007) / Arizona Central (ft)</li>
+
+  <li><a href="epsg/3480/index.html">EPSG:3480</a>: NAD83(NSRS2007) / Arizona East</li>
+
+  <li><a href="epsg/3481/index.html">EPSG:3481</a>: NAD83(NSRS2007) / Arizona East (ft)</li>
+
+  <li><a href="epsg/3482/index.html">EPSG:3482</a>: NAD83(NSRS2007) / Arizona West</li>
+
+  <li><a href="epsg/3483/index.html">EPSG:3483</a>: NAD83(NSRS2007) / Arizona West (ft)</li>
+
+  <li><a href="epsg/3484/index.html">EPSG:3484</a>: NAD83(NSRS2007) / Arkansas North</li>
+
+  <li><a href="epsg/3485/index.html">EPSG:3485</a>: NAD83(NSRS2007) / Arkansas North (ftUS)</li>
+
+  <li><a href="epsg/3486/index.html">EPSG:3486</a>: NAD83(NSRS2007) / Arkansas South</li>
+
+  <li><a href="epsg/3487/index.html">EPSG:3487</a>: NAD83(NSRS2007) / Arkansas South (ftUS)</li>
+
+  <li><a href="epsg/3488/index.html">EPSG:3488</a>: NAD83(NSRS2007) / California Albers</li>
+
+  <li><a href="epsg/3489/index.html">EPSG:3489</a>: NAD83(NSRS2007) / California zone 1</li>
+
+  <li><a href="epsg/3490/index.html">EPSG:3490</a>: NAD83(NSRS2007) / California zone 1 (ftUS)</li>
+
+  <li><a href="epsg/3491/index.html">EPSG:3491</a>: NAD83(NSRS2007) / California zone 2</li>
+
+  <li><a href="epsg/3492/index.html">EPSG:3492</a>: NAD83(NSRS2007) / California zone 2 (ftUS)</li>
+
+  <li><a href="epsg/3493/index.html">EPSG:3493</a>: NAD83(NSRS2007) / California zone 3</li>
+
+  <li><a href="epsg/3494/index.html">EPSG:3494</a>: NAD83(NSRS2007) / California zone 3 (ftUS)</li>
+
+  <li><a href="epsg/3495/index.html">EPSG:3495</a>: NAD83(NSRS2007) / California zone 4</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3496/index.html">EPSG:3496</a>: NAD83(NSRS2007) / California zone 4 (ftUS)</li>
+
+  <li><a href="epsg/3497/index.html">EPSG:3497</a>: NAD83(NSRS2007) / California zone 5</li>
+
+  <li><a href="epsg/3498/index.html">EPSG:3498</a>: NAD83(NSRS2007) / California zone 5 (ftUS)</li>
+
+  <li><a href="epsg/3499/index.html">EPSG:3499</a>: NAD83(NSRS2007) / California zone 6</li>
+
+  <li><a href="epsg/3500/index.html">EPSG:3500</a>: NAD83(NSRS2007) / California zone 6 (ftUS)</li>
+
+  <li><a href="epsg/3501/index.html">EPSG:3501</a>: NAD83(NSRS2007) / Colorado Central</li>
+
+  <li><a href="epsg/3502/index.html">EPSG:3502</a>: NAD83(NSRS2007) / Colorado Central (ftUS)</li>
+
+  <li><a href="epsg/3503/index.html">EPSG:3503</a>: NAD83(NSRS2007) / Colorado North</li>
+
+  <li><a href="epsg/3504/index.html">EPSG:3504</a>: NAD83(NSRS2007) / Colorado North (ftUS)</li>
+
+  <li><a href="epsg/3505/index.html">EPSG:3505</a>: NAD83(NSRS2007) / Colorado South</li>
+
+  <li><a href="epsg/3506/index.html">EPSG:3506</a>: NAD83(NSRS2007) / Colorado South (ftUS)</li>
+
+  <li><a href="epsg/3507/index.html">EPSG:3507</a>: NAD83(NSRS2007) / Connecticut</li>
+
+  <li><a href="epsg/3508/index.html">EPSG:3508</a>: NAD83(NSRS2007) / Connecticut (ftUS)</li>
+
+  <li><a href="epsg/3509/index.html">EPSG:3509</a>: NAD83(NSRS2007) / Delaware</li>
+
+  <li><a href="epsg/3510/index.html">EPSG:3510</a>: NAD83(NSRS2007) / Delaware (ftUS)</li>
+
+  <li><a href="epsg/3511/index.html">EPSG:3511</a>: NAD83(NSRS2007) / Florida East</li>
+
+  <li><a href="epsg/3512/index.html">EPSG:3512</a>: NAD83(NSRS2007) / Florida East (ftUS)</li>
+
+  <li><a href="epsg/3513/index.html">EPSG:3513</a>: NAD83(NSRS2007) / Florida GDL Albers</li>
+
+  <li><a href="epsg/3514/index.html">EPSG:3514</a>: NAD83(NSRS2007) / Florida North</li>
+
+  <li><a href="epsg/3515/index.html">EPSG:3515</a>: NAD83(NSRS2007) / Florida North (ftUS)</li>
+
+  <li><a href="epsg/3516/index.html">EPSG:3516</a>: NAD83(NSRS2007) / Florida West</li>
+
+  <li><a href="epsg/3517/index.html">EPSG:3517</a>: NAD83(NSRS2007) / Florida West (ftUS)</li>
+
+  <li><a href="epsg/3518/index.html">EPSG:3518</a>: NAD83(NSRS2007) / Georgia East</li>
+
+  <li><a href="epsg/3519/index.html">EPSG:3519</a>: NAD83(NSRS2007) / Georgia East (ftUS)</li>
+
+  <li><a href="epsg/3520/index.html">EPSG:3520</a>: NAD83(NSRS2007) / Georgia West</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=31">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=33">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

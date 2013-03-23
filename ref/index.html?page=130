@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=129">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=131">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/60961/index.html">IAU2000:60961</a>: Phoebe Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/60962/index.html">IAU2000:60962</a>: Phoebe Stereographic AUTO</li>
+
+  <li><a href="iau2000/60963/index.html">IAU2000:60963</a>: Phoebe Stereographic AUTO</li>
+
+  <li><a href="iau2000/60964/index.html">IAU2000:60964</a>: Phoebe Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/60965/index.html">IAU2000:60965</a>: Phoebe Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/60966/index.html">IAU2000:60966</a>: Phoebe Orthographic AUTO</li>
+
+  <li><a href="iau2000/60967/index.html">IAU2000:60967</a>: Phoebe Orthographic AUTO</li>
+
+  <li><a href="iau2000/60968/index.html">IAU2000:60968</a>: Phoebe Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/60969/index.html">IAU2000:60969</a>: Phoebe Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/60970/index.html">IAU2000:60970</a>: Phoebe Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/60971/index.html">IAU2000:60971</a>: Phoebe Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/60972/index.html">IAU2000:60972</a>: Phoebe Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/60973/index.html">IAU2000:60973</a>: Phoebe Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/60974/index.html">IAU2000:60974</a>: Phoebe Mercator AUTO</li>
+
+  <li><a href="iau2000/60975/index.html">IAU2000:60975</a>: Phoebe Mercator AUTO</li>
+
+  <li><a href="iau2000/60976/index.html">IAU2000:60976</a>: Phoebe Albers AUTO</li>
+
+  <li><a href="iau2000/60977/index.html">IAU2000:60977</a>: Phoebe Albers AUTO</li>
+
+  <li><a href="iau2000/60978/index.html">IAU2000:60978</a>: Phoebe Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/60979/index.html">IAU2000:60979</a>: Phoebe Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61000/index.html">IAU2000:61000</a>: Janus 2000</li>
+
+  <li><a href="iau2000/61001/index.html">IAU2000:61001</a>: Janus 2000</li>
+
+  <li><a href="iau2000/61010/index.html">IAU2000:61010</a>: Janus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61011/index.html">IAU2000:61011</a>: Janus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61012/index.html">IAU2000:61012</a>: Janus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61013/index.html">IAU2000:61013</a>: Janus Equidistant Cylindrical</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/61014/index.html">IAU2000:61014</a>: Janus Sinusoidal</li>
+
+  <li><a href="iau2000/61015/index.html">IAU2000:61015</a>: Janus Sinusoidal</li>
+
+  <li><a href="iau2000/61016/index.html">IAU2000:61016</a>: Janus Sinusoidal</li>
+
+  <li><a href="iau2000/61017/index.html">IAU2000:61017</a>: Janus Sinusoidal</li>
+
+  <li><a href="iau2000/61018/index.html">IAU2000:61018</a>: Janus North Pole Stereographic</li>
+
+  <li><a href="iau2000/61019/index.html">IAU2000:61019</a>: Janus North Pole Stereographic</li>
+
+  <li><a href="iau2000/61020/index.html">IAU2000:61020</a>: Janus South Pole Stereographic</li>
+
+  <li><a href="iau2000/61021/index.html">IAU2000:61021</a>: Janus South Pole Stereographic</li>
+
+  <li><a href="iau2000/61060/index.html">IAU2000:61060</a>: Janus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61061/index.html">IAU2000:61061</a>: Janus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61062/index.html">IAU2000:61062</a>: Janus Stereographic AUTO</li>
+
+  <li><a href="iau2000/61063/index.html">IAU2000:61063</a>: Janus Stereographic AUTO</li>
+
+  <li><a href="iau2000/61064/index.html">IAU2000:61064</a>: Janus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61065/index.html">IAU2000:61065</a>: Janus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61066/index.html">IAU2000:61066</a>: Janus Orthographic AUTO</li>
+
+  <li><a href="iau2000/61067/index.html">IAU2000:61067</a>: Janus Orthographic AUTO</li>
+
+  <li><a href="iau2000/61068/index.html">IAU2000:61068</a>: Janus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61069/index.html">IAU2000:61069</a>: Janus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61070/index.html">IAU2000:61070</a>: Janus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61071/index.html">IAU2000:61071</a>: Janus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61072/index.html">IAU2000:61072</a>: Janus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61073/index.html">IAU2000:61073</a>: Janus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61074/index.html">IAU2000:61074</a>: Janus Mercator AUTO</li>
+
+  <li><a href="iau2000/61075/index.html">IAU2000:61075</a>: Janus Mercator AUTO</li>
+
+  <li><a href="iau2000/61076/index.html">IAU2000:61076</a>: Janus Albers AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=129">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=131">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

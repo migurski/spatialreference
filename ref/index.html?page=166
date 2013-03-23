@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=165">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=167">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/63136405/index.html">EPSG:63136405</a>: Belge 1972 (deg)</li>
+
+  <li><a href="epsg/63146405/index.html">EPSG:63146405</a>: DHDN (deg)</li>
+
+  <li><a href="epsg/63156405/index.html">EPSG:63156405</a>: Conakry 1905 (deg)</li>
+
+  <li><a href="epsg/63166405/index.html">EPSG:63166405</a>: Dealul Piscului 1933 (deg)</li>
+
+  <li><a href="epsg/63176405/index.html">EPSG:63176405</a>: Dealul Piscului 1970 (deg)</li>
+
+  <li><a href="epsg/63186405/index.html">EPSG:63186405</a>: NGN (deg)</li>
+
+  <li><a href="epsg/63196405/index.html">EPSG:63196405</a>: KUDAMS (deg)</li>
+
+  <li><a href="epsg/63226405/index.html">EPSG:63226405</a>: WGS 72 (deg)</li>
+
+  <li><a href="epsg/63246405/index.html">EPSG:63246405</a>: WGS 72BE (deg)</li>
+
+  <li><a href="epsg/63266405/index.html">EPSG:63266405</a>: WGS 84 (deg)</li>
+
+  <li><a href="epsg/63266406/index.html">EPSG:63266406</a>: WGS 84 (degH)</li>
+
+  <li><a href="epsg/63266407/index.html">EPSG:63266407</a>: WGS 84 (Hdeg)</li>
+
+  <li><a href="epsg/63266408/index.html">EPSG:63266408</a>: WGS 84 (DM)</li>
+
+  <li><a href="epsg/63266409/index.html">EPSG:63266409</a>: WGS 84 (DMH)</li>
+
+  <li><a href="epsg/63266410/index.html">EPSG:63266410</a>: WGS 84 (HDM)</li>
+
+  <li><a href="epsg/63266411/index.html">EPSG:63266411</a>: WGS 84 (DMS)</li>
+
+  <li><a href="epsg/63266412/index.html">EPSG:63266412</a>: WGS 84 (HDMS)</li>
+
+  <li><a href="epsg/63266413/index.html">EPSG:63266413</a>: WGS 84 (3D deg)</li>
+
+  <li><a href="epsg/63266414/index.html">EPSG:63266414</a>: WGS 84 (3D degH)</li>
+
+  <li><a href="epsg/63266415/index.html">EPSG:63266415</a>: WGS 84 (3D Hdeg)</li>
+
+  <li><a href="epsg/63266416/index.html">EPSG:63266416</a>: WGS 84 (3D DM)</li>
+
+  <li><a href="epsg/63266417/index.html">EPSG:63266417</a>: WGS 84 (3D DMH)</li>
+
+  <li><a href="epsg/63266418/index.html">EPSG:63266418</a>: WGS 84 (3D HDM)</li>
+
+  <li><a href="epsg/63266419/index.html">EPSG:63266419</a>: WGS 84 (3D DMS)</li>
+
+  <li><a href="epsg/63266420/index.html">EPSG:63266420</a>: WGS 84 (3D HDMS)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/66006405/index.html">EPSG:66006405</a>: Anguilla 1957 (deg)</li>
+
+  <li><a href="epsg/66016405/index.html">EPSG:66016405</a>: Antigua 1943 (deg)</li>
+
+  <li><a href="epsg/66026405/index.html">EPSG:66026405</a>: Dominica 1945 (deg)</li>
+
+  <li><a href="epsg/66036405/index.html">EPSG:66036405</a>: Grenada 1953 (deg)</li>
+
+  <li><a href="epsg/66046405/index.html">EPSG:66046405</a>: Montserrat 1958 (deg)</li>
+
+  <li><a href="epsg/66056405/index.html">EPSG:66056405</a>: St. Kitts 1955 (deg)</li>
+
+  <li><a href="epsg/66066405/index.html">EPSG:66066405</a>: St. Lucia 1955 (deg)</li>
+
+  <li><a href="epsg/66076405/index.html">EPSG:66076405</a>: St. Vincent 1945 (deg)</li>
+
+  <li><a href="epsg/66086405/index.html">EPSG:66086405</a>: NAD27(76) (deg)</li>
+
+  <li><a href="epsg/66096405/index.html">EPSG:66096405</a>: NAD27(CGQ77) (deg)</li>
+
+  <li><a href="epsg/66106405/index.html">EPSG:66106405</a>: Xian 1980 (deg)</li>
+
+  <li><a href="epsg/66116405/index.html">EPSG:66116405</a>: Hong Kong 1980 (deg)</li>
+
+  <li><a href="epsg/66126405/index.html">EPSG:66126405</a>: JGD2000 (deg)</li>
+
+  <li><a href="epsg/66126413/index.html">EPSG:66126413</a>: JGD2000 (3D deg)</li>
+
+  <li><a href="epsg/66136405/index.html">EPSG:66136405</a>: Segara (deg)</li>
+
+  <li><a href="epsg/66146405/index.html">EPSG:66146405</a>: QND95 (deg)</li>
+
+  <li><a href="epsg/66156405/index.html">EPSG:66156405</a>: Porto Santo (deg)</li>
+
+  <li><a href="epsg/66166405/index.html">EPSG:66166405</a>: Selvagem Grande (deg)</li>
+
+  <li><a href="epsg/66186405/index.html">EPSG:66186405</a>: SAD69 (deg)</li>
+
+  <li><a href="epsg/66196405/index.html">EPSG:66196405</a>: SWEREF99 (deg)</li>
+
+  <li><a href="epsg/66196413/index.html">EPSG:66196413</a>: SWEREF99 (3D deg)</li>
+
+  <li><a href="epsg/66206405/index.html">EPSG:66206405</a>: Point 58 (deg)</li>
+
+  <li><a href="epsg/66216405/index.html">EPSG:66216405</a>: Fort Marigot (deg)</li>
+
+  <li><a href="epsg/66226405/index.html">EPSG:66226405</a>: Sainte Anne (deg)</li>
+
+  <li><a href="epsg/66236405/index.html">EPSG:66236405</a>: CSG67 (deg)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=165">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=167">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

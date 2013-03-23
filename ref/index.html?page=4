@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=3">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=5">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2062/index.html">EPSG:2062</a>: Madrid 1870 (Madrid) / Spain</li>
+
+  <li><a href="epsg/2063/index.html">EPSG:2063</a>: Dabola 1981 / UTM zone 28N</li>
+
+  <li><a href="epsg/2064/index.html">EPSG:2064</a>: Dabola 1981 / UTM zone 29N</li>
+
+  <li><a href="epsg/2065/index.html">EPSG:2065</a>: S-JTSK (Ferro) / Krovak</li>
+
+  <li><a href="epsg/2066/index.html">EPSG:2066</a>: Mount Dillon / Tobago Grid</li>
+
+  <li><a href="epsg/2067/index.html">EPSG:2067</a>: Naparima 1955 / UTM zone 20N</li>
+
+  <li><a href="epsg/2068/index.html">EPSG:2068</a>: ELD79 / Libya zone 5</li>
+
+  <li><a href="epsg/2069/index.html">EPSG:2069</a>: ELD79 / Libya zone 6</li>
+
+  <li><a href="epsg/2070/index.html">EPSG:2070</a>: ELD79 / Libya zone 7</li>
+
+  <li><a href="epsg/2071/index.html">EPSG:2071</a>: ELD79 / Libya zone 8</li>
+
+  <li><a href="epsg/2072/index.html">EPSG:2072</a>: ELD79 / Libya zone 9</li>
+
+  <li><a href="epsg/2073/index.html">EPSG:2073</a>: ELD79 / Libya zone 10</li>
+
+  <li><a href="epsg/2074/index.html">EPSG:2074</a>: ELD79 / Libya zone 11</li>
+
+  <li><a href="epsg/2075/index.html">EPSG:2075</a>: ELD79 / Libya zone 12</li>
+
+  <li><a href="epsg/2076/index.html">EPSG:2076</a>: ELD79 / Libya zone 13</li>
+
+  <li><a href="epsg/2077/index.html">EPSG:2077</a>: ELD79 / UTM zone 32N</li>
+
+  <li><a href="epsg/2078/index.html">EPSG:2078</a>: ELD79 / UTM zone 33N</li>
+
+  <li><a href="epsg/2079/index.html">EPSG:2079</a>: ELD79 / UTM zone 34N</li>
+
+  <li><a href="epsg/2080/index.html">EPSG:2080</a>: ELD79 / UTM zone 35N</li>
+
+  <li><a href="epsg/2081/index.html">EPSG:2081</a>: Chos Malal 1914 / Argentina zone 2</li>
+
+  <li><a href="epsg/2082/index.html">EPSG:2082</a>: Pampa del Castillo / Argentina zone 2</li>
+
+  <li><a href="epsg/2083/index.html">EPSG:2083</a>: Hito XVIII 1963 / Argentina zone 2</li>
+
+  <li><a href="epsg/2084/index.html">EPSG:2084</a>: Hito XVIII 1963 / UTM zone 19S</li>
+
+  <li><a href="epsg/2085/index.html">EPSG:2085</a>: NAD27 / Cuba Norte</li>
+
+  <li><a href="epsg/2086/index.html">EPSG:2086</a>: NAD27 / Cuba Sur</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2087/index.html">EPSG:2087</a>: ELD79 / TM 12 NE</li>
+
+  <li><a href="epsg/2088/index.html">EPSG:2088</a>: Carthage / TM 11 NE</li>
+
+  <li><a href="epsg/2089/index.html">EPSG:2089</a>: Yemen NGN96 / UTM zone 38N</li>
+
+  <li><a href="epsg/2090/index.html">EPSG:2090</a>: Yemen NGN96 / UTM zone 39N</li>
+
+  <li><a href="epsg/2091/index.html">EPSG:2091</a>: South Yemen / Gauss Kruger zone 8</li>
+
+  <li><a href="epsg/2092/index.html">EPSG:2092</a>: South Yemen / Gauss Kruger zone 9</li>
+
+  <li><a href="epsg/2093/index.html">EPSG:2093</a>: Hanoi 1972 / GK 106 NE</li>
+
+  <li><a href="epsg/2094/index.html">EPSG:2094</a>: WGS 72BE / TM 106 NE</li>
+
+  <li><a href="epsg/2095/index.html">EPSG:2095</a>: Bissau / UTM zone 28N</li>
+
+  <li><a href="epsg/2096/index.html">EPSG:2096</a>: Korean 1985 / Korea East Belt</li>
+
+  <li><a href="epsg/2097/index.html">EPSG:2097</a>: Korean 1985 / Korea Central Belt</li>
+
+  <li><a href="epsg/2098/index.html">EPSG:2098</a>: Korean 1985 / Korea West Belt</li>
+
+  <li><a href="epsg/2099/index.html">EPSG:2099</a>: Qatar 1948 / Qatar Grid</li>
+
+  <li><a href="epsg/2100/index.html">EPSG:2100</a>: GGRS87 / Greek Grid</li>
+
+  <li><a href="epsg/2101/index.html">EPSG:2101</a>: Lake / Maracaibo Grid M1</li>
+
+  <li><a href="epsg/2102/index.html">EPSG:2102</a>: Lake / Maracaibo Grid</li>
+
+  <li><a href="epsg/2103/index.html">EPSG:2103</a>: Lake / Maracaibo Grid M3</li>
+
+  <li><a href="epsg/2104/index.html">EPSG:2104</a>: Lake / Maracaibo La Rosa Grid</li>
+
+  <li><a href="epsg/2105/index.html">EPSG:2105</a>: NZGD2000 / Mount Eden 2000</li>
+
+  <li><a href="epsg/2106/index.html">EPSG:2106</a>: NZGD2000 / Bay of Plenty 2000</li>
+
+  <li><a href="epsg/2107/index.html">EPSG:2107</a>: NZGD2000 / Poverty Bay 2000</li>
+
+  <li><a href="epsg/2108/index.html">EPSG:2108</a>: NZGD2000 / Hawkes Bay 2000</li>
+
+  <li><a href="epsg/2109/index.html">EPSG:2109</a>: NZGD2000 / Taranaki 2000</li>
+
+  <li><a href="epsg/2110/index.html">EPSG:2110</a>: NZGD2000 / Tuhirangi 2000</li>
+
+  <li><a href="epsg/2111/index.html">EPSG:2111</a>: NZGD2000 / Wanganui 2000</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=3">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=5">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

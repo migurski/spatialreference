@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=4">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=6">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2112/index.html">EPSG:2112</a>: NZGD2000 / Wairarapa 2000</li>
+
+  <li><a href="epsg/2113/index.html">EPSG:2113</a>: NZGD2000 / Wellington 2000</li>
+
+  <li><a href="epsg/2114/index.html">EPSG:2114</a>: NZGD2000 / Collingwood 2000</li>
+
+  <li><a href="epsg/2115/index.html">EPSG:2115</a>: NZGD2000 / Nelson 2000</li>
+
+  <li><a href="epsg/2116/index.html">EPSG:2116</a>: NZGD2000 / Karamea 2000</li>
+
+  <li><a href="epsg/2117/index.html">EPSG:2117</a>: NZGD2000 / Buller 2000</li>
+
+  <li><a href="epsg/2118/index.html">EPSG:2118</a>: NZGD2000 / Grey 2000</li>
+
+  <li><a href="epsg/2119/index.html">EPSG:2119</a>: NZGD2000 / Amuri 2000</li>
+
+  <li><a href="epsg/2120/index.html">EPSG:2120</a>: NZGD2000 / Marlborough 2000</li>
+
+  <li><a href="epsg/2121/index.html">EPSG:2121</a>: NZGD2000 / Hokitika 2000</li>
+
+  <li><a href="epsg/2122/index.html">EPSG:2122</a>: NZGD2000 / Okarito 2000</li>
+
+  <li><a href="epsg/2123/index.html">EPSG:2123</a>: NZGD2000 / Jacksons Bay 2000</li>
+
+  <li><a href="epsg/2124/index.html">EPSG:2124</a>: NZGD2000 / Mount Pleasant 2000</li>
+
+  <li><a href="epsg/2125/index.html">EPSG:2125</a>: NZGD2000 / Gawler 2000</li>
+
+  <li><a href="epsg/2126/index.html">EPSG:2126</a>: NZGD2000 / Timaru 2000</li>
+
+  <li><a href="epsg/2127/index.html">EPSG:2127</a>: NZGD2000 / Lindis Peak 2000</li>
+
+  <li><a href="epsg/2128/index.html">EPSG:2128</a>: NZGD2000 / Mount Nicholas 2000</li>
+
+  <li><a href="epsg/2129/index.html">EPSG:2129</a>: NZGD2000 / Mount York 2000</li>
+
+  <li><a href="epsg/2130/index.html">EPSG:2130</a>: NZGD2000 / Observation Point 2000</li>
+
+  <li><a href="epsg/2131/index.html">EPSG:2131</a>: NZGD2000 / North Taieri 2000</li>
+
+  <li><a href="epsg/2132/index.html">EPSG:2132</a>: NZGD2000 / Bluff 2000</li>
+
+  <li><a href="epsg/2133/index.html">EPSG:2133</a>: NZGD2000 / UTM zone 58S</li>
+
+  <li><a href="epsg/2134/index.html">EPSG:2134</a>: NZGD2000 / UTM zone 59S</li>
+
+  <li><a href="epsg/2135/index.html">EPSG:2135</a>: NZGD2000 / UTM zone 60S</li>
+
+  <li><a href="epsg/2136/index.html">EPSG:2136</a>: Accra / Ghana National Grid</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2137/index.html">EPSG:2137</a>: Accra / TM 1 NW</li>
+
+  <li><a href="epsg/2138/index.html">EPSG:2138</a>: NAD27(CGQ77) / Quebec Lambert</li>
+
+  <li><a href="epsg/2139/index.html">EPSG:2139</a>: NAD83(CSRS98) / SCoPQ zone 2</li>
+
+  <li><a href="epsg/2140/index.html">EPSG:2140</a>: NAD83(CSRS98) / MTM zone 3</li>
+
+  <li><a href="epsg/2141/index.html">EPSG:2141</a>: NAD83(CSRS98) / MTM zone 4</li>
+
+  <li><a href="epsg/2142/index.html">EPSG:2142</a>: NAD83(CSRS98) / MTM zone 5</li>
+
+  <li><a href="epsg/2143/index.html">EPSG:2143</a>: NAD83(CSRS98) / MTM zone 6</li>
+
+  <li><a href="epsg/2144/index.html">EPSG:2144</a>: NAD83(CSRS98) / MTM zone 7</li>
+
+  <li><a href="epsg/2145/index.html">EPSG:2145</a>: NAD83(CSRS98) / MTM zone 8</li>
+
+  <li><a href="epsg/2146/index.html">EPSG:2146</a>: NAD83(CSRS98) / MTM zone 9</li>
+
+  <li><a href="epsg/2147/index.html">EPSG:2147</a>: NAD83(CSRS98) / MTM zone 10</li>
+
+  <li><a href="epsg/2148/index.html">EPSG:2148</a>: NAD83(CSRS98) / UTM zone 21N</li>
+
+  <li><a href="epsg/2149/index.html">EPSG:2149</a>: NAD83(CSRS98) / UTM zone 18N</li>
+
+  <li><a href="epsg/2150/index.html">EPSG:2150</a>: NAD83(CSRS98) / UTM zone 17N</li>
+
+  <li><a href="epsg/2151/index.html">EPSG:2151</a>: NAD83(CSRS98) / UTM zone 13N</li>
+
+  <li><a href="epsg/2152/index.html">EPSG:2152</a>: NAD83(CSRS98) / UTM zone 12N</li>
+
+  <li><a href="epsg/2153/index.html">EPSG:2153</a>: NAD83(CSRS98) / UTM zone 11N</li>
+
+  <li><a href="epsg/2154/index.html">EPSG:2154</a>: RGF93 / Lambert-93</li>
+
+  <li><a href="epsg/2155/index.html">EPSG:2155</a>: American Samoa 1962 / American Samoa Lambert</li>
+
+  <li><a href="epsg/2156/index.html">EPSG:2156</a>: NAD83(HARN) / UTM zone 59S</li>
+
+  <li><a href="epsg/2157/index.html">EPSG:2157</a>: IRENET95 / Irish Transverse Mercator</li>
+
+  <li><a href="epsg/2158/index.html">EPSG:2158</a>: IRENET95 / UTM zone 29N</li>
+
+  <li><a href="epsg/2159/index.html">EPSG:2159</a>: Sierra Leone 1924 / New Colony Grid</li>
+
+  <li><a href="epsg/2160/index.html">EPSG:2160</a>: Sierra Leone 1924 / New War Office Grid</li>
+
+  <li><a href="epsg/2161/index.html">EPSG:2161</a>: Sierra Leone 1968 / UTM zone 28N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=4">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=6">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

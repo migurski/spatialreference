@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=72">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=74">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7503/index.html">SR-ORG:7503</a>: Cumberland County, Maine</li>
+
+  <li><a href="sr-org/7504/index.html">SR-ORG:7504</a>: Jenifer Harren Projection</li>
+
+  <li><a href="sr-org/7505/index.html">SR-ORG:7505</a>: Orange County Projection</li>
+
+  <li><a href="sr-org/7506/index.html">SR-ORG:7506</a>: Chelean County, Oregon</li>
+
+  <li><a href="sr-org/7507/index.html">SR-ORG:7507</a>: sigueme</li>
+
+  <li><a href="sr-org/7508/index.html">SR-ORG:7508</a>: PDCtiles</li>
+
+  <li><a href="sr-org/7509/index.html">SR-ORG:7509</a>: pdctile2</li>
+
+  <li><a href="sr-org/7510/index.html">SR-ORG:7510</a>: Korea 2000 / Central Belt Jeju</li>
+
+  <li><a href="sr-org/7511/index.html">SR-ORG:7511</a>: test</li>
+
+  <li><a href="sr-org/7512/index.html">SR-ORG:7512</a>: first try</li>
+
+  <li><a href="sr-org/7513/index.html">SR-ORG:7513</a>: ALBERS-KRSK</li>
+
+  <li><a href="sr-org/7514/index.html">SR-ORG:7514</a>: ALBERS-KRSK</li>
+
+  <li><a href="sr-org/7515/index.html">SR-ORG:7515</a>: Rose Dome KS TMerc</li>
+
+  <li><a href="sr-org/7516/index.html">SR-ORG:7516</a>: test</li>
+
+  <li><a href="sr-org/7517/index.html">SR-ORG:7517</a>: Michigan GeoRef (from CGI prj file)</li>
+
+  <li><a href="sr-org/7518/index.html">SR-ORG:7518</a>: Myanma_TM_CM_96N</li>
+
+  <li><a href="sr-org/7519/index.html">SR-ORG:7519</a>: DHDN / 3-degree Gauss-Kruger zone 6</li>
+
+  <li><a href="sr-org/7520/index.html">SR-ORG:7520</a>: DHDN / 3-degree Gauss-Kruger zone 6</li>
+
+  <li><a href="sr-org/7521/index.html">SR-ORG:7521</a>: Slovenia D48 - Bessel</li>
+
+  <li><a href="sr-org/7522/index.html">SR-ORG:7522</a>: Transverse Mercator</li>
+
+  <li><a href="sr-org/7523/index.html">SR-ORG:7523</a>: WGS84</li>
+
+  <li><a href="sr-org/7524/index.html">SR-ORG:7524</a>: NGO 1948 Bergenshalvoen</li>
+
+  <li><a href="sr-org/7525/index.html">SR-ORG:7525</a>: Kertau (RSO) / RSO Malaya (m)</li>
+
+  <li><a href="sr-org/7526/index.html">SR-ORG:7526</a>: NAD 1983 HARN Wisconsin CRS Brown (US feet)</li>
+
+  <li><a href="sr-org/7527/index.html">SR-ORG:7527</a>: IGNF:LAMB93</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7528/index.html">SR-ORG:7528</a>: IGNF:LAMBE</li>
+
+  <li><a href="sr-org/7529/index.html">SR-ORG:7529</a>: test</li>
+
+  <li><a href="sr-org/7530/index.html">SR-ORG:7530</a>: test2</li>
+
+  <li><a href="sr-org/7531/index.html">SR-ORG:7531</a>: test4</li>
+
+  <li><a href="sr-org/7532/index.html">SR-ORG:7532</a>: brads</li>
+
+  <li><a href="sr-org/7533/index.html">SR-ORG:7533</a>: LAMP Convection Projection</li>
+
+  <li><a href="sr-org/7534/index.html">SR-ORG:7534</a>: 1</li>
+
+  <li><a href="sr-org/7535/index.html">SR-ORG:7535</a>: 1</li>
+
+  <li><a href="sr-org/7536/index.html">SR-ORG:7536</a>: NAD 1983 HARN Adj MN Lyon (US Feet)</li>
+
+  <li><a href="sr-org/7537/index.html">SR-ORG:7537</a>: Lambert Conformal Conic (SAD69)</li>
+
+  <li><a href="sr-org/7538/index.html">SR-ORG:7538</a>: proj4_cor</li>
+
+  <li><a href="sr-org/7539/index.html">SR-ORG:7539</a>: ITRF96 / TM30</li>
+
+  <li><a href="sr-org/7540/index.html">SR-ORG:7540</a>: Cassini Soldner Alessandria (Italy)</li>
+
+  <li><a href="sr-org/7541/index.html">SR-ORG:7541</a>: Cassini Soldner Alessandria (Italy)</li>
+
+  <li><a href="sr-org/7542/index.html">SR-ORG:7542</a>: gasdfasdf</li>
+
+  <li><a href="sr-org/7543/index.html">SR-ORG:7543</a>: test</li>
+
+  <li><a href="sr-org/7544/index.html">SR-ORG:7544</a>: test</li>
+
+  <li><a href="sr-org/7545/index.html">SR-ORG:7545</a>: vn</li>
+
+  <li><a href="sr-org/7546/index.html">SR-ORG:7546</a>: vn2</li>
+
+  <li><a href="sr-org/7547/index.html">SR-ORG:7547</a>: vn3</li>
+
+  <li><a href="sr-org/7548/index.html">SR-ORG:7548</a>: vn4</li>
+
+  <li><a href="sr-org/7549/index.html">SR-ORG:7549</a>: WISCRS -- IRON COUNTY</li>
+
+  <li><a href="sr-org/7550/index.html">SR-ORG:7550</a>: Ontario_MNR_Lambert</li>
+
+  <li><a href="sr-org/7551/index.html">SR-ORG:7551</a>: GCS_SPHERE</li>
+
+  <li><a href="sr-org/7552/index.html">SR-ORG:7552</a>: Large Fire Database</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=72">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=74">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

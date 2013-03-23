@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=28">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=30">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3321/index.html">EPSG:3321</a>: IGC 1962 / Congo TM zone 18</li>
+
+  <li><a href="epsg/3322/index.html">EPSG:3322</a>: IGC 1962 / Congo TM zone 20</li>
+
+  <li><a href="epsg/3323/index.html">EPSG:3323</a>: IGC 1962 / Congo TM zone 22</li>
+
+  <li><a href="epsg/3324/index.html">EPSG:3324</a>: IGC 1962 / Congo TM zone 24</li>
+
+  <li><a href="epsg/3325/index.html">EPSG:3325</a>: IGC 1962 / Congo TM zone 26</li>
+
+  <li><a href="epsg/3326/index.html">EPSG:3326</a>: IGC 1962 / Congo TM zone 28</li>
+
+  <li><a href="epsg/3327/index.html">EPSG:3327</a>: IGC 1962 / Congo TM zone 30</li>
+
+  <li><a href="epsg/3328/index.html">EPSG:3328</a>: Pulkovo 1942(58) / GUGiK-80</li>
+
+  <li><a href="epsg/3329/index.html">EPSG:3329</a>: Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 5</li>
+
+  <li><a href="epsg/3330/index.html">EPSG:3330</a>: Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 6</li>
+
+  <li><a href="epsg/3331/index.html">EPSG:3331</a>: Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 7</li>
+
+  <li><a href="epsg/3332/index.html">EPSG:3332</a>: Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 8</li>
+
+  <li><a href="epsg/3333/index.html">EPSG:3333</a>: Pulkovo 1942(58) / Gauss-Kruger zone 3</li>
+
+  <li><a href="epsg/3334/index.html">EPSG:3334</a>: Pulkovo 1942(58) / Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/3335/index.html">EPSG:3335</a>: Pulkovo 1942(58) / Gauss-Kruger zone 5</li>
+
+  <li><a href="epsg/3336/index.html">EPSG:3336</a>: IGN 1962 Kerguelen / UTM zone 42S</li>
+
+  <li><a href="epsg/3337/index.html">EPSG:3337</a>: Le Pouce 1934 / Mauritius Grid</li>
+
+  <li><a href="epsg/3338/index.html">EPSG:3338</a>: NAD83 / Alaska Albers</li>
+
+  <li><a href="epsg/3339/index.html">EPSG:3339</a>: IGCB 1955 / Congo TM zone 12</li>
+
+  <li><a href="epsg/3340/index.html">EPSG:3340</a>: IGCB 1955 / Congo TM zone 14</li>
+
+  <li><a href="epsg/3341/index.html">EPSG:3341</a>: IGCB 1955 / Congo TM zone 16</li>
+
+  <li><a href="epsg/3342/index.html">EPSG:3342</a>: IGCB 1955 / UTM zone 33S</li>
+
+  <li><a href="epsg/3343/index.html">EPSG:3343</a>: Mauritania 1999 / UTM zone 28N</li>
+
+  <li><a href="epsg/3344/index.html">EPSG:3344</a>: Mauritania 1999 / UTM zone 29N</li>
+
+  <li><a href="epsg/3345/index.html">EPSG:3345</a>: Mauritania 1999 / UTM zone 30N</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3346/index.html">EPSG:3346</a>: LKS94 / Lithuania TM</li>
+
+  <li><a href="epsg/3347/index.html">EPSG:3347</a>: NAD83 / Statistics Canada Lambert</li>
+
+  <li><a href="epsg/3348/index.html">EPSG:3348</a>: NAD83(CSRS) / Statistics Canada Lambert</li>
+
+  <li><a href="epsg/3349/index.html">EPSG:3349</a>: WGS 84 / PDC Mercator</li>
+
+  <li><a href="epsg/3350/index.html">EPSG:3350</a>: Pulkovo 1942 / CS63 zone C0</li>
+
+  <li><a href="epsg/3351/index.html">EPSG:3351</a>: Pulkovo 1942 / CS63 zone C1</li>
+
+  <li><a href="epsg/3352/index.html">EPSG:3352</a>: Pulkovo 1942 / CS63 zone C2</li>
+
+  <li><a href="epsg/3353/index.html">EPSG:3353</a>: Mhast (onshore) / UTM zone 32S</li>
+
+  <li><a href="epsg/3354/index.html">EPSG:3354</a>: Mhast (offshore) / UTM zone 32S</li>
+
+  <li><a href="epsg/3355/index.html">EPSG:3355</a>: Egypt Gulf of Suez S-650 TL / Red Belt</li>
+
+  <li><a href="epsg/3356/index.html">EPSG:3356</a>: Grand Cayman 1959 / UTM zone 17N</li>
+
+  <li><a href="epsg/3357/index.html">EPSG:3357</a>: Little Cayman 1961 / UTM zone 17N</li>
+
+  <li><a href="epsg/3358/index.html">EPSG:3358</a>: NAD83(HARN) / North Carolina</li>
+
+  <li><a href="epsg/3359/index.html">EPSG:3359</a>: NAD83(HARN) / North Carolina (ftUS)</li>
+
+  <li><a href="epsg/3360/index.html">EPSG:3360</a>: NAD83(HARN) / South Carolina</li>
+
+  <li><a href="epsg/3361/index.html">EPSG:3361</a>: NAD83(HARN) / South Carolina (ft)</li>
+
+  <li><a href="epsg/3362/index.html">EPSG:3362</a>: NAD83(HARN) / Pennsylvania North</li>
+
+  <li><a href="epsg/3363/index.html">EPSG:3363</a>: NAD83(HARN) / Pennsylvania North (ftUS)</li>
+
+  <li><a href="epsg/3364/index.html">EPSG:3364</a>: NAD83(HARN) / Pennsylvania South</li>
+
+  <li><a href="epsg/3365/index.html">EPSG:3365</a>: NAD83(HARN) / Pennsylvania South (ftUS)</li>
+
+  <li><a href="epsg/3366/index.html">EPSG:3366</a>: Hong Kong 1963 Grid System</li>
+
+  <li><a href="epsg/3367/index.html">EPSG:3367</a>: IGN Astro 1960 / UTM zone 28N</li>
+
+  <li><a href="epsg/3368/index.html">EPSG:3368</a>: IGN Astro 1960 / UTM zone 29N</li>
+
+  <li><a href="epsg/3369/index.html">EPSG:3369</a>: IGN Astro 1960 / UTM zone 30N</li>
+
+  <li><a href="epsg/3370/index.html">EPSG:3370</a>: NAD27 / UTM zone 59N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=28">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=30">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

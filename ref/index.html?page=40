@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=39">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=41">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4021/index.html">EPSG:4021</a>: Unknown datum based upon the Indonesian National Spheroid</li>
+
+  <li><a href="epsg/4022/index.html">EPSG:4022</a>: Unknown datum based upon the International 1924 ellipsoid</li>
+
+  <li><a href="epsg/4024/index.html">EPSG:4024</a>: Unknown datum based upon the Krassowsky 1940 ellipsoid</li>
+
+  <li><a href="epsg/4025/index.html">EPSG:4025</a>: Unknown datum based upon the NWL 9D ellipsoid</li>
+
+  <li><a href="epsg/4027/index.html">EPSG:4027</a>: Unknown datum based upon the Plessis 1817 ellipsoid</li>
+
+  <li><a href="epsg/4028/index.html">EPSG:4028</a>: Unknown datum based upon the Struve 1860 ellipsoid</li>
+
+  <li><a href="epsg/4029/index.html">EPSG:4029</a>: Unknown datum based upon the War Office ellipsoid</li>
+
+  <li><a href="epsg/4030/index.html">EPSG:4030</a>: Unknown datum based upon the WGS 84 ellipsoid</li>
+
+  <li><a href="epsg/4031/index.html">EPSG:4031</a>: Unknown datum based upon the GEM 10C ellipsoid</li>
+
+  <li><a href="epsg/4032/index.html">EPSG:4032</a>: Unknown datum based upon the OSU86F ellipsoid</li>
+
+  <li><a href="epsg/4033/index.html">EPSG:4033</a>: Unknown datum based upon the OSU91A ellipsoid</li>
+
+  <li><a href="epsg/4034/index.html">EPSG:4034</a>: Unknown datum based upon the Clarke 1880 ellipsoid</li>
+
+  <li><a href="epsg/4035/index.html">EPSG:4035</a>: Unknown datum based upon the Authalic Sphere</li>
+
+  <li><a href="epsg/4036/index.html">EPSG:4036</a>: Unknown datum based upon the GRS 1967 ellipsoid</li>
+
+  <li><a href="epsg/4041/index.html">EPSG:4041</a>: Unknown datum based upon the Average Terrestrial System 1977 ellipsoid</li>
+
+  <li><a href="epsg/4042/index.html">EPSG:4042</a>: Unknown datum based upon the Everest (1830 Definition) ellipsoid</li>
+
+  <li><a href="epsg/4043/index.html">EPSG:4043</a>: Unknown datum based upon the WGS 72 ellipsoid</li>
+
+  <li><a href="epsg/4044/index.html">EPSG:4044</a>: Unknown datum based upon the Everest 1830 (1962 Definition) ellipsoid</li>
+
+  <li><a href="epsg/4045/index.html">EPSG:4045</a>: Unknown datum based upon the Everest 1830 (1975 Definition) ellipsoid</li>
+
+  <li><a href="epsg/4047/index.html">EPSG:4047</a>: Unspecified datum based upon the GRS 1980 Authalic Sphere</li>
+
+  <li><a href="epsg/4052/index.html">EPSG:4052</a>: Unspecified datum based upon the Clarke 1866 Authalic Sphere</li>
+
+  <li><a href="epsg/4053/index.html">EPSG:4053</a>: Unspecified datum based upon the International 1924 Authalic Sphere</li>
+
+  <li><a href="epsg/4054/index.html">EPSG:4054</a>: Unspecified datum based upon the Hughes 1980 ellipsoid</li>
+
+  <li><a href="epsg/4055/index.html">EPSG:4055</a>: Popular Visualisation CRS</li>
+
+  <li><a href="epsg/4120/index.html">EPSG:4120</a>: Greek</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4121/index.html">EPSG:4121</a>: GGRS87</li>
+
+  <li><a href="epsg/4122/index.html">EPSG:4122</a>: ATS77</li>
+
+  <li><a href="epsg/4123/index.html">EPSG:4123</a>: KKJ</li>
+
+  <li><a href="epsg/4124/index.html">EPSG:4124</a>: RT90</li>
+
+  <li><a href="epsg/4125/index.html">EPSG:4125</a>: Samboja</li>
+
+  <li><a href="epsg/4126/index.html">EPSG:4126</a>: LKS94 (ETRS89)</li>
+
+  <li><a href="epsg/4127/index.html">EPSG:4127</a>: Tete</li>
+
+  <li><a href="epsg/4128/index.html">EPSG:4128</a>: Madzansua</li>
+
+  <li><a href="epsg/4129/index.html">EPSG:4129</a>: Observatario</li>
+
+  <li><a href="epsg/4130/index.html">EPSG:4130</a>: Moznet</li>
+
+  <li><a href="epsg/4131/index.html">EPSG:4131</a>: Indian 1960</li>
+
+  <li><a href="epsg/4132/index.html">EPSG:4132</a>: FD58</li>
+
+  <li><a href="epsg/4133/index.html">EPSG:4133</a>: EST92</li>
+
+  <li><a href="epsg/4134/index.html">EPSG:4134</a>: PSD93</li>
+
+  <li><a href="epsg/4135/index.html">EPSG:4135</a>: Old Hawaiian</li>
+
+  <li><a href="epsg/4136/index.html">EPSG:4136</a>: St. Lawrence Island</li>
+
+  <li><a href="epsg/4137/index.html">EPSG:4137</a>: St. Paul Island</li>
+
+  <li><a href="epsg/4138/index.html">EPSG:4138</a>: St. George Island</li>
+
+  <li><a href="epsg/4139/index.html">EPSG:4139</a>: Puerto Rico</li>
+
+  <li><a href="epsg/4140/index.html">EPSG:4140</a>: NAD83(CSRS98)</li>
+
+  <li><a href="epsg/4141/index.html">EPSG:4141</a>: Israel</li>
+
+  <li><a href="epsg/4142/index.html">EPSG:4142</a>: Locodjo 1965</li>
+
+  <li><a href="epsg/4143/index.html">EPSG:4143</a>: Abidjan 1987</li>
+
+  <li><a href="epsg/4144/index.html">EPSG:4144</a>: Kalianpur 1937</li>
+
+  <li><a href="epsg/4145/index.html">EPSG:4145</a>: Kalianpur 1962</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=39">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=41">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

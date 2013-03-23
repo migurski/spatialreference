@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=120">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=122">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/51475/index.html">IAU2000:51475</a>: Thebe Mercator AUTO</li>
+
+  <li><a href="iau2000/51476/index.html">IAU2000:51476</a>: Thebe Albers AUTO</li>
+
+  <li><a href="iau2000/51477/index.html">IAU2000:51477</a>: Thebe Albers AUTO</li>
+
+  <li><a href="iau2000/51478/index.html">IAU2000:51478</a>: Thebe Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51479/index.html">IAU2000:51479</a>: Thebe Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51500/index.html">IAU2000:51500</a>: Adrastea 2000</li>
+
+  <li><a href="iau2000/51501/index.html">IAU2000:51501</a>: Adrastea 2000</li>
+
+  <li><a href="iau2000/51510/index.html">IAU2000:51510</a>: Adrastea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51511/index.html">IAU2000:51511</a>: Adrastea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51512/index.html">IAU2000:51512</a>: Adrastea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51513/index.html">IAU2000:51513</a>: Adrastea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51514/index.html">IAU2000:51514</a>: Adrastea Sinusoidal</li>
+
+  <li><a href="iau2000/51515/index.html">IAU2000:51515</a>: Adrastea Sinusoidal</li>
+
+  <li><a href="iau2000/51516/index.html">IAU2000:51516</a>: Adrastea Sinusoidal</li>
+
+  <li><a href="iau2000/51517/index.html">IAU2000:51517</a>: Adrastea Sinusoidal</li>
+
+  <li><a href="iau2000/51518/index.html">IAU2000:51518</a>: Adrastea North Pole Stereographic</li>
+
+  <li><a href="iau2000/51519/index.html">IAU2000:51519</a>: Adrastea North Pole Stereographic</li>
+
+  <li><a href="iau2000/51520/index.html">IAU2000:51520</a>: Adrastea South Pole Stereographic</li>
+
+  <li><a href="iau2000/51521/index.html">IAU2000:51521</a>: Adrastea South Pole Stereographic</li>
+
+  <li><a href="iau2000/51560/index.html">IAU2000:51560</a>: Adrastea Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51561/index.html">IAU2000:51561</a>: Adrastea Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51562/index.html">IAU2000:51562</a>: Adrastea Stereographic AUTO</li>
+
+  <li><a href="iau2000/51563/index.html">IAU2000:51563</a>: Adrastea Stereographic AUTO</li>
+
+  <li><a href="iau2000/51564/index.html">IAU2000:51564</a>: Adrastea Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51565/index.html">IAU2000:51565</a>: Adrastea Transverse Mercator AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/51566/index.html">IAU2000:51566</a>: Adrastea Orthographic AUTO</li>
+
+  <li><a href="iau2000/51567/index.html">IAU2000:51567</a>: Adrastea Orthographic AUTO</li>
+
+  <li><a href="iau2000/51568/index.html">IAU2000:51568</a>: Adrastea Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51569/index.html">IAU2000:51569</a>: Adrastea Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51570/index.html">IAU2000:51570</a>: Adrastea Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51571/index.html">IAU2000:51571</a>: Adrastea Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51572/index.html">IAU2000:51572</a>: Adrastea Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51573/index.html">IAU2000:51573</a>: Adrastea Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51574/index.html">IAU2000:51574</a>: Adrastea Mercator AUTO</li>
+
+  <li><a href="iau2000/51575/index.html">IAU2000:51575</a>: Adrastea Mercator AUTO</li>
+
+  <li><a href="iau2000/51576/index.html">IAU2000:51576</a>: Adrastea Albers AUTO</li>
+
+  <li><a href="iau2000/51577/index.html">IAU2000:51577</a>: Adrastea Albers AUTO</li>
+
+  <li><a href="iau2000/51578/index.html">IAU2000:51578</a>: Adrastea Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51579/index.html">IAU2000:51579</a>: Adrastea Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51600/index.html">IAU2000:51600</a>: Metis 2000</li>
+
+  <li><a href="iau2000/51601/index.html">IAU2000:51601</a>: Metis 2000</li>
+
+  <li><a href="iau2000/51610/index.html">IAU2000:51610</a>: Metis Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51611/index.html">IAU2000:51611</a>: Metis Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51612/index.html">IAU2000:51612</a>: Metis Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51613/index.html">IAU2000:51613</a>: Metis Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51614/index.html">IAU2000:51614</a>: Metis Sinusoidal</li>
+
+  <li><a href="iau2000/51615/index.html">IAU2000:51615</a>: Metis Sinusoidal</li>
+
+  <li><a href="iau2000/51616/index.html">IAU2000:51616</a>: Metis Sinusoidal</li>
+
+  <li><a href="iau2000/51617/index.html">IAU2000:51617</a>: Metis Sinusoidal</li>
+
+  <li><a href="iau2000/51618/index.html">IAU2000:51618</a>: Metis North Pole Stereographic</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=120">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=122">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

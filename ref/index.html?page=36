@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=35">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=37">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3671/index.html">EPSG:3671</a>: NAD83(NSRS2007) / Texas South</li>
+
+  <li><a href="epsg/3672/index.html">EPSG:3672</a>: NAD83(NSRS2007) / Texas South (ftUS)</li>
+
+  <li><a href="epsg/3673/index.html">EPSG:3673</a>: NAD83(NSRS2007) / Texas South Central</li>
+
+  <li><a href="epsg/3674/index.html">EPSG:3674</a>: NAD83(NSRS2007) / Texas South Central (ftUS)</li>
+
+  <li><a href="epsg/3675/index.html">EPSG:3675</a>: NAD83(NSRS2007) / Utah Central</li>
+
+  <li><a href="epsg/3676/index.html">EPSG:3676</a>: NAD83(NSRS2007) / Utah Central (ft)</li>
+
+  <li><a href="epsg/3677/index.html">EPSG:3677</a>: NAD83(NSRS2007) / Utah Central (ftUS)</li>
+
+  <li><a href="epsg/3678/index.html">EPSG:3678</a>: NAD83(NSRS2007) / Utah North</li>
+
+  <li><a href="epsg/3679/index.html">EPSG:3679</a>: NAD83(NSRS2007) / Utah North (ft)</li>
+
+  <li><a href="epsg/3680/index.html">EPSG:3680</a>: NAD83(NSRS2007) / Utah North (ftUS)</li>
+
+  <li><a href="epsg/3681/index.html">EPSG:3681</a>: NAD83(NSRS2007) / Utah South</li>
+
+  <li><a href="epsg/3682/index.html">EPSG:3682</a>: NAD83(NSRS2007) / Utah South (ft)</li>
+
+  <li><a href="epsg/3683/index.html">EPSG:3683</a>: NAD83(NSRS2007) / Utah South (ftUS)</li>
+
+  <li><a href="epsg/3684/index.html">EPSG:3684</a>: NAD83(NSRS2007) / Vermont</li>
+
+  <li><a href="epsg/3685/index.html">EPSG:3685</a>: NAD83(NSRS2007) / Virginia North</li>
+
+  <li><a href="epsg/3686/index.html">EPSG:3686</a>: NAD83(NSRS2007) / Virginia North (ftUS)</li>
+
+  <li><a href="epsg/3687/index.html">EPSG:3687</a>: NAD83(NSRS2007) / Virginia South</li>
+
+  <li><a href="epsg/3688/index.html">EPSG:3688</a>: NAD83(NSRS2007) / Virginia South (ftUS)</li>
+
+  <li><a href="epsg/3689/index.html">EPSG:3689</a>: NAD83(NSRS2007) / Washington North</li>
+
+  <li><a href="epsg/3690/index.html">EPSG:3690</a>: NAD83(NSRS2007) / Washington North (ftUS)</li>
+
+  <li><a href="epsg/3691/index.html">EPSG:3691</a>: NAD83(NSRS2007) / Washington South</li>
+
+  <li><a href="epsg/3692/index.html">EPSG:3692</a>: NAD83(NSRS2007) / Washington South (ftUS)</li>
+
+  <li><a href="epsg/3693/index.html">EPSG:3693</a>: NAD83(NSRS2007) / West Virginia North</li>
+
+  <li><a href="epsg/3694/index.html">EPSG:3694</a>: NAD83(NSRS2007) / West Virginia South</li>
+
+  <li><a href="epsg/3695/index.html">EPSG:3695</a>: NAD83(NSRS2007) / Wisconsin Central</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3696/index.html">EPSG:3696</a>: NAD83(NSRS2007) / Wisconsin Central (ftUS)</li>
+
+  <li><a href="epsg/3697/index.html">EPSG:3697</a>: NAD83(NSRS2007) / Wisconsin North</li>
+
+  <li><a href="epsg/3698/index.html">EPSG:3698</a>: NAD83(NSRS2007) / Wisconsin North (ftUS)</li>
+
+  <li><a href="epsg/3699/index.html">EPSG:3699</a>: NAD83(NSRS2007) / Wisconsin South</li>
+
+  <li><a href="epsg/3700/index.html">EPSG:3700</a>: NAD83(NSRS2007) / Wisconsin South (ftUS)</li>
+
+  <li><a href="epsg/3701/index.html">EPSG:3701</a>: NAD83(NSRS2007) / Wisconsin Transverse Mercator</li>
+
+  <li><a href="epsg/3702/index.html">EPSG:3702</a>: NAD83(NSRS2007) / Wyoming East</li>
+
+  <li><a href="epsg/3703/index.html">EPSG:3703</a>: NAD83(NSRS2007) / Wyoming East Central</li>
+
+  <li><a href="epsg/3704/index.html">EPSG:3704</a>: NAD83(NSRS2007) / Wyoming West Central</li>
+
+  <li><a href="epsg/3705/index.html">EPSG:3705</a>: NAD83(NSRS2007) / Wyoming West</li>
+
+  <li><a href="epsg/3706/index.html">EPSG:3706</a>: NAD83(NSRS2007) / UTM zone 59N</li>
+
+  <li><a href="epsg/3707/index.html">EPSG:3707</a>: NAD83(NSRS2007) / UTM zone 60N</li>
+
+  <li><a href="epsg/3708/index.html">EPSG:3708</a>: NAD83(NSRS2007) / UTM zone 1N</li>
+
+  <li><a href="epsg/3709/index.html">EPSG:3709</a>: NAD83(NSRS2007) / UTM zone 2N</li>
+
+  <li><a href="epsg/3710/index.html">EPSG:3710</a>: NAD83(NSRS2007) / UTM zone 3N</li>
+
+  <li><a href="epsg/3711/index.html">EPSG:3711</a>: NAD83(NSRS2007) / UTM zone 4N</li>
+
+  <li><a href="epsg/3712/index.html">EPSG:3712</a>: NAD83(NSRS2007) / UTM zone 5N</li>
+
+  <li><a href="epsg/3713/index.html">EPSG:3713</a>: NAD83(NSRS2007) / UTM zone 6N</li>
+
+  <li><a href="epsg/3714/index.html">EPSG:3714</a>: NAD83(NSRS2007) / UTM zone 7N</li>
+
+  <li><a href="epsg/3715/index.html">EPSG:3715</a>: NAD83(NSRS2007) / UTM zone 8N</li>
+
+  <li><a href="epsg/3716/index.html">EPSG:3716</a>: NAD83(NSRS2007) / UTM zone 9N</li>
+
+  <li><a href="epsg/3717/index.html">EPSG:3717</a>: NAD83(NSRS2007) / UTM zone 10N</li>
+
+  <li><a href="epsg/3718/index.html">EPSG:3718</a>: NAD83(NSRS2007) / UTM zone 11N</li>
+
+  <li><a href="epsg/3719/index.html">EPSG:3719</a>: NAD83(NSRS2007) / UTM zone 12N</li>
+
+  <li><a href="epsg/3720/index.html">EPSG:3720</a>: NAD83(NSRS2007) / UTM zone 13N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=35">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=37">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=38">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=40">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3837/index.html">EPSG:3837</a>: Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 3</li>
+
+  <li><a href="epsg/3838/index.html">EPSG:3838</a>: Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/3839/index.html">EPSG:3839</a>: Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 9</li>
+
+  <li><a href="epsg/3840/index.html">EPSG:3840</a>: Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 10</li>
+
+  <li><a href="epsg/3841/index.html">EPSG:3841</a>: Pulkovo 1942(83) / 3-degree Gauss-Kruger zone 6</li>
+
+  <li><a href="epsg/3842/index.html">EPSG:3842</a>: Pulkovo 1942(83) / 3-degree Gauss-Kruger zone 7</li>
+
+  <li><a href="epsg/3843/index.html">EPSG:3843</a>: Pulkovo 1942(83) / 3-degree Gauss-Kruger zone 8</li>
+
+  <li><a href="epsg/3844/index.html">EPSG:3844</a>: Pulkovo 1942(58) / Stereo70</li>
+
+  <li><a href="epsg/3845/index.html">EPSG:3845</a>: SWEREF99 / RT90 7.5 gon V emulation</li>
+
+  <li><a href="epsg/3846/index.html">EPSG:3846</a>: SWEREF99 / RT90 5 gon V emulation</li>
+
+  <li><a href="epsg/3847/index.html">EPSG:3847</a>: SWEREF99 / RT90 2.5 gon V emulation</li>
+
+  <li><a href="epsg/3848/index.html">EPSG:3848</a>: SWEREF99 / RT90 0 gon emulation</li>
+
+  <li><a href="epsg/3849/index.html">EPSG:3849</a>: SWEREF99 / RT90 2.5 gon O emulation</li>
+
+  <li><a href="epsg/3850/index.html">EPSG:3850</a>: SWEREF99 / RT90 5 gon O emulation</li>
+
+  <li><a href="epsg/3920/index.html">EPSG:3920</a>: Puerto Rico / UTM zone 20N</li>
+
+  <li><a href="epsg/3942/index.html">EPSG:3942</a>: RGF93 / CC42</li>
+
+  <li><a href="epsg/3943/index.html">EPSG:3943</a>: RGF93 / CC43</li>
+
+  <li><a href="epsg/3944/index.html">EPSG:3944</a>: RGF93 / CC44</li>
+
+  <li><a href="epsg/3945/index.html">EPSG:3945</a>: RGF93 / CC45</li>
+
+  <li><a href="epsg/3946/index.html">EPSG:3946</a>: RGF93 / CC46</li>
+
+  <li><a href="epsg/3947/index.html">EPSG:3947</a>: RGF93 / CC47</li>
+
+  <li><a href="epsg/3948/index.html">EPSG:3948</a>: RGF93 / CC48</li>
+
+  <li><a href="epsg/3949/index.html">EPSG:3949</a>: RGF93 / CC49</li>
+
+  <li><a href="epsg/3950/index.html">EPSG:3950</a>: RGF93 / CC50</li>
+
+  <li><a href="epsg/3991/index.html">EPSG:3991</a>: Puerto Rico State Plane CS of 1927</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3992/index.html">EPSG:3992</a>: Puerto Rico / St. Croix</li>
+
+  <li><a href="epsg/3993/index.html">EPSG:3993</a>: Guam 1963 / Guam SPCS</li>
+
+  <li><a href="epsg/3994/index.html">EPSG:3994</a>: WGS 84 / Mercator 41</li>
+
+  <li><a href="epsg/3995/index.html">EPSG:3995</a>: WGS 84 / Arctic Polar Stereographic</li>
+
+  <li><a href="epsg/3996/index.html">EPSG:3996</a>: WGS 84 / IBCAO Polar Stereographic</li>
+
+  <li><a href="epsg/3997/index.html">EPSG:3997</a>: WGS 84 / Dubai Local TM</li>
+
+  <li><a href="epsg/4001/index.html">EPSG:4001</a>: Unknown datum based upon the Airy 1830 ellipsoid</li>
+
+  <li><a href="epsg/4002/index.html">EPSG:4002</a>: Unknown datum based upon the Airy Modified 1849 ellipsoid</li>
+
+  <li><a href="epsg/4003/index.html">EPSG:4003</a>: Unknown datum based upon the Australian National Spheroid</li>
+
+  <li><a href="epsg/4004/index.html">EPSG:4004</a>: Unknown datum based upon the Bessel 1841 ellipsoid</li>
+
+  <li><a href="epsg/4005/index.html">EPSG:4005</a>: Unknown datum based upon the Bessel Modified ellipsoid</li>
+
+  <li><a href="epsg/4006/index.html">EPSG:4006</a>: Unknown datum based upon the Bessel Namibia ellipsoid</li>
+
+  <li><a href="epsg/4007/index.html">EPSG:4007</a>: Unknown datum based upon the Clarke 1858 ellipsoid</li>
+
+  <li><a href="epsg/4008/index.html">EPSG:4008</a>: Unknown datum based upon the Clarke 1866 ellipsoid</li>
+
+  <li><a href="epsg/4009/index.html">EPSG:4009</a>: Unknown datum based upon the Clarke 1866 Michigan ellipsoid</li>
+
+  <li><a href="epsg/4010/index.html">EPSG:4010</a>: Unknown datum based upon the Clarke 1880 (Benoit) ellipsoid</li>
+
+  <li><a href="epsg/4011/index.html">EPSG:4011</a>: Unknown datum based upon the Clarke 1880 (IGN) ellipsoid</li>
+
+  <li><a href="epsg/4012/index.html">EPSG:4012</a>: Unknown datum based upon the Clarke 1880 (RGS) ellipsoid</li>
+
+  <li><a href="epsg/4013/index.html">EPSG:4013</a>: Unknown datum based upon the Clarke 1880 (Arc) ellipsoid</li>
+
+  <li><a href="epsg/4014/index.html">EPSG:4014</a>: Unknown datum based upon the Clarke 1880 (SGA 1922) ellipsoid</li>
+
+  <li><a href="epsg/4015/index.html">EPSG:4015</a>: Unknown datum based upon the Everest 1830 (1937 Adjustment) ellipsoid</li>
+
+  <li><a href="epsg/4016/index.html">EPSG:4016</a>: Unknown datum based upon the Everest 1830 (1967 Definition) ellipsoid</li>
+
+  <li><a href="epsg/4018/index.html">EPSG:4018</a>: Unknown datum based upon the Everest 1830 Modified ellipsoid</li>
+
+  <li><a href="epsg/4019/index.html">EPSG:4019</a>: Unknown datum based upon the GRS 1980 ellipsoid</li>
+
+  <li><a href="epsg/4020/index.html">EPSG:4020</a>: Unknown datum based upon the Helmert 1906 ellipsoid</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=38">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=40">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

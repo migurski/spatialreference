@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=65">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=67">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7176/index.html">SR-ORG:7176</a>: TESTING</li>
+
+  <li><a href="sr-org/7177/index.html">SR-ORG:7177</a>: Test</li>
+
+  <li><a href="sr-org/7178/index.html">SR-ORG:7178</a>: NAD83 / Conus Albers</li>
+
+  <li><a href="sr-org/7179/index.html">SR-ORG:7179</a>: PSAD_1956_UTM_ZONE_19S</li>
+
+  <li><a href="sr-org/7180/index.html">SR-ORG:7180</a>: VietNam</li>
+
+  <li><a href="sr-org/7181/index.html">SR-ORG:7181</a>: fsd</li>
+
+  <li><a href="sr-org/7182/index.html">SR-ORG:7182</a>: TEST</li>
+
+  <li><a href="sr-org/7183/index.html">SR-ORG:7183</a>: NAD-27</li>
+
+  <li><a href="sr-org/7184/index.html">SR-ORG:7184</a>: LA27-SF</li>
+
+  <li><a href="sr-org/7185/index.html">SR-ORG:7185</a>: AL27 -WF</li>
+
+  <li><a href="sr-org/7186/index.html">SR-ORG:7186</a>: AL27 -WF</li>
+
+  <li><a href="sr-org/7187/index.html">SR-ORG:7187</a>: AL27 -WF</li>
+
+  <li><a href="sr-org/7188/index.html">SR-ORG:7188</a>: AL27 -WF</li>
+
+  <li><a href="sr-org/7189/index.html">SR-ORG:7189</a>: AL27 -WF</li>
+
+  <li><a href="sr-org/7190/index.html">SR-ORG:7190</a>: AL27 -WF</li>
+
+  <li><a href="sr-org/7191/index.html">SR-ORG:7191</a>: ARM_PCS</li>
+
+  <li><a href="sr-org/7192/index.html">SR-ORG:7192</a>: test_sb</li>
+
+  <li><a href="sr-org/7193/index.html">SR-ORG:7193</a>: test_sb2</li>
+
+  <li><a href="sr-org/7194/index.html">SR-ORG:7194</a>: testsb2</li>
+
+  <li><a href="sr-org/7195/index.html">SR-ORG:7195</a>: adsadas</li>
+
+  <li><a href="sr-org/7196/index.html">SR-ORG:7196</a>: custom UTM 43 N wity False Shifts</li>
+
+  <li><a href="sr-org/7197/index.html">SR-ORG:7197</a>: NAD_1983_HARN_WISCRS_Rusk_County_Feet</li>
+
+  <li><a href="sr-org/7198/index.html">SR-ORG:7198</a>: Lambert Conformal Conic</li>
+
+  <li><a href="sr-org/7199/index.html">SR-ORG:7199</a>: LAMBERT I NORD</li>
+
+  <li><a href="sr-org/7200/index.html">SR-ORG:7200</a>: ARMENIA_PCS2</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7201/index.html">SR-ORG:7201</a>: ARM_PROJ_CS</li>
+
+  <li><a href="sr-org/7202/index.html">SR-ORG:7202</a>: ARM_PCS_3</li>
+
+  <li><a href="sr-org/7203/index.html">SR-ORG:7203</a>: Generic cartesian 2D</li>
+
+  <li><a href="sr-org/7204/index.html">SR-ORG:7204</a>: DHDN / Soldner 19 Lagerstatus 650</li>
+
+  <li><a href="sr-org/7205/index.html">SR-ORG:7205</a>: romania</li>
+
+  <li><a href="sr-org/7206/index.html">SR-ORG:7206</a>: D</li>
+
+  <li><a href="sr-org/7207/index.html">SR-ORG:7207</a>: D</li>
+
+  <li><a href="sr-org/7208/index.html">SR-ORG:7208</a>: MONREF97</li>
+
+  <li><a href="sr-org/7209/index.html">SR-ORG:7209</a>: MONREF97 48N</li>
+
+  <li><a href="sr-org/7210/index.html">SR-ORG:7210</a>: 6326</li>
+
+  <li><a href="sr-org/7211/index.html">SR-ORG:7211</a>: zs</li>
+
+  <li><a href="sr-org/7212/index.html">SR-ORG:7212</a>: GeoBeans Mercator</li>
+
+  <li><a href="sr-org/7213/index.html">SR-ORG:7213</a>: crtm05</li>
+
+  <li><a href="sr-org/7214/index.html">SR-ORG:7214</a>: Test corrego</li>
+
+  <li><a href="sr-org/7215/index.html">SR-ORG:7215</a>: WGS 84 / Arctic Polar Stereographic</li>
+
+  <li><a href="sr-org/7216/index.html">SR-ORG:7216</a>: LMFRAN93</li>
+
+  <li><a href="sr-org/7217/index.html">SR-ORG:7217</a>: Albers Conical Equal Area SIRGAS</li>
+
+  <li><a href="sr-org/7218/index.html">SR-ORG:7218</a>: Albers Conical Equal Area SIRGAS</li>
+
+  <li><a href="sr-org/7219/index.html">SR-ORG:7219</a>: IDK</li>
+
+  <li><a href="sr-org/7220/index.html">SR-ORG:7220</a>: US Historical Counties</li>
+
+  <li><a href="sr-org/7221/index.html">SR-ORG:7221</a>: yj</li>
+
+  <li><a href="sr-org/7222/index.html">SR-ORG:7222</a>: Test123456</li>
+
+  <li><a href="sr-org/7223/index.html">SR-ORG:7223</a>: Test1234567</li>
+
+  <li><a href="sr-org/7224/index.html">SR-ORG:7224</a>: Malta_Chopped_UTM</li>
+
+  <li><a href="sr-org/7225/index.html">SR-ORG:7225</a>: test</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=65">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=67">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

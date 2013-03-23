@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=41">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=43">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4199/index.html">EPSG:4199</a>: Egypt 1930</li>
+
+  <li><a href="epsg/4200/index.html">EPSG:4200</a>: Pulkovo 1995</li>
+
+  <li><a href="epsg/4201/index.html">EPSG:4201</a>: Adindan</li>
+
+  <li><a href="epsg/4202/index.html">EPSG:4202</a>: AGD66</li>
+
+  <li><a href="epsg/4203/index.html">EPSG:4203</a>: AGD84</li>
+
+  <li><a href="epsg/4204/index.html">EPSG:4204</a>: Ain el Abd</li>
+
+  <li><a href="epsg/4205/index.html">EPSG:4205</a>: Afgooye</li>
+
+  <li><a href="epsg/4206/index.html">EPSG:4206</a>: Agadez</li>
+
+  <li><a href="epsg/4207/index.html">EPSG:4207</a>: Lisbon</li>
+
+  <li><a href="epsg/4208/index.html">EPSG:4208</a>: Aratu</li>
+
+  <li><a href="epsg/4209/index.html">EPSG:4209</a>: Arc 1950</li>
+
+  <li><a href="epsg/4210/index.html">EPSG:4210</a>: Arc 1960</li>
+
+  <li><a href="epsg/4211/index.html">EPSG:4211</a>: Batavia</li>
+
+  <li><a href="epsg/4212/index.html">EPSG:4212</a>: Barbados 1938</li>
+
+  <li><a href="epsg/4213/index.html">EPSG:4213</a>: Beduaram</li>
+
+  <li><a href="epsg/4214/index.html">EPSG:4214</a>: Beijing 1954</li>
+
+  <li><a href="epsg/4215/index.html">EPSG:4215</a>: Belge 1950</li>
+
+  <li><a href="epsg/4216/index.html">EPSG:4216</a>: Bermuda 1957</li>
+
+  <li><a href="epsg/4218/index.html">EPSG:4218</a>: Bogota 1975</li>
+
+  <li><a href="epsg/4219/index.html">EPSG:4219</a>: Bukit Rimpah</li>
+
+  <li><a href="epsg/4220/index.html">EPSG:4220</a>: Camacupa</li>
+
+  <li><a href="epsg/4221/index.html">EPSG:4221</a>: Campo Inchauspe</li>
+
+  <li><a href="epsg/4222/index.html">EPSG:4222</a>: Cape</li>
+
+  <li><a href="epsg/4223/index.html">EPSG:4223</a>: Carthage</li>
+
+  <li><a href="epsg/4224/index.html">EPSG:4224</a>: Chua</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4225/index.html">EPSG:4225</a>: Corrego Alegre</li>
+
+  <li><a href="epsg/4226/index.html">EPSG:4226</a>: Cote d&#39;Ivoire</li>
+
+  <li><a href="epsg/4227/index.html">EPSG:4227</a>: Deir ez Zor</li>
+
+  <li><a href="epsg/4228/index.html">EPSG:4228</a>: Douala</li>
+
+  <li><a href="epsg/4229/index.html">EPSG:4229</a>: Egypt 1907</li>
+
+  <li><a href="epsg/4230/index.html">EPSG:4230</a>: ED50</li>
+
+  <li><a href="epsg/4231/index.html">EPSG:4231</a>: ED87</li>
+
+  <li><a href="epsg/4232/index.html">EPSG:4232</a>: Fahud</li>
+
+  <li><a href="epsg/4233/index.html">EPSG:4233</a>: Gandajika 1970</li>
+
+  <li><a href="epsg/4234/index.html">EPSG:4234</a>: Garoua</li>
+
+  <li><a href="epsg/4235/index.html">EPSG:4235</a>: Guyane Francaise</li>
+
+  <li><a href="epsg/4236/index.html">EPSG:4236</a>: Hu Tzu Shan 1950</li>
+
+  <li><a href="epsg/4237/index.html">EPSG:4237</a>: HD72</li>
+
+  <li><a href="epsg/4238/index.html">EPSG:4238</a>: ID74</li>
+
+  <li><a href="epsg/4239/index.html">EPSG:4239</a>: Indian 1954</li>
+
+  <li><a href="epsg/4240/index.html">EPSG:4240</a>: Indian 1975</li>
+
+  <li><a href="epsg/4241/index.html">EPSG:4241</a>: Jamaica 1875</li>
+
+  <li><a href="epsg/4242/index.html">EPSG:4242</a>: JAD69</li>
+
+  <li><a href="epsg/4243/index.html">EPSG:4243</a>: Kalianpur 1880</li>
+
+  <li><a href="epsg/4244/index.html">EPSG:4244</a>: Kandawala</li>
+
+  <li><a href="epsg/4245/index.html">EPSG:4245</a>: Kertau 1968</li>
+
+  <li><a href="epsg/4246/index.html">EPSG:4246</a>: KOC</li>
+
+  <li><a href="epsg/4247/index.html">EPSG:4247</a>: La Canoa</li>
+
+  <li><a href="epsg/4248/index.html">EPSG:4248</a>: PSAD56</li>
+
+  <li><a href="epsg/4249/index.html">EPSG:4249</a>: Lake</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=41">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=43">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

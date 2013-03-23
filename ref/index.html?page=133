@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=132">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=134">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/61375/index.html">IAU2000:61375</a>: Telesto Mercator AUTO</li>
+
+  <li><a href="iau2000/61376/index.html">IAU2000:61376</a>: Telesto Albers AUTO</li>
+
+  <li><a href="iau2000/61377/index.html">IAU2000:61377</a>: Telesto Albers AUTO</li>
+
+  <li><a href="iau2000/61378/index.html">IAU2000:61378</a>: Telesto Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61379/index.html">IAU2000:61379</a>: Telesto Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61400/index.html">IAU2000:61400</a>: Calypso 2000</li>
+
+  <li><a href="iau2000/61401/index.html">IAU2000:61401</a>: Calypso 2000</li>
+
+  <li><a href="iau2000/61410/index.html">IAU2000:61410</a>: Calypso Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61411/index.html">IAU2000:61411</a>: Calypso Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61412/index.html">IAU2000:61412</a>: Calypso Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61413/index.html">IAU2000:61413</a>: Calypso Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61414/index.html">IAU2000:61414</a>: Calypso Sinusoidal</li>
+
+  <li><a href="iau2000/61415/index.html">IAU2000:61415</a>: Calypso Sinusoidal</li>
+
+  <li><a href="iau2000/61416/index.html">IAU2000:61416</a>: Calypso Sinusoidal</li>
+
+  <li><a href="iau2000/61417/index.html">IAU2000:61417</a>: Calypso Sinusoidal</li>
+
+  <li><a href="iau2000/61418/index.html">IAU2000:61418</a>: Calypso North Pole Stereographic</li>
+
+  <li><a href="iau2000/61419/index.html">IAU2000:61419</a>: Calypso North Pole Stereographic</li>
+
+  <li><a href="iau2000/61420/index.html">IAU2000:61420</a>: Calypso South Pole Stereographic</li>
+
+  <li><a href="iau2000/61421/index.html">IAU2000:61421</a>: Calypso South Pole Stereographic</li>
+
+  <li><a href="iau2000/61460/index.html">IAU2000:61460</a>: Calypso Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61461/index.html">IAU2000:61461</a>: Calypso Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61462/index.html">IAU2000:61462</a>: Calypso Stereographic AUTO</li>
+
+  <li><a href="iau2000/61463/index.html">IAU2000:61463</a>: Calypso Stereographic AUTO</li>
+
+  <li><a href="iau2000/61464/index.html">IAU2000:61464</a>: Calypso Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61465/index.html">IAU2000:61465</a>: Calypso Transverse Mercator AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/61466/index.html">IAU2000:61466</a>: Calypso Orthographic AUTO</li>
+
+  <li><a href="iau2000/61467/index.html">IAU2000:61467</a>: Calypso Orthographic AUTO</li>
+
+  <li><a href="iau2000/61468/index.html">IAU2000:61468</a>: Calypso Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61469/index.html">IAU2000:61469</a>: Calypso Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61470/index.html">IAU2000:61470</a>: Calypso Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61471/index.html">IAU2000:61471</a>: Calypso Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61472/index.html">IAU2000:61472</a>: Calypso Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61473/index.html">IAU2000:61473</a>: Calypso Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61474/index.html">IAU2000:61474</a>: Calypso Mercator AUTO</li>
+
+  <li><a href="iau2000/61475/index.html">IAU2000:61475</a>: Calypso Mercator AUTO</li>
+
+  <li><a href="iau2000/61476/index.html">IAU2000:61476</a>: Calypso Albers AUTO</li>
+
+  <li><a href="iau2000/61477/index.html">IAU2000:61477</a>: Calypso Albers AUTO</li>
+
+  <li><a href="iau2000/61478/index.html">IAU2000:61478</a>: Calypso Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61479/index.html">IAU2000:61479</a>: Calypso Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61500/index.html">IAU2000:61500</a>: Atlas 2000</li>
+
+  <li><a href="iau2000/61501/index.html">IAU2000:61501</a>: Atlas 2000</li>
+
+  <li><a href="iau2000/61510/index.html">IAU2000:61510</a>: Atlas Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61511/index.html">IAU2000:61511</a>: Atlas Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61512/index.html">IAU2000:61512</a>: Atlas Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61513/index.html">IAU2000:61513</a>: Atlas Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61514/index.html">IAU2000:61514</a>: Atlas Sinusoidal</li>
+
+  <li><a href="iau2000/61515/index.html">IAU2000:61515</a>: Atlas Sinusoidal</li>
+
+  <li><a href="iau2000/61516/index.html">IAU2000:61516</a>: Atlas Sinusoidal</li>
+
+  <li><a href="iau2000/61517/index.html">IAU2000:61517</a>: Atlas Sinusoidal</li>
+
+  <li><a href="iau2000/61518/index.html">IAU2000:61518</a>: Atlas North Pole Stereographic</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=132">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=134">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

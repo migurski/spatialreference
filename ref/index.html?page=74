@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=73">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=75">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7553/index.html">SR-ORG:7553</a>: Test</li>
+
+  <li><a href="sr-org/7554/index.html">SR-ORG:7554</a>: sd</li>
+
+  <li><a href="sr-org/7555/index.html">SR-ORG:7555</a>: Bureau etude</li>
+
+  <li><a href="sr-org/7556/index.html">SR-ORG:7556</a>: Bureau etude</li>
+
+  <li><a href="sr-org/7557/index.html">SR-ORG:7557</a>: testbk</li>
+
+  <li><a href="sr-org/7558/index.html">SR-ORG:7558</a>: Warszawa 25 - test</li>
+
+  <li><a href="sr-org/7559/index.html">SR-ORG:7559</a>: sample</li>
+
+  <li><a href="sr-org/7560/index.html">SR-ORG:7560</a>: test</li>
+
+  <li><a href="sr-org/7561/index.html">SR-ORG:7561</a>: PSAD 56</li>
+
+  <li><a href="sr-org/7562/index.html">SR-ORG:7562</a>: MSK</li>
+
+  <li><a href="sr-org/7563/index.html">SR-ORG:7563</a>: Galveston County</li>
+
+  <li><a href="sr-org/7564/index.html">SR-ORG:7564</a>: China Albers Equal Area Conic</li>
+
+  <li><a href="sr-org/7565/index.html">SR-ORG:7565</a>: fsdfs</li>
+
+  <li><a href="sr-org/7566/index.html">SR-ORG:7566</a>: Croatie</li>
+
+  <li><a href="sr-org/7567/index.html">SR-ORG:7567</a>: Lambert_Azimuthal_Equal_Area South America (SERENA)</li>
+
+  <li><a href="sr-org/7568/index.html">SR-ORG:7568</a>: Kertau 1968 / UTM zone 47N</li>
+
+  <li><a href="sr-org/7569/index.html">SR-ORG:7569</a>: test</li>
+
+  <li><a href="sr-org/7570/index.html">SR-ORG:7570</a>: MontevideoPrj For esri</li>
+
+  <li><a href="sr-org/7571/index.html">SR-ORG:7571</a>: PA83-SF</li>
+
+  <li><a href="sr-org/7572/index.html">SR-ORG:7572</a>: PA-S</li>
+
+  <li><a href="sr-org/7573/index.html">SR-ORG:7573</a>: Test_Prj</li>
+
+  <li><a href="sr-org/7574/index.html">SR-ORG:7574</a>: WGS84-3 Deegree Utm Lo27</li>
+
+  <li><a href="sr-org/7575/index.html">SR-ORG:7575</a>: WGS84-3 Deegree Utm Lo30</li>
+
+  <li><a href="sr-org/7576/index.html">SR-ORG:7576</a>: WGS84-3 Deegree Utm Lo33</li>
+
+  <li><a href="sr-org/7577/index.html">SR-ORG:7577</a>: WGS84-3 Deegree Utm Lo36</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7578/index.html">SR-ORG:7578</a>: WGS84-3 Deegree Utm Lo39</li>
+
+  <li><a href="sr-org/7579/index.html">SR-ORG:7579</a>: WGS84-3 Deegree Utm Lo42</li>
+
+  <li><a href="sr-org/7580/index.html">SR-ORG:7580</a>: WGS84-3 Deegree Utm Lo45</li>
+
+  <li><a href="sr-org/7581/index.html">SR-ORG:7581</a>: UTM WGS84 19N</li>
+
+  <li><a href="sr-org/7582/index.html">SR-ORG:7582</a>: LKS-92 TM</li>
+
+  <li><a href="sr-org/7583/index.html">SR-ORG:7583</a>: RD_Amesfort</li>
+
+  <li><a href="sr-org/7584/index.html">SR-ORG:7584</a>: fiber</li>
+
+  <li><a href="sr-org/7585/index.html">SR-ORG:7585</a>: Pulkovo42-15</li>
+
+  <li><a href="sr-org/7586/index.html">SR-ORG:7586</a>: UK</li>
+
+  <li><a href="sr-org/7587/index.html">SR-ORG:7587</a>: myProjection</li>
+
+  <li><a href="sr-org/7588/index.html">SR-ORG:7588</a>: BinhDinh Project</li>
+
+  <li><a href="sr-org/7589/index.html">SR-ORG:7589</a>: EPSG:404000</li>
+
+  <li><a href="sr-org/7590/index.html">SR-ORG:7590</a>: test</li>
+
+  <li><a href="sr-org/7591/index.html">SR-ORG:7591</a>: bdvn2000</li>
+
+  <li><a href="sr-org/7592/index.html">SR-ORG:7592</a>: Sanson-Flamsteed</li>
+
+  <li><a href="sr-org/7593/index.html">SR-ORG:7593</a>: North America Lambert Conformal Conic 1SP</li>
+
+  <li><a href="sr-org/7594/index.html">SR-ORG:7594</a>: ESP94</li>
+
+  <li><a href="sr-org/7595/index.html">SR-ORG:7595</a>: WGS_1984_Web_Mercator_Auxiliary_Sphere1</li>
+
+  <li><a href="sr-org/7596/index.html">SR-ORG:7596</a>: ZhuQu_3_Degree_GK_CM_114E</li>
+
+  <li><a href="sr-org/7597/index.html">SR-ORG:7597</a>: zied</li>
+
+  <li><a href="sr-org/7598/index.html">SR-ORG:7598</a>: asd</li>
+
+  <li><a href="sr-org/7599/index.html">SR-ORG:7599</a>: test</li>
+
+  <li><a href="sr-org/7600/index.html">SR-ORG:7600</a>: Cassini_RSM</li>
+
+  <li><a href="sr-org/7601/index.html">SR-ORG:7601</a>: test1</li>
+
+  <li><a href="sr-org/7602/index.html">SR-ORG:7602</a>: 123</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=73">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=75">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

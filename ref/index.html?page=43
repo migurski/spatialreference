@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=42">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=44">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4250/index.html">EPSG:4250</a>: Leigon</li>
+
+  <li><a href="epsg/4251/index.html">EPSG:4251</a>: Liberia 1964</li>
+
+  <li><a href="epsg/4252/index.html">EPSG:4252</a>: Lome</li>
+
+  <li><a href="epsg/4253/index.html">EPSG:4253</a>: Luzon 1911</li>
+
+  <li><a href="epsg/4254/index.html">EPSG:4254</a>: Hito XVIII 1963</li>
+
+  <li><a href="epsg/4255/index.html">EPSG:4255</a>: Herat North</li>
+
+  <li><a href="epsg/4256/index.html">EPSG:4256</a>: Mahe 1971</li>
+
+  <li><a href="epsg/4257/index.html">EPSG:4257</a>: Makassar</li>
+
+  <li><a href="epsg/4258/index.html">EPSG:4258</a>: ETRS89</li>
+
+  <li><a href="epsg/4259/index.html">EPSG:4259</a>: Malongo 1987</li>
+
+  <li><a href="epsg/4260/index.html">EPSG:4260</a>: Manoca</li>
+
+  <li><a href="epsg/4261/index.html">EPSG:4261</a>: Merchich</li>
+
+  <li><a href="epsg/4262/index.html">EPSG:4262</a>: Massawa</li>
+
+  <li><a href="epsg/4263/index.html">EPSG:4263</a>: Minna</li>
+
+  <li><a href="epsg/4264/index.html">EPSG:4264</a>: Mhast</li>
+
+  <li><a href="epsg/4265/index.html">EPSG:4265</a>: Monte Mario</li>
+
+  <li><a href="epsg/4266/index.html">EPSG:4266</a>: M&#39;poraloko</li>
+
+  <li><a href="epsg/4267/index.html">EPSG:4267</a>: NAD27</li>
+
+  <li><a href="epsg/4268/index.html">EPSG:4268</a>: NAD27 Michigan</li>
+
+  <li><a href="epsg/4269/index.html">EPSG:4269</a>: NAD83</li>
+
+  <li><a href="epsg/4270/index.html">EPSG:4270</a>: Nahrwan 1967</li>
+
+  <li><a href="epsg/4271/index.html">EPSG:4271</a>: Naparima 1972</li>
+
+  <li><a href="epsg/4272/index.html">EPSG:4272</a>: NZGD49</li>
+
+  <li><a href="epsg/4273/index.html">EPSG:4273</a>: NGO 1948</li>
+
+  <li><a href="epsg/4274/index.html">EPSG:4274</a>: Datum 73</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4275/index.html">EPSG:4275</a>: NTF</li>
+
+  <li><a href="epsg/4276/index.html">EPSG:4276</a>: NSWC 9Z-2</li>
+
+  <li><a href="epsg/4277/index.html">EPSG:4277</a>: OSGB 1936</li>
+
+  <li><a href="epsg/4278/index.html">EPSG:4278</a>: OSGB70</li>
+
+  <li><a href="epsg/4279/index.html">EPSG:4279</a>: OS(SN)80</li>
+
+  <li><a href="epsg/4280/index.html">EPSG:4280</a>: Padang</li>
+
+  <li><a href="epsg/4281/index.html">EPSG:4281</a>: Palestine 1923</li>
+
+  <li><a href="epsg/4282/index.html">EPSG:4282</a>: Pointe Noire</li>
+
+  <li><a href="epsg/4283/index.html">EPSG:4283</a>: GDA94</li>
+
+  <li><a href="epsg/4284/index.html">EPSG:4284</a>: Pulkovo 1942</li>
+
+  <li><a href="epsg/4285/index.html">EPSG:4285</a>: Qatar 1974</li>
+
+  <li><a href="epsg/4286/index.html">EPSG:4286</a>: Qatar 1948</li>
+
+  <li><a href="epsg/4287/index.html">EPSG:4287</a>: Qornoq</li>
+
+  <li><a href="epsg/4288/index.html">EPSG:4288</a>: Loma Quintana</li>
+
+  <li><a href="epsg/4289/index.html">EPSG:4289</a>: Amersfoort</li>
+
+  <li><a href="epsg/4291/index.html">EPSG:4291</a>: SAD69</li>
+
+  <li><a href="epsg/4292/index.html">EPSG:4292</a>: Sapper Hill 1943</li>
+
+  <li><a href="epsg/4293/index.html">EPSG:4293</a>: Schwarzeck</li>
+
+  <li><a href="epsg/4294/index.html">EPSG:4294</a>: Segora</li>
+
+  <li><a href="epsg/4295/index.html">EPSG:4295</a>: Serindung</li>
+
+  <li><a href="epsg/4296/index.html">EPSG:4296</a>: Sudan</li>
+
+  <li><a href="epsg/4297/index.html">EPSG:4297</a>: Tananarive</li>
+
+  <li><a href="epsg/4298/index.html">EPSG:4298</a>: Timbalai 1948</li>
+
+  <li><a href="epsg/4299/index.html">EPSG:4299</a>: TM65</li>
+
+  <li><a href="epsg/4300/index.html">EPSG:4300</a>: TM75</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=42">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=44">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

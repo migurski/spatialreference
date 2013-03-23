@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=121">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=123">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/51619/index.html">IAU2000:51619</a>: Metis North Pole Stereographic</li>
+
+  <li><a href="iau2000/51620/index.html">IAU2000:51620</a>: Metis South Pole Stereographic</li>
+
+  <li><a href="iau2000/51621/index.html">IAU2000:51621</a>: Metis South Pole Stereographic</li>
+
+  <li><a href="iau2000/51660/index.html">IAU2000:51660</a>: Metis Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51661/index.html">IAU2000:51661</a>: Metis Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51662/index.html">IAU2000:51662</a>: Metis Stereographic AUTO</li>
+
+  <li><a href="iau2000/51663/index.html">IAU2000:51663</a>: Metis Stereographic AUTO</li>
+
+  <li><a href="iau2000/51664/index.html">IAU2000:51664</a>: Metis Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51665/index.html">IAU2000:51665</a>: Metis Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51666/index.html">IAU2000:51666</a>: Metis Orthographic AUTO</li>
+
+  <li><a href="iau2000/51667/index.html">IAU2000:51667</a>: Metis Orthographic AUTO</li>
+
+  <li><a href="iau2000/51668/index.html">IAU2000:51668</a>: Metis Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51669/index.html">IAU2000:51669</a>: Metis Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51670/index.html">IAU2000:51670</a>: Metis Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51671/index.html">IAU2000:51671</a>: Metis Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51672/index.html">IAU2000:51672</a>: Metis Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51673/index.html">IAU2000:51673</a>: Metis Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51674/index.html">IAU2000:51674</a>: Metis Mercator AUTO</li>
+
+  <li><a href="iau2000/51675/index.html">IAU2000:51675</a>: Metis Mercator AUTO</li>
+
+  <li><a href="iau2000/51676/index.html">IAU2000:51676</a>: Metis Albers AUTO</li>
+
+  <li><a href="iau2000/51677/index.html">IAU2000:51677</a>: Metis Albers AUTO</li>
+
+  <li><a href="iau2000/51678/index.html">IAU2000:51678</a>: Metis Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51679/index.html">IAU2000:51679</a>: Metis Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="esri/53001/index.html">ESRI:53001</a>: Sphere Plate Carree</li>
+
+  <li><a href="esri/53002/index.html">ESRI:53002</a>: Sphere Equidistant Cylindrical</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="esri/53003/index.html">ESRI:53003</a>: Sphere Miller Cylindrical</li>
+
+  <li><a href="esri/53004/index.html">ESRI:53004</a>: Sphere Mercator</li>
+
+  <li><a href="esri/53008/index.html">ESRI:53008</a>: Sphere Sinusoidal</li>
+
+  <li><a href="esri/53009/index.html">ESRI:53009</a>: Sphere Mollweide</li>
+
+  <li><a href="esri/53010/index.html">ESRI:53010</a>: Sphere Eckert VI</li>
+
+  <li><a href="esri/53011/index.html">ESRI:53011</a>: Sphere Eckert V</li>
+
+  <li><a href="esri/53012/index.html">ESRI:53012</a>: Sphere Eckert IV</li>
+
+  <li><a href="esri/53013/index.html">ESRI:53013</a>: Sphere Eckert III</li>
+
+  <li><a href="esri/53014/index.html">ESRI:53014</a>: Sphere Eckert II</li>
+
+  <li><a href="esri/53015/index.html">ESRI:53015</a>: Sphere Eckert I</li>
+
+  <li><a href="esri/53016/index.html">ESRI:53016</a>: Sphere Gall Stereographic</li>
+
+  <li><a href="esri/53017/index.html">ESRI:53017</a>: Sphere Behrmann</li>
+
+  <li><a href="esri/53018/index.html">ESRI:53018</a>: Sphere Winkel I</li>
+
+  <li><a href="esri/53019/index.html">ESRI:53019</a>: Sphere Winkel II</li>
+
+  <li><a href="esri/53021/index.html">ESRI:53021</a>: Sphere Polyconic</li>
+
+  <li><a href="esri/53022/index.html">ESRI:53022</a>: Sphere Quartic Authalic</li>
+
+  <li><a href="esri/53023/index.html">ESRI:53023</a>: Sphere Loximuthal</li>
+
+  <li><a href="esri/53024/index.html">ESRI:53024</a>: Sphere Bonne</li>
+
+  <li><a href="esri/53025/index.html">ESRI:53025</a>: Sphere Hotine</li>
+
+  <li><a href="esri/53026/index.html">ESRI:53026</a>: Sphere Stereographic</li>
+
+  <li><a href="esri/53027/index.html">ESRI:53027</a>: Sphere Equidistant Conic</li>
+
+  <li><a href="esri/53028/index.html">ESRI:53028</a>: Sphere Cassini</li>
+
+  <li><a href="esri/53029/index.html">ESRI:53029</a>: Sphere Van der Grinten I</li>
+
+  <li><a href="esri/53030/index.html">ESRI:53030</a>: Sphere Robinson</li>
+
+  <li><a href="esri/53031/index.html">ESRI:53031</a>: Sphere Two Point Equidistant</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=121">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=123">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=145">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=147">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/71377/index.html">IAU2000:71377</a>: Rosalind Albers AUTO</li>
+
+  <li><a href="iau2000/71378/index.html">IAU2000:71378</a>: Rosalind Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71379/index.html">IAU2000:71379</a>: Rosalind Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71400/index.html">IAU2000:71400</a>: Belinda 2000</li>
+
+  <li><a href="iau2000/71401/index.html">IAU2000:71401</a>: Belinda 2000</li>
+
+  <li><a href="iau2000/71410/index.html">IAU2000:71410</a>: Belinda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71411/index.html">IAU2000:71411</a>: Belinda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71412/index.html">IAU2000:71412</a>: Belinda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71413/index.html">IAU2000:71413</a>: Belinda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71414/index.html">IAU2000:71414</a>: Belinda Sinusoidal</li>
+
+  <li><a href="iau2000/71415/index.html">IAU2000:71415</a>: Belinda Sinusoidal</li>
+
+  <li><a href="iau2000/71416/index.html">IAU2000:71416</a>: Belinda Sinusoidal</li>
+
+  <li><a href="iau2000/71417/index.html">IAU2000:71417</a>: Belinda Sinusoidal</li>
+
+  <li><a href="iau2000/71418/index.html">IAU2000:71418</a>: Belinda North Pole Stereographic</li>
+
+  <li><a href="iau2000/71419/index.html">IAU2000:71419</a>: Belinda North Pole Stereographic</li>
+
+  <li><a href="iau2000/71420/index.html">IAU2000:71420</a>: Belinda South Pole Stereographic</li>
+
+  <li><a href="iau2000/71421/index.html">IAU2000:71421</a>: Belinda South Pole Stereographic</li>
+
+  <li><a href="iau2000/71460/index.html">IAU2000:71460</a>: Belinda Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71461/index.html">IAU2000:71461</a>: Belinda Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71462/index.html">IAU2000:71462</a>: Belinda Stereographic AUTO</li>
+
+  <li><a href="iau2000/71463/index.html">IAU2000:71463</a>: Belinda Stereographic AUTO</li>
+
+  <li><a href="iau2000/71464/index.html">IAU2000:71464</a>: Belinda Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71465/index.html">IAU2000:71465</a>: Belinda Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71466/index.html">IAU2000:71466</a>: Belinda Orthographic AUTO</li>
+
+  <li><a href="iau2000/71467/index.html">IAU2000:71467</a>: Belinda Orthographic AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/71468/index.html">IAU2000:71468</a>: Belinda Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71469/index.html">IAU2000:71469</a>: Belinda Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71470/index.html">IAU2000:71470</a>: Belinda Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71471/index.html">IAU2000:71471</a>: Belinda Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71472/index.html">IAU2000:71472</a>: Belinda Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71473/index.html">IAU2000:71473</a>: Belinda Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71474/index.html">IAU2000:71474</a>: Belinda Mercator AUTO</li>
+
+  <li><a href="iau2000/71475/index.html">IAU2000:71475</a>: Belinda Mercator AUTO</li>
+
+  <li><a href="iau2000/71476/index.html">IAU2000:71476</a>: Belinda Albers AUTO</li>
+
+  <li><a href="iau2000/71477/index.html">IAU2000:71477</a>: Belinda Albers AUTO</li>
+
+  <li><a href="iau2000/71478/index.html">IAU2000:71478</a>: Belinda Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71479/index.html">IAU2000:71479</a>: Belinda Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71500/index.html">IAU2000:71500</a>: Puck 2000</li>
+
+  <li><a href="iau2000/71501/index.html">IAU2000:71501</a>: Puck 2000</li>
+
+  <li><a href="iau2000/71510/index.html">IAU2000:71510</a>: Puck Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71511/index.html">IAU2000:71511</a>: Puck Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71512/index.html">IAU2000:71512</a>: Puck Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71513/index.html">IAU2000:71513</a>: Puck Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71514/index.html">IAU2000:71514</a>: Puck Sinusoidal</li>
+
+  <li><a href="iau2000/71515/index.html">IAU2000:71515</a>: Puck Sinusoidal</li>
+
+  <li><a href="iau2000/71516/index.html">IAU2000:71516</a>: Puck Sinusoidal</li>
+
+  <li><a href="iau2000/71517/index.html">IAU2000:71517</a>: Puck Sinusoidal</li>
+
+  <li><a href="iau2000/71518/index.html">IAU2000:71518</a>: Puck North Pole Stereographic</li>
+
+  <li><a href="iau2000/71519/index.html">IAU2000:71519</a>: Puck North Pole Stereographic</li>
+
+  <li><a href="iau2000/71520/index.html">IAU2000:71520</a>: Puck South Pole Stereographic</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=145">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=147">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

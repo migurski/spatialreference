@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=161">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=163">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="esri/104104/index.html">ESRI:104104</a>: GCS Hong Kong 1980</li>
+
+  <li><a href="esri/104105/index.html">ESRI:104105</a>: GCS Datum Lisboa Bessel</li>
+
+  <li><a href="esri/104106/index.html">ESRI:104106</a>: GCS Datum Lisboa Hayford</li>
+
+  <li><a href="esri/104107/index.html">ESRI:104107</a>: GCS RGF 1993</li>
+
+  <li><a href="esri/104108/index.html">ESRI:104108</a>: GCS NZGD 2000</li>
+
+  <li><a href="esri/104261/index.html">ESRI:104261</a>: GCS Merchich Degree</li>
+
+  <li><a href="esri/104304/index.html">ESRI:104304</a>: GCS Voirol 1875 Degree</li>
+
+  <li><a href="esri/104305/index.html">ESRI:104305</a>: GCS Voirol Unifie 1960 Degree</li>
+
+  <li><a href="epsg/61206405/index.html">EPSG:61206405</a>: Greek (deg)</li>
+
+  <li><a href="epsg/61216405/index.html">EPSG:61216405</a>: GGRS87 (deg)</li>
+
+  <li><a href="epsg/61226405/index.html">EPSG:61226405</a>: ATS77 (deg)</li>
+
+  <li><a href="epsg/61236405/index.html">EPSG:61236405</a>: KKJ (deg)</li>
+
+  <li><a href="epsg/61246405/index.html">EPSG:61246405</a>: RT90 (deg)</li>
+
+  <li><a href="epsg/61266405/index.html">EPSG:61266405</a>: LKS94 (ETRS89) (deg)</li>
+
+  <li><a href="epsg/61266413/index.html">EPSG:61266413</a>: LKS94 (ETRS89) (3D deg)</li>
+
+  <li><a href="epsg/61276405/index.html">EPSG:61276405</a>: Tete (deg)</li>
+
+  <li><a href="epsg/61286405/index.html">EPSG:61286405</a>: Madzansua (deg)</li>
+
+  <li><a href="epsg/61296405/index.html">EPSG:61296405</a>: Observatario (deg)</li>
+
+  <li><a href="epsg/61306405/index.html">EPSG:61306405</a>: Moznet (deg)</li>
+
+  <li><a href="epsg/61306413/index.html">EPSG:61306413</a>: Moznet (3D deg)</li>
+
+  <li><a href="epsg/61316405/index.html">EPSG:61316405</a>: Indian 1960 (deg)</li>
+
+  <li><a href="epsg/61326405/index.html">EPSG:61326405</a>: FD58 (deg)</li>
+
+  <li><a href="epsg/61336405/index.html">EPSG:61336405</a>: EST92 (deg)</li>
+
+  <li><a href="epsg/61346405/index.html">EPSG:61346405</a>: PDO Survey Datum 1993 (deg)</li>
+
+  <li><a href="epsg/61356405/index.html">EPSG:61356405</a>: Old Hawaiian (deg)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/61366405/index.html">EPSG:61366405</a>: St. Lawrence Island (deg)</li>
+
+  <li><a href="epsg/61376405/index.html">EPSG:61376405</a>: St. Paul Island (deg)</li>
+
+  <li><a href="epsg/61386405/index.html">EPSG:61386405</a>: St. George Island (deg)</li>
+
+  <li><a href="epsg/61396405/index.html">EPSG:61396405</a>: Puerto Rico (deg)</li>
+
+  <li><a href="epsg/61406405/index.html">EPSG:61406405</a>: NAD83(CSRS) (deg)</li>
+
+  <li><a href="epsg/61406413/index.html">EPSG:61406413</a>: NAD83(CSRS) (3D deg)</li>
+
+  <li><a href="epsg/61416405/index.html">EPSG:61416405</a>: Israel (deg)</li>
+
+  <li><a href="epsg/61426405/index.html">EPSG:61426405</a>: Locodjo 1965 (deg)</li>
+
+  <li><a href="epsg/61436405/index.html">EPSG:61436405</a>: Abidjan 1987 (deg)</li>
+
+  <li><a href="epsg/61446405/index.html">EPSG:61446405</a>: Kalianpur 1937 (deg)</li>
+
+  <li><a href="epsg/61456405/index.html">EPSG:61456405</a>: Kalianpur 1962 (deg)</li>
+
+  <li><a href="epsg/61466405/index.html">EPSG:61466405</a>: Kalianpur 1975 (deg)</li>
+
+  <li><a href="epsg/61476405/index.html">EPSG:61476405</a>: Hanoi 1972 (deg)</li>
+
+  <li><a href="epsg/61486405/index.html">EPSG:61486405</a>: Hartebeesthoek94 (deg)</li>
+
+  <li><a href="epsg/61486413/index.html">EPSG:61486413</a>: Hartebeesthoek94 (3D deg)</li>
+
+  <li><a href="epsg/61496405/index.html">EPSG:61496405</a>: CH1903 (deg)</li>
+
+  <li><a href="epsg/61506405/index.html">EPSG:61506405</a>: CH1903+ (deg)</li>
+
+  <li><a href="epsg/61516405/index.html">EPSG:61516405</a>: CHTRF95 (deg)</li>
+
+  <li><a href="epsg/61516413/index.html">EPSG:61516413</a>: CHTRF95 (3D deg)</li>
+
+  <li><a href="epsg/61526405/index.html">EPSG:61526405</a>: NAD83(HARN) (deg)</li>
+
+  <li><a href="epsg/61526413/index.html">EPSG:61526413</a>: NAD83(HARN) (3D deg)</li>
+
+  <li><a href="epsg/61536405/index.html">EPSG:61536405</a>: Rassadiran (deg)</li>
+
+  <li><a href="epsg/61546405/index.html">EPSG:61546405</a>: ED50(ED77) (deg)</li>
+
+  <li><a href="epsg/61556405/index.html">EPSG:61556405</a>: Dabola 1981 (deg)</li>
+
+  <li><a href="epsg/61566405/index.html">EPSG:61566405</a>: S-JTSK (deg)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=161">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=163">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

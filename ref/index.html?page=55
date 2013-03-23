@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=54">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=56">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/6626/index.html">SR-ORG:6626</a>: NIMES</li>
+
+  <li><a href="sr-org/6627/index.html">SR-ORG:6627</a>: Google Mercator</li>
+
+  <li><a href="sr-org/6628/index.html">SR-ORG:6628</a>: ACT (Stromlo) Standard Grid</li>
+
+  <li><a href="sr-org/6629/index.html">SR-ORG:6629</a>: got his from city of chicago</li>
+
+  <li><a href="sr-org/6630/index.html">SR-ORG:6630</a>: Albers Conical Equal Area as used by mrlc.gov (NLCD)</li>
+
+  <li><a href="sr-org/6631/index.html">SR-ORG:6631</a>: Oregon highway network (2007) projection</li>
+
+  <li><a href="sr-org/6632/index.html">SR-ORG:6632</a>: Oregon Statewide Lambert</li>
+
+  <li><a href="sr-org/6633/index.html">SR-ORG:6633</a>: Oregon DEM Projection</li>
+
+  <li><a href="sr-org/6634/index.html">SR-ORG:6634</a>: Czech S-JTSK GIS: ESRI:102067</li>
+
+  <li><a href="sr-org/6635/index.html">SR-ORG:6635</a>: Czech S-JTSK EPSG:2065</li>
+
+  <li><a href="sr-org/6636/index.html">SR-ORG:6636</a>: Czech S-42: EPSG:28403 - S-42 (Pulkovo 1942 / Gauss-Krüger zone 3)</li>
+
+  <li><a href="sr-org/6637/index.html">SR-ORG:6637</a>: Ashland County, WI Feet</li>
+
+  <li><a href="sr-org/6638/index.html">SR-ORG:6638</a>: Ashland County Wisconsin Feet</li>
+
+  <li><a href="sr-org/6639/index.html">SR-ORG:6639</a>: VA</li>
+
+  <li><a href="sr-org/6640/index.html">SR-ORG:6640</a>: GRS80 Korea TM</li>
+
+  <li><a href="sr-org/6641/index.html">SR-ORG:6641</a>: EPSG:THAI24047</li>
+
+  <li><a href="sr-org/6642/index.html">SR-ORG:6642</a>: Australia Albers Equal Area Conic</li>
+
+  <li><a href="sr-org/6643/index.html">SR-ORG:6643</a>: Australia Albers Equal Area Conic</li>
+
+  <li><a href="sr-org/6644/index.html">SR-ORG:6644</a>: Australia Albers Equal Area Conic (134)</li>
+
+  <li><a href="sr-org/6645/index.html">SR-ORG:6645</a>: NTF Paris / Clarke 1880 IGN / Lambert CC 2SP</li>
+
+  <li><a href="sr-org/6646/index.html">SR-ORG:6646</a>: Pennsylvania Department of Environmental Protection</li>
+
+  <li><a href="sr-org/6647/index.html">SR-ORG:6647</a>: WT-RD-PS</li>
+
+  <li><a href="sr-org/6648/index.html">SR-ORG:6648</a>: INGR94</li>
+
+  <li><a href="sr-org/6649/index.html">SR-ORG:6649</a>: INGR94</li>
+
+  <li><a href="sr-org/6650/index.html">SR-ORG:6650</a>: INDIAT4U</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/6651/index.html">SR-ORG:6651</a>: Australian</li>
+
+  <li><a href="sr-org/6652/index.html">SR-ORG:6652</a>: Aust</li>
+
+  <li><a href="sr-org/6653/index.html">SR-ORG:6653</a>: Unknown</li>
+
+  <li><a href="sr-org/6654/index.html">SR-ORG:6654</a>: NAD83 State Plane Maryland FIPS 1900</li>
+
+  <li><a href="sr-org/6655/index.html">SR-ORG:6655</a>: satish</li>
+
+  <li><a href="sr-org/6656/index.html">SR-ORG:6656</a>: kranthi</li>
+
+  <li><a href="sr-org/6657/index.html">SR-ORG:6657</a>: Permian Base</li>
+
+  <li><a href="sr-org/6658/index.html">SR-ORG:6658</a>: TestLocalSystem</li>
+
+  <li><a href="sr-org/6659/index.html">SR-ORG:6659</a>: TestLocalSystem</li>
+
+  <li><a href="sr-org/6660/index.html">SR-ORG:6660</a>: test1</li>
+
+  <li><a href="sr-org/6661/index.html">SR-ORG:6661</a>: Darwin Glacier Lambert Conformal 2000</li>
+
+  <li><a href="sr-org/6662/index.html">SR-ORG:6662</a>: Chua - UTM 23S</li>
+
+  <li><a href="sr-org/6663/index.html">SR-ORG:6663</a>: Chua Astro- UTM 23S (Before 2000)</li>
+
+  <li><a href="sr-org/6664/index.html">SR-ORG:6664</a>: Chua Astro - UTM 23S (After 2000)</li>
+
+  <li><a href="sr-org/6665/index.html">SR-ORG:6665</a>: Lambert N CR</li>
+
+  <li><a href="sr-org/6666/index.html">SR-ORG:6666</a>: NAD 1983 HARN Wisconsin CRS Dodge (US feet)</li>
+
+  <li><a href="sr-org/6667/index.html">SR-ORG:6667</a>: test</li>
+
+  <li><a href="sr-org/6668/index.html">SR-ORG:6668</a>: Kerb Line Sample</li>
+
+  <li><a href="sr-org/6669/index.html">SR-ORG:6669</a>: testy</li>
+
+  <li><a href="sr-org/6670/index.html">SR-ORG:6670</a>: Albers Conical Equal Area</li>
+
+  <li><a href="sr-org/6671/index.html">SR-ORG:6671</a>: 27591</li>
+
+  <li><a href="sr-org/6672/index.html">SR-ORG:6672</a>: PPPARISNORD</li>
+
+  <li><a href="sr-org/6673/index.html">SR-ORG:6673</a>: PPNIMES</li>
+
+  <li><a href="sr-org/6674/index.html">SR-ORG:6674</a>: DodgeCountyWi</li>
+
+  <li><a href="sr-org/6675/index.html">SR-ORG:6675</a>: ESRI:103412:  Wisconsin Dane County Coordinate System - US Feet</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=54">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=56">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

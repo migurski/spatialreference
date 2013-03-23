@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=96">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=98">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/31990/index.html">EPSG:31990</a>: SIRGAS 1995 / UTM zone 21N</li>
+
+  <li><a href="epsg/31991/index.html">EPSG:31991</a>: SIRGAS 1995 / UTM zone 22N</li>
+
+  <li><a href="epsg/31992/index.html">EPSG:31992</a>: SIRGAS 1995 / UTM zone 17S</li>
+
+  <li><a href="epsg/31993/index.html">EPSG:31993</a>: SIRGAS 1995 / UTM zone 18S</li>
+
+  <li><a href="epsg/31994/index.html">EPSG:31994</a>: SIRGAS 1995 / UTM zone 19S</li>
+
+  <li><a href="epsg/31995/index.html">EPSG:31995</a>: SIRGAS 1995 / UTM zone 20S</li>
+
+  <li><a href="epsg/31996/index.html">EPSG:31996</a>: SIRGAS 1995 / UTM zone 21S</li>
+
+  <li><a href="epsg/31997/index.html">EPSG:31997</a>: SIRGAS 1995 / UTM zone 22S</li>
+
+  <li><a href="epsg/31998/index.html">EPSG:31998</a>: SIRGAS 1995 / UTM zone 23S</li>
+
+  <li><a href="epsg/31999/index.html">EPSG:31999</a>: SIRGAS 1995 / UTM zone 24S</li>
+
+  <li><a href="epsg/32000/index.html">EPSG:32000</a>: SIRGAS 1995 / UTM zone 25S</li>
+
+  <li><a href="epsg/32001/index.html">EPSG:32001</a>: NAD27 / Montana North</li>
+
+  <li><a href="epsg/32002/index.html">EPSG:32002</a>: NAD27 / Montana Central</li>
+
+  <li><a href="epsg/32003/index.html">EPSG:32003</a>: NAD27 / Montana South</li>
+
+  <li><a href="epsg/32005/index.html">EPSG:32005</a>: NAD27 / Nebraska North</li>
+
+  <li><a href="epsg/32006/index.html">EPSG:32006</a>: NAD27 / Nebraska South</li>
+
+  <li><a href="epsg/32007/index.html">EPSG:32007</a>: NAD27 / Nevada East</li>
+
+  <li><a href="epsg/32008/index.html">EPSG:32008</a>: NAD27 / Nevada Central</li>
+
+  <li><a href="epsg/32009/index.html">EPSG:32009</a>: NAD27 / Nevada West</li>
+
+  <li><a href="epsg/32010/index.html">EPSG:32010</a>: NAD27 / New Hampshire</li>
+
+  <li><a href="epsg/32011/index.html">EPSG:32011</a>: NAD27 / New Jersey</li>
+
+  <li><a href="epsg/32012/index.html">EPSG:32012</a>: NAD27 / New Mexico East</li>
+
+  <li><a href="epsg/32013/index.html">EPSG:32013</a>: NAD27 / New Mexico Central</li>
+
+  <li><a href="epsg/32014/index.html">EPSG:32014</a>: NAD27 / New Mexico West</li>
+
+  <li><a href="epsg/32015/index.html">EPSG:32015</a>: NAD27 / New York East</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/32016/index.html">EPSG:32016</a>: NAD27 / New York Central</li>
+
+  <li><a href="epsg/32017/index.html">EPSG:32017</a>: NAD27 / New York West</li>
+
+  <li><a href="epsg/32018/index.html">EPSG:32018</a>: NAD27 / New York Long Island</li>
+
+  <li><a href="epsg/32019/index.html">EPSG:32019</a>: NAD27 / North Carolina</li>
+
+  <li><a href="epsg/32020/index.html">EPSG:32020</a>: NAD27 / North Dakota North</li>
+
+  <li><a href="epsg/32021/index.html">EPSG:32021</a>: NAD27 / North Dakota South</li>
+
+  <li><a href="epsg/32022/index.html">EPSG:32022</a>: NAD27 / Ohio North</li>
+
+  <li><a href="epsg/32023/index.html">EPSG:32023</a>: NAD27 / Ohio South</li>
+
+  <li><a href="epsg/32024/index.html">EPSG:32024</a>: NAD27 / Oklahoma North</li>
+
+  <li><a href="epsg/32025/index.html">EPSG:32025</a>: NAD27 / Oklahoma South</li>
+
+  <li><a href="epsg/32026/index.html">EPSG:32026</a>: NAD27 / Oregon North</li>
+
+  <li><a href="epsg/32027/index.html">EPSG:32027</a>: NAD27 / Oregon South</li>
+
+  <li><a href="epsg/32028/index.html">EPSG:32028</a>: NAD27 / Pennsylvania North</li>
+
+  <li><a href="epsg/32029/index.html">EPSG:32029</a>: NAD27 / Pennsylvania South</li>
+
+  <li><a href="epsg/32030/index.html">EPSG:32030</a>: NAD27 / Rhode Island</li>
+
+  <li><a href="epsg/32031/index.html">EPSG:32031</a>: NAD27 / South Carolina North</li>
+
+  <li><a href="epsg/32033/index.html">EPSG:32033</a>: NAD27 / South Carolina South</li>
+
+  <li><a href="epsg/32034/index.html">EPSG:32034</a>: NAD27 / South Dakota North</li>
+
+  <li><a href="epsg/32035/index.html">EPSG:32035</a>: NAD27 / South Dakota South</li>
+
+  <li><a href="epsg/32036/index.html">EPSG:32036</a>: NAD27 / Tennessee</li>
+
+  <li><a href="epsg/32037/index.html">EPSG:32037</a>: NAD27 / Texas North</li>
+
+  <li><a href="epsg/32038/index.html">EPSG:32038</a>: NAD27 / Texas North Central</li>
+
+  <li><a href="epsg/32039/index.html">EPSG:32039</a>: NAD27 / Texas Central</li>
+
+  <li><a href="epsg/32040/index.html">EPSG:32040</a>: NAD27 / Texas South Central</li>
+
+  <li><a href="epsg/32041/index.html">EPSG:32041</a>: NAD27 / Texas South</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=96">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=98">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

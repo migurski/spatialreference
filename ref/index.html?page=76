@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=75">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=77">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7653/index.html">SR-ORG:7653</a>: test</li>
+
+  <li><a href="sr-org/7654/index.html">SR-ORG:7654</a>: test</li>
+
+  <li><a href="sr-org/7655/index.html">SR-ORG:7655</a>: test2</li>
+
+  <li><a href="sr-org/7656/index.html">SR-ORG:7656</a>: unnamed</li>
+
+  <li><a href="sr-org/7657/index.html">SR-ORG:7657</a>: gbo</li>
+
+  <li><a href="sr-org/7658/index.html">SR-ORG:7658</a>: Lambert Conformal Conic</li>
+
+  <li><a href="sr-org/7659/index.html">SR-ORG:7659</a>: 9822</li>
+
+  <li><a href="sr-org/7660/index.html">SR-ORG:7660</a>: ESPG:3405501</li>
+
+  <li><a href="sr-org/7661/index.html">SR-ORG:7661</a>: VN-2000 / UTM zone 48N / 108 / 0.9999</li>
+
+  <li><a href="sr-org/7662/index.html">SR-ORG:7662</a>: TMQ</li>
+
+  <li><a href="sr-org/7663/index.html">SR-ORG:7663</a>: PCS_Cali_San_Antonio_10.1</li>
+
+  <li><a href="sr-org/7664/index.html">SR-ORG:7664</a>: MAGNA_Cali_Valle_del_Cauca_2009</li>
+
+  <li><a href="sr-org/7665/index.html">SR-ORG:7665</a>: FDEP Modified Albers</li>
+
+  <li><a href="sr-org/7666/index.html">SR-ORG:7666</a>: SIRES-DMQ</li>
+
+  <li><a href="sr-org/7667/index.html">SR-ORG:7667</a>: fasdf</li>
+
+  <li><a href="sr-org/7668/index.html">SR-ORG:7668</a>: Cape Verde National</li>
+
+  <li><a href="iau2000/19900/index.html">IAU2000:19900</a>: Mercury 2000</li>
+
+  <li><a href="iau2000/19901/index.html">IAU2000:19901</a>: Mercury 2000</li>
+
+  <li><a href="iau2000/19910/index.html">IAU2000:19910</a>: Mercury Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/19911/index.html">IAU2000:19911</a>: Mercury Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/19912/index.html">IAU2000:19912</a>: Mercury Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/19913/index.html">IAU2000:19913</a>: Mercury Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/19914/index.html">IAU2000:19914</a>: Mercury Sinusoidal</li>
+
+  <li><a href="iau2000/19915/index.html">IAU2000:19915</a>: Mercury Sinusoidal</li>
+
+  <li><a href="iau2000/19916/index.html">IAU2000:19916</a>: Mercury Sinusoidal</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/19917/index.html">IAU2000:19917</a>: Mercury Sinusoidal</li>
+
+  <li><a href="iau2000/19918/index.html">IAU2000:19918</a>: Mercury North Pole Stereographic</li>
+
+  <li><a href="iau2000/19919/index.html">IAU2000:19919</a>: Mercury North Pole Stereographic</li>
+
+  <li><a href="iau2000/19920/index.html">IAU2000:19920</a>: Mercury South Pole Stereographic</li>
+
+  <li><a href="iau2000/19921/index.html">IAU2000:19921</a>: Mercury South Pole Stereographic</li>
+
+  <li><a href="iau2000/19960/index.html">IAU2000:19960</a>: Mercury Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/19961/index.html">IAU2000:19961</a>: Mercury Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/19962/index.html">IAU2000:19962</a>: Mercury Stereographic AUTO</li>
+
+  <li><a href="iau2000/19963/index.html">IAU2000:19963</a>: Mercury Stereographic AUTO</li>
+
+  <li><a href="iau2000/19964/index.html">IAU2000:19964</a>: Mercury Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/19965/index.html">IAU2000:19965</a>: Mercury Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/19966/index.html">IAU2000:19966</a>: Mercury Orthographic AUTO</li>
+
+  <li><a href="iau2000/19967/index.html">IAU2000:19967</a>: Mercury Orthographic AUTO</li>
+
+  <li><a href="iau2000/19968/index.html">IAU2000:19968</a>: Mercury Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/19969/index.html">IAU2000:19969</a>: Mercury Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/19970/index.html">IAU2000:19970</a>: Mercury Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/19971/index.html">IAU2000:19971</a>: Mercury Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/19972/index.html">IAU2000:19972</a>: Mercury Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/19973/index.html">IAU2000:19973</a>: Mercury Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/19974/index.html">IAU2000:19974</a>: Mercury Mercator AUTO</li>
+
+  <li><a href="iau2000/19975/index.html">IAU2000:19975</a>: Mercury Mercator AUTO</li>
+
+  <li><a href="iau2000/19976/index.html">IAU2000:19976</a>: Mercury Albers AUTO</li>
+
+  <li><a href="iau2000/19977/index.html">IAU2000:19977</a>: Mercury Albers AUTO</li>
+
+  <li><a href="iau2000/19978/index.html">IAU2000:19978</a>: Mercury Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/19979/index.html">IAU2000:19979</a>: Mercury Oblique Cylindrical Equal Area AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=75">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=77">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

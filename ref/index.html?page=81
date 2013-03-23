@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=80">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=82">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/22392/index.html">EPSG:22392</a>: Carthage / Sud Tunisie</li>
+
+  <li><a href="epsg/22521/index.html">EPSG:22521</a>: Corrego Alegre / UTM zone 21S</li>
+
+  <li><a href="epsg/22522/index.html">EPSG:22522</a>: Corrego Alegre / UTM zone 22S</li>
+
+  <li><a href="epsg/22523/index.html">EPSG:22523</a>: Corrego Alegre / UTM zone 23S</li>
+
+  <li><a href="epsg/22524/index.html">EPSG:22524</a>: Corrego Alegre / UTM zone 24S</li>
+
+  <li><a href="epsg/22525/index.html">EPSG:22525</a>: Corrego Alegre / UTM zone 25S</li>
+
+  <li><a href="epsg/22700/index.html">EPSG:22700</a>: Deir ez Zor / Levant Zone</li>
+
+  <li><a href="epsg/22770/index.html">EPSG:22770</a>: Deir ez Zor / Syria Lambert</li>
+
+  <li><a href="epsg/22780/index.html">EPSG:22780</a>: Deir ez Zor / Levant Stereographic</li>
+
+  <li><a href="epsg/22832/index.html">EPSG:22832</a>: Douala / UTM zone 32N</li>
+
+  <li><a href="epsg/22991/index.html">EPSG:22991</a>: Egypt 1907 / Blue Belt</li>
+
+  <li><a href="epsg/22992/index.html">EPSG:22992</a>: Egypt 1907 / Red Belt</li>
+
+  <li><a href="epsg/22993/index.html">EPSG:22993</a>: Egypt 1907 / Purple Belt</li>
+
+  <li><a href="epsg/22994/index.html">EPSG:22994</a>: Egypt 1907 / Extended Purple Belt</li>
+
+  <li><a href="epsg/23028/index.html">EPSG:23028</a>: ED50 / UTM zone 28N</li>
+
+  <li><a href="epsg/23029/index.html">EPSG:23029</a>: ED50 / UTM zone 29N</li>
+
+  <li><a href="epsg/23030/index.html">EPSG:23030</a>: ED50 / UTM zone 30N</li>
+
+  <li><a href="epsg/23031/index.html">EPSG:23031</a>: ED50 / UTM zone 31N</li>
+
+  <li><a href="epsg/23032/index.html">EPSG:23032</a>: ED50 / UTM zone 32N</li>
+
+  <li><a href="epsg/23033/index.html">EPSG:23033</a>: ED50 / UTM zone 33N</li>
+
+  <li><a href="epsg/23034/index.html">EPSG:23034</a>: ED50 / UTM zone 34N</li>
+
+  <li><a href="epsg/23035/index.html">EPSG:23035</a>: ED50 / UTM zone 35N</li>
+
+  <li><a href="epsg/23036/index.html">EPSG:23036</a>: ED50 / UTM zone 36N</li>
+
+  <li><a href="epsg/23037/index.html">EPSG:23037</a>: ED50 / UTM zone 37N</li>
+
+  <li><a href="epsg/23038/index.html">EPSG:23038</a>: ED50 / UTM zone 38N</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/23090/index.html">EPSG:23090</a>: ED50 / TM 0 N</li>
+
+  <li><a href="epsg/23095/index.html">EPSG:23095</a>: ED50 / TM 5 NE</li>
+
+  <li><a href="epsg/23239/index.html">EPSG:23239</a>: Fahud / UTM zone 39N</li>
+
+  <li><a href="epsg/23240/index.html">EPSG:23240</a>: Fahud / UTM zone 40N</li>
+
+  <li><a href="epsg/23433/index.html">EPSG:23433</a>: Garoua / UTM zone 33N</li>
+
+  <li><a href="epsg/23700/index.html">EPSG:23700</a>: HD72 / EOV</li>
+
+  <li><a href="epsg/23830/index.html">EPSG:23830</a>: DGN95 / Indonesia TM-3 zone 46.2</li>
+
+  <li><a href="epsg/23831/index.html">EPSG:23831</a>: DGN95 / Indonesia TM-3 zone 47.1</li>
+
+  <li><a href="epsg/23832/index.html">EPSG:23832</a>: DGN95 / Indonesia TM-3 zone 47.2</li>
+
+  <li><a href="epsg/23833/index.html">EPSG:23833</a>: DGN95 / Indonesia TM-3 zone 48.1</li>
+
+  <li><a href="epsg/23834/index.html">EPSG:23834</a>: DGN95 / Indonesia TM-3 zone 48.2</li>
+
+  <li><a href="epsg/23835/index.html">EPSG:23835</a>: DGN95 / Indonesia TM-3 zone 49.1</li>
+
+  <li><a href="epsg/23836/index.html">EPSG:23836</a>: DGN95 / Indonesia TM-3 zone 49.2</li>
+
+  <li><a href="epsg/23837/index.html">EPSG:23837</a>: DGN95 / Indonesia TM-3 zone 50.1</li>
+
+  <li><a href="epsg/23838/index.html">EPSG:23838</a>: DGN95 / Indonesia TM-3 zone 50.2</li>
+
+  <li><a href="epsg/23839/index.html">EPSG:23839</a>: DGN95 / Indonesia TM-3 zone 51.1</li>
+
+  <li><a href="epsg/23840/index.html">EPSG:23840</a>: DGN95 / Indonesia TM-3 zone 51.2</li>
+
+  <li><a href="epsg/23841/index.html">EPSG:23841</a>: DGN95 / Indonesia TM-3 zone 52.1</li>
+
+  <li><a href="epsg/23842/index.html">EPSG:23842</a>: DGN95 / Indonesia TM-3 zone 52.2</li>
+
+  <li><a href="epsg/23843/index.html">EPSG:23843</a>: DGN95 / Indonesia TM-3 zone 53.1</li>
+
+  <li><a href="epsg/23844/index.html">EPSG:23844</a>: DGN95 / Indonesia TM-3 zone 53.2</li>
+
+  <li><a href="epsg/23845/index.html">EPSG:23845</a>: DGN95 / Indonesia TM-3 zone 54.1</li>
+
+  <li><a href="epsg/23846/index.html">EPSG:23846</a>: ID74 / UTM zone 46N</li>
+
+  <li><a href="epsg/23847/index.html">EPSG:23847</a>: ID74 / UTM zone 47N</li>
+
+  <li><a href="epsg/23848/index.html">EPSG:23848</a>: ID74 / UTM zone 48N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=80">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=82">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

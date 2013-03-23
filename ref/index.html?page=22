@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=21">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=23">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2970/index.html">EPSG:2970</a>: Guadeloupe 1948 / UTM zone 20N</li>
+
+  <li><a href="epsg/2971/index.html">EPSG:2971</a>: CSG67 / UTM zone 22N</li>
+
+  <li><a href="epsg/2972/index.html">EPSG:2972</a>: RGFG95 / UTM zone 22N</li>
+
+  <li><a href="epsg/2973/index.html">EPSG:2973</a>: Martinique 1938 / UTM zone 20N</li>
+
+  <li><a href="epsg/2975/index.html">EPSG:2975</a>: RGR92 / UTM zone 40S</li>
+
+  <li><a href="epsg/2976/index.html">EPSG:2976</a>: Tahiti 52 / UTM zone 6S</li>
+
+  <li><a href="epsg/2977/index.html">EPSG:2977</a>: Tahaa 54 / UTM zone 5S</li>
+
+  <li><a href="epsg/2978/index.html">EPSG:2978</a>: IGN72 Nuku Hiva / UTM zone 7S</li>
+
+  <li><a href="epsg/2979/index.html">EPSG:2979</a>: K0 1949 / UTM zone 42S</li>
+
+  <li><a href="epsg/2980/index.html">EPSG:2980</a>: Combani 1950 / UTM zone 38S</li>
+
+  <li><a href="epsg/2981/index.html">EPSG:2981</a>: IGN56 Lifou / UTM zone 58S</li>
+
+  <li><a href="epsg/2982/index.html">EPSG:2982</a>: IGN72 Grand Terre / UTM zone 58S</li>
+
+  <li><a href="epsg/2983/index.html">EPSG:2983</a>: ST87 Ouvea / UTM zone 58S</li>
+
+  <li><a href="epsg/2984/index.html">EPSG:2984</a>: RGNC 1991 / Lambert New Caledonia</li>
+
+  <li><a href="epsg/2985/index.html">EPSG:2985</a>: Petrels 1972 / Terre Adelie Polar Stereographic</li>
+
+  <li><a href="epsg/2986/index.html">EPSG:2986</a>: Perroud 1950 / Terre Adelie Polar Stereographic</li>
+
+  <li><a href="epsg/2987/index.html">EPSG:2987</a>: Saint Pierre et Miquelon 1950 / UTM zone 21N</li>
+
+  <li><a href="epsg/2988/index.html">EPSG:2988</a>: MOP78 / UTM zone 1S</li>
+
+  <li><a href="epsg/2989/index.html">EPSG:2989</a>: RRAF 1991 / UTM zone 20N</li>
+
+  <li><a href="epsg/2990/index.html">EPSG:2990</a>: Reunion 1947 / TM Reunion</li>
+
+  <li><a href="epsg/2991/index.html">EPSG:2991</a>: NAD83 / Oregon Lambert</li>
+
+  <li><a href="epsg/2992/index.html">EPSG:2992</a>: NAD83 / Oregon Lambert (ft)</li>
+
+  <li><a href="epsg/2993/index.html">EPSG:2993</a>: NAD83(HARN) / Oregon Lambert</li>
+
+  <li><a href="epsg/2994/index.html">EPSG:2994</a>: NAD83(HARN) / Oregon Lambert (ft)</li>
+
+  <li><a href="epsg/2995/index.html">EPSG:2995</a>: IGN53 Mare / UTM zone 58S</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2996/index.html">EPSG:2996</a>: ST84 Ile des Pins / UTM zone 58S</li>
+
+  <li><a href="epsg/2997/index.html">EPSG:2997</a>: ST71 Belep / UTM zone 58S</li>
+
+  <li><a href="epsg/2998/index.html">EPSG:2998</a>: NEA74 Noumea / UTM zone 58S</li>
+
+  <li><a href="epsg/2999/index.html">EPSG:2999</a>: Grand Comoros / UTM zone 38S</li>
+
+  <li><a href="epsg/3000/index.html">EPSG:3000</a>: Segara / NEIEZ</li>
+
+  <li><a href="epsg/3001/index.html">EPSG:3001</a>: Batavia / NEIEZ</li>
+
+  <li><a href="epsg/3002/index.html">EPSG:3002</a>: Makassar / NEIEZ</li>
+
+  <li><a href="epsg/3003/index.html">EPSG:3003</a>: Monte Mario / Italy zone 1</li>
+
+  <li><a href="epsg/3004/index.html">EPSG:3004</a>: Monte Mario / Italy zone 2</li>
+
+  <li><a href="epsg/3005/index.html">EPSG:3005</a>: NAD83 / BC Albers</li>
+
+  <li><a href="epsg/3006/index.html">EPSG:3006</a>: SWEREF99 TM</li>
+
+  <li><a href="epsg/3007/index.html">EPSG:3007</a>: SWEREF99 12 00</li>
+
+  <li><a href="epsg/3008/index.html">EPSG:3008</a>: SWEREF99 13 30</li>
+
+  <li><a href="epsg/3009/index.html">EPSG:3009</a>: SWEREF99 15 00</li>
+
+  <li><a href="epsg/3010/index.html">EPSG:3010</a>: SWEREF99 16 30</li>
+
+  <li><a href="epsg/3011/index.html">EPSG:3011</a>: SWEREF99 18 00</li>
+
+  <li><a href="epsg/3012/index.html">EPSG:3012</a>: SWEREF99 14 15</li>
+
+  <li><a href="epsg/3013/index.html">EPSG:3013</a>: SWEREF99 15 45</li>
+
+  <li><a href="epsg/3014/index.html">EPSG:3014</a>: SWEREF99 17 15</li>
+
+  <li><a href="epsg/3015/index.html">EPSG:3015</a>: SWEREF99 18 45</li>
+
+  <li><a href="epsg/3016/index.html">EPSG:3016</a>: SWEREF99 20 15</li>
+
+  <li><a href="epsg/3017/index.html">EPSG:3017</a>: SWEREF99 21 45</li>
+
+  <li><a href="epsg/3018/index.html">EPSG:3018</a>: SWEREF99 23 15</li>
+
+  <li><a href="epsg/3019/index.html">EPSG:3019</a>: RT90 7.5 gon V</li>
+
+  <li><a href="epsg/3020/index.html">EPSG:3020</a>: RT90 5 gon V</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=21">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=23">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

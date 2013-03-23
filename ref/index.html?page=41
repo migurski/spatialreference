@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=40">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=42">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4146/index.html">EPSG:4146</a>: Kalianpur 1975</li>
+
+  <li><a href="epsg/4147/index.html">EPSG:4147</a>: Hanoi 1972</li>
+
+  <li><a href="epsg/4148/index.html">EPSG:4148</a>: Hartebeesthoek94</li>
+
+  <li><a href="epsg/4149/index.html">EPSG:4149</a>: CH1903</li>
+
+  <li><a href="epsg/4150/index.html">EPSG:4150</a>: CH1903+</li>
+
+  <li><a href="epsg/4151/index.html">EPSG:4151</a>: CHTRF95</li>
+
+  <li><a href="epsg/4152/index.html">EPSG:4152</a>: NAD83(HARN)</li>
+
+  <li><a href="epsg/4153/index.html">EPSG:4153</a>: Rassadiran</li>
+
+  <li><a href="epsg/4154/index.html">EPSG:4154</a>: ED50(ED77)</li>
+
+  <li><a href="epsg/4155/index.html">EPSG:4155</a>: Dabola 1981</li>
+
+  <li><a href="epsg/4156/index.html">EPSG:4156</a>: S-JTSK</li>
+
+  <li><a href="epsg/4157/index.html">EPSG:4157</a>: Mount Dillon</li>
+
+  <li><a href="epsg/4158/index.html">EPSG:4158</a>: Naparima 1955</li>
+
+  <li><a href="epsg/4159/index.html">EPSG:4159</a>: ELD79</li>
+
+  <li><a href="epsg/4160/index.html">EPSG:4160</a>: Chos Malal 1914</li>
+
+  <li><a href="epsg/4161/index.html">EPSG:4161</a>: Pampa del Castillo</li>
+
+  <li><a href="epsg/4162/index.html">EPSG:4162</a>: Korean 1985</li>
+
+  <li><a href="epsg/4163/index.html">EPSG:4163</a>: Yemen NGN96</li>
+
+  <li><a href="epsg/4164/index.html">EPSG:4164</a>: South Yemen</li>
+
+  <li><a href="epsg/4165/index.html">EPSG:4165</a>: Bissau</li>
+
+  <li><a href="epsg/4166/index.html">EPSG:4166</a>: Korean 1995</li>
+
+  <li><a href="epsg/4167/index.html">EPSG:4167</a>: NZGD2000</li>
+
+  <li><a href="epsg/4168/index.html">EPSG:4168</a>: Accra</li>
+
+  <li><a href="epsg/4169/index.html">EPSG:4169</a>: American Samoa 1962</li>
+
+  <li><a href="epsg/4170/index.html">EPSG:4170</a>: SIRGAS 1995</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4171/index.html">EPSG:4171</a>: RGF93</li>
+
+  <li><a href="epsg/4172/index.html">EPSG:4172</a>: POSGAR</li>
+
+  <li><a href="epsg/4173/index.html">EPSG:4173</a>: IRENET95</li>
+
+  <li><a href="epsg/4174/index.html">EPSG:4174</a>: Sierra Leone 1924</li>
+
+  <li><a href="epsg/4175/index.html">EPSG:4175</a>: Sierra Leone 1968</li>
+
+  <li><a href="epsg/4176/index.html">EPSG:4176</a>: Australian Antarctic</li>
+
+  <li><a href="epsg/4178/index.html">EPSG:4178</a>: Pulkovo 1942(83)</li>
+
+  <li><a href="epsg/4179/index.html">EPSG:4179</a>: Pulkovo 1942(58)</li>
+
+  <li><a href="epsg/4180/index.html">EPSG:4180</a>: EST97</li>
+
+  <li><a href="epsg/4181/index.html">EPSG:4181</a>: Luxembourg 1930</li>
+
+  <li><a href="epsg/4182/index.html">EPSG:4182</a>: Azores Occidental 1939</li>
+
+  <li><a href="epsg/4183/index.html">EPSG:4183</a>: Azores Central 1948</li>
+
+  <li><a href="epsg/4184/index.html">EPSG:4184</a>: Azores Oriental 1940</li>
+
+  <li><a href="epsg/4185/index.html">EPSG:4185</a>: Madeira 1936</li>
+
+  <li><a href="epsg/4188/index.html">EPSG:4188</a>: OSNI 1952</li>
+
+  <li><a href="epsg/4189/index.html">EPSG:4189</a>: REGVEN</li>
+
+  <li><a href="epsg/4190/index.html">EPSG:4190</a>: POSGAR 98</li>
+
+  <li><a href="epsg/4191/index.html">EPSG:4191</a>: Albanian 1987</li>
+
+  <li><a href="epsg/4192/index.html">EPSG:4192</a>: Douala 1948</li>
+
+  <li><a href="epsg/4193/index.html">EPSG:4193</a>: Manoca 1962</li>
+
+  <li><a href="epsg/4194/index.html">EPSG:4194</a>: Qornoq 1927</li>
+
+  <li><a href="epsg/4195/index.html">EPSG:4195</a>: Scoresbysund 1952</li>
+
+  <li><a href="epsg/4196/index.html">EPSG:4196</a>: Ammassalik 1958</li>
+
+  <li><a href="epsg/4197/index.html">EPSG:4197</a>: Garoua</li>
+
+  <li><a href="epsg/4198/index.html">EPSG:4198</a>: Kousseri</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=40">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=42">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

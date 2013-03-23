@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=55">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=57">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/6676/index.html">SR-ORG:6676</a>: NAD83 / Southwestern US Lambert Conformal Conic 2SP NAD83 (m)</li>
+
+  <li><a href="sr-org/6677/index.html">SR-ORG:6677</a>: Idaho Tranverse Mercator</li>
+
+  <li><a href="sr-org/6678/index.html">SR-ORG:6678</a>: State Plane Texas North (FIPS 4201), NAD83</li>
+
+  <li><a href="sr-org/6679/index.html">SR-ORG:6679</a>: NAD 1983 HARN Wisconsin CRS Burnett (US feet)</li>
+
+  <li><a href="sr-org/6680/index.html">SR-ORG:6680</a>: ccos</li>
+
+  <li><a href="sr-org/6681/index.html">SR-ORG:6681</a>: newmm5</li>
+
+  <li><a href="sr-org/6682/index.html">SR-ORG:6682</a>: k3bg-wrong-test1</li>
+
+  <li><a href="sr-org/6683/index.html">SR-ORG:6683</a>: test222</li>
+
+  <li><a href="sr-org/6684/index.html">SR-ORG:6684</a>: sri lanka</li>
+
+  <li><a href="sr-org/6685/index.html">SR-ORG:6685</a>: test</li>
+
+  <li><a href="sr-org/6686/index.html">SR-ORG:6686</a>: NAD83_Ohio_South_FIPS_3402_Feet</li>
+
+  <li><a href="sr-org/6687/index.html">SR-ORG:6687</a>: SIRGAS 2000 / Polyconic</li>
+
+  <li><a href="sr-org/6688/index.html">SR-ORG:6688</a>: Krovak</li>
+
+  <li><a href="sr-org/6689/index.html">SR-ORG:6689</a>: Ecuador_2009</li>
+
+  <li><a href="sr-org/6690/index.html">SR-ORG:6690</a>: seretis travel</li>
+
+  <li><a href="sr-org/6691/index.html">SR-ORG:6691</a>: BGS70k5</li>
+
+  <li><a href="sr-org/6692/index.html">SR-ORG:6692</a>: gg</li>
+
+  <li><a href="sr-org/6693/index.html">SR-ORG:6693</a>: canada</li>
+
+  <li><a href="sr-org/6694/index.html">SR-ORG:6694</a>: canada</li>
+
+  <li><a href="sr-org/6695/index.html">SR-ORG:6695</a>: 298558</li>
+
+  <li><a href="sr-org/6696/index.html">SR-ORG:6696</a>: Landeskoordinaten Steiermark</li>
+
+  <li><a href="sr-org/6697/index.html">SR-ORG:6697</a>: Selangor</li>
+
+  <li><a href="sr-org/6698/index.html">SR-ORG:6698</a>: Selangor2</li>
+
+  <li><a href="sr-org/6699/index.html">SR-ORG:6699</a>: WRL</li>
+
+  <li><a href="sr-org/6700/index.html">SR-ORG:6700</a>: Mexico INEGI Lambert Conformal Conic</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/6701/index.html">SR-ORG:6701</a>: My Israel</li>
+
+  <li><a href="sr-org/6702/index.html">SR-ORG:6702</a>: myprj</li>
+
+  <li><a href="sr-org/6703/index.html">SR-ORG:6703</a>: USA_Contiguous_Albers_Equal_Area_Conic_USGS_version</li>
+
+  <li><a href="sr-org/6704/index.html">SR-ORG:6704</a>: Test</li>
+
+  <li><a href="sr-org/6705/index.html">SR-ORG:6705</a>: Canadian Wind Energy Atlas</li>
+
+  <li><a href="sr-org/6706/index.html">SR-ORG:6706</a>: North American 1983 (CSRS98)</li>
+
+  <li><a href="sr-org/6707/index.html">SR-ORG:6707</a>: Local_CS</li>
+
+  <li><a href="sr-org/6708/index.html">SR-ORG:6708</a>: Minsk</li>
+
+  <li><a href="sr-org/6709/index.html">SR-ORG:6709</a>: Sri Lanka</li>
+
+  <li><a href="sr-org/6710/index.html">SR-ORG:6710</a>: Test_a</li>
+
+  <li><a href="sr-org/6711/index.html">SR-ORG:6711</a>: PrecipAnalysis Stereographic</li>
+
+  <li><a href="sr-org/6712/index.html">SR-ORG:6712</a>: PrecipAnalysis Stereographic</li>
+
+  <li><a href="sr-org/6713/index.html">SR-ORG:6713</a>: poznan</li>
+
+  <li><a href="sr-org/6714/index.html">SR-ORG:6714</a>: ETRS89 / UTM zone 33N with leading 33</li>
+
+  <li><a href="sr-org/6715/index.html">SR-ORG:6715</a>: ETRS89 / UTM zone 32N with leading 32</li>
+
+  <li><a href="sr-org/6716/index.html">SR-ORG:6716</a>: test</li>
+
+  <li><a href="sr-org/6717/index.html">SR-ORG:6717</a>: GeoGratis Canada Lambert</li>
+
+  <li><a href="sr-org/6718/index.html">SR-ORG:6718</a>: CIS_LCC</li>
+
+  <li><a href="sr-org/6719/index.html">SR-ORG:6719</a>: Test UTM-K 1</li>
+
+  <li><a href="sr-org/6720/index.html">SR-ORG:6720</a>: test</li>
+
+  <li><a href="sr-org/6721/index.html">SR-ORG:6721</a>: test</li>
+
+  <li><a href="sr-org/6722/index.html">SR-ORG:6722</a>: google map</li>
+
+  <li><a href="sr-org/6723/index.html">SR-ORG:6723</a>: test</li>
+
+  <li><a href="sr-org/6724/index.html">SR-ORG:6724</a>: test</li>
+
+  <li><a href="sr-org/6725/index.html">SR-ORG:6725</a>: test</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=55">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=57">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

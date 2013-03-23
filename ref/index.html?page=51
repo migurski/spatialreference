@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=50">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=52">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4945/index.html">EPSG:4945</a>: ISN93</li>
+
+  <li><a href="epsg/4946/index.html">EPSG:4946</a>: JGD2000</li>
+
+  <li><a href="epsg/4947/index.html">EPSG:4947</a>: JGD2000</li>
+
+  <li><a href="epsg/4948/index.html">EPSG:4948</a>: LKS92</li>
+
+  <li><a href="epsg/4949/index.html">EPSG:4949</a>: LKS92</li>
+
+  <li><a href="epsg/4950/index.html">EPSG:4950</a>: LKS94</li>
+
+  <li><a href="epsg/4951/index.html">EPSG:4951</a>: LKS94</li>
+
+  <li><a href="epsg/4952/index.html">EPSG:4952</a>: Moznet</li>
+
+  <li><a href="epsg/4953/index.html">EPSG:4953</a>: Moznet</li>
+
+  <li><a href="epsg/4954/index.html">EPSG:4954</a>: NAD83(CSRS)</li>
+
+  <li><a href="epsg/4955/index.html">EPSG:4955</a>: NAD83(CSRS)</li>
+
+  <li><a href="epsg/4956/index.html">EPSG:4956</a>: NAD83(HARN)</li>
+
+  <li><a href="epsg/4957/index.html">EPSG:4957</a>: NAD83(HARN)</li>
+
+  <li><a href="epsg/4958/index.html">EPSG:4958</a>: NZGD2000</li>
+
+  <li><a href="epsg/4959/index.html">EPSG:4959</a>: NZGD2000</li>
+
+  <li><a href="epsg/4960/index.html">EPSG:4960</a>: POSGAR 98</li>
+
+  <li><a href="epsg/4961/index.html">EPSG:4961</a>: POSGAR 98</li>
+
+  <li><a href="epsg/4962/index.html">EPSG:4962</a>: REGVEN</li>
+
+  <li><a href="epsg/4963/index.html">EPSG:4963</a>: REGVEN</li>
+
+  <li><a href="epsg/4964/index.html">EPSG:4964</a>: RGF93</li>
+
+  <li><a href="epsg/4965/index.html">EPSG:4965</a>: RGF93</li>
+
+  <li><a href="epsg/4966/index.html">EPSG:4966</a>: RGFG95</li>
+
+  <li><a href="epsg/4967/index.html">EPSG:4967</a>: RGFG95</li>
+
+  <li><a href="epsg/4968/index.html">EPSG:4968</a>: RGNC 1991</li>
+
+  <li><a href="epsg/4969/index.html">EPSG:4969</a>: RGNC 1991</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4970/index.html">EPSG:4970</a>: RGR92</li>
+
+  <li><a href="epsg/4971/index.html">EPSG:4971</a>: RGR92</li>
+
+  <li><a href="epsg/4972/index.html">EPSG:4972</a>: RRAF 1991</li>
+
+  <li><a href="epsg/4973/index.html">EPSG:4973</a>: RRAF 1991</li>
+
+  <li><a href="epsg/4974/index.html">EPSG:4974</a>: SIRGAS 1995</li>
+
+  <li><a href="epsg/4975/index.html">EPSG:4975</a>: SIRGAS 1995</li>
+
+  <li><a href="epsg/4976/index.html">EPSG:4976</a>: SWEREF99</li>
+
+  <li><a href="epsg/4977/index.html">EPSG:4977</a>: SWEREF99</li>
+
+  <li><a href="epsg/4978/index.html">EPSG:4978</a>: WGS 84</li>
+
+  <li><a href="epsg/4979/index.html">EPSG:4979</a>: WGS 84</li>
+
+  <li><a href="epsg/4980/index.html">EPSG:4980</a>: Yemen NGN96</li>
+
+  <li><a href="epsg/4981/index.html">EPSG:4981</a>: Yemen NGN96</li>
+
+  <li><a href="epsg/4982/index.html">EPSG:4982</a>: IGM95</li>
+
+  <li><a href="epsg/4983/index.html">EPSG:4983</a>: IGM95</li>
+
+  <li><a href="epsg/4984/index.html">EPSG:4984</a>: WGS 72</li>
+
+  <li><a href="epsg/4985/index.html">EPSG:4985</a>: WGS 72</li>
+
+  <li><a href="epsg/4986/index.html">EPSG:4986</a>: WGS 72BE</li>
+
+  <li><a href="epsg/4987/index.html">EPSG:4987</a>: WGS 72BE</li>
+
+  <li><a href="epsg/4988/index.html">EPSG:4988</a>: SIRGAS 2000</li>
+
+  <li><a href="epsg/4989/index.html">EPSG:4989</a>: SIRGAS 2000</li>
+
+  <li><a href="epsg/4990/index.html">EPSG:4990</a>: Lao 1993</li>
+
+  <li><a href="epsg/4991/index.html">EPSG:4991</a>: Lao 1993</li>
+
+  <li><a href="epsg/4992/index.html">EPSG:4992</a>: Lao 1997</li>
+
+  <li><a href="epsg/4993/index.html">EPSG:4993</a>: Lao 1997</li>
+
+  <li><a href="epsg/4994/index.html">EPSG:4994</a>: PRS92</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=50">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=52">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=76">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=78">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/20004/index.html">EPSG:20004</a>: Pulkovo 1995 / Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/20005/index.html">EPSG:20005</a>: Pulkovo 1995 / Gauss-Kruger zone 5</li>
+
+  <li><a href="epsg/20006/index.html">EPSG:20006</a>: Pulkovo 1995 / Gauss-Kruger zone 6</li>
+
+  <li><a href="epsg/20007/index.html">EPSG:20007</a>: Pulkovo 1995 / Gauss-Kruger zone 7</li>
+
+  <li><a href="epsg/20008/index.html">EPSG:20008</a>: Pulkovo 1995 / Gauss-Kruger zone 8</li>
+
+  <li><a href="epsg/20009/index.html">EPSG:20009</a>: Pulkovo 1995 / Gauss-Kruger zone 9</li>
+
+  <li><a href="epsg/20010/index.html">EPSG:20010</a>: Pulkovo 1995 / Gauss-Kruger zone 10</li>
+
+  <li><a href="epsg/20011/index.html">EPSG:20011</a>: Pulkovo 1995 / Gauss-Kruger zone 11</li>
+
+  <li><a href="epsg/20012/index.html">EPSG:20012</a>: Pulkovo 1995 / Gauss-Kruger zone 12</li>
+
+  <li><a href="epsg/20013/index.html">EPSG:20013</a>: Pulkovo 1995 / Gauss-Kruger zone 13</li>
+
+  <li><a href="epsg/20014/index.html">EPSG:20014</a>: Pulkovo 1995 / Gauss-Kruger zone 14</li>
+
+  <li><a href="epsg/20015/index.html">EPSG:20015</a>: Pulkovo 1995 / Gauss-Kruger zone 15</li>
+
+  <li><a href="epsg/20016/index.html">EPSG:20016</a>: Pulkovo 1995 / Gauss-Kruger zone 16</li>
+
+  <li><a href="epsg/20017/index.html">EPSG:20017</a>: Pulkovo 1995 / Gauss-Kruger zone 17</li>
+
+  <li><a href="epsg/20018/index.html">EPSG:20018</a>: Pulkovo 1995 / Gauss-Kruger zone 18</li>
+
+  <li><a href="epsg/20019/index.html">EPSG:20019</a>: Pulkovo 1995 / Gauss-Kruger zone 19</li>
+
+  <li><a href="epsg/20020/index.html">EPSG:20020</a>: Pulkovo 1995 / Gauss-Kruger zone 20</li>
+
+  <li><a href="epsg/20021/index.html">EPSG:20021</a>: Pulkovo 1995 / Gauss-Kruger zone 21</li>
+
+  <li><a href="epsg/20022/index.html">EPSG:20022</a>: Pulkovo 1995 / Gauss-Kruger zone 22</li>
+
+  <li><a href="epsg/20023/index.html">EPSG:20023</a>: Pulkovo 1995 / Gauss-Kruger zone 23</li>
+
+  <li><a href="epsg/20024/index.html">EPSG:20024</a>: Pulkovo 1995 / Gauss-Kruger zone 24</li>
+
+  <li><a href="epsg/20025/index.html">EPSG:20025</a>: Pulkovo 1995 / Gauss-Kruger zone 25</li>
+
+  <li><a href="epsg/20026/index.html">EPSG:20026</a>: Pulkovo 1995 / Gauss-Kruger zone 26</li>
+
+  <li><a href="epsg/20027/index.html">EPSG:20027</a>: Pulkovo 1995 / Gauss-Kruger zone 27</li>
+
+  <li><a href="epsg/20028/index.html">EPSG:20028</a>: Pulkovo 1995 / Gauss-Kruger zone 28</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/20029/index.html">EPSG:20029</a>: Pulkovo 1995 / Gauss-Kruger zone 29</li>
+
+  <li><a href="epsg/20030/index.html">EPSG:20030</a>: Pulkovo 1995 / Gauss-Kruger zone 30</li>
+
+  <li><a href="epsg/20031/index.html">EPSG:20031</a>: Pulkovo 1995 / Gauss-Kruger zone 31</li>
+
+  <li><a href="epsg/20032/index.html">EPSG:20032</a>: Pulkovo 1995 / Gauss-Kruger zone 32</li>
+
+  <li><a href="epsg/20064/index.html">EPSG:20064</a>: Pulkovo 1995 / Gauss-Kruger 4N</li>
+
+  <li><a href="epsg/20065/index.html">EPSG:20065</a>: Pulkovo 1995 / Gauss-Kruger 5N</li>
+
+  <li><a href="epsg/20066/index.html">EPSG:20066</a>: Pulkovo 1995 / Gauss-Kruger 6N</li>
+
+  <li><a href="epsg/20067/index.html">EPSG:20067</a>: Pulkovo 1995 / Gauss-Kruger 7N</li>
+
+  <li><a href="epsg/20068/index.html">EPSG:20068</a>: Pulkovo 1995 / Gauss-Kruger 8N</li>
+
+  <li><a href="epsg/20069/index.html">EPSG:20069</a>: Pulkovo 1995 / Gauss-Kruger 9N</li>
+
+  <li><a href="epsg/20070/index.html">EPSG:20070</a>: Pulkovo 1995 / Gauss-Kruger 10N</li>
+
+  <li><a href="epsg/20071/index.html">EPSG:20071</a>: Pulkovo 1995 / Gauss-Kruger 11N</li>
+
+  <li><a href="epsg/20072/index.html">EPSG:20072</a>: Pulkovo 1995 / Gauss-Kruger 12N</li>
+
+  <li><a href="epsg/20073/index.html">EPSG:20073</a>: Pulkovo 1995 / Gauss-Kruger 13N</li>
+
+  <li><a href="epsg/20074/index.html">EPSG:20074</a>: Pulkovo 1995 / Gauss-Kruger 14N</li>
+
+  <li><a href="epsg/20075/index.html">EPSG:20075</a>: Pulkovo 1995 / Gauss-Kruger 15N</li>
+
+  <li><a href="epsg/20076/index.html">EPSG:20076</a>: Pulkovo 1995 / Gauss-Kruger 16N</li>
+
+  <li><a href="epsg/20077/index.html">EPSG:20077</a>: Pulkovo 1995 / Gauss-Kruger 17N</li>
+
+  <li><a href="epsg/20078/index.html">EPSG:20078</a>: Pulkovo 1995 / Gauss-Kruger 18N</li>
+
+  <li><a href="epsg/20079/index.html">EPSG:20079</a>: Pulkovo 1995 / Gauss-Kruger 19N</li>
+
+  <li><a href="epsg/20080/index.html">EPSG:20080</a>: Pulkovo 1995 / Gauss-Kruger 20N</li>
+
+  <li><a href="epsg/20081/index.html">EPSG:20081</a>: Pulkovo 1995 / Gauss-Kruger 21N</li>
+
+  <li><a href="epsg/20082/index.html">EPSG:20082</a>: Pulkovo 1995 / Gauss-Kruger 22N</li>
+
+  <li><a href="epsg/20083/index.html">EPSG:20083</a>: Pulkovo 1995 / Gauss-Kruger 23N</li>
+
+  <li><a href="epsg/20084/index.html">EPSG:20084</a>: Pulkovo 1995 / Gauss-Kruger 24N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=76">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=78">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=150">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=152">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/80517/index.html">IAU2000:80517</a>: Despina Sinusoidal</li>
+
+  <li><a href="iau2000/80518/index.html">IAU2000:80518</a>: Despina North Pole Stereographic</li>
+
+  <li><a href="iau2000/80519/index.html">IAU2000:80519</a>: Despina North Pole Stereographic</li>
+
+  <li><a href="iau2000/80520/index.html">IAU2000:80520</a>: Despina South Pole Stereographic</li>
+
+  <li><a href="iau2000/80521/index.html">IAU2000:80521</a>: Despina South Pole Stereographic</li>
+
+  <li><a href="iau2000/80560/index.html">IAU2000:80560</a>: Despina Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/80561/index.html">IAU2000:80561</a>: Despina Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/80562/index.html">IAU2000:80562</a>: Despina Stereographic AUTO</li>
+
+  <li><a href="iau2000/80563/index.html">IAU2000:80563</a>: Despina Stereographic AUTO</li>
+
+  <li><a href="iau2000/80564/index.html">IAU2000:80564</a>: Despina Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/80565/index.html">IAU2000:80565</a>: Despina Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/80566/index.html">IAU2000:80566</a>: Despina Orthographic AUTO</li>
+
+  <li><a href="iau2000/80567/index.html">IAU2000:80567</a>: Despina Orthographic AUTO</li>
+
+  <li><a href="iau2000/80568/index.html">IAU2000:80568</a>: Despina Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/80569/index.html">IAU2000:80569</a>: Despina Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/80570/index.html">IAU2000:80570</a>: Despina Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/80571/index.html">IAU2000:80571</a>: Despina Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/80572/index.html">IAU2000:80572</a>: Despina Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/80573/index.html">IAU2000:80573</a>: Despina Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/80574/index.html">IAU2000:80574</a>: Despina Mercator AUTO</li>
+
+  <li><a href="iau2000/80575/index.html">IAU2000:80575</a>: Despina Mercator AUTO</li>
+
+  <li><a href="iau2000/80576/index.html">IAU2000:80576</a>: Despina Albers AUTO</li>
+
+  <li><a href="iau2000/80577/index.html">IAU2000:80577</a>: Despina Albers AUTO</li>
+
+  <li><a href="iau2000/80578/index.html">IAU2000:80578</a>: Despina Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/80579/index.html">IAU2000:80579</a>: Despina Oblique Cylindrical Equal Area AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/80600/index.html">IAU2000:80600</a>: Galatea 2000</li>
+
+  <li><a href="iau2000/80601/index.html">IAU2000:80601</a>: Galatea 2000</li>
+
+  <li><a href="iau2000/80610/index.html">IAU2000:80610</a>: Galatea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/80611/index.html">IAU2000:80611</a>: Galatea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/80612/index.html">IAU2000:80612</a>: Galatea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/80613/index.html">IAU2000:80613</a>: Galatea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/80614/index.html">IAU2000:80614</a>: Galatea Sinusoidal</li>
+
+  <li><a href="iau2000/80615/index.html">IAU2000:80615</a>: Galatea Sinusoidal</li>
+
+  <li><a href="iau2000/80616/index.html">IAU2000:80616</a>: Galatea Sinusoidal</li>
+
+  <li><a href="iau2000/80617/index.html">IAU2000:80617</a>: Galatea Sinusoidal</li>
+
+  <li><a href="iau2000/80618/index.html">IAU2000:80618</a>: Galatea North Pole Stereographic</li>
+
+  <li><a href="iau2000/80619/index.html">IAU2000:80619</a>: Galatea North Pole Stereographic</li>
+
+  <li><a href="iau2000/80620/index.html">IAU2000:80620</a>: Galatea South Pole Stereographic</li>
+
+  <li><a href="iau2000/80621/index.html">IAU2000:80621</a>: Galatea South Pole Stereographic</li>
+
+  <li><a href="iau2000/80660/index.html">IAU2000:80660</a>: Galatea Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/80661/index.html">IAU2000:80661</a>: Galatea Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/80662/index.html">IAU2000:80662</a>: Galatea Stereographic AUTO</li>
+
+  <li><a href="iau2000/80663/index.html">IAU2000:80663</a>: Galatea Stereographic AUTO</li>
+
+  <li><a href="iau2000/80664/index.html">IAU2000:80664</a>: Galatea Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/80665/index.html">IAU2000:80665</a>: Galatea Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/80666/index.html">IAU2000:80666</a>: Galatea Orthographic AUTO</li>
+
+  <li><a href="iau2000/80667/index.html">IAU2000:80667</a>: Galatea Orthographic AUTO</li>
+
+  <li><a href="iau2000/80668/index.html">IAU2000:80668</a>: Galatea Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/80669/index.html">IAU2000:80669</a>: Galatea Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/80670/index.html">IAU2000:80670</a>: Galatea Lambert Conformal Conic AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=150">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=152">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

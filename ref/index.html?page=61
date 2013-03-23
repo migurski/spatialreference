@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=60">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=62">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/6926/index.html">SR-ORG:6926</a>: test1</li>
+
+  <li><a href="sr-org/6927/index.html">SR-ORG:6927</a>: Texas GLO NAD27 Albers</li>
+
+  <li><a href="sr-org/6928/index.html">SR-ORG:6928</a>: ESRI:102100</li>
+
+  <li><a href="sr-org/6929/index.html">SR-ORG:6929</a>: Texas South Zone</li>
+
+  <li><a href="sr-org/6930/index.html">SR-ORG:6930</a>: OMAN_LAEA_N21E55</li>
+
+  <li><a href="sr-org/6931/index.html">SR-ORG:6931</a>: Test</li>
+
+  <li><a href="sr-org/6932/index.html">SR-ORG:6932</a>: ttfm</li>
+
+  <li><a href="sr-org/6933/index.html">SR-ORG:6933</a>: tt2</li>
+
+  <li><a href="sr-org/6934/index.html">SR-ORG:6934</a>: ttfm</li>
+
+  <li><a href="sr-org/6935/index.html">SR-ORG:6935</a>: NAD_1983_HARN_WISCRS_Outagamie_County_Feet</li>
+
+  <li><a href="sr-org/6936/index.html">SR-ORG:6936</a>: test</li>
+
+  <li><a href="sr-org/6937/index.html">SR-ORG:6937</a>: test</li>
+
+  <li><a href="sr-org/6938/index.html">SR-ORG:6938</a>: tss</li>
+
+  <li><a href="sr-org/6939/index.html">SR-ORG:6939</a>: EPSG:2050000</li>
+
+  <li><a href="sr-org/6940/index.html">SR-ORG:6940</a>: ddd</li>
+
+  <li><a href="sr-org/6941/index.html">SR-ORG:6941</a>: Datum 73</li>
+
+  <li><a href="sr-org/6942/index.html">SR-ORG:6942</a>: NAD_1983_HARN_WISCRS_Manitowoc_County_Feet</li>
+
+  <li><a href="sr-org/6943/index.html">SR-ORG:6943</a>: Eau Claire</li>
+
+  <li><a href="sr-org/6944/index.html">SR-ORG:6944</a>: eau</li>
+
+  <li><a href="sr-org/6945/index.html">SR-ORG:6945</a>: Map Based Reporting for the State of Rhode Island</li>
+
+  <li><a href="sr-org/6946/index.html">SR-ORG:6946</a>: HTRS07 (DD)</li>
+
+  <li><a href="sr-org/6947/index.html">SR-ORG:6947</a>: Brown_County_WI</li>
+
+  <li><a href="sr-org/6948/index.html">SR-ORG:6948</a>: NAD_1927_StatePlane_Wisconsin_South_FIPS_4803</li>
+
+  <li><a href="sr-org/6949/index.html">SR-ORG:6949</a>: adsfasdf</li>
+
+  <li><a href="sr-org/6950/index.html">SR-ORG:6950</a>: NAD27 MTM Zone 10</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/6951/index.html">SR-ORG:6951</a>: t</li>
+
+  <li><a href="sr-org/6952/index.html">SR-ORG:6952</a>: AlbersNorthAmerican</li>
+
+  <li><a href="sr-org/6953/index.html">SR-ORG:6953</a>: DIREN_MAR</li>
+
+  <li><a href="sr-org/6954/index.html">SR-ORG:6954</a>: NAD83 Lambert Azimuthal Equal Area</li>
+
+  <li><a href="sr-org/6955/index.html">SR-ORG:6955</a>: sdfd</li>
+
+  <li><a href="sr-org/6956/index.html">SR-ORG:6956</a>: NAD_1983_HARN_WISCRS_Pepin_County_Feet</li>
+
+  <li><a href="sr-org/6957/index.html">SR-ORG:6957</a>: vatadm0</li>
+
+  <li><a href="sr-org/6958/index.html">SR-ORG:6958</a>: look</li>
+
+  <li><a href="sr-org/6959/index.html">SR-ORG:6959</a>: piggy</li>
+
+  <li><a href="sr-org/6960/index.html">SR-ORG:6960</a>: piggy2</li>
+
+  <li><a href="sr-org/6961/index.html">SR-ORG:6961</a>: piggy_555</li>
+
+  <li><a href="sr-org/6962/index.html">SR-ORG:6962</a>: esri</li>
+
+  <li><a href="sr-org/6963/index.html">SR-ORG:6963</a>: CH-25N</li>
+
+  <li><a href="sr-org/6964/index.html">SR-ORG:6964</a>: UTM14</li>
+
+  <li><a href="sr-org/6965/index.html">SR-ORG:6965</a>: MODIS Sinusoidal</li>
+
+  <li><a href="sr-org/6966/index.html">SR-ORG:6966</a>: UTM15N</li>
+
+  <li><a href="sr-org/6967/index.html">SR-ORG:6967</a>: Test</li>
+
+  <li><a href="sr-org/6968/index.html">SR-ORG:6968</a>: Test</li>
+
+  <li><a href="sr-org/6969/index.html">SR-ORG:6969</a>: NAD_1983_Florida_GDL_Albers_Miles</li>
+
+  <li><a href="sr-org/6970/index.html">SR-ORG:6970</a>: NAD_1983_Florida_GDL_Albers_Miles_Version2</li>
+
+  <li><a href="sr-org/6971/index.html">SR-ORG:6971</a>: Great Britain National Grid with additional Helmert Corrections</li>
+
+  <li><a href="sr-org/6972/index.html">SR-ORG:6972</a>: NAD_1927_StatePlane_Montana_Central_FIPS_2502</li>
+
+  <li><a href="sr-org/6973/index.html">SR-ORG:6973</a>: MFT</li>
+
+  <li><a href="sr-org/6974/index.html">SR-ORG:6974</a>: MODIS Sinusoidal</li>
+
+  <li><a href="sr-org/6975/index.html">SR-ORG:6975</a>: test1</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=60">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=62">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

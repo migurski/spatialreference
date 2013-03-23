@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=155">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=157">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="esri/102022/index.html">ESRI:102022</a>: Africa Albers Equal Area Conic</li>
+
+  <li><a href="esri/102023/index.html">ESRI:102023</a>: Africa Equidistant Conic</li>
+
+  <li><a href="esri/102024/index.html">ESRI:102024</a>: Africa Lambert Conformal Conic</li>
+
+  <li><a href="esri/102025/index.html">ESRI:102025</a>: Asia North Albers Equal Area Conic</li>
+
+  <li><a href="esri/102026/index.html">ESRI:102026</a>: Asia North Equidistant Conic</li>
+
+  <li><a href="esri/102027/index.html">ESRI:102027</a>: Asia North Lambert Conformal Conic</li>
+
+  <li><a href="esri/102028/index.html">ESRI:102028</a>: Asia South Albers Equal Area Conic</li>
+
+  <li><a href="esri/102029/index.html">ESRI:102029</a>: Asia South Equidistant Conic</li>
+
+  <li><a href="esri/102030/index.html">ESRI:102030</a>: Asia South Lambert Conformal Conic</li>
+
+  <li><a href="esri/102031/index.html">ESRI:102031</a>: Europe Equidistant Conic</li>
+
+  <li><a href="esri/102032/index.html">ESRI:102032</a>: South America Equidistant Conic</li>
+
+  <li><a href="esri/102033/index.html">ESRI:102033</a>: South America Albers Equal Area Conic</li>
+
+  <li><a href="esri/102065/index.html">ESRI:102065</a>: S-JTSK Krovak</li>
+
+  <li><a href="esri/102066/index.html">ESRI:102066</a>: S-JTSK Ferro Krovak East North</li>
+
+  <li><a href="esri/102067/index.html">ESRI:102067</a>: S-JTSK Krovak East North</li>
+
+  <li><a href="esri/102091/index.html">ESRI:102091</a>: Monte Mario Italy 1</li>
+
+  <li><a href="esri/102092/index.html">ESRI:102092</a>: Monte Mario Italy 2</li>
+
+  <li><a href="esri/102101/index.html">ESRI:102101</a>: NGO 1948 Norway Zone 1</li>
+
+  <li><a href="esri/102102/index.html">ESRI:102102</a>: NGO 1948 Norway Zone 2</li>
+
+  <li><a href="esri/102103/index.html">ESRI:102103</a>: NGO 1948 Norway Zone 3</li>
+
+  <li><a href="esri/102104/index.html">ESRI:102104</a>: NGO 1948 Norway Zone 4</li>
+
+  <li><a href="esri/102105/index.html">ESRI:102105</a>: NGO 1948 Norway Zone 5</li>
+
+  <li><a href="esri/102106/index.html">ESRI:102106</a>: NGO 1948 Norway Zone 6</li>
+
+  <li><a href="esri/102107/index.html">ESRI:102107</a>: NGO 1948 Norway Zone 7</li>
+
+  <li><a href="esri/102108/index.html">ESRI:102108</a>: NGO 1948 Norway Zone 8</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="esri/102110/index.html">ESRI:102110</a>: RGF 1993 Lambert 93</li>
+
+  <li><a href="esri/102114/index.html">ESRI:102114</a>: Old Hawaiian UTM Zone 4N</li>
+
+  <li><a href="esri/102115/index.html">ESRI:102115</a>: Old Hawaiian UTM Zone 5N</li>
+
+  <li><a href="esri/102120/index.html">ESRI:102120</a>: NAD 1927 Michigan GeoRef Feet US</li>
+
+  <li><a href="esri/102121/index.html">ESRI:102121</a>: NAD 1983 Michigan GeoRef Feet US</li>
+
+  <li><a href="esri/102122/index.html">ESRI:102122</a>: NAD 1927 Michigan GeoRef Meters</li>
+
+  <li><a href="esri/102123/index.html">ESRI:102123</a>: NAD 1983 Michigan GeoRef Meters</li>
+
+  <li><a href="esri/102132/index.html">ESRI:102132</a>: NGO 1948 UTM Zone 32N</li>
+
+  <li><a href="esri/102133/index.html">ESRI:102133</a>: NGO 1948 UTM Zone 33N</li>
+
+  <li><a href="esri/102134/index.html">ESRI:102134</a>: NGO 1948 UTM Zone 34N</li>
+
+  <li><a href="esri/102135/index.html">ESRI:102135</a>: NGO 1948 UTM Zone 35N</li>
+
+  <li><a href="esri/102140/index.html">ESRI:102140</a>: Hong Kong 1980 Grid</li>
+
+  <li><a href="esri/102141/index.html">ESRI:102141</a>: Hong Kong 1980 UTM Zone 49N</li>
+
+  <li><a href="esri/102142/index.html">ESRI:102142</a>: Hong Kong 1980 UTM Zone 50N</li>
+
+  <li><a href="esri/102151/index.html">ESRI:102151</a>: Tokyo UTM Zone 51N</li>
+
+  <li><a href="esri/102152/index.html">ESRI:102152</a>: Tokyo UTM Zone 52N</li>
+
+  <li><a href="esri/102153/index.html">ESRI:102153</a>: Tokyo UTM Zone 53N</li>
+
+  <li><a href="esri/102154/index.html">ESRI:102154</a>: Tokyo UTM Zone 54N</li>
+
+  <li><a href="esri/102155/index.html">ESRI:102155</a>: Tokyo UTM Zone 55N</li>
+
+  <li><a href="esri/102156/index.html">ESRI:102156</a>: Tokyo UTM Zone 56N</li>
+
+  <li><a href="esri/102160/index.html">ESRI:102160</a>: Datum 73 Hayford Gauss IGeoE</li>
+
+  <li><a href="esri/102161/index.html">ESRI:102161</a>: Datum 73 Hayford Gauss IPCC</li>
+
+  <li><a href="esri/102162/index.html">ESRI:102162</a>: Graciosa Base SW 1948 UTM Zone 26N</li>
+
+  <li><a href="esri/102163/index.html">ESRI:102163</a>: Lisboa Bessel Bonne</li>
+
+  <li><a href="esri/102164/index.html">ESRI:102164</a>: Lisboa Hayford Gauss IGeoE</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=155">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=157">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

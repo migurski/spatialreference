@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=66">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=68">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7226/index.html">SR-ORG:7226</a>: lcc_nv35</li>
+
+  <li><a href="sr-org/7227/index.html">SR-ORG:7227</a>: WGS84 / Krasowsky - Arpis</li>
+
+  <li><a href="sr-org/7228/index.html">SR-ORG:7228</a>: TO_WGS84 / Krasowsky - Arpis</li>
+
+  <li><a href="sr-org/7229/index.html">SR-ORG:7229</a>: test</li>
+
+  <li><a href="sr-org/7230/index.html">SR-ORG:7230</a>: Unknow projection</li>
+
+  <li><a href="sr-org/7231/index.html">SR-ORG:7231</a>: Flanders Fields</li>
+
+  <li><a href="sr-org/7232/index.html">SR-ORG:7232</a>: Thua Thien Hue2</li>
+
+  <li><a href="sr-org/7233/index.html">SR-ORG:7233</a>: WKT _HUE_New</li>
+
+  <li><a href="sr-org/7234/index.html">SR-ORG:7234</a>: WKT_HUE_NEW1</li>
+
+  <li><a href="sr-org/7235/index.html">SR-ORG:7235</a>: wkthue1</li>
+
+  <li><a href="sr-org/7236/index.html">SR-ORG:7236</a>: a</li>
+
+  <li><a href="sr-org/7237/index.html">SR-ORG:7237</a>: test</li>
+
+  <li><a href="sr-org/7238/index.html">SR-ORG:7238</a>: Alaska_Ice_Graphic</li>
+
+  <li><a href="sr-org/7239/index.html">SR-ORG:7239</a>: Stereographic_North_Pole</li>
+
+  <li><a href="sr-org/7240/index.html">SR-ORG:7240</a>: DuongNQ</li>
+
+  <li><a href="sr-org/7241/index.html">SR-ORG:7241</a>: test</li>
+
+  <li><a href="sr-org/7242/index.html">SR-ORG:7242</a>: UTM 50 S redefine</li>
+
+  <li><a href="sr-org/7243/index.html">SR-ORG:7243</a>: P2-EXC_UTM50S</li>
+
+  <li><a href="sr-org/7244/index.html">SR-ORG:7244</a>: Rwa</li>
+
+  <li><a href="sr-org/7245/index.html">SR-ORG:7245</a>: test</li>
+
+  <li><a href="sr-org/7246/index.html">SR-ORG:7246</a>: ARM_PCS_4</li>
+
+  <li><a href="sr-org/7247/index.html">SR-ORG:7247</a>: ARM_PCS_5</li>
+
+  <li><a href="sr-org/7248/index.html">SR-ORG:7248</a>: AS_test</li>
+
+  <li><a href="sr-org/7249/index.html">SR-ORG:7249</a>: AS_test_korekta_05_19</li>
+
+  <li><a href="sr-org/7250/index.html">SR-ORG:7250</a>: WGS 84 / North Pole Lambert Azimuthal Equal Area</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7251/index.html">SR-ORG:7251</a>: kazah</li>
+
+  <li><a href="sr-org/7252/index.html">SR-ORG:7252</a>: AS_test_15_36</li>
+
+  <li><a href="sr-org/7253/index.html">SR-ORG:7253</a>: NAD83 / Canada Lambert for climate data</li>
+
+  <li><a href="sr-org/7254/index.html">SR-ORG:7254</a>: NAD83 / Canada Atlas Lambert</li>
+
+  <li><a href="sr-org/7255/index.html">SR-ORG:7255</a>: Mississippi West (ft)</li>
+
+  <li><a href="sr-org/7256/index.html">SR-ORG:7256</a>: El Salvador 2SP</li>
+
+  <li><a href="sr-org/7257/index.html">SR-ORG:7257</a>: NAD83 Pacific Northwest Albers</li>
+
+  <li><a href="sr-org/7258/index.html">SR-ORG:7258</a>: NAD83 Pacific Northwest Albers</li>
+
+  <li><a href="sr-org/7259/index.html">SR-ORG:7259</a>: What is SRID?</li>
+
+  <li><a href="sr-org/7260/index.html">SR-ORG:7260</a>: NAD83 / US Pacific Northwest Albers</li>
+
+  <li><a href="sr-org/7261/index.html">SR-ORG:7261</a>: SRID of Kathmnadu</li>
+
+  <li><a href="sr-org/7262/index.html">SR-ORG:7262</a>: ESRI-102100</li>
+
+  <li><a href="sr-org/7263/index.html">SR-ORG:7263</a>: ESRI:4674</li>
+
+  <li><a href="sr-org/7264/index.html">SR-ORG:7264</a>: Croatia</li>
+
+  <li><a href="sr-org/7265/index.html">SR-ORG:7265</a>: proba</li>
+
+  <li><a href="sr-org/7266/index.html">SR-ORG:7266</a>: Malta v2</li>
+
+  <li><a href="sr-org/7267/index.html">SR-ORG:7267</a>: foo </li>
+
+  <li><a href="sr-org/7268/index.html">SR-ORG:7268</a>: foo </li>
+
+  <li><a href="sr-org/7269/index.html">SR-ORG:7269</a>: Macedonia</li>
+
+  <li><a href="sr-org/7270/index.html">SR-ORG:7270</a>: North America 1927, Albers Conical Equal Area</li>
+
+  <li><a href="sr-org/7271/index.html">SR-ORG:7271</a>: Contiguous United States NAD27 Albers Equal Area</li>
+
+  <li><a href="sr-org/7272/index.html">SR-ORG:7272</a>: test</li>
+
+  <li><a href="sr-org/7273/index.html">SR-ORG:7273</a>: Chippewa Grid - Chippewa County, WI</li>
+
+  <li><a href="sr-org/7274/index.html">SR-ORG:7274</a>: 1006303</li>
+
+  <li><a href="sr-org/7275/index.html">SR-ORG:7275</a>: 0001</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=66">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=68">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

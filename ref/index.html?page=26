@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=25">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=27">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3171/index.html">EPSG:3171</a>: RGNC91-93 / UTM zone 59S</li>
+
+  <li><a href="epsg/3172/index.html">EPSG:3172</a>: IGN53 Mare / UTM zone 59S</li>
+
+  <li><a href="epsg/3173/index.html">EPSG:3173</a>: fk89 / Faroe Lambert FK89</li>
+
+  <li><a href="epsg/3174/index.html">EPSG:3174</a>: NAD83 / Great Lakes Albers</li>
+
+  <li><a href="epsg/3175/index.html">EPSG:3175</a>: NAD83 / Great Lakes and St Lawrence Albers</li>
+
+  <li><a href="epsg/3176/index.html">EPSG:3176</a>: Indian 1960 / TM 106 NE</li>
+
+  <li><a href="epsg/3177/index.html">EPSG:3177</a>: LGD2006 / Libya TM</li>
+
+  <li><a href="epsg/3178/index.html">EPSG:3178</a>: GR96 / UTM zone 18N</li>
+
+  <li><a href="epsg/3179/index.html">EPSG:3179</a>: GR96 / UTM zone 19N</li>
+
+  <li><a href="epsg/3180/index.html">EPSG:3180</a>: GR96 / UTM zone 20N</li>
+
+  <li><a href="epsg/3181/index.html">EPSG:3181</a>: GR96 / UTM zone 21N</li>
+
+  <li><a href="epsg/3182/index.html">EPSG:3182</a>: GR96 / UTM zone 22N</li>
+
+  <li><a href="epsg/3183/index.html">EPSG:3183</a>: GR96 / UTM zone 23N</li>
+
+  <li><a href="epsg/3184/index.html">EPSG:3184</a>: GR96 / UTM zone 24N</li>
+
+  <li><a href="epsg/3185/index.html">EPSG:3185</a>: GR96 / UTM zone 25N</li>
+
+  <li><a href="epsg/3186/index.html">EPSG:3186</a>: GR96 / UTM zone 26N</li>
+
+  <li><a href="epsg/3187/index.html">EPSG:3187</a>: GR96 / UTM zone 27N</li>
+
+  <li><a href="epsg/3188/index.html">EPSG:3188</a>: GR96 / UTM zone 28N</li>
+
+  <li><a href="epsg/3189/index.html">EPSG:3189</a>: GR96 / UTM zone 29N</li>
+
+  <li><a href="epsg/3190/index.html">EPSG:3190</a>: LGD2006 / Libya TM zone 5</li>
+
+  <li><a href="epsg/3191/index.html">EPSG:3191</a>: LGD2006 / Libya TM zone 6</li>
+
+  <li><a href="epsg/3192/index.html">EPSG:3192</a>: LGD2006 / Libya TM zone 7</li>
+
+  <li><a href="epsg/3193/index.html">EPSG:3193</a>: LGD2006 / Libya TM zone 8</li>
+
+  <li><a href="epsg/3194/index.html">EPSG:3194</a>: LGD2006 / Libya TM zone 9</li>
+
+  <li><a href="epsg/3195/index.html">EPSG:3195</a>: LGD2006 / Libya TM zone 10</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3196/index.html">EPSG:3196</a>: LGD2006 / Libya TM zone 11</li>
+
+  <li><a href="epsg/3197/index.html">EPSG:3197</a>: LGD2006 / Libya TM zone 12</li>
+
+  <li><a href="epsg/3198/index.html">EPSG:3198</a>: LGD2006 / Libya TM zone 13</li>
+
+  <li><a href="epsg/3199/index.html">EPSG:3199</a>: LGD2006 / UTM zone 32N</li>
+
+  <li><a href="epsg/3200/index.html">EPSG:3200</a>: FD58 / Iraq zone</li>
+
+  <li><a href="epsg/3201/index.html">EPSG:3201</a>: LGD2006 / UTM zone 33N</li>
+
+  <li><a href="epsg/3202/index.html">EPSG:3202</a>: LGD2006 / UTM zone 34N</li>
+
+  <li><a href="epsg/3203/index.html">EPSG:3203</a>: LGD2006 / UTM zone 35N</li>
+
+  <li><a href="epsg/3204/index.html">EPSG:3204</a>: WGS 84 / SCAR IMW SP19-20</li>
+
+  <li><a href="epsg/3205/index.html">EPSG:3205</a>: WGS 84 / SCAR IMW SP21-22</li>
+
+  <li><a href="epsg/3206/index.html">EPSG:3206</a>: WGS 84 / SCAR IMW SP23-24</li>
+
+  <li><a href="epsg/3207/index.html">EPSG:3207</a>: WGS 84 / SCAR IMW SQ01-02</li>
+
+  <li><a href="epsg/3208/index.html">EPSG:3208</a>: WGS 84 / SCAR IMW SQ19-20</li>
+
+  <li><a href="epsg/3209/index.html">EPSG:3209</a>: WGS 84 / SCAR IMW SQ21-22</li>
+
+  <li><a href="epsg/3210/index.html">EPSG:3210</a>: WGS 84 / SCAR IMW SQ37-38</li>
+
+  <li><a href="epsg/3211/index.html">EPSG:3211</a>: WGS 84 / SCAR IMW SQ39-40</li>
+
+  <li><a href="epsg/3212/index.html">EPSG:3212</a>: WGS 84 / SCAR IMW SQ41-42</li>
+
+  <li><a href="epsg/3213/index.html">EPSG:3213</a>: WGS 84 / SCAR IMW SQ43-44</li>
+
+  <li><a href="epsg/3214/index.html">EPSG:3214</a>: WGS 84 / SCAR IMW SQ45-46</li>
+
+  <li><a href="epsg/3215/index.html">EPSG:3215</a>: WGS 84 / SCAR IMW SQ47-48</li>
+
+  <li><a href="epsg/3216/index.html">EPSG:3216</a>: WGS 84 / SCAR IMW SQ49-50</li>
+
+  <li><a href="epsg/3217/index.html">EPSG:3217</a>: WGS 84 / SCAR IMW SQ51-52</li>
+
+  <li><a href="epsg/3218/index.html">EPSG:3218</a>: WGS 84 / SCAR IMW SQ53-54</li>
+
+  <li><a href="epsg/3219/index.html">EPSG:3219</a>: WGS 84 / SCAR IMW SQ55-56</li>
+
+  <li><a href="epsg/3220/index.html">EPSG:3220</a>: WGS 84 / SCAR IMW SQ57-58</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=25">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=27">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

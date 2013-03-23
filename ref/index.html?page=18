@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=17">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=19">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2770/index.html">EPSG:2770</a>: NAD83(HARN) / California zone 5</li>
+
+  <li><a href="epsg/2771/index.html">EPSG:2771</a>: NAD83(HARN) / California zone 6</li>
+
+  <li><a href="epsg/2772/index.html">EPSG:2772</a>: NAD83(HARN) / Colorado North</li>
+
+  <li><a href="epsg/2773/index.html">EPSG:2773</a>: NAD83(HARN) / Colorado Central</li>
+
+  <li><a href="epsg/2774/index.html">EPSG:2774</a>: NAD83(HARN) / Colorado South</li>
+
+  <li><a href="epsg/2775/index.html">EPSG:2775</a>: NAD83(HARN) / Connecticut</li>
+
+  <li><a href="epsg/2776/index.html">EPSG:2776</a>: NAD83(HARN) / Delaware</li>
+
+  <li><a href="epsg/2777/index.html">EPSG:2777</a>: NAD83(HARN) / Florida East</li>
+
+  <li><a href="epsg/2778/index.html">EPSG:2778</a>: NAD83(HARN) / Florida West</li>
+
+  <li><a href="epsg/2779/index.html">EPSG:2779</a>: NAD83(HARN) / Florida North</li>
+
+  <li><a href="epsg/2780/index.html">EPSG:2780</a>: NAD83(HARN) / Georgia East</li>
+
+  <li><a href="epsg/2781/index.html">EPSG:2781</a>: NAD83(HARN) / Georgia West</li>
+
+  <li><a href="epsg/2782/index.html">EPSG:2782</a>: NAD83(HARN) / Hawaii zone 1</li>
+
+  <li><a href="epsg/2783/index.html">EPSG:2783</a>: NAD83(HARN) / Hawaii zone 2</li>
+
+  <li><a href="epsg/2784/index.html">EPSG:2784</a>: NAD83(HARN) / Hawaii zone 3</li>
+
+  <li><a href="epsg/2785/index.html">EPSG:2785</a>: NAD83(HARN) / Hawaii zone 4</li>
+
+  <li><a href="epsg/2786/index.html">EPSG:2786</a>: NAD83(HARN) / Hawaii zone 5</li>
+
+  <li><a href="epsg/2787/index.html">EPSG:2787</a>: NAD83(HARN) / Idaho East</li>
+
+  <li><a href="epsg/2788/index.html">EPSG:2788</a>: NAD83(HARN) / Idaho Central</li>
+
+  <li><a href="epsg/2789/index.html">EPSG:2789</a>: NAD83(HARN) / Idaho West</li>
+
+  <li><a href="epsg/2790/index.html">EPSG:2790</a>: NAD83(HARN) / Illinois East</li>
+
+  <li><a href="epsg/2791/index.html">EPSG:2791</a>: NAD83(HARN) / Illinois West</li>
+
+  <li><a href="epsg/2792/index.html">EPSG:2792</a>: NAD83(HARN) / Indiana East</li>
+
+  <li><a href="epsg/2793/index.html">EPSG:2793</a>: NAD83(HARN) / Indiana West</li>
+
+  <li><a href="epsg/2794/index.html">EPSG:2794</a>: NAD83(HARN) / Iowa North</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2795/index.html">EPSG:2795</a>: NAD83(HARN) / Iowa South</li>
+
+  <li><a href="epsg/2796/index.html">EPSG:2796</a>: NAD83(HARN) / Kansas North</li>
+
+  <li><a href="epsg/2797/index.html">EPSG:2797</a>: NAD83(HARN) / Kansas South</li>
+
+  <li><a href="epsg/2798/index.html">EPSG:2798</a>: NAD83(HARN) / Kentucky North</li>
+
+  <li><a href="epsg/2799/index.html">EPSG:2799</a>: NAD83(HARN) / Kentucky South</li>
+
+  <li><a href="epsg/2800/index.html">EPSG:2800</a>: NAD83(HARN) / Louisiana North</li>
+
+  <li><a href="epsg/2801/index.html">EPSG:2801</a>: NAD83(HARN) / Louisiana South</li>
+
+  <li><a href="epsg/2802/index.html">EPSG:2802</a>: NAD83(HARN) / Maine East</li>
+
+  <li><a href="epsg/2803/index.html">EPSG:2803</a>: NAD83(HARN) / Maine West</li>
+
+  <li><a href="epsg/2804/index.html">EPSG:2804</a>: NAD83(HARN) / Maryland</li>
+
+  <li><a href="epsg/2805/index.html">EPSG:2805</a>: NAD83(HARN) / Massachusetts Mainland</li>
+
+  <li><a href="epsg/2806/index.html">EPSG:2806</a>: NAD83(HARN) / Massachusetts Island</li>
+
+  <li><a href="epsg/2807/index.html">EPSG:2807</a>: NAD83(HARN) / Michigan North</li>
+
+  <li><a href="epsg/2808/index.html">EPSG:2808</a>: NAD83(HARN) / Michigan Central</li>
+
+  <li><a href="epsg/2809/index.html">EPSG:2809</a>: NAD83(HARN) / Michigan South</li>
+
+  <li><a href="epsg/2810/index.html">EPSG:2810</a>: NAD83(HARN) / Minnesota North</li>
+
+  <li><a href="epsg/2811/index.html">EPSG:2811</a>: NAD83(HARN) / Minnesota Central</li>
+
+  <li><a href="epsg/2812/index.html">EPSG:2812</a>: NAD83(HARN) / Minnesota South</li>
+
+  <li><a href="epsg/2813/index.html">EPSG:2813</a>: NAD83(HARN) / Mississippi East</li>
+
+  <li><a href="epsg/2814/index.html">EPSG:2814</a>: NAD83(HARN) / Mississippi West</li>
+
+  <li><a href="epsg/2815/index.html">EPSG:2815</a>: NAD83(HARN) / Missouri East</li>
+
+  <li><a href="epsg/2816/index.html">EPSG:2816</a>: NAD83(HARN) / Missouri Central</li>
+
+  <li><a href="epsg/2817/index.html">EPSG:2817</a>: NAD83(HARN) / Missouri West</li>
+
+  <li><a href="epsg/2818/index.html">EPSG:2818</a>: NAD83(HARN) / Montana</li>
+
+  <li><a href="epsg/2819/index.html">EPSG:2819</a>: NAD83(HARN) / Nebraska</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=17">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=19">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

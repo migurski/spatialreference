@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=83">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=85">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/25837/index.html">EPSG:25837</a>: ETRS89 / UTM zone 37N</li>
+
+  <li><a href="epsg/25838/index.html">EPSG:25838</a>: ETRS89 / UTM zone 38N</li>
+
+  <li><a href="epsg/25884/index.html">EPSG:25884</a>: ETRS89 / TM Baltic93</li>
+
+  <li><a href="epsg/25932/index.html">EPSG:25932</a>: Malongo 1987 / UTM zone 32S</li>
+
+  <li><a href="epsg/26191/index.html">EPSG:26191</a>: Merchich / Nord Maroc</li>
+
+  <li><a href="epsg/26192/index.html">EPSG:26192</a>: Merchich / Sud Maroc</li>
+
+  <li><a href="epsg/26193/index.html">EPSG:26193</a>: Merchich / Sahara</li>
+
+  <li><a href="epsg/26194/index.html">EPSG:26194</a>: Merchich / Sahara Nord</li>
+
+  <li><a href="epsg/26195/index.html">EPSG:26195</a>: Merchich / Sahara Sud</li>
+
+  <li><a href="epsg/26237/index.html">EPSG:26237</a>: Massawa / UTM zone 37N</li>
+
+  <li><a href="epsg/26331/index.html">EPSG:26331</a>: Minna / UTM zone 31N</li>
+
+  <li><a href="epsg/26332/index.html">EPSG:26332</a>: Minna / UTM zone 32N</li>
+
+  <li><a href="epsg/26391/index.html">EPSG:26391</a>: Minna / Nigeria West Belt</li>
+
+  <li><a href="epsg/26392/index.html">EPSG:26392</a>: Minna / Nigeria Mid Belt</li>
+
+  <li><a href="epsg/26393/index.html">EPSG:26393</a>: Minna / Nigeria East Belt</li>
+
+  <li><a href="epsg/26432/index.html">EPSG:26432</a>: Mhast / UTM zone 32S</li>
+
+  <li><a href="epsg/26591/index.html">EPSG:26591</a>: Monte Mario (Rome) / Italy zone 1</li>
+
+  <li><a href="epsg/26592/index.html">EPSG:26592</a>: Monte Mario (Rome) / Italy zone 2</li>
+
+  <li><a href="epsg/26632/index.html">EPSG:26632</a>: M&#39;poraloko / UTM zone 32N</li>
+
+  <li><a href="epsg/26692/index.html">EPSG:26692</a>: M&#39;poraloko / UTM zone 32S</li>
+
+  <li><a href="epsg/26701/index.html">EPSG:26701</a>: NAD27 / UTM zone 1N</li>
+
+  <li><a href="epsg/26702/index.html">EPSG:26702</a>: NAD27 / UTM zone 2N</li>
+
+  <li><a href="epsg/26703/index.html">EPSG:26703</a>: NAD27 / UTM zone 3N</li>
+
+  <li><a href="epsg/26704/index.html">EPSG:26704</a>: NAD27 / UTM zone 4N</li>
+
+  <li><a href="epsg/26705/index.html">EPSG:26705</a>: NAD27 / UTM zone 5N</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/26706/index.html">EPSG:26706</a>: NAD27 / UTM zone 6N</li>
+
+  <li><a href="epsg/26707/index.html">EPSG:26707</a>: NAD27 / UTM zone 7N</li>
+
+  <li><a href="epsg/26708/index.html">EPSG:26708</a>: NAD27 / UTM zone 8N</li>
+
+  <li><a href="epsg/26709/index.html">EPSG:26709</a>: NAD27 / UTM zone 9N</li>
+
+  <li><a href="epsg/26710/index.html">EPSG:26710</a>: NAD27 / UTM zone 10N</li>
+
+  <li><a href="epsg/26711/index.html">EPSG:26711</a>: NAD27 / UTM zone 11N</li>
+
+  <li><a href="epsg/26712/index.html">EPSG:26712</a>: NAD27 / UTM zone 12N</li>
+
+  <li><a href="epsg/26713/index.html">EPSG:26713</a>: NAD27 / UTM zone 13N</li>
+
+  <li><a href="epsg/26714/index.html">EPSG:26714</a>: NAD27 / UTM zone 14N</li>
+
+  <li><a href="epsg/26715/index.html">EPSG:26715</a>: NAD27 / UTM zone 15N</li>
+
+  <li><a href="epsg/26716/index.html">EPSG:26716</a>: NAD27 / UTM zone 16N</li>
+
+  <li><a href="epsg/26717/index.html">EPSG:26717</a>: NAD27 / UTM zone 17N</li>
+
+  <li><a href="epsg/26718/index.html">EPSG:26718</a>: NAD27 / UTM zone 18N</li>
+
+  <li><a href="epsg/26719/index.html">EPSG:26719</a>: NAD27 / UTM zone 19N</li>
+
+  <li><a href="epsg/26720/index.html">EPSG:26720</a>: NAD27 / UTM zone 20N</li>
+
+  <li><a href="epsg/26721/index.html">EPSG:26721</a>: NAD27 / UTM zone 21N</li>
+
+  <li><a href="epsg/26722/index.html">EPSG:26722</a>: NAD27 / UTM zone 22N</li>
+
+  <li><a href="epsg/26729/index.html">EPSG:26729</a>: NAD27 / Alabama East</li>
+
+  <li><a href="epsg/26730/index.html">EPSG:26730</a>: NAD27 / Alabama West</li>
+
+  <li><a href="epsg/26731/index.html">EPSG:26731</a>: NAD27 / Alaska zone 1</li>
+
+  <li><a href="epsg/26732/index.html">EPSG:26732</a>: NAD27 / Alaska zone 2</li>
+
+  <li><a href="epsg/26733/index.html">EPSG:26733</a>: NAD27 / Alaska zone 3</li>
+
+  <li><a href="epsg/26734/index.html">EPSG:26734</a>: NAD27 / Alaska zone 4</li>
+
+  <li><a href="epsg/26735/index.html">EPSG:26735</a>: NAD27 / Alaska zone 5</li>
+
+  <li><a href="epsg/26736/index.html">EPSG:26736</a>: NAD27 / Alaska zone 6</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=83">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=85">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

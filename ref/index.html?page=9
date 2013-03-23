@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=8">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=10">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2320/index.html">EPSG:2320</a>: ED50 / TM30</li>
+
+  <li><a href="epsg/2321/index.html">EPSG:2321</a>: ED50 / TM33</li>
+
+  <li><a href="epsg/2322/index.html">EPSG:2322</a>: ED50 / TM36</li>
+
+  <li><a href="epsg/2323/index.html">EPSG:2323</a>: ED50 / TM39</li>
+
+  <li><a href="epsg/2324/index.html">EPSG:2324</a>: ED50 / TM42</li>
+
+  <li><a href="epsg/2325/index.html">EPSG:2325</a>: ED50 / TM45</li>
+
+  <li><a href="epsg/2326/index.html">EPSG:2326</a>: Hong Kong 1980 Grid System</li>
+
+  <li><a href="epsg/2327/index.html">EPSG:2327</a>: Xian 1980 / Gauss-Kruger zone 13</li>
+
+  <li><a href="epsg/2328/index.html">EPSG:2328</a>: Xian 1980 / Gauss-Kruger zone 14</li>
+
+  <li><a href="epsg/2329/index.html">EPSG:2329</a>: Xian 1980 / Gauss-Kruger zone 15</li>
+
+  <li><a href="epsg/2330/index.html">EPSG:2330</a>: Xian 1980 / Gauss-Kruger zone 16</li>
+
+  <li><a href="epsg/2331/index.html">EPSG:2331</a>: Xian 1980 / Gauss-Kruger zone 17</li>
+
+  <li><a href="epsg/2332/index.html">EPSG:2332</a>: Xian 1980 / Gauss-Kruger zone 18</li>
+
+  <li><a href="epsg/2333/index.html">EPSG:2333</a>: Xian 1980 / Gauss-Kruger zone 19</li>
+
+  <li><a href="epsg/2334/index.html">EPSG:2334</a>: Xian 1980 / Gauss-Kruger zone 20</li>
+
+  <li><a href="epsg/2335/index.html">EPSG:2335</a>: Xian 1980 / Gauss-Kruger zone 21</li>
+
+  <li><a href="epsg/2336/index.html">EPSG:2336</a>: Xian 1980 / Gauss-Kruger zone 22</li>
+
+  <li><a href="epsg/2337/index.html">EPSG:2337</a>: Xian 1980 / Gauss-Kruger zone 23</li>
+
+  <li><a href="epsg/2338/index.html">EPSG:2338</a>: Xian 1980 / Gauss-Kruger CM 75E</li>
+
+  <li><a href="epsg/2339/index.html">EPSG:2339</a>: Xian 1980 / Gauss-Kruger CM 81E</li>
+
+  <li><a href="epsg/2340/index.html">EPSG:2340</a>: Xian 1980 / Gauss-Kruger CM 87E</li>
+
+  <li><a href="epsg/2341/index.html">EPSG:2341</a>: Xian 1980 / Gauss-Kruger CM 93E</li>
+
+  <li><a href="epsg/2342/index.html">EPSG:2342</a>: Xian 1980 / Gauss-Kruger CM 99E</li>
+
+  <li><a href="epsg/2343/index.html">EPSG:2343</a>: Xian 1980 / Gauss-Kruger CM 105E</li>
+
+  <li><a href="epsg/2344/index.html">EPSG:2344</a>: Xian 1980 / Gauss-Kruger CM 111E</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2345/index.html">EPSG:2345</a>: Xian 1980 / Gauss-Kruger CM 117E</li>
+
+  <li><a href="epsg/2346/index.html">EPSG:2346</a>: Xian 1980 / Gauss-Kruger CM 123E</li>
+
+  <li><a href="epsg/2347/index.html">EPSG:2347</a>: Xian 1980 / Gauss-Kruger CM 129E</li>
+
+  <li><a href="epsg/2348/index.html">EPSG:2348</a>: Xian 1980 / Gauss-Kruger CM 135E</li>
+
+  <li><a href="epsg/2349/index.html">EPSG:2349</a>: Xian 1980 / 3-degree Gauss-Kruger zone 25</li>
+
+  <li><a href="epsg/2350/index.html">EPSG:2350</a>: Xian 1980 / 3-degree Gauss-Kruger zone 26</li>
+
+  <li><a href="epsg/2351/index.html">EPSG:2351</a>: Xian 1980 / 3-degree Gauss-Kruger zone 27</li>
+
+  <li><a href="epsg/2352/index.html">EPSG:2352</a>: Xian 1980 / 3-degree Gauss-Kruger zone 28</li>
+
+  <li><a href="epsg/2353/index.html">EPSG:2353</a>: Xian 1980 / 3-degree Gauss-Kruger zone 29</li>
+
+  <li><a href="epsg/2354/index.html">EPSG:2354</a>: Xian 1980 / 3-degree Gauss-Kruger zone 30</li>
+
+  <li><a href="epsg/2355/index.html">EPSG:2355</a>: Xian 1980 / 3-degree Gauss-Kruger zone 31</li>
+
+  <li><a href="epsg/2356/index.html">EPSG:2356</a>: Xian 1980 / 3-degree Gauss-Kruger zone 32</li>
+
+  <li><a href="epsg/2357/index.html">EPSG:2357</a>: Xian 1980 / 3-degree Gauss-Kruger zone 33</li>
+
+  <li><a href="epsg/2358/index.html">EPSG:2358</a>: Xian 1980 / 3-degree Gauss-Kruger zone 34</li>
+
+  <li><a href="epsg/2359/index.html">EPSG:2359</a>: Xian 1980 / 3-degree Gauss-Kruger zone 35</li>
+
+  <li><a href="epsg/2360/index.html">EPSG:2360</a>: Xian 1980 / 3-degree Gauss-Kruger zone 36</li>
+
+  <li><a href="epsg/2361/index.html">EPSG:2361</a>: Xian 1980 / 3-degree Gauss-Kruger zone 37</li>
+
+  <li><a href="epsg/2362/index.html">EPSG:2362</a>: Xian 1980 / 3-degree Gauss-Kruger zone 38</li>
+
+  <li><a href="epsg/2363/index.html">EPSG:2363</a>: Xian 1980 / 3-degree Gauss-Kruger zone 39</li>
+
+  <li><a href="epsg/2364/index.html">EPSG:2364</a>: Xian 1980 / 3-degree Gauss-Kruger zone 40</li>
+
+  <li><a href="epsg/2365/index.html">EPSG:2365</a>: Xian 1980 / 3-degree Gauss-Kruger zone 41</li>
+
+  <li><a href="epsg/2366/index.html">EPSG:2366</a>: Xian 1980 / 3-degree Gauss-Kruger zone 42</li>
+
+  <li><a href="epsg/2367/index.html">EPSG:2367</a>: Xian 1980 / 3-degree Gauss-Kruger zone 43</li>
+
+  <li><a href="epsg/2368/index.html">EPSG:2368</a>: Xian 1980 / 3-degree Gauss-Kruger zone 44</li>
+
+  <li><a href="epsg/2369/index.html">EPSG:2369</a>: Xian 1980 / 3-degree Gauss-Kruger zone 45</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=8">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=10">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

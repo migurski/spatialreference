@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=139">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=141">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/70511/index.html">IAU2000:70511</a>: Miranda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70512/index.html">IAU2000:70512</a>: Miranda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70513/index.html">IAU2000:70513</a>: Miranda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70514/index.html">IAU2000:70514</a>: Miranda Sinusoidal</li>
+
+  <li><a href="iau2000/70515/index.html">IAU2000:70515</a>: Miranda Sinusoidal</li>
+
+  <li><a href="iau2000/70516/index.html">IAU2000:70516</a>: Miranda Sinusoidal</li>
+
+  <li><a href="iau2000/70517/index.html">IAU2000:70517</a>: Miranda Sinusoidal</li>
+
+  <li><a href="iau2000/70518/index.html">IAU2000:70518</a>: Miranda North Pole Stereographic</li>
+
+  <li><a href="iau2000/70519/index.html">IAU2000:70519</a>: Miranda North Pole Stereographic</li>
+
+  <li><a href="iau2000/70520/index.html">IAU2000:70520</a>: Miranda South Pole Stereographic</li>
+
+  <li><a href="iau2000/70521/index.html">IAU2000:70521</a>: Miranda South Pole Stereographic</li>
+
+  <li><a href="iau2000/70560/index.html">IAU2000:70560</a>: Miranda Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/70561/index.html">IAU2000:70561</a>: Miranda Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/70562/index.html">IAU2000:70562</a>: Miranda Stereographic AUTO</li>
+
+  <li><a href="iau2000/70563/index.html">IAU2000:70563</a>: Miranda Stereographic AUTO</li>
+
+  <li><a href="iau2000/70564/index.html">IAU2000:70564</a>: Miranda Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/70565/index.html">IAU2000:70565</a>: Miranda Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/70566/index.html">IAU2000:70566</a>: Miranda Orthographic AUTO</li>
+
+  <li><a href="iau2000/70567/index.html">IAU2000:70567</a>: Miranda Orthographic AUTO</li>
+
+  <li><a href="iau2000/70568/index.html">IAU2000:70568</a>: Miranda Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/70569/index.html">IAU2000:70569</a>: Miranda Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/70570/index.html">IAU2000:70570</a>: Miranda Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/70571/index.html">IAU2000:70571</a>: Miranda Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/70572/index.html">IAU2000:70572</a>: Miranda Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/70573/index.html">IAU2000:70573</a>: Miranda Lambert Azimuthal Equal Area AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/70574/index.html">IAU2000:70574</a>: Miranda Mercator AUTO</li>
+
+  <li><a href="iau2000/70575/index.html">IAU2000:70575</a>: Miranda Mercator AUTO</li>
+
+  <li><a href="iau2000/70576/index.html">IAU2000:70576</a>: Miranda Albers AUTO</li>
+
+  <li><a href="iau2000/70577/index.html">IAU2000:70577</a>: Miranda Albers AUTO</li>
+
+  <li><a href="iau2000/70578/index.html">IAU2000:70578</a>: Miranda Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/70579/index.html">IAU2000:70579</a>: Miranda Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/70600/index.html">IAU2000:70600</a>: Cordelia 2000</li>
+
+  <li><a href="iau2000/70601/index.html">IAU2000:70601</a>: Cordelia 2000</li>
+
+  <li><a href="iau2000/70610/index.html">IAU2000:70610</a>: Cordelia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70611/index.html">IAU2000:70611</a>: Cordelia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70612/index.html">IAU2000:70612</a>: Cordelia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70613/index.html">IAU2000:70613</a>: Cordelia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70614/index.html">IAU2000:70614</a>: Cordelia Sinusoidal</li>
+
+  <li><a href="iau2000/70615/index.html">IAU2000:70615</a>: Cordelia Sinusoidal</li>
+
+  <li><a href="iau2000/70616/index.html">IAU2000:70616</a>: Cordelia Sinusoidal</li>
+
+  <li><a href="iau2000/70617/index.html">IAU2000:70617</a>: Cordelia Sinusoidal</li>
+
+  <li><a href="iau2000/70618/index.html">IAU2000:70618</a>: Cordelia North Pole Stereographic</li>
+
+  <li><a href="iau2000/70619/index.html">IAU2000:70619</a>: Cordelia North Pole Stereographic</li>
+
+  <li><a href="iau2000/70620/index.html">IAU2000:70620</a>: Cordelia South Pole Stereographic</li>
+
+  <li><a href="iau2000/70621/index.html">IAU2000:70621</a>: Cordelia South Pole Stereographic</li>
+
+  <li><a href="iau2000/70660/index.html">IAU2000:70660</a>: Cordelia Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/70661/index.html">IAU2000:70661</a>: Cordelia Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/70662/index.html">IAU2000:70662</a>: Cordelia Stereographic AUTO</li>
+
+  <li><a href="iau2000/70663/index.html">IAU2000:70663</a>: Cordelia Stereographic AUTO</li>
+
+  <li><a href="iau2000/70664/index.html">IAU2000:70664</a>: Cordelia Transverse Mercator AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=139">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=141">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

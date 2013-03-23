@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=77">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=79">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/20085/index.html">EPSG:20085</a>: Pulkovo 1995 / Gauss-Kruger 25N</li>
+
+  <li><a href="epsg/20086/index.html">EPSG:20086</a>: Pulkovo 1995 / Gauss-Kruger 26N</li>
+
+  <li><a href="epsg/20087/index.html">EPSG:20087</a>: Pulkovo 1995 / Gauss-Kruger 27N</li>
+
+  <li><a href="epsg/20088/index.html">EPSG:20088</a>: Pulkovo 1995 / Gauss-Kruger 28N</li>
+
+  <li><a href="epsg/20089/index.html">EPSG:20089</a>: Pulkovo 1995 / Gauss-Kruger 29N</li>
+
+  <li><a href="epsg/20090/index.html">EPSG:20090</a>: Pulkovo 1995 / Gauss-Kruger 30N</li>
+
+  <li><a href="epsg/20091/index.html">EPSG:20091</a>: Pulkovo 1995 / Gauss-Kruger 31N</li>
+
+  <li><a href="epsg/20092/index.html">EPSG:20092</a>: Pulkovo 1995 / Gauss-Kruger 32N</li>
+
+  <li><a href="epsg/20135/index.html">EPSG:20135</a>: Adindan / UTM zone 35N</li>
+
+  <li><a href="epsg/20136/index.html">EPSG:20136</a>: Adindan / UTM zone 36N</li>
+
+  <li><a href="epsg/20137/index.html">EPSG:20137</a>: Adindan / UTM zone 37N</li>
+
+  <li><a href="epsg/20138/index.html">EPSG:20138</a>: Adindan / UTM zone 38N</li>
+
+  <li><a href="epsg/20248/index.html">EPSG:20248</a>: AGD66 / AMG zone 48</li>
+
+  <li><a href="epsg/20249/index.html">EPSG:20249</a>: AGD66 / AMG zone 49</li>
+
+  <li><a href="epsg/20250/index.html">EPSG:20250</a>: AGD66 / AMG zone 50</li>
+
+  <li><a href="epsg/20251/index.html">EPSG:20251</a>: AGD66 / AMG zone 51</li>
+
+  <li><a href="epsg/20252/index.html">EPSG:20252</a>: AGD66 / AMG zone 52</li>
+
+  <li><a href="epsg/20253/index.html">EPSG:20253</a>: AGD66 / AMG zone 53</li>
+
+  <li><a href="epsg/20254/index.html">EPSG:20254</a>: AGD66 / AMG zone 54</li>
+
+  <li><a href="epsg/20255/index.html">EPSG:20255</a>: AGD66 / AMG zone 55</li>
+
+  <li><a href="epsg/20256/index.html">EPSG:20256</a>: AGD66 / AMG zone 56</li>
+
+  <li><a href="epsg/20257/index.html">EPSG:20257</a>: AGD66 / AMG zone 57</li>
+
+  <li><a href="epsg/20258/index.html">EPSG:20258</a>: AGD66 / AMG zone 58</li>
+
+  <li><a href="epsg/20348/index.html">EPSG:20348</a>: AGD84 / AMG zone 48</li>
+
+  <li><a href="epsg/20349/index.html">EPSG:20349</a>: AGD84 / AMG zone 49</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/20350/index.html">EPSG:20350</a>: AGD84 / AMG zone 50</li>
+
+  <li><a href="epsg/20351/index.html">EPSG:20351</a>: AGD84 / AMG zone 51</li>
+
+  <li><a href="epsg/20352/index.html">EPSG:20352</a>: AGD84 / AMG zone 52</li>
+
+  <li><a href="epsg/20353/index.html">EPSG:20353</a>: AGD84 / AMG zone 53</li>
+
+  <li><a href="epsg/20354/index.html">EPSG:20354</a>: AGD84 / AMG zone 54</li>
+
+  <li><a href="epsg/20355/index.html">EPSG:20355</a>: AGD84 / AMG zone 55</li>
+
+  <li><a href="epsg/20356/index.html">EPSG:20356</a>: AGD84 / AMG zone 56</li>
+
+  <li><a href="epsg/20357/index.html">EPSG:20357</a>: AGD84 / AMG zone 57</li>
+
+  <li><a href="epsg/20358/index.html">EPSG:20358</a>: AGD84 / AMG zone 58</li>
+
+  <li><a href="epsg/20436/index.html">EPSG:20436</a>: Ain el Abd / UTM zone 36N</li>
+
+  <li><a href="epsg/20437/index.html">EPSG:20437</a>: Ain el Abd / UTM zone 37N</li>
+
+  <li><a href="epsg/20438/index.html">EPSG:20438</a>: Ain el Abd / UTM zone 38N</li>
+
+  <li><a href="epsg/20439/index.html">EPSG:20439</a>: Ain el Abd / UTM zone 39N</li>
+
+  <li><a href="epsg/20440/index.html">EPSG:20440</a>: Ain el Abd / UTM zone 40N</li>
+
+  <li><a href="epsg/20499/index.html">EPSG:20499</a>: Ain el Abd / Bahrain Grid</li>
+
+  <li><a href="epsg/20538/index.html">EPSG:20538</a>: Afgooye / UTM zone 38N</li>
+
+  <li><a href="epsg/20539/index.html">EPSG:20539</a>: Afgooye / UTM zone 39N</li>
+
+  <li><a href="epsg/20790/index.html">EPSG:20790</a>: Lisbon (Lisbon) / Portuguese National Grid</li>
+
+  <li><a href="epsg/20791/index.html">EPSG:20791</a>: Lisbon (Lisbon) / Portuguese Grid</li>
+
+  <li><a href="epsg/20822/index.html">EPSG:20822</a>: Aratu / UTM zone 22S</li>
+
+  <li><a href="epsg/20823/index.html">EPSG:20823</a>: Aratu / UTM zone 23S</li>
+
+  <li><a href="epsg/20824/index.html">EPSG:20824</a>: Aratu / UTM zone 24S</li>
+
+  <li><a href="epsg/20934/index.html">EPSG:20934</a>: Arc 1950 / UTM zone 34S</li>
+
+  <li><a href="epsg/20935/index.html">EPSG:20935</a>: Arc 1950 / UTM zone 35S</li>
+
+  <li><a href="epsg/20936/index.html">EPSG:20936</a>: Arc 1950 / UTM zone 36S</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=77">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=79">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

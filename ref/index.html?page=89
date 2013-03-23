@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=88">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=90">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/26989/index.html">EPSG:26989</a>: NAD83 / Michigan Central</li>
+
+  <li><a href="epsg/26990/index.html">EPSG:26990</a>: NAD83 / Michigan South</li>
+
+  <li><a href="epsg/26991/index.html">EPSG:26991</a>: NAD83 / Minnesota North</li>
+
+  <li><a href="epsg/26992/index.html">EPSG:26992</a>: NAD83 / Minnesota Central</li>
+
+  <li><a href="epsg/26993/index.html">EPSG:26993</a>: NAD83 / Minnesota South</li>
+
+  <li><a href="epsg/26994/index.html">EPSG:26994</a>: NAD83 / Mississippi East</li>
+
+  <li><a href="epsg/26995/index.html">EPSG:26995</a>: NAD83 / Mississippi West</li>
+
+  <li><a href="epsg/26996/index.html">EPSG:26996</a>: NAD83 / Missouri East</li>
+
+  <li><a href="epsg/26997/index.html">EPSG:26997</a>: NAD83 / Missouri Central</li>
+
+  <li><a href="epsg/26998/index.html">EPSG:26998</a>: NAD83 / Missouri West</li>
+
+  <li><a href="epsg/27037/index.html">EPSG:27037</a>: Nahrwan 1967 / UTM zone 37N</li>
+
+  <li><a href="epsg/27038/index.html">EPSG:27038</a>: Nahrwan 1967 / UTM zone 38N</li>
+
+  <li><a href="epsg/27039/index.html">EPSG:27039</a>: Nahrwan 1967 / UTM zone 39N</li>
+
+  <li><a href="epsg/27040/index.html">EPSG:27040</a>: Nahrwan 1967 / UTM zone 40N</li>
+
+  <li><a href="epsg/27120/index.html">EPSG:27120</a>: Naparima 1972 / UTM zone 20N</li>
+
+  <li><a href="epsg/27200/index.html">EPSG:27200</a>: NZGD49 / New Zealand Map Grid</li>
+
+  <li><a href="epsg/27205/index.html">EPSG:27205</a>: NZGD49 / Mount Eden Circuit</li>
+
+  <li><a href="epsg/27206/index.html">EPSG:27206</a>: NZGD49 / Bay of Plenty Circuit</li>
+
+  <li><a href="epsg/27207/index.html">EPSG:27207</a>: NZGD49 / Poverty Bay Circuit</li>
+
+  <li><a href="epsg/27208/index.html">EPSG:27208</a>: NZGD49 / Hawkes Bay Circuit</li>
+
+  <li><a href="epsg/27209/index.html">EPSG:27209</a>: NZGD49 / Taranaki Circuit</li>
+
+  <li><a href="epsg/27210/index.html">EPSG:27210</a>: NZGD49 / Tuhirangi Circuit</li>
+
+  <li><a href="epsg/27211/index.html">EPSG:27211</a>: NZGD49 / Wanganui Circuit</li>
+
+  <li><a href="epsg/27212/index.html">EPSG:27212</a>: NZGD49 / Wairarapa Circuit</li>
+
+  <li><a href="epsg/27213/index.html">EPSG:27213</a>: NZGD49 / Wellington Circuit</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/27214/index.html">EPSG:27214</a>: NZGD49 / Collingwood Circuit</li>
+
+  <li><a href="epsg/27215/index.html">EPSG:27215</a>: NZGD49 / Nelson Circuit</li>
+
+  <li><a href="epsg/27216/index.html">EPSG:27216</a>: NZGD49 / Karamea Circuit</li>
+
+  <li><a href="epsg/27217/index.html">EPSG:27217</a>: NZGD49 / Buller Circuit</li>
+
+  <li><a href="epsg/27218/index.html">EPSG:27218</a>: NZGD49 / Grey Circuit</li>
+
+  <li><a href="epsg/27219/index.html">EPSG:27219</a>: NZGD49 / Amuri Circuit</li>
+
+  <li><a href="epsg/27220/index.html">EPSG:27220</a>: NZGD49 / Marlborough Circuit</li>
+
+  <li><a href="epsg/27221/index.html">EPSG:27221</a>: NZGD49 / Hokitika Circuit</li>
+
+  <li><a href="epsg/27222/index.html">EPSG:27222</a>: NZGD49 / Okarito Circuit</li>
+
+  <li><a href="epsg/27223/index.html">EPSG:27223</a>: NZGD49 / Jacksons Bay Circuit</li>
+
+  <li><a href="epsg/27224/index.html">EPSG:27224</a>: NZGD49 / Mount Pleasant Circuit</li>
+
+  <li><a href="epsg/27225/index.html">EPSG:27225</a>: NZGD49 / Gawler Circuit</li>
+
+  <li><a href="epsg/27226/index.html">EPSG:27226</a>: NZGD49 / Timaru Circuit</li>
+
+  <li><a href="epsg/27227/index.html">EPSG:27227</a>: NZGD49 / Lindis Peak Circuit</li>
+
+  <li><a href="epsg/27228/index.html">EPSG:27228</a>: NZGD49 / Mount Nicholas Circuit</li>
+
+  <li><a href="epsg/27229/index.html">EPSG:27229</a>: NZGD49 / Mount York Circuit</li>
+
+  <li><a href="epsg/27230/index.html">EPSG:27230</a>: NZGD49 / Observation Point Circuit</li>
+
+  <li><a href="epsg/27231/index.html">EPSG:27231</a>: NZGD49 / North Taieri Circuit</li>
+
+  <li><a href="epsg/27232/index.html">EPSG:27232</a>: NZGD49 / Bluff Circuit</li>
+
+  <li><a href="epsg/27258/index.html">EPSG:27258</a>: NZGD49 / UTM zone 58S</li>
+
+  <li><a href="epsg/27259/index.html">EPSG:27259</a>: NZGD49 / UTM zone 59S</li>
+
+  <li><a href="epsg/27260/index.html">EPSG:27260</a>: NZGD49 / UTM zone 60S</li>
+
+  <li><a href="epsg/27291/index.html">EPSG:27291</a>: NZGD49 / North Island Grid</li>
+
+  <li><a href="epsg/27292/index.html">EPSG:27292</a>: NZGD49 / South Island Grid</li>
+
+  <li><a href="epsg/27391/index.html">EPSG:27391</a>: NGO 1948 (Oslo) / NGO zone I</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=88">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=90">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

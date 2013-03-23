@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=86">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=88">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/26862/index.html">EPSG:26862</a>: NAD83(HARN) / West Virginia South (ftUS)</li>
+
+  <li><a href="epsg/26863/index.html">EPSG:26863</a>: NAD83(NSRS2007) / Maine East (ftUS)</li>
+
+  <li><a href="epsg/26864/index.html">EPSG:26864</a>: NAD83(NSRS2007) / Maine West (ftUS)</li>
+
+  <li><a href="epsg/26865/index.html">EPSG:26865</a>: NAD83(NSRS2007) / Minnesota North (ftUS)</li>
+
+  <li><a href="epsg/26866/index.html">EPSG:26866</a>: NAD83(NSRS2007) / Minnesota Central (ftUS)</li>
+
+  <li><a href="epsg/26867/index.html">EPSG:26867</a>: NAD83(NSRS2007) / Minnesota South (ftUS)</li>
+
+  <li><a href="epsg/26868/index.html">EPSG:26868</a>: NAD83(NSRS2007) / Nebraska (ftUS)</li>
+
+  <li><a href="epsg/26869/index.html">EPSG:26869</a>: NAD83(NSRS2007) / West Virginia North (ftUS)</li>
+
+  <li><a href="epsg/26870/index.html">EPSG:26870</a>: NAD83(NSRS2007) / West Virginia South (ftUS)</li>
+
+  <li><a href="epsg/26891/index.html">EPSG:26891</a>: NAD83(CSRS) / MTM zone 11</li>
+
+  <li><a href="epsg/26892/index.html">EPSG:26892</a>: NAD83(CSRS) / MTM zone 12</li>
+
+  <li><a href="epsg/26893/index.html">EPSG:26893</a>: NAD83(CSRS) / MTM zone 13</li>
+
+  <li><a href="epsg/26894/index.html">EPSG:26894</a>: NAD83(CSRS) / MTM zone 14</li>
+
+  <li><a href="epsg/26895/index.html">EPSG:26895</a>: NAD83(CSRS) / MTM zone 15</li>
+
+  <li><a href="epsg/26896/index.html">EPSG:26896</a>: NAD83(CSRS) / MTM zone 16</li>
+
+  <li><a href="epsg/26897/index.html">EPSG:26897</a>: NAD83(CSRS) / MTM zone 17</li>
+
+  <li><a href="epsg/26898/index.html">EPSG:26898</a>: NAD83(CSRS) / MTM zone 1</li>
+
+  <li><a href="epsg/26899/index.html">EPSG:26899</a>: NAD83(CSRS) / MTM zone 2</li>
+
+  <li><a href="epsg/26901/index.html">EPSG:26901</a>: NAD83 / UTM zone 1N</li>
+
+  <li><a href="epsg/26902/index.html">EPSG:26902</a>: NAD83 / UTM zone 2N</li>
+
+  <li><a href="epsg/26903/index.html">EPSG:26903</a>: NAD83 / UTM zone 3N</li>
+
+  <li><a href="epsg/26904/index.html">EPSG:26904</a>: NAD83 / UTM zone 4N</li>
+
+  <li><a href="epsg/26905/index.html">EPSG:26905</a>: NAD83 / UTM zone 5N</li>
+
+  <li><a href="epsg/26906/index.html">EPSG:26906</a>: NAD83 / UTM zone 6N</li>
+
+  <li><a href="epsg/26907/index.html">EPSG:26907</a>: NAD83 / UTM zone 7N</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/26908/index.html">EPSG:26908</a>: NAD83 / UTM zone 8N</li>
+
+  <li><a href="epsg/26909/index.html">EPSG:26909</a>: NAD83 / UTM zone 9N</li>
+
+  <li><a href="epsg/26910/index.html">EPSG:26910</a>: NAD83 / UTM zone 10N</li>
+
+  <li><a href="epsg/26911/index.html">EPSG:26911</a>: NAD83 / UTM zone 11N</li>
+
+  <li><a href="epsg/26912/index.html">EPSG:26912</a>: NAD83 / UTM zone 12N</li>
+
+  <li><a href="epsg/26913/index.html">EPSG:26913</a>: NAD83 / UTM zone 13N</li>
+
+  <li><a href="epsg/26914/index.html">EPSG:26914</a>: NAD83 / UTM zone 14N</li>
+
+  <li><a href="epsg/26915/index.html">EPSG:26915</a>: NAD83 / UTM zone 15N</li>
+
+  <li><a href="epsg/26916/index.html">EPSG:26916</a>: NAD83 / UTM zone 16N</li>
+
+  <li><a href="epsg/26917/index.html">EPSG:26917</a>: NAD83 / UTM zone 17N</li>
+
+  <li><a href="epsg/26918/index.html">EPSG:26918</a>: NAD83 / UTM zone 18N</li>
+
+  <li><a href="epsg/26919/index.html">EPSG:26919</a>: NAD83 / UTM zone 19N</li>
+
+  <li><a href="epsg/26920/index.html">EPSG:26920</a>: NAD83 / UTM zone 20N</li>
+
+  <li><a href="epsg/26921/index.html">EPSG:26921</a>: NAD83 / UTM zone 21N</li>
+
+  <li><a href="epsg/26922/index.html">EPSG:26922</a>: NAD83 / UTM zone 22N</li>
+
+  <li><a href="epsg/26923/index.html">EPSG:26923</a>: NAD83 / UTM zone 23N</li>
+
+  <li><a href="epsg/26929/index.html">EPSG:26929</a>: NAD83 / Alabama East</li>
+
+  <li><a href="epsg/26930/index.html">EPSG:26930</a>: NAD83 / Alabama West</li>
+
+  <li><a href="epsg/26931/index.html">EPSG:26931</a>: NAD83 / Alaska zone 1</li>
+
+  <li><a href="epsg/26932/index.html">EPSG:26932</a>: NAD83 / Alaska zone 2</li>
+
+  <li><a href="epsg/26933/index.html">EPSG:26933</a>: NAD83 / Alaska zone 3</li>
+
+  <li><a href="epsg/26934/index.html">EPSG:26934</a>: NAD83 / Alaska zone 4</li>
+
+  <li><a href="epsg/26935/index.html">EPSG:26935</a>: NAD83 / Alaska zone 5</li>
+
+  <li><a href="epsg/26936/index.html">EPSG:26936</a>: NAD83 / Alaska zone 6</li>
+
+  <li><a href="epsg/26937/index.html">EPSG:26937</a>: NAD83 / Alaska zone 7</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=86">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=88">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

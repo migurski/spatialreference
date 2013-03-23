@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=67">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=69">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7276/index.html">SR-ORG:7276</a>: LCC-Antarctic</li>
+
+  <li><a href="sr-org/7277/index.html">SR-ORG:7277</a>: sdsad</li>
+
+  <li><a href="sr-org/7278/index.html">SR-ORG:7278</a>: xxx</li>
+
+  <li><a href="sr-org/7279/index.html">SR-ORG:7279</a>: 1006303</li>
+
+  <li><a href="sr-org/7280/index.html">SR-ORG:7280</a>: America</li>
+
+  <li><a href="sr-org/7281/index.html">SR-ORG:7281</a>: Macedonia AREC</li>
+
+  <li><a href="sr-org/7282/index.html">SR-ORG:7282</a>: IversonPrasad</li>
+
+  <li><a href="sr-org/7283/index.html">SR-ORG:7283</a>: Test</li>
+
+  <li><a href="sr-org/7284/index.html">SR-ORG:7284</a>: EPSG3908</li>
+
+  <li><a href="sr-org/7285/index.html">SR-ORG:7285</a>: Albers Conical Equal Area SIRGAS 2000 -54</li>
+
+  <li><a href="sr-org/7286/index.html">SR-ORG:7286</a>: Albers Conical Equal Area SIRGAS 2000 -54</li>
+
+  <li><a href="sr-org/7287/index.html">SR-ORG:7287</a>: Albers Conical Equal Area SIRGAS 2000 -54</li>
+
+  <li><a href="sr-org/7288/index.html">SR-ORG:7288</a>: EPSG:2056</li>
+
+  <li><a href="sr-org/7289/index.html">SR-ORG:7289</a>: PR</li>
+
+  <li><a href="sr-org/7290/index.html">SR-ORG:7290</a>: PR2</li>
+
+  <li><a href="sr-org/7291/index.html">SR-ORG:7291</a>: Winkel Triple</li>
+
+  <li><a href="sr-org/7292/index.html">SR-ORG:7292</a>: rfc</li>
+
+  <li><a href="sr-org/7293/index.html">SR-ORG:7293</a>: sicily</li>
+
+  <li><a href="sr-org/7294/index.html">SR-ORG:7294</a>: LTM - Manaus</li>
+
+  <li><a href="sr-org/7295/index.html">SR-ORG:7295</a>: Monte Castelluccio</li>
+
+  <li><a href="sr-org/7296/index.html">SR-ORG:7296</a>: Cassini Soldner - Monte Castelluccio</li>
+
+  <li><a href="sr-org/7297/index.html">SR-ORG:7297</a>: ETRS_1989_LAEA_L48_M09</li>
+
+  <li><a href="sr-org/7298/index.html">SR-ORG:7298</a>: zzz Hermannskogel</li>
+
+  <li><a href="sr-org/7299/index.html">SR-ORG:7299</a>: zzz Google Spherical Mercator</li>
+
+  <li><a href="sr-org/7300/index.html">SR-ORG:7300</a>: CGRS_1993_Cyprus_LTM</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7301/index.html">SR-ORG:7301</a>: USA Contiguous Albers Equal Area Conic USGS version (LANDFIRE)</li>
+
+  <li><a href="sr-org/7302/index.html">SR-ORG:7302</a>: Central Orlando</li>
+
+  <li><a href="sr-org/7303/index.html">SR-ORG:7303</a>: ESRI:102319</li>
+
+  <li><a href="sr-org/7304/index.html">SR-ORG:7304</a>: sss</li>
+
+  <li><a href="sr-org/7305/index.html">SR-ORG:7305</a>: WGS84(DD)</li>
+
+  <li><a href="sr-org/7306/index.html">SR-ORG:7306</a>: Chippewa County Grid P&amp;Z</li>
+
+  <li><a href="sr-org/7307/index.html">SR-ORG:7307</a>: Test</li>
+
+  <li><a href="sr-org/7308/index.html">SR-ORG:7308</a>: UTM-K</li>
+
+  <li><a href="sr-org/7309/index.html">SR-ORG:7309</a>: Iron County Wisconsin Coordinate Reference System</li>
+
+  <li><a href="sr-org/7310/index.html">SR-ORG:7310</a>: tm128</li>
+
+  <li><a href="sr-org/7311/index.html">SR-ORG:7311</a>: grs80_127</li>
+
+  <li><a href="sr-org/7312/index.html">SR-ORG:7312</a>: GRS80_EAST_BELT</li>
+
+  <li><a href="sr-org/7313/index.html">SR-ORG:7313</a>: GRS80_WEST_BELT</li>
+
+  <li><a href="sr-org/7314/index.html">SR-ORG:7314</a>: North American Lambert Azimuthal Equal Area Projection</li>
+
+  <li><a href="sr-org/7315/index.html">SR-ORG:7315</a>: PCS_CALI_BOG</li>
+
+  <li><a href="sr-org/7316/index.html">SR-ORG:7316</a>: NSW AGD_1966_Lambert_Conformal_Conic</li>
+
+  <li><a href="sr-org/7317/index.html">SR-ORG:7317</a>: LAMGw</li>
+
+  <li><a href="sr-org/7318/index.html">SR-ORG:7318</a>: Beijing_1954_GK_Zone_38N</li>
+
+  <li><a href="sr-org/7319/index.html">SR-ORG:7319</a>: deletethis</li>
+
+  <li><a href="sr-org/7320/index.html">SR-ORG:7320</a>: NB5588</li>
+
+  <li><a href="sr-org/7321/index.html">SR-ORG:7321</a>: deletethis2</li>
+
+  <li><a href="sr-org/7322/index.html">SR-ORG:7322</a>: NSW AGD_1966_Lambert_Conformal_Conic</li>
+
+  <li><a href="sr-org/7323/index.html">SR-ORG:7323</a>: NSW AGD_1966_Lambert_Conformal_Conic with gsb</li>
+
+  <li><a href="sr-org/7324/index.html">SR-ORG:7324</a>: NSW AGD_1966_Lambert_Conformal_Conic with gsb2</li>
+
+  <li><a href="sr-org/7325/index.html">SR-ORG:7325</a>: ETRS89 Zone32 Germany</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=67">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=69">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

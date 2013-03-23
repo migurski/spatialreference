@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=71">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=73">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7453/index.html">SR-ORG:7453</a>: NAD_1983_UTM_Zone_17N</li>
+
+  <li><a href="sr-org/7454/index.html">SR-ORG:7454</a>: Malta v3</li>
+
+  <li><a href="sr-org/7455/index.html">SR-ORG:7455</a>: WGS84</li>
+
+  <li><a href="sr-org/7456/index.html">SR-ORG:7456</a>: USA Contiguous Albers Equal Area Conic GRS 80</li>
+
+  <li><a href="sr-org/7457/index.html">SR-ORG:7457</a>: ETRS 1989 UTM Zone 33N 8 digits</li>
+
+  <li><a href="sr-org/7458/index.html">SR-ORG:7458</a>: MAGNA_Ciudad_Bogota</li>
+
+  <li><a href="sr-org/7459/index.html">SR-ORG:7459</a>: emilia romagna</li>
+
+  <li><a href="sr-org/7460/index.html">SR-ORG:7460</a>: osgb:BNG</li>
+
+  <li><a href="sr-org/7461/index.html">SR-ORG:7461</a>: fatih_belediyesi</li>
+
+  <li><a href="sr-org/7462/index.html">SR-ORG:7462</a>: test ruteng</li>
+
+  <li><a href="sr-org/7463/index.html">SR-ORG:7463</a>: Krassovsky_1940_1948</li>
+
+  <li><a href="sr-org/7464/index.html">SR-ORG:7464</a>: kocaeli_uydu</li>
+
+  <li><a href="sr-org/7465/index.html">SR-ORG:7465</a>: a</li>
+
+  <li><a href="sr-org/7466/index.html">SR-ORG:7466</a>: Namibian Polyconic 17E</li>
+
+  <li><a href="sr-org/7467/index.html">SR-ORG:7467</a>: WGS_2000</li>
+
+  <li><a href="sr-org/7468/index.html">SR-ORG:7468</a>: Danish System 34 Sjaelland</li>
+
+  <li><a href="sr-org/7469/index.html">SR-ORG:7469</a>: test</li>
+
+  <li><a href="sr-org/7470/index.html">SR-ORG:7470</a>: Pantura La Palma</li>
+
+  <li><a href="sr-org/7471/index.html">SR-ORG:7471</a>: Pantura La Palma</li>
+
+  <li><a href="sr-org/7472/index.html">SR-ORG:7472</a>: Pantura La Palma</li>
+
+  <li><a href="sr-org/7473/index.html">SR-ORG:7473</a>: Pantura La Palma</li>
+
+  <li><a href="sr-org/7474/index.html">SR-ORG:7474</a>: Test</li>
+
+  <li><a href="sr-org/7475/index.html">SR-ORG:7475</a>: Pantura La Palma</li>
+
+  <li><a href="sr-org/7476/index.html">SR-ORG:7476</a>: Pantura rotated projection</li>
+
+  <li><a href="sr-org/7477/index.html">SR-ORG:7477</a>: Pantura La Palma rotated </li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7478/index.html">SR-ORG:7478</a>: Test 3</li>
+
+  <li><a href="sr-org/7479/index.html">SR-ORG:7479</a>: Pantura Test</li>
+
+  <li><a href="sr-org/7480/index.html">SR-ORG:7480</a>: USA_Contiguous_Albers_Equal_Area_Conic_USGS_version</li>
+
+  <li><a href="sr-org/7481/index.html">SR-ORG:7481</a>: eskisehir odunpazari</li>
+
+  <li><a href="sr-org/7482/index.html">SR-ORG:7482</a>: TEST</li>
+
+  <li><a href="sr-org/7483/index.html">SR-ORG:7483</a>: EPSG:3857 -- WGS84 Web Mercator (Auxiliary Sphere)</li>
+
+  <li><a href="sr-org/7484/index.html">SR-ORG:7484</a>: Test French West Africa Niger zone</li>
+
+  <li><a href="sr-org/7485/index.html">SR-ORG:7485</a>: POSGAR 2007 / Argentina 2</li>
+
+  <li><a href="sr-org/7486/index.html">SR-ORG:7486</a>: Viña del Mar PTL</li>
+
+  <li><a href="sr-org/7487/index.html">SR-ORG:7487</a>: CIG85</li>
+
+  <li><a href="sr-org/7488/index.html">SR-ORG:7488</a>: BCG94</li>
+
+  <li><a href="sr-org/7489/index.html">SR-ORG:7489</a>: Aitoff</li>
+
+  <li><a href="sr-org/7490/index.html">SR-ORG:7490</a>: Albers Equal Area Conic South Africa</li>
+
+  <li><a href="sr-org/7491/index.html">SR-ORG:7491</a>: aa</li>
+
+  <li><a href="sr-org/7492/index.html">SR-ORG:7492</a>: REGION</li>
+
+  <li><a href="sr-org/7493/index.html">SR-ORG:7493</a>: ITRF 1988</li>
+
+  <li><a href="sr-org/7494/index.html">SR-ORG:7494</a>: test</li>
+
+  <li><a href="sr-org/7495/index.html">SR-ORG:7495</a>: Tirol, Austria</li>
+
+  <li><a href="sr-org/7496/index.html">SR-ORG:7496</a>: Bexar County (Transverse Mercator Projection)</li>
+
+  <li><a href="sr-org/7497/index.html">SR-ORG:7497</a>: Perry County Projection</li>
+
+  <li><a href="sr-org/7498/index.html">SR-ORG:7498</a>: Tarrant County, Texas</li>
+
+  <li><a href="sr-org/7499/index.html">SR-ORG:7499</a>: San Diego County Projection</li>
+
+  <li><a href="sr-org/7500/index.html">SR-ORG:7500</a>: Hilton Head County in South Carolina</li>
+
+  <li><a href="sr-org/7501/index.html">SR-ORG:7501</a>: Comal County, TX LCC</li>
+
+  <li><a href="sr-org/7502/index.html">SR-ORG:7502</a>: Logan County Kentucky Projection</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=71">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=73">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

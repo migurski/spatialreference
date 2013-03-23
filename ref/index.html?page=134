@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=133">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=135">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/61519/index.html">IAU2000:61519</a>: Atlas North Pole Stereographic</li>
+
+  <li><a href="iau2000/61520/index.html">IAU2000:61520</a>: Atlas South Pole Stereographic</li>
+
+  <li><a href="iau2000/61521/index.html">IAU2000:61521</a>: Atlas South Pole Stereographic</li>
+
+  <li><a href="iau2000/61560/index.html">IAU2000:61560</a>: Atlas Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61561/index.html">IAU2000:61561</a>: Atlas Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61562/index.html">IAU2000:61562</a>: Atlas Stereographic AUTO</li>
+
+  <li><a href="iau2000/61563/index.html">IAU2000:61563</a>: Atlas Stereographic AUTO</li>
+
+  <li><a href="iau2000/61564/index.html">IAU2000:61564</a>: Atlas Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61565/index.html">IAU2000:61565</a>: Atlas Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61566/index.html">IAU2000:61566</a>: Atlas Orthographic AUTO</li>
+
+  <li><a href="iau2000/61567/index.html">IAU2000:61567</a>: Atlas Orthographic AUTO</li>
+
+  <li><a href="iau2000/61568/index.html">IAU2000:61568</a>: Atlas Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61569/index.html">IAU2000:61569</a>: Atlas Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61570/index.html">IAU2000:61570</a>: Atlas Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61571/index.html">IAU2000:61571</a>: Atlas Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61572/index.html">IAU2000:61572</a>: Atlas Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61573/index.html">IAU2000:61573</a>: Atlas Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61574/index.html">IAU2000:61574</a>: Atlas Mercator AUTO</li>
+
+  <li><a href="iau2000/61575/index.html">IAU2000:61575</a>: Atlas Mercator AUTO</li>
+
+  <li><a href="iau2000/61576/index.html">IAU2000:61576</a>: Atlas Albers AUTO</li>
+
+  <li><a href="iau2000/61577/index.html">IAU2000:61577</a>: Atlas Albers AUTO</li>
+
+  <li><a href="iau2000/61578/index.html">IAU2000:61578</a>: Atlas Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61579/index.html">IAU2000:61579</a>: Atlas Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61600/index.html">IAU2000:61600</a>: Prometheus 2000</li>
+
+  <li><a href="iau2000/61601/index.html">IAU2000:61601</a>: Prometheus 2000</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/61610/index.html">IAU2000:61610</a>: Prometheus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61611/index.html">IAU2000:61611</a>: Prometheus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61612/index.html">IAU2000:61612</a>: Prometheus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61613/index.html">IAU2000:61613</a>: Prometheus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61614/index.html">IAU2000:61614</a>: Prometheus Sinusoidal</li>
+
+  <li><a href="iau2000/61615/index.html">IAU2000:61615</a>: Prometheus Sinusoidal</li>
+
+  <li><a href="iau2000/61616/index.html">IAU2000:61616</a>: Prometheus Sinusoidal</li>
+
+  <li><a href="iau2000/61617/index.html">IAU2000:61617</a>: Prometheus Sinusoidal</li>
+
+  <li><a href="iau2000/61618/index.html">IAU2000:61618</a>: Prometheus North Pole Stereographic</li>
+
+  <li><a href="iau2000/61619/index.html">IAU2000:61619</a>: Prometheus North Pole Stereographic</li>
+
+  <li><a href="iau2000/61620/index.html">IAU2000:61620</a>: Prometheus South Pole Stereographic</li>
+
+  <li><a href="iau2000/61621/index.html">IAU2000:61621</a>: Prometheus South Pole Stereographic</li>
+
+  <li><a href="iau2000/61660/index.html">IAU2000:61660</a>: Prometheus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61661/index.html">IAU2000:61661</a>: Prometheus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61662/index.html">IAU2000:61662</a>: Prometheus Stereographic AUTO</li>
+
+  <li><a href="iau2000/61663/index.html">IAU2000:61663</a>: Prometheus Stereographic AUTO</li>
+
+  <li><a href="iau2000/61664/index.html">IAU2000:61664</a>: Prometheus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61665/index.html">IAU2000:61665</a>: Prometheus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61666/index.html">IAU2000:61666</a>: Prometheus Orthographic AUTO</li>
+
+  <li><a href="iau2000/61667/index.html">IAU2000:61667</a>: Prometheus Orthographic AUTO</li>
+
+  <li><a href="iau2000/61668/index.html">IAU2000:61668</a>: Prometheus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61669/index.html">IAU2000:61669</a>: Prometheus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61670/index.html">IAU2000:61670</a>: Prometheus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61671/index.html">IAU2000:61671</a>: Prometheus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61672/index.html">IAU2000:61672</a>: Prometheus Lambert Azimuthal Equal Area AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=133">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=135">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

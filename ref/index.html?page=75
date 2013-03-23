@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=74">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=76">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7603/index.html">SR-ORG:7603</a>: NAD_1983_Contiguous_USA_Albers</li>
+
+  <li><a href="sr-org/7604/index.html">SR-ORG:7604</a>: Cassini_RepSM</li>
+
+  <li><a href="sr-org/7605/index.html">SR-ORG:7605</a>: Cassini Selangor</li>
+
+  <li><a href="sr-org/7606/index.html">SR-ORG:7606</a>: &quot;WGS_1984_Lambert_Conformal_Conic&quot;</li>
+
+  <li><a href="sr-org/7607/index.html">SR-ORG:7607</a>: BRSO</li>
+
+  <li><a href="sr-org/7608/index.html">SR-ORG:7608</a>: Timbalai 1948 / BRSO Borneo (m)</li>
+
+  <li><a href="sr-org/7609/index.html">SR-ORG:7609</a>: Timbalai 1948 / RSO Borneo (m)</li>
+
+  <li><a href="sr-org/7610/index.html">SR-ORG:7610</a>: Timbalai 1948 / RSO Borneo (m)</li>
+
+  <li><a href="sr-org/7611/index.html">SR-ORG:7611</a>: Timbalai 1948 / RSO Borneo (m) </li>
+
+  <li><a href="sr-org/7612/index.html">SR-ORG:7612</a>: Timbalai 1948 / BRSO Borneo (m)</li>
+
+  <li><a href="sr-org/7613/index.html">SR-ORG:7613</a>: Timbalai 1948 / BRSO Borneo (m)</li>
+
+  <li><a href="sr-org/7614/index.html">SR-ORG:7614</a>: Timbalai 1948 / BRSO Borneo (m)</li>
+
+  <li><a href="sr-org/7615/index.html">SR-ORG:7615</a>: Timbalai 1948 / RSO Borneo (m)</li>
+
+  <li><a href="sr-org/7616/index.html">SR-ORG:7616</a>: Timbalai 1948 / RSO Borneo (m)</li>
+
+  <li><a href="sr-org/7617/index.html">SR-ORG:7617</a>: Timbalai 1948 / RSO Borneo (m)</li>
+
+  <li><a href="sr-org/7618/index.html">SR-ORG:7618</a>: Timbalai 1948 / RSO Borneo (m)</li>
+
+  <li><a href="sr-org/7619/index.html">SR-ORG:7619</a>: Interrupted Goode Homolonsine</li>
+
+  <li><a href="sr-org/7620/index.html">SR-ORG:7620</a>: VN-2000 QuangNinh</li>
+
+  <li><a href="sr-org/7621/index.html">SR-ORG:7621</a>: IAU2000:2000004</li>
+
+  <li><a href="sr-org/7622/index.html">SR-ORG:7622</a>: 3857</li>
+
+  <li><a href="sr-org/7623/index.html">SR-ORG:7623</a>: dffsd</li>
+
+  <li><a href="sr-org/7624/index.html">SR-ORG:7624</a>: Fort Worth/Tarrant Projection</li>
+
+  <li><a href="sr-org/7625/index.html">SR-ORG:7625</a>: Harris County, Texas Funk LCC Projection</li>
+
+  <li><a href="sr-org/7626/index.html">SR-ORG:7626</a>: Williamson County, Texas, LCC, Anwar</li>
+
+  <li><a href="sr-org/7627/index.html">SR-ORG:7627</a>: Collin County, Texas, in Lambert Conformal Conic</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7628/index.html">SR-ORG:7628</a>: Williamson County, Texas, LCC, Enyioha</li>
+
+  <li><a href="sr-org/7629/index.html">SR-ORG:7629</a>: Bexar County, Texas</li>
+
+  <li><a href="sr-org/7630/index.html">SR-ORG:7630</a>: Wood_LLC_Ivan</li>
+
+  <li><a href="sr-org/7631/index.html">SR-ORG:7631</a>: Windsor County, Vermont </li>
+
+  <li><a href="sr-org/7632/index.html">SR-ORG:7632</a>: Windsor County, Vermont</li>
+
+  <li><a href="sr-org/7633/index.html">SR-ORG:7633</a>: CHUQUI</li>
+
+  <li><a href="sr-org/7634/index.html">SR-ORG:7634</a>: Chicago</li>
+
+  <li><a href="sr-org/7635/index.html">SR-ORG:7635</a>: test</li>
+
+  <li><a href="sr-org/7636/index.html">SR-ORG:7636</a>: proj3pclim</li>
+
+  <li><a href="sr-org/7637/index.html">SR-ORG:7637</a>: Timocka_Krajina</li>
+
+  <li><a href="sr-org/7638/index.html">SR-ORG:7638</a>: DRCOG NAD 1983 Stateplane Colorado Central FIPS 0502 Feet</li>
+
+  <li><a href="sr-org/7639/index.html">SR-ORG:7639</a>: WGS_1984_Lambert_Conformal_Conic</li>
+
+  <li><a href="sr-org/7640/index.html">SR-ORG:7640</a>: aer_larimer</li>
+
+  <li><a href="sr-org/7641/index.html">SR-ORG:7641</a>: hyd1</li>
+
+  <li><a href="sr-org/7642/index.html">SR-ORG:7642</a>: Test</li>
+
+  <li><a href="sr-org/7643/index.html">SR-ORG:7643</a>: Kenyan</li>
+
+  <li><a href="sr-org/7644/index.html">SR-ORG:7644</a>: East Africa</li>
+
+  <li><a href="sr-org/7645/index.html">SR-ORG:7645</a>: NAD27 / Glacial MTX</li>
+
+  <li><a href="sr-org/7646/index.html">SR-ORG:7646</a>: reliance</li>
+
+  <li><a href="sr-org/7647/index.html">SR-ORG:7647</a>: test</li>
+
+  <li><a href="sr-org/7648/index.html">SR-ORG:7648</a>: CRTM05</li>
+
+  <li><a href="sr-org/7649/index.html">SR-ORG:7649</a>: FOR G MAPS???</li>
+
+  <li><a href="sr-org/7650/index.html">SR-ORG:7650</a>: State Plane NAD83</li>
+
+  <li><a href="sr-org/7651/index.html">SR-ORG:7651</a>: test</li>
+
+  <li><a href="sr-org/7652/index.html">SR-ORG:7652</a>: dddddddd</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=74">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=76">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

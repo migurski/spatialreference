@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=131">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=133">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/61221/index.html">IAU2000:61221</a>: Helene South Pole Stereographic</li>
+
+  <li><a href="iau2000/61260/index.html">IAU2000:61260</a>: Helene Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61261/index.html">IAU2000:61261</a>: Helene Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61262/index.html">IAU2000:61262</a>: Helene Stereographic AUTO</li>
+
+  <li><a href="iau2000/61263/index.html">IAU2000:61263</a>: Helene Stereographic AUTO</li>
+
+  <li><a href="iau2000/61264/index.html">IAU2000:61264</a>: Helene Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61265/index.html">IAU2000:61265</a>: Helene Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61266/index.html">IAU2000:61266</a>: Helene Orthographic AUTO</li>
+
+  <li><a href="iau2000/61267/index.html">IAU2000:61267</a>: Helene Orthographic AUTO</li>
+
+  <li><a href="iau2000/61268/index.html">IAU2000:61268</a>: Helene Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61269/index.html">IAU2000:61269</a>: Helene Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61270/index.html">IAU2000:61270</a>: Helene Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61271/index.html">IAU2000:61271</a>: Helene Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61272/index.html">IAU2000:61272</a>: Helene Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61273/index.html">IAU2000:61273</a>: Helene Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61274/index.html">IAU2000:61274</a>: Helene Mercator AUTO</li>
+
+  <li><a href="iau2000/61275/index.html">IAU2000:61275</a>: Helene Mercator AUTO</li>
+
+  <li><a href="iau2000/61276/index.html">IAU2000:61276</a>: Helene Albers AUTO</li>
+
+  <li><a href="iau2000/61277/index.html">IAU2000:61277</a>: Helene Albers AUTO</li>
+
+  <li><a href="iau2000/61278/index.html">IAU2000:61278</a>: Helene Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61279/index.html">IAU2000:61279</a>: Helene Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/61300/index.html">IAU2000:61300</a>: Telesto 2000</li>
+
+  <li><a href="iau2000/61301/index.html">IAU2000:61301</a>: Telesto 2000</li>
+
+  <li><a href="iau2000/61310/index.html">IAU2000:61310</a>: Telesto Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61311/index.html">IAU2000:61311</a>: Telesto Equidistant Cylindrical</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/61312/index.html">IAU2000:61312</a>: Telesto Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61313/index.html">IAU2000:61313</a>: Telesto Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/61314/index.html">IAU2000:61314</a>: Telesto Sinusoidal</li>
+
+  <li><a href="iau2000/61315/index.html">IAU2000:61315</a>: Telesto Sinusoidal</li>
+
+  <li><a href="iau2000/61316/index.html">IAU2000:61316</a>: Telesto Sinusoidal</li>
+
+  <li><a href="iau2000/61317/index.html">IAU2000:61317</a>: Telesto Sinusoidal</li>
+
+  <li><a href="iau2000/61318/index.html">IAU2000:61318</a>: Telesto North Pole Stereographic</li>
+
+  <li><a href="iau2000/61319/index.html">IAU2000:61319</a>: Telesto North Pole Stereographic</li>
+
+  <li><a href="iau2000/61320/index.html">IAU2000:61320</a>: Telesto South Pole Stereographic</li>
+
+  <li><a href="iau2000/61321/index.html">IAU2000:61321</a>: Telesto South Pole Stereographic</li>
+
+  <li><a href="iau2000/61360/index.html">IAU2000:61360</a>: Telesto Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61361/index.html">IAU2000:61361</a>: Telesto Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/61362/index.html">IAU2000:61362</a>: Telesto Stereographic AUTO</li>
+
+  <li><a href="iau2000/61363/index.html">IAU2000:61363</a>: Telesto Stereographic AUTO</li>
+
+  <li><a href="iau2000/61364/index.html">IAU2000:61364</a>: Telesto Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61365/index.html">IAU2000:61365</a>: Telesto Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/61366/index.html">IAU2000:61366</a>: Telesto Orthographic AUTO</li>
+
+  <li><a href="iau2000/61367/index.html">IAU2000:61367</a>: Telesto Orthographic AUTO</li>
+
+  <li><a href="iau2000/61368/index.html">IAU2000:61368</a>: Telesto Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61369/index.html">IAU2000:61369</a>: Telesto Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/61370/index.html">IAU2000:61370</a>: Telesto Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61371/index.html">IAU2000:61371</a>: Telesto Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/61372/index.html">IAU2000:61372</a>: Telesto Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61373/index.html">IAU2000:61373</a>: Telesto Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/61374/index.html">IAU2000:61374</a>: Telesto Mercator AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=131">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=133">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

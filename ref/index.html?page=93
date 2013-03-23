@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=92">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=94">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/29636/index.html">EPSG:29636</a>: Sudan / UTM zone 36N</li>
+
+  <li><a href="epsg/29700/index.html">EPSG:29700</a>: Tananarive (Paris) / Laborde Grid</li>
+
+  <li><a href="epsg/29701/index.html">EPSG:29701</a>: Tananarive (Paris) / Laborde Grid</li>
+
+  <li><a href="epsg/29702/index.html">EPSG:29702</a>: Tananarive (Paris) / Laborde Grid approximation</li>
+
+  <li><a href="epsg/29738/index.html">EPSG:29738</a>: Tananarive / UTM zone 38S</li>
+
+  <li><a href="epsg/29739/index.html">EPSG:29739</a>: Tananarive / UTM zone 39S</li>
+
+  <li><a href="epsg/29849/index.html">EPSG:29849</a>: Timbalai 1948 / UTM zone 49N</li>
+
+  <li><a href="epsg/29850/index.html">EPSG:29850</a>: Timbalai 1948 / UTM zone 50N</li>
+
+  <li><a href="epsg/29871/index.html">EPSG:29871</a>: Timbalai 1948 / RSO Borneo (ch)</li>
+
+  <li><a href="epsg/29872/index.html">EPSG:29872</a>: Timbalai 1948 / RSO Borneo (ft)</li>
+
+  <li><a href="epsg/29873/index.html">EPSG:29873</a>: Timbalai 1948 / RSO Borneo (m)</li>
+
+  <li><a href="iau2000/29900/index.html">IAU2000:29900</a>: Venus 2000</li>
+
+  <li><a href="epsg/29900/index.html">EPSG:29900</a>: TM65 / Irish National Grid</li>
+
+  <li><a href="iau2000/29901/index.html">IAU2000:29901</a>: Venus 2000</li>
+
+  <li><a href="epsg/29901/index.html">EPSG:29901</a>: OSNI 1952 / Irish National Grid</li>
+
+  <li><a href="epsg/29902/index.html">EPSG:29902</a>: TM65 / Irish Grid</li>
+
+  <li><a href="epsg/29903/index.html">EPSG:29903</a>: TM75 / Irish Grid</li>
+
+  <li><a href="iau2000/29910/index.html">IAU2000:29910</a>: Venus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/29911/index.html">IAU2000:29911</a>: Venus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/29912/index.html">IAU2000:29912</a>: Venus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/29913/index.html">IAU2000:29913</a>: Venus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/29914/index.html">IAU2000:29914</a>: Venus Sinusoidal</li>
+
+  <li><a href="iau2000/29915/index.html">IAU2000:29915</a>: Venus Sinusoidal</li>
+
+  <li><a href="iau2000/29916/index.html">IAU2000:29916</a>: Venus Sinusoidal</li>
+
+  <li><a href="iau2000/29917/index.html">IAU2000:29917</a>: Venus Sinusoidal</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/29918/index.html">IAU2000:29918</a>: Venus North Pole Stereographic</li>
+
+  <li><a href="iau2000/29919/index.html">IAU2000:29919</a>: Venus North Pole Stereographic</li>
+
+  <li><a href="iau2000/29920/index.html">IAU2000:29920</a>: Venus South Pole Stereographic</li>
+
+  <li><a href="iau2000/29921/index.html">IAU2000:29921</a>: Venus South Pole Stereographic</li>
+
+  <li><a href="iau2000/29960/index.html">IAU2000:29960</a>: Venus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/29961/index.html">IAU2000:29961</a>: Venus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/29962/index.html">IAU2000:29962</a>: Venus Stereographic AUTO</li>
+
+  <li><a href="iau2000/29963/index.html">IAU2000:29963</a>: Venus Stereographic AUTO</li>
+
+  <li><a href="iau2000/29964/index.html">IAU2000:29964</a>: Venus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/29965/index.html">IAU2000:29965</a>: Venus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/29966/index.html">IAU2000:29966</a>: Venus Orthographic AUTO</li>
+
+  <li><a href="iau2000/29967/index.html">IAU2000:29967</a>: Venus Orthographic AUTO</li>
+
+  <li><a href="iau2000/29968/index.html">IAU2000:29968</a>: Venus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/29969/index.html">IAU2000:29969</a>: Venus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/29970/index.html">IAU2000:29970</a>: Venus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/29971/index.html">IAU2000:29971</a>: Venus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/29972/index.html">IAU2000:29972</a>: Venus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/29973/index.html">IAU2000:29973</a>: Venus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/29974/index.html">IAU2000:29974</a>: Venus Mercator AUTO</li>
+
+  <li><a href="iau2000/29975/index.html">IAU2000:29975</a>: Venus Mercator AUTO</li>
+
+  <li><a href="iau2000/29976/index.html">IAU2000:29976</a>: Venus Albers AUTO</li>
+
+  <li><a href="iau2000/29977/index.html">IAU2000:29977</a>: Venus Albers AUTO</li>
+
+  <li><a href="iau2000/29978/index.html">IAU2000:29978</a>: Venus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/29979/index.html">IAU2000:29979</a>: Venus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/30100/index.html">IAU2000:30100</a>: Moon 2000</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=92">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=94">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

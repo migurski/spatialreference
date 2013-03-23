@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=68">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=70">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7326/index.html">SR-ORG:7326</a>: Slovenia D-48</li>
+
+  <li><a href="sr-org/7327/index.html">SR-ORG:7327</a>: Oregon State Plane North</li>
+
+  <li><a href="sr-org/7328/index.html">SR-ORG:7328</a>: NAD 1983 HARN StatePlane Oregon North FIPS 3601 Feet Intl</li>
+
+  <li><a href="sr-org/7329/index.html">SR-ORG:7329</a>: TEst1</li>
+
+  <li><a href="sr-org/7330/index.html">SR-ORG:7330</a>: ITRF96_UTM_Zone_35N_TM30</li>
+
+  <li><a href="sr-org/7331/index.html">SR-ORG:7331</a>: ITRF96_UTM_Zone_35N_TM30_WGS84</li>
+
+  <li><a href="sr-org/7332/index.html">SR-ORG:7332</a>: Macraes Grid</li>
+
+  <li><a href="sr-org/7333/index.html">SR-ORG:7333</a>: Macraes Mine Grid</li>
+
+  <li><a href="sr-org/7334/index.html">SR-ORG:7334</a>: EPSG:29903 corrected</li>
+
+  <li><a href="sr-org/7335/index.html">SR-ORG:7335</a>: Mgi</li>
+
+  <li><a href="sr-org/7336/index.html">SR-ORG:7336</a>: NZTest</li>
+
+  <li><a href="sr-org/7337/index.html">SR-ORG:7337</a>: AREC</li>
+
+  <li><a href="sr-org/7338/index.html">SR-ORG:7338</a>: test</li>
+
+  <li><a href="sr-org/7339/index.html">SR-ORG:7339</a>: cnmi</li>
+
+  <li><a href="sr-org/7340/index.html">SR-ORG:7340</a>: test</li>
+
+  <li><a href="sr-org/7341/index.html">SR-ORG:7341</a>: 999000</li>
+
+  <li><a href="sr-org/7342/index.html">SR-ORG:7342</a>: 999000</li>
+
+  <li><a href="sr-org/7343/index.html">SR-ORG:7343</a>: 999000</li>
+
+  <li><a href="sr-org/7344/index.html">SR-ORG:7344</a>: 999001</li>
+
+  <li><a href="sr-org/7345/index.html">SR-ORG:7345</a>: IndiaPolyConic</li>
+
+  <li><a href="sr-org/7346/index.html">SR-ORG:7346</a>: EPSG32644</li>
+
+  <li><a href="sr-org/7347/index.html">SR-ORG:7347</a>: durango</li>
+
+  <li><a href="sr-org/7348/index.html">SR-ORG:7348</a>: durango</li>
+
+  <li><a href="sr-org/7349/index.html">SR-ORG:7349</a>: UA-42_CM 21E</li>
+
+  <li><a href="sr-org/7350/index.html">SR-ORG:7350</a>: UA-42_CM 21E</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7351/index.html">SR-ORG:7351</a>: UA-42_CM 27E</li>
+
+  <li><a href="sr-org/7352/index.html">SR-ORG:7352</a>: UA-42_CM 33E</li>
+
+  <li><a href="sr-org/7353/index.html">SR-ORG:7353</a>: UA-42_CM 39E</li>
+
+  <li><a href="sr-org/7354/index.html">SR-ORG:7354</a>: UA-63_CM 23.5E</li>
+
+  <li><a href="sr-org/7355/index.html">SR-ORG:7355</a>: UA-63_CM 26.5E</li>
+
+  <li><a href="sr-org/7356/index.html">SR-ORG:7356</a>: UA-63_CM 29.5E</li>
+
+  <li><a href="sr-org/7357/index.html">SR-ORG:7357</a>: UA-63_CM 32.5E</li>
+
+  <li><a href="sr-org/7358/index.html">SR-ORG:7358</a>: WGS 1984 UTM Zone 12 (Fort Saskatchewan</li>
+
+  <li><a href="sr-org/7359/index.html">SR-ORG:7359</a>: UA-63_CM 35.5E</li>
+
+  <li><a href="sr-org/7360/index.html">SR-ORG:7360</a>: UA-63_CM 38.5E</li>
+
+  <li><a href="sr-org/7361/index.html">SR-ORG:7361</a>: UA-63_CM 41.5E</li>
+
+  <li><a href="sr-org/7362/index.html">SR-ORG:7362</a>: Western Samoa Integrated Grid</li>
+
+  <li><a href="sr-org/7363/index.html">SR-ORG:7363</a>: Krovak</li>
+
+  <li><a href="sr-org/7364/index.html">SR-ORG:7364</a>: Local</li>
+
+  <li><a href="sr-org/7365/index.html">SR-ORG:7365</a>: Mexico IIE Lambert Conformal Conic</li>
+
+  <li><a href="sr-org/7366/index.html">SR-ORG:7366</a>: SAD69</li>
+
+  <li><a href="sr-org/7367/index.html">SR-ORG:7367</a>: SAD69</li>
+
+  <li><a href="sr-org/7368/index.html">SR-ORG:7368</a>: SAD69</li>
+
+  <li><a href="sr-org/7369/index.html">SR-ORG:7369</a>: SAD69 / UTM zone 18S</li>
+
+  <li><a href="sr-org/7370/index.html">SR-ORG:7370</a>: SAD69 / UTM zone 19S</li>
+
+  <li><a href="sr-org/7371/index.html">SR-ORG:7371</a>: SAD69 / UTM zone 20S</li>
+
+  <li><a href="sr-org/7372/index.html">SR-ORG:7372</a>: SAD69 / UTM zone 21S</li>
+
+  <li><a href="sr-org/7373/index.html">SR-ORG:7373</a>: SAD69 / UTM zone 22S</li>
+
+  <li><a href="sr-org/7374/index.html">SR-ORG:7374</a>: SAD69 / UTM zone 23S</li>
+
+  <li><a href="sr-org/7375/index.html">SR-ORG:7375</a>: SAD69 / UTM zone 24S</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=68">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=70">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

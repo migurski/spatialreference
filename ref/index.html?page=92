@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=91">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=93">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/28488/index.html">EPSG:28488</a>: Pulkovo 1942 / Gauss-Kruger 28N</li>
+
+  <li><a href="epsg/28489/index.html">EPSG:28489</a>: Pulkovo 1942 / Gauss-Kruger 29N</li>
+
+  <li><a href="epsg/28490/index.html">EPSG:28490</a>: Pulkovo 1942 / Gauss-Kruger 30N</li>
+
+  <li><a href="epsg/28491/index.html">EPSG:28491</a>: Pulkovo 1942 / Gauss-Kruger 31N</li>
+
+  <li><a href="epsg/28492/index.html">EPSG:28492</a>: Pulkovo 1942 / Gauss-Kruger 32N</li>
+
+  <li><a href="epsg/28600/index.html">EPSG:28600</a>: Qatar 1974 / Qatar National Grid</li>
+
+  <li><a href="epsg/28991/index.html">EPSG:28991</a>: Amersfoort / RD Old</li>
+
+  <li><a href="epsg/28992/index.html">EPSG:28992</a>: Amersfoort / RD New</li>
+
+  <li><a href="epsg/29100/index.html">EPSG:29100</a>: SAD69 / Brazil Polyconic</li>
+
+  <li><a href="epsg/29101/index.html">EPSG:29101</a>: SAD69 / Brazil Polyconic</li>
+
+  <li><a href="epsg/29118/index.html">EPSG:29118</a>: SAD69 / UTM zone 18N</li>
+
+  <li><a href="epsg/29119/index.html">EPSG:29119</a>: SAD69 / UTM zone 19N</li>
+
+  <li><a href="epsg/29120/index.html">EPSG:29120</a>: SAD69 / UTM zone 20N</li>
+
+  <li><a href="epsg/29121/index.html">EPSG:29121</a>: SAD69 / UTM zone 21N</li>
+
+  <li><a href="epsg/29122/index.html">EPSG:29122</a>: SAD69 / UTM zone 22N</li>
+
+  <li><a href="epsg/29168/index.html">EPSG:29168</a>: SAD69 / UTM zone 18N</li>
+
+  <li><a href="epsg/29169/index.html">EPSG:29169</a>: SAD69 / UTM zone 19N</li>
+
+  <li><a href="epsg/29170/index.html">EPSG:29170</a>: SAD69 / UTM zone 20N</li>
+
+  <li><a href="epsg/29171/index.html">EPSG:29171</a>: SAD69 / UTM zone 21N</li>
+
+  <li><a href="epsg/29172/index.html">EPSG:29172</a>: SAD69 / UTM zone 22N</li>
+
+  <li><a href="epsg/29177/index.html">EPSG:29177</a>: SAD69 / UTM zone 17S</li>
+
+  <li><a href="epsg/29178/index.html">EPSG:29178</a>: SAD69 / UTM zone 18S</li>
+
+  <li><a href="epsg/29179/index.html">EPSG:29179</a>: SAD69 / UTM zone 19S</li>
+
+  <li><a href="epsg/29180/index.html">EPSG:29180</a>: SAD69 / UTM zone 20S</li>
+
+  <li><a href="epsg/29181/index.html">EPSG:29181</a>: SAD69 / UTM zone 21S</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/29182/index.html">EPSG:29182</a>: SAD69 / UTM zone 22S</li>
+
+  <li><a href="epsg/29183/index.html">EPSG:29183</a>: SAD69 / UTM zone 23S</li>
+
+  <li><a href="epsg/29184/index.html">EPSG:29184</a>: SAD69 / UTM zone 24S</li>
+
+  <li><a href="epsg/29185/index.html">EPSG:29185</a>: SAD69 / UTM zone 25S</li>
+
+  <li><a href="epsg/29187/index.html">EPSG:29187</a>: SAD69 / UTM zone 17S</li>
+
+  <li><a href="epsg/29188/index.html">EPSG:29188</a>: SAD69 / UTM zone 18S</li>
+
+  <li><a href="epsg/29189/index.html">EPSG:29189</a>: SAD69 / UTM zone 19S</li>
+
+  <li><a href="epsg/29190/index.html">EPSG:29190</a>: SAD69 / UTM zone 20S</li>
+
+  <li><a href="epsg/29191/index.html">EPSG:29191</a>: SAD69 / UTM zone 21S</li>
+
+  <li><a href="epsg/29192/index.html">EPSG:29192</a>: SAD69 / UTM zone 22S</li>
+
+  <li><a href="epsg/29193/index.html">EPSG:29193</a>: SAD69 / UTM zone 23S</li>
+
+  <li><a href="epsg/29194/index.html">EPSG:29194</a>: SAD69 / UTM zone 24S</li>
+
+  <li><a href="epsg/29195/index.html">EPSG:29195</a>: SAD69 / UTM zone 25S</li>
+
+  <li><a href="epsg/29220/index.html">EPSG:29220</a>: Sapper Hill 1943 / UTM zone 20S</li>
+
+  <li><a href="epsg/29221/index.html">EPSG:29221</a>: Sapper Hill 1943 / UTM zone 21S</li>
+
+  <li><a href="epsg/29333/index.html">EPSG:29333</a>: Schwarzeck / UTM zone 33S</li>
+
+  <li><a href="epsg/29371/index.html">EPSG:29371</a>: Schwarzeck / Lo22/11</li>
+
+  <li><a href="epsg/29373/index.html">EPSG:29373</a>: Schwarzeck / Lo22/13</li>
+
+  <li><a href="epsg/29375/index.html">EPSG:29375</a>: Schwarzeck / Lo22/15</li>
+
+  <li><a href="epsg/29377/index.html">EPSG:29377</a>: Schwarzeck / Lo22/17</li>
+
+  <li><a href="epsg/29379/index.html">EPSG:29379</a>: Schwarzeck / Lo22/19</li>
+
+  <li><a href="epsg/29381/index.html">EPSG:29381</a>: Schwarzeck / Lo22/21</li>
+
+  <li><a href="epsg/29383/index.html">EPSG:29383</a>: Schwarzeck / Lo22/23</li>
+
+  <li><a href="epsg/29385/index.html">EPSG:29385</a>: Schwarzeck / Lo22/25</li>
+
+  <li><a href="epsg/29635/index.html">EPSG:29635</a>: Sudan / UTM zone 35N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=91">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=93">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

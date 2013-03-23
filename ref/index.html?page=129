@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=128">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=130">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/60779/index.html">IAU2000:60779</a>: Hyperion Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/60800/index.html">IAU2000:60800</a>: Iapetus 2000</li>
+
+  <li><a href="iau2000/60801/index.html">IAU2000:60801</a>: Iapetus 2000</li>
+
+  <li><a href="iau2000/60810/index.html">IAU2000:60810</a>: Iapetus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/60811/index.html">IAU2000:60811</a>: Iapetus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/60812/index.html">IAU2000:60812</a>: Iapetus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/60813/index.html">IAU2000:60813</a>: Iapetus Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/60814/index.html">IAU2000:60814</a>: Iapetus Sinusoidal</li>
+
+  <li><a href="iau2000/60815/index.html">IAU2000:60815</a>: Iapetus Sinusoidal</li>
+
+  <li><a href="iau2000/60816/index.html">IAU2000:60816</a>: Iapetus Sinusoidal</li>
+
+  <li><a href="iau2000/60817/index.html">IAU2000:60817</a>: Iapetus Sinusoidal</li>
+
+  <li><a href="iau2000/60818/index.html">IAU2000:60818</a>: Iapetus North Pole Stereographic</li>
+
+  <li><a href="iau2000/60819/index.html">IAU2000:60819</a>: Iapetus North Pole Stereographic</li>
+
+  <li><a href="iau2000/60820/index.html">IAU2000:60820</a>: Iapetus South Pole Stereographic</li>
+
+  <li><a href="iau2000/60821/index.html">IAU2000:60821</a>: Iapetus South Pole Stereographic</li>
+
+  <li><a href="iau2000/60860/index.html">IAU2000:60860</a>: Iapetus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/60861/index.html">IAU2000:60861</a>: Iapetus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/60862/index.html">IAU2000:60862</a>: Iapetus Stereographic AUTO</li>
+
+  <li><a href="iau2000/60863/index.html">IAU2000:60863</a>: Iapetus Stereographic AUTO</li>
+
+  <li><a href="iau2000/60864/index.html">IAU2000:60864</a>: Iapetus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/60865/index.html">IAU2000:60865</a>: Iapetus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/60866/index.html">IAU2000:60866</a>: Iapetus Orthographic AUTO</li>
+
+  <li><a href="iau2000/60867/index.html">IAU2000:60867</a>: Iapetus Orthographic AUTO</li>
+
+  <li><a href="iau2000/60868/index.html">IAU2000:60868</a>: Iapetus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/60869/index.html">IAU2000:60869</a>: Iapetus Equidistant Cylindrical AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/60870/index.html">IAU2000:60870</a>: Iapetus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/60871/index.html">IAU2000:60871</a>: Iapetus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/60872/index.html">IAU2000:60872</a>: Iapetus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/60873/index.html">IAU2000:60873</a>: Iapetus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/60874/index.html">IAU2000:60874</a>: Iapetus Mercator AUTO</li>
+
+  <li><a href="iau2000/60875/index.html">IAU2000:60875</a>: Iapetus Mercator AUTO</li>
+
+  <li><a href="iau2000/60876/index.html">IAU2000:60876</a>: Iapetus Albers AUTO</li>
+
+  <li><a href="iau2000/60877/index.html">IAU2000:60877</a>: Iapetus Albers AUTO</li>
+
+  <li><a href="iau2000/60878/index.html">IAU2000:60878</a>: Iapetus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/60879/index.html">IAU2000:60879</a>: Iapetus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/60900/index.html">IAU2000:60900</a>: Phoebe 2000</li>
+
+  <li><a href="iau2000/60901/index.html">IAU2000:60901</a>: Phoebe 2000</li>
+
+  <li><a href="iau2000/60910/index.html">IAU2000:60910</a>: Phoebe Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/60911/index.html">IAU2000:60911</a>: Phoebe Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/60912/index.html">IAU2000:60912</a>: Phoebe Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/60913/index.html">IAU2000:60913</a>: Phoebe Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/60914/index.html">IAU2000:60914</a>: Phoebe Sinusoidal</li>
+
+  <li><a href="iau2000/60915/index.html">IAU2000:60915</a>: Phoebe Sinusoidal</li>
+
+  <li><a href="iau2000/60916/index.html">IAU2000:60916</a>: Phoebe Sinusoidal</li>
+
+  <li><a href="iau2000/60917/index.html">IAU2000:60917</a>: Phoebe Sinusoidal</li>
+
+  <li><a href="iau2000/60918/index.html">IAU2000:60918</a>: Phoebe North Pole Stereographic</li>
+
+  <li><a href="iau2000/60919/index.html">IAU2000:60919</a>: Phoebe North Pole Stereographic</li>
+
+  <li><a href="iau2000/60920/index.html">IAU2000:60920</a>: Phoebe South Pole Stereographic</li>
+
+  <li><a href="iau2000/60921/index.html">IAU2000:60921</a>: Phoebe South Pole Stereographic</li>
+
+  <li><a href="iau2000/60960/index.html">IAU2000:60960</a>: Phoebe Sinusoidal AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=128">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=130">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=58">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=60">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/6826/index.html">SR-ORG:6826</a>: Clay County Coordinates (feet)</li>
+
+  <li><a href="sr-org/6827/index.html">SR-ORG:6827</a>: NDVIg</li>
+
+  <li><a href="sr-org/6828/index.html">SR-ORG:6828</a>: NDVIg revised</li>
+
+  <li><a href="sr-org/6829/index.html">SR-ORG:6829</a>: LAMBERT_INEGI</li>
+
+  <li><a href="sr-org/6830/index.html">SR-ORG:6830</a>: BORNEO_RSO</li>
+
+  <li><a href="sr-org/6831/index.html">SR-ORG:6831</a>: 82355</li>
+
+  <li><a href="sr-org/6832/index.html">SR-ORG:6832</a>: UK National Grid</li>
+
+  <li><a href="sr-org/6833/index.html">SR-ORG:6833</a>: google spheroid</li>
+
+  <li><a href="sr-org/6834/index.html">SR-ORG:6834</a>: RTA Lambert on GDA94</li>
+
+  <li><a href="sr-org/6835/index.html">SR-ORG:6835</a>: test</li>
+
+  <li><a href="sr-org/6836/index.html">SR-ORG:6836</a>: test</li>
+
+  <li><a href="sr-org/6837/index.html">SR-ORG:6837</a>: shamshad</li>
+
+  <li><a href="sr-org/6838/index.html">SR-ORG:6838</a>: cea</li>
+
+  <li><a href="sr-org/6839/index.html">SR-ORG:6839</a>: GCS_Assumed_Geographic_1</li>
+
+  <li><a href="sr-org/6840/index.html">SR-ORG:6840</a>: help me</li>
+
+  <li><a href="sr-org/6841/index.html">SR-ORG:6841</a>: what</li>
+
+  <li><a href="sr-org/6842/index.html">SR-ORG:6842</a>: MODIS Sinusoidal </li>
+
+  <li><a href="sr-org/6843/index.html">SR-ORG:6843</a>: lambert at</li>
+
+  <li><a href="sr-org/6844/index.html">SR-ORG:6844</a>: GCS_NAD_1983_HARN_Adj_WI_Dunn</li>
+
+  <li><a href="sr-org/6845/index.html">SR-ORG:6845</a>: Lambert conformal secant 2 parallels italy</li>
+
+  <li><a href="sr-org/6846/index.html">SR-ORG:6846</a>: Lambert conformal secant 2 parallels italy</li>
+
+  <li><a href="sr-org/6847/index.html">SR-ORG:6847</a>: 94000</li>
+
+  <li><a href="sr-org/6848/index.html">SR-ORG:6848</a>: 94001</li>
+
+  <li><a href="sr-org/6849/index.html">SR-ORG:6849</a>: Prueba 3</li>
+
+  <li><a href="sr-org/6850/index.html">SR-ORG:6850</a>: prueba 4</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/6851/index.html">SR-ORG:6851</a>: prueba 5</li>
+
+  <li><a href="sr-org/6852/index.html">SR-ORG:6852</a>: test of upload </li>
+
+  <li><a href="sr-org/6853/index.html">SR-ORG:6853</a>: KKJ</li>
+
+  <li><a href="sr-org/6854/index.html">SR-ORG:6854</a>: Mercator-unnamed</li>
+
+  <li><a href="sr-org/6855/index.html">SR-ORG:6855</a>: NAD 1983 UTM Zone 10N</li>
+
+  <li><a href="sr-org/6856/index.html">SR-ORG:6856</a>: NAD 1983 HARN StatePlane Oregon North FIPS 3601 Feet Intl</li>
+
+  <li><a href="sr-org/6857/index.html">SR-ORG:6857</a>: SICAD</li>
+
+  <li><a href="sr-org/6858/index.html">SR-ORG:6858</a>: South Ellicott</li>
+
+  <li><a href="sr-org/6859/index.html">SR-ORG:6859</a>: ED50 / Mercator</li>
+
+  <li><a href="sr-org/6860/index.html">SR-ORG:6860</a>: UTM-WGS84 32N</li>
+
+  <li><a href="sr-org/6861/index.html">SR-ORG:6861</a>: testing</li>
+
+  <li><a href="sr-org/6862/index.html">SR-ORG:6862</a>: World_aitoff</li>
+
+  <li><a href="sr-org/6863/index.html">SR-ORG:6863</a>: World_Hammer_Aitoff</li>
+
+  <li><a href="sr-org/6864/index.html">SR-ORG:6864</a>: EPSG:3857</li>
+
+  <li><a href="sr-org/6865/index.html">SR-ORG:6865</a>: Rice County MN</li>
+
+  <li><a href="sr-org/6866/index.html">SR-ORG:6866</a>: Guatemala GTM (42500)</li>
+
+  <li><a href="sr-org/6867/index.html">SR-ORG:6867</a>: TIGER</li>
+
+  <li><a href="sr-org/6868/index.html">SR-ORG:6868</a>: Guam Island</li>
+
+  <li><a href="sr-org/6869/index.html">SR-ORG:6869</a>: NAD_1983_HARN_WISCRS_Jackson_County_Feet</li>
+
+  <li><a href="sr-org/6870/index.html">SR-ORG:6870</a>: roads</li>
+
+  <li><a href="sr-org/6871/index.html">SR-ORG:6871</a>: NAD_1983_10TM_AEP_Resource</li>
+
+  <li><a href="sr-org/6872/index.html">SR-ORG:6872</a>: Moscow _Local</li>
+
+  <li><a href="sr-org/6873/index.html">SR-ORG:6873</a>: PCS_CarMAGBOG</li>
+
+  <li><a href="sr-org/6874/index.html">SR-ORG:6874</a>: NAD_1983_StatePlane_Pennsylvania_South_FIPS_3702_Feet</li>
+
+  <li><a href="sr-org/6875/index.html">SR-ORG:6875</a>: NAD_1983_StatePlane_Pennsylvania_South_FIPS_3702_Feet</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=58">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=60">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

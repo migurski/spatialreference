@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=37">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=39">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3771/index.html">EPSG:3771</a>: NAD27 / Alberta 3TM ref merid 111 W</li>
+
+  <li><a href="epsg/3772/index.html">EPSG:3772</a>: NAD27 / Alberta 3TM ref merid 114 W</li>
+
+  <li><a href="epsg/3773/index.html">EPSG:3773</a>: NAD27 / Alberta 3TM ref merid 117 W</li>
+
+  <li><a href="epsg/3774/index.html">EPSG:3774</a>: NAD27 / Alberta 3TM ref merid 120 W</li>
+
+  <li><a href="epsg/3775/index.html">EPSG:3775</a>: NAD83 / Alberta 3TM ref merid 111 W</li>
+
+  <li><a href="epsg/3776/index.html">EPSG:3776</a>: NAD83 / Alberta 3TM ref merid 114 W</li>
+
+  <li><a href="epsg/3777/index.html">EPSG:3777</a>: NAD83 / Alberta 3TM ref merid 117 W</li>
+
+  <li><a href="epsg/3778/index.html">EPSG:3778</a>: NAD83 / Alberta 3TM ref merid 120 W</li>
+
+  <li><a href="epsg/3779/index.html">EPSG:3779</a>: NAD83(CSRS) / Alberta 3TM ref merid 111 W</li>
+
+  <li><a href="epsg/3780/index.html">EPSG:3780</a>: NAD83(CSRS) / Alberta 3TM ref merid 114 W</li>
+
+  <li><a href="epsg/3781/index.html">EPSG:3781</a>: NAD83(CSRS) / Alberta 3TM ref merid 117 W</li>
+
+  <li><a href="epsg/3782/index.html">EPSG:3782</a>: NAD83(CSRS) / Alberta 3TM ref merid 120 W</li>
+
+  <li><a href="epsg/3783/index.html">EPSG:3783</a>: Pitcairn 2006 / Pitcairn TM 2006</li>
+
+  <li><a href="epsg/3784/index.html">EPSG:3784</a>: Pitcairn 1967 / UTM zone 9S</li>
+
+  <li><a href="epsg/3785/index.html">EPSG:3785</a>: Popular Visualisation CRS / Mercator</li>
+
+  <li><a href="epsg/3786/index.html">EPSG:3786</a>: World Equidistant Cylindrical (Sphere)</li>
+
+  <li><a href="epsg/3787/index.html">EPSG:3787</a>: MGI / Slovene National Grid</li>
+
+  <li><a href="epsg/3788/index.html">EPSG:3788</a>: NZGD2000 / Auckland Islands TM 2000</li>
+
+  <li><a href="epsg/3789/index.html">EPSG:3789</a>: NZGD2000 / Campbell Island TM 2000</li>
+
+  <li><a href="epsg/3790/index.html">EPSG:3790</a>: NZGD2000 / Antipodes Islands TM 2000</li>
+
+  <li><a href="epsg/3791/index.html">EPSG:3791</a>: NZGD2000 / Raoul Island TM 2000</li>
+
+  <li><a href="epsg/3793/index.html">EPSG:3793</a>: NZGD2000 / Chatham Islands TM 2000</li>
+
+  <li><a href="epsg/3794/index.html">EPSG:3794</a>: Slovenia 1996 / Slovene National Grid</li>
+
+  <li><a href="epsg/3795/index.html">EPSG:3795</a>: NAD27 / Cuba Norte</li>
+
+  <li><a href="epsg/3796/index.html">EPSG:3796</a>: NAD27 / Cuba Sur</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3797/index.html">EPSG:3797</a>: NAD27 / MTQ Lambert</li>
+
+  <li><a href="epsg/3798/index.html">EPSG:3798</a>: NAD83 / MTQ Lambert</li>
+
+  <li><a href="epsg/3799/index.html">EPSG:3799</a>: NAD83(CSRS) / MTQ Lambert</li>
+
+  <li><a href="epsg/3800/index.html">EPSG:3800</a>: NAD27 / Alberta 3TM ref merid 120 W</li>
+
+  <li><a href="epsg/3801/index.html">EPSG:3801</a>: NAD83 / Alberta 3TM ref merid 120 W</li>
+
+  <li><a href="epsg/3802/index.html">EPSG:3802</a>: NAD83(CSRS) / Alberta 3TM ref merid 120 W</li>
+
+  <li><a href="epsg/3812/index.html">EPSG:3812</a>: ETRS89 / Belgian Lambert 2008</li>
+
+  <li><a href="epsg/3814/index.html">EPSG:3814</a>: NAD83 / Mississippi TM</li>
+
+  <li><a href="epsg/3815/index.html">EPSG:3815</a>: NAD83(HARN) / Mississippi TM</li>
+
+  <li><a href="epsg/3816/index.html">EPSG:3816</a>: NAD83(NSRS2007) / Mississippi TM</li>
+
+  <li><a href="epsg/3819/index.html">EPSG:3819</a>: HD1909</li>
+
+  <li><a href="epsg/3821/index.html">EPSG:3821</a>: TWD67</li>
+
+  <li><a href="epsg/3822/index.html">EPSG:3822</a>: TWD97</li>
+
+  <li><a href="epsg/3823/index.html">EPSG:3823</a>: TWD97</li>
+
+  <li><a href="epsg/3824/index.html">EPSG:3824</a>: TWD97</li>
+
+  <li><a href="epsg/3825/index.html">EPSG:3825</a>: TWD97 / TM2 zone 119</li>
+
+  <li><a href="epsg/3826/index.html">EPSG:3826</a>: TWD97 / TM2 zone 121</li>
+
+  <li><a href="epsg/3827/index.html">EPSG:3827</a>: TWD67 / TM2 zone 119</li>
+
+  <li><a href="epsg/3828/index.html">EPSG:3828</a>: TWD67 / TM2 zone 121</li>
+
+  <li><a href="epsg/3829/index.html">EPSG:3829</a>: Hu Tzu Shan / UTM zone 51N</li>
+
+  <li><a href="epsg/3832/index.html">EPSG:3832</a>: WGS 84 / PDC Mercator</li>
+
+  <li><a href="epsg/3833/index.html">EPSG:3833</a>: Pulkovo 1942(58) / Gauss-Kruger zone 2</li>
+
+  <li><a href="epsg/3834/index.html">EPSG:3834</a>: Pulkovo 1942(83) / Gauss-Kruger zone 2</li>
+
+  <li><a href="epsg/3835/index.html">EPSG:3835</a>: Pulkovo 1942(83) / Gauss-Kruger zone 3</li>
+
+  <li><a href="epsg/3836/index.html">EPSG:3836</a>: Pulkovo 1942(83) / Gauss-Kruger zone 4</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=37">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=39">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

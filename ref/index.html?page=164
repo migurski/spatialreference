@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=163">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=165">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/62036405/index.html">EPSG:62036405</a>: AGD84 (deg)</li>
+
+  <li><a href="epsg/62046405/index.html">EPSG:62046405</a>: Ain el Abd (deg)</li>
+
+  <li><a href="epsg/62056405/index.html">EPSG:62056405</a>: Afgooye (deg)</li>
+
+  <li><a href="epsg/62066405/index.html">EPSG:62066405</a>: Agadez (deg)</li>
+
+  <li><a href="epsg/62076405/index.html">EPSG:62076405</a>: Lisbon (deg)</li>
+
+  <li><a href="epsg/62086405/index.html">EPSG:62086405</a>: Aratu (deg)</li>
+
+  <li><a href="epsg/62096405/index.html">EPSG:62096405</a>: Arc 1950 (deg)</li>
+
+  <li><a href="epsg/62106405/index.html">EPSG:62106405</a>: Arc 1960 (deg)</li>
+
+  <li><a href="epsg/62116405/index.html">EPSG:62116405</a>: Batavia (deg)</li>
+
+  <li><a href="epsg/62126405/index.html">EPSG:62126405</a>: Barbados 1938 (deg)</li>
+
+  <li><a href="epsg/62136405/index.html">EPSG:62136405</a>: Beduaram (deg)</li>
+
+  <li><a href="epsg/62146405/index.html">EPSG:62146405</a>: Beijing 1954 (deg)</li>
+
+  <li><a href="epsg/62156405/index.html">EPSG:62156405</a>: Belge 1950 (deg)</li>
+
+  <li><a href="epsg/62166405/index.html">EPSG:62166405</a>: Bermuda 1957 (deg)</li>
+
+  <li><a href="epsg/62186405/index.html">EPSG:62186405</a>: Bogota 1975 (deg)</li>
+
+  <li><a href="epsg/62196405/index.html">EPSG:62196405</a>: Bukit Rimpah (deg)</li>
+
+  <li><a href="epsg/62206405/index.html">EPSG:62206405</a>: Camacupa (deg)</li>
+
+  <li><a href="epsg/62216405/index.html">EPSG:62216405</a>: Campo Inchauspe (deg)</li>
+
+  <li><a href="epsg/62226405/index.html">EPSG:62226405</a>: Cape (deg)</li>
+
+  <li><a href="epsg/62236405/index.html">EPSG:62236405</a>: Carthage (deg)</li>
+
+  <li><a href="epsg/62246405/index.html">EPSG:62246405</a>: Chua (deg)</li>
+
+  <li><a href="epsg/62256405/index.html">EPSG:62256405</a>: Corrego Alegre (deg)</li>
+
+  <li><a href="epsg/62276405/index.html">EPSG:62276405</a>: Deir ez Zor (deg)</li>
+
+  <li><a href="epsg/62296405/index.html">EPSG:62296405</a>: Egypt 1907 (deg)</li>
+
+  <li><a href="epsg/62306405/index.html">EPSG:62306405</a>: ED50 (deg)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/62316405/index.html">EPSG:62316405</a>: ED87 (deg)</li>
+
+  <li><a href="epsg/62326405/index.html">EPSG:62326405</a>: Fahud (deg)</li>
+
+  <li><a href="epsg/62336405/index.html">EPSG:62336405</a>: Gandajika 1970 (deg)</li>
+
+  <li><a href="epsg/62366405/index.html">EPSG:62366405</a>: Hu Tzu Shan (deg)</li>
+
+  <li><a href="epsg/62376405/index.html">EPSG:62376405</a>: HD72 (deg)</li>
+
+  <li><a href="epsg/62386405/index.html">EPSG:62386405</a>: ID74 (deg)</li>
+
+  <li><a href="epsg/62396405/index.html">EPSG:62396405</a>: Indian 1954 (deg)</li>
+
+  <li><a href="epsg/62406405/index.html">EPSG:62406405</a>: Indian 1975 (deg)</li>
+
+  <li><a href="epsg/62416405/index.html">EPSG:62416405</a>: Jamaica 1875 (deg)</li>
+
+  <li><a href="epsg/62426405/index.html">EPSG:62426405</a>: JAD69 (deg)</li>
+
+  <li><a href="epsg/62436405/index.html">EPSG:62436405</a>: Kalianpur 1880 (deg)</li>
+
+  <li><a href="epsg/62446405/index.html">EPSG:62446405</a>: Kandawala (deg)</li>
+
+  <li><a href="epsg/62456405/index.html">EPSG:62456405</a>: Kertau (deg)</li>
+
+  <li><a href="epsg/62466405/index.html">EPSG:62466405</a>: KOC (deg)</li>
+
+  <li><a href="epsg/62476405/index.html">EPSG:62476405</a>: La Canoa (deg)</li>
+
+  <li><a href="epsg/62486405/index.html">EPSG:62486405</a>: PSAD56 (deg)</li>
+
+  <li><a href="epsg/62496405/index.html">EPSG:62496405</a>: Lake (deg)</li>
+
+  <li><a href="epsg/62506405/index.html">EPSG:62506405</a>: Leigon (deg)</li>
+
+  <li><a href="epsg/62516405/index.html">EPSG:62516405</a>: Liberia 1964 (deg)</li>
+
+  <li><a href="epsg/62526405/index.html">EPSG:62526405</a>: Lome (deg)</li>
+
+  <li><a href="epsg/62536405/index.html">EPSG:62536405</a>: Luzon 1911 (deg)</li>
+
+  <li><a href="epsg/62546405/index.html">EPSG:62546405</a>: Hito XVIII 1963 (deg)</li>
+
+  <li><a href="epsg/62556405/index.html">EPSG:62556405</a>: Herat North (deg)</li>
+
+  <li><a href="epsg/62566405/index.html">EPSG:62566405</a>: Mahe 1971 (deg)</li>
+
+  <li><a href="epsg/62576405/index.html">EPSG:62576405</a>: Makassar (deg)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=163">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=165">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

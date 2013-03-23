@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=93">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=95">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/30101/index.html">IAU2000:30101</a>: Moon 2000</li>
+
+  <li><a href="iau2000/30110/index.html">IAU2000:30110</a>: Moon Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/30111/index.html">IAU2000:30111</a>: Moon Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/30112/index.html">IAU2000:30112</a>: Moon Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/30113/index.html">IAU2000:30113</a>: Moon Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/30114/index.html">IAU2000:30114</a>: Moon Sinusoidal</li>
+
+  <li><a href="iau2000/30115/index.html">IAU2000:30115</a>: Moon Sinusoidal</li>
+
+  <li><a href="iau2000/30116/index.html">IAU2000:30116</a>: Moon Sinusoidal</li>
+
+  <li><a href="iau2000/30117/index.html">IAU2000:30117</a>: Moon Sinusoidal</li>
+
+  <li><a href="iau2000/30118/index.html">IAU2000:30118</a>: Moon North Pole Stereographic</li>
+
+  <li><a href="iau2000/30119/index.html">IAU2000:30119</a>: Moon North Pole Stereographic</li>
+
+  <li><a href="iau2000/30120/index.html">IAU2000:30120</a>: Moon South Pole Stereographic</li>
+
+  <li><a href="iau2000/30121/index.html">IAU2000:30121</a>: Moon South Pole Stereographic</li>
+
+  <li><a href="iau2000/30160/index.html">IAU2000:30160</a>: Moon Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/30161/index.html">IAU2000:30161</a>: Moon Sinusoidal AUTO</li>
+
+  <li><a href="epsg/30161/index.html">EPSG:30161</a>: Tokyo / Japan Plane Rectangular CS I</li>
+
+  <li><a href="iau2000/30162/index.html">IAU2000:30162</a>: Moon Stereographic AUTO</li>
+
+  <li><a href="epsg/30162/index.html">EPSG:30162</a>: Tokyo / Japan Plane Rectangular CS II</li>
+
+  <li><a href="epsg/30163/index.html">EPSG:30163</a>: Tokyo / Japan Plane Rectangular CS III</li>
+
+  <li><a href="iau2000/30163/index.html">IAU2000:30163</a>: Moon Stereographic AUTO</li>
+
+  <li><a href="iau2000/30164/index.html">IAU2000:30164</a>: Moon Transverse Mercator AUTO</li>
+
+  <li><a href="epsg/30164/index.html">EPSG:30164</a>: Tokyo / Japan Plane Rectangular CS IV</li>
+
+  <li><a href="iau2000/30165/index.html">IAU2000:30165</a>: Moon Transverse Mercator AUTO</li>
+
+  <li><a href="epsg/30165/index.html">EPSG:30165</a>: Tokyo / Japan Plane Rectangular CS V</li>
+
+  <li><a href="iau2000/30166/index.html">IAU2000:30166</a>: Moon Orthographic AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/30166/index.html">EPSG:30166</a>: Tokyo / Japan Plane Rectangular CS VI</li>
+
+  <li><a href="epsg/30167/index.html">EPSG:30167</a>: Tokyo / Japan Plane Rectangular CS VII</li>
+
+  <li><a href="iau2000/30167/index.html">IAU2000:30167</a>: Moon Orthographic AUTO</li>
+
+  <li><a href="epsg/30168/index.html">EPSG:30168</a>: Tokyo / Japan Plane Rectangular CS VIII</li>
+
+  <li><a href="iau2000/30168/index.html">IAU2000:30168</a>: Moon Equidistant Cylindrical AUTO</li>
+
+  <li><a href="epsg/30169/index.html">EPSG:30169</a>: Tokyo / Japan Plane Rectangular CS IX</li>
+
+  <li><a href="iau2000/30169/index.html">IAU2000:30169</a>: Moon Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/30170/index.html">IAU2000:30170</a>: Moon Lambert Conformal Conic AUTO</li>
+
+  <li><a href="epsg/30170/index.html">EPSG:30170</a>: Tokyo / Japan Plane Rectangular CS X</li>
+
+  <li><a href="epsg/30171/index.html">EPSG:30171</a>: Tokyo / Japan Plane Rectangular CS XI</li>
+
+  <li><a href="iau2000/30171/index.html">IAU2000:30171</a>: Moon Lambert Conformal Conic AUTO</li>
+
+  <li><a href="epsg/30172/index.html">EPSG:30172</a>: Tokyo / Japan Plane Rectangular CS XII</li>
+
+  <li><a href="iau2000/30172/index.html">IAU2000:30172</a>: Moon Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="epsg/30173/index.html">EPSG:30173</a>: Tokyo / Japan Plane Rectangular CS XIII</li>
+
+  <li><a href="iau2000/30173/index.html">IAU2000:30173</a>: Moon Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/30174/index.html">IAU2000:30174</a>: Moon Mercator AUTO</li>
+
+  <li><a href="epsg/30174/index.html">EPSG:30174</a>: Tokyo / Japan Plane Rectangular CS XIV</li>
+
+  <li><a href="epsg/30175/index.html">EPSG:30175</a>: Tokyo / Japan Plane Rectangular CS XV</li>
+
+  <li><a href="iau2000/30175/index.html">IAU2000:30175</a>: Moon Mercator AUTO</li>
+
+  <li><a href="iau2000/30176/index.html">IAU2000:30176</a>: Moon Albers AUTO</li>
+
+  <li><a href="epsg/30176/index.html">EPSG:30176</a>: Tokyo / Japan Plane Rectangular CS XVI</li>
+
+  <li><a href="epsg/30177/index.html">EPSG:30177</a>: Tokyo / Japan Plane Rectangular CS XVII</li>
+
+  <li><a href="iau2000/30177/index.html">IAU2000:30177</a>: Moon Albers AUTO</li>
+
+  <li><a href="iau2000/30178/index.html">IAU2000:30178</a>: Moon Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="epsg/30178/index.html">EPSG:30178</a>: Tokyo / Japan Plane Rectangular CS XVIII</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=93">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=95">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

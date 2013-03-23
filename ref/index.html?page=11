@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=10">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=12">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2420/index.html">EPSG:2420</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 44</li>
+
+  <li><a href="epsg/2421/index.html">EPSG:2421</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 45</li>
+
+  <li><a href="epsg/2422/index.html">EPSG:2422</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 75E</li>
+
+  <li><a href="epsg/2423/index.html">EPSG:2423</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 78E</li>
+
+  <li><a href="epsg/2424/index.html">EPSG:2424</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 81E</li>
+
+  <li><a href="epsg/2425/index.html">EPSG:2425</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 84E</li>
+
+  <li><a href="epsg/2426/index.html">EPSG:2426</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 87E</li>
+
+  <li><a href="epsg/2427/index.html">EPSG:2427</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 90E</li>
+
+  <li><a href="epsg/2428/index.html">EPSG:2428</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 93E</li>
+
+  <li><a href="epsg/2429/index.html">EPSG:2429</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 96E</li>
+
+  <li><a href="epsg/2430/index.html">EPSG:2430</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 99E</li>
+
+  <li><a href="epsg/2431/index.html">EPSG:2431</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 102E</li>
+
+  <li><a href="epsg/2432/index.html">EPSG:2432</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 105E</li>
+
+  <li><a href="epsg/2433/index.html">EPSG:2433</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 108E</li>
+
+  <li><a href="epsg/2434/index.html">EPSG:2434</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 111E</li>
+
+  <li><a href="epsg/2435/index.html">EPSG:2435</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 114E</li>
+
+  <li><a href="epsg/2436/index.html">EPSG:2436</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 117E</li>
+
+  <li><a href="epsg/2437/index.html">EPSG:2437</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 120E</li>
+
+  <li><a href="epsg/2438/index.html">EPSG:2438</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 123E</li>
+
+  <li><a href="epsg/2439/index.html">EPSG:2439</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 126E</li>
+
+  <li><a href="epsg/2440/index.html">EPSG:2440</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 129E</li>
+
+  <li><a href="epsg/2441/index.html">EPSG:2441</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 132E</li>
+
+  <li><a href="epsg/2442/index.html">EPSG:2442</a>: Beijing 1954 / 3-degree Gauss-Kruger CM 135E</li>
+
+  <li><a href="epsg/2443/index.html">EPSG:2443</a>: JGD2000 / Japan Plane Rectangular CS I</li>
+
+  <li><a href="epsg/2444/index.html">EPSG:2444</a>: JGD2000 / Japan Plane Rectangular CS II</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2445/index.html">EPSG:2445</a>: JGD2000 / Japan Plane Rectangular CS III</li>
+
+  <li><a href="epsg/2446/index.html">EPSG:2446</a>: JGD2000 / Japan Plane Rectangular CS IV</li>
+
+  <li><a href="epsg/2447/index.html">EPSG:2447</a>: JGD2000 / Japan Plane Rectangular CS V</li>
+
+  <li><a href="epsg/2448/index.html">EPSG:2448</a>: JGD2000 / Japan Plane Rectangular CS VI</li>
+
+  <li><a href="epsg/2449/index.html">EPSG:2449</a>: JGD2000 / Japan Plane Rectangular CS VII</li>
+
+  <li><a href="epsg/2450/index.html">EPSG:2450</a>: JGD2000 / Japan Plane Rectangular CS VIII</li>
+
+  <li><a href="epsg/2451/index.html">EPSG:2451</a>: JGD2000 / Japan Plane Rectangular CS IX</li>
+
+  <li><a href="epsg/2452/index.html">EPSG:2452</a>: JGD2000 / Japan Plane Rectangular CS X</li>
+
+  <li><a href="epsg/2453/index.html">EPSG:2453</a>: JGD2000 / Japan Plane Rectangular CS XI</li>
+
+  <li><a href="epsg/2454/index.html">EPSG:2454</a>: JGD2000 / Japan Plane Rectangular CS XII</li>
+
+  <li><a href="epsg/2455/index.html">EPSG:2455</a>: JGD2000 / Japan Plane Rectangular CS XIII</li>
+
+  <li><a href="epsg/2456/index.html">EPSG:2456</a>: JGD2000 / Japan Plane Rectangular CS XIV</li>
+
+  <li><a href="epsg/2457/index.html">EPSG:2457</a>: JGD2000 / Japan Plane Rectangular CS XV</li>
+
+  <li><a href="epsg/2458/index.html">EPSG:2458</a>: JGD2000 / Japan Plane Rectangular CS XVI</li>
+
+  <li><a href="epsg/2459/index.html">EPSG:2459</a>: JGD2000 / Japan Plane Rectangular CS XVII</li>
+
+  <li><a href="epsg/2460/index.html">EPSG:2460</a>: JGD2000 / Japan Plane Rectangular CS XVIII</li>
+
+  <li><a href="epsg/2461/index.html">EPSG:2461</a>: JGD2000 / Japan Plane Rectangular CS XIX</li>
+
+  <li><a href="epsg/2462/index.html">EPSG:2462</a>: Albanian 1987 / Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/2463/index.html">EPSG:2463</a>: Pulkovo 1995 / Gauss-Kruger CM 21E</li>
+
+  <li><a href="epsg/2464/index.html">EPSG:2464</a>: Pulkovo 1995 / Gauss-Kruger CM 27E</li>
+
+  <li><a href="epsg/2465/index.html">EPSG:2465</a>: Pulkovo 1995 / Gauss-Kruger CM 33E</li>
+
+  <li><a href="epsg/2466/index.html">EPSG:2466</a>: Pulkovo 1995 / Gauss-Kruger CM 39E</li>
+
+  <li><a href="epsg/2467/index.html">EPSG:2467</a>: Pulkovo 1995 / Gauss-Kruger CM 45E</li>
+
+  <li><a href="epsg/2468/index.html">EPSG:2468</a>: Pulkovo 1995 / Gauss-Kruger CM 51E</li>
+
+  <li><a href="epsg/2469/index.html">EPSG:2469</a>: Pulkovo 1995 / Gauss-Kruger CM 57E</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=10">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=12">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

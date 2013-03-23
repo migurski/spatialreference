@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="../index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="../upload/index.html">Upload Your Own</a> | 
+            <a href="index.html">List user-contributed references</a> | 
+            <a href="../index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=2">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=4">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="4699/index.html">SR-ORG:4699</a>: Just a try</li>
+
+  <li><a href="4700/index.html">SR-ORG:4700</a>: D_DEUTSCHES_HAUPTDREIECKSNETZ</li>
+
+  <li><a href="4701/index.html">SR-ORG:4701</a>: D_DEUTSCHES_HAUPTDREIECKSNETZ, 2nd try</li>
+
+  <li><a href="4705/index.html">SR-ORG:4705</a>: Popular Visualisation CRS / Mercator</li>
+
+  <li><a href="4713/index.html">SR-ORG:4713</a>: Lambert Maroc Zone I (Nord)</li>
+
+  <li><a href="4714/index.html">SR-ORG:4714</a>: Lambert Maroc zone II (Agadir)</li>
+
+  <li><a href="4715/index.html">SR-ORG:4715</a>: Lambert Maroc Zone III (La&#39;youn)</li>
+
+  <li><a href="4716/index.html">SR-ORG:4716</a>: Lambert Maroc Zone IV (Ad-Dakhla)</li>
+
+  <li><a href="4724/index.html">SR-ORG:4724</a>: RUC</li>
+
+  <li><a href="4726/index.html">SR-ORG:4726</a>: RUC</li>
+
+  <li><a href="4740/index.html">SR-ORG:4740</a>: Mercury 2000 IAU IAG</li>
+
+  <li><a href="4741/index.html">SR-ORG:4741</a>: Mercury 2000 IAU IAG Sinusoidal 100W</li>
+
+  <li><a href="4742/index.html">SR-ORG:4742</a>: Test WGS84</li>
+
+  <li><a href="4743/index.html">SR-ORG:4743</a>: Test2 WGS84</li>
+
+  <li><a href="4744/index.html">SR-ORG:4744</a>: Test3 WGS84</li>
+
+  <li><a href="4745/index.html">SR-ORG:4745</a>: Europa_2000</li>
+
+  <li><a href="6618/index.html">SR-ORG:6618</a>: Madagascar Laborde Tan1925</li>
+
+  <li><a href="6619/index.html">SR-ORG:6619</a>: jrc</li>
+
+  <li><a href="6620/index.html">SR-ORG:6620</a>: US EPA Region 3 Albers GRS80 NAD83</li>
+
+  <li><a href="6622/index.html">SR-ORG:6622</a>: test_LAEA</li>
+
+  <li><a href="6624/index.html">SR-ORG:6624</a>: Lambert Deutschland 48°40&#39; / 52°40&#39;</li>
+
+  <li><a href="6626/index.html">SR-ORG:6626</a>: NIMES</li>
+
+  <li><a href="6627/index.html">SR-ORG:6627</a>: Google Mercator</li>
+
+  <li><a href="6628/index.html">SR-ORG:6628</a>: ACT (Stromlo) Standard Grid</li>
+
+  <li><a href="6629/index.html">SR-ORG:6629</a>: got his from city of chicago</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="6630/index.html">SR-ORG:6630</a>: Albers Conical Equal Area as used by mrlc.gov (NLCD)</li>
+
+  <li><a href="6631/index.html">SR-ORG:6631</a>: Oregon highway network (2007) projection</li>
+
+  <li><a href="6632/index.html">SR-ORG:6632</a>: Oregon Statewide Lambert</li>
+
+  <li><a href="6633/index.html">SR-ORG:6633</a>: Oregon DEM Projection</li>
+
+  <li><a href="6634/index.html">SR-ORG:6634</a>: Czech S-JTSK GIS: ESRI:102067</li>
+
+  <li><a href="6635/index.html">SR-ORG:6635</a>: Czech S-JTSK EPSG:2065</li>
+
+  <li><a href="6636/index.html">SR-ORG:6636</a>: Czech S-42: EPSG:28403 - S-42 (Pulkovo 1942 / Gauss-Krüger zone 3)</li>
+
+  <li><a href="6637/index.html">SR-ORG:6637</a>: Ashland County, WI Feet</li>
+
+  <li><a href="6638/index.html">SR-ORG:6638</a>: Ashland County Wisconsin Feet</li>
+
+  <li><a href="6639/index.html">SR-ORG:6639</a>: VA</li>
+
+  <li><a href="6640/index.html">SR-ORG:6640</a>: GRS80 Korea TM</li>
+
+  <li><a href="6641/index.html">SR-ORG:6641</a>: EPSG:THAI24047</li>
+
+  <li><a href="6642/index.html">SR-ORG:6642</a>: Australia Albers Equal Area Conic</li>
+
+  <li><a href="6643/index.html">SR-ORG:6643</a>: Australia Albers Equal Area Conic</li>
+
+  <li><a href="6644/index.html">SR-ORG:6644</a>: Australia Albers Equal Area Conic (134)</li>
+
+  <li><a href="6645/index.html">SR-ORG:6645</a>: NTF Paris / Clarke 1880 IGN / Lambert CC 2SP</li>
+
+  <li><a href="6646/index.html">SR-ORG:6646</a>: Pennsylvania Department of Environmental Protection</li>
+
+  <li><a href="6647/index.html">SR-ORG:6647</a>: WT-RD-PS</li>
+
+  <li><a href="6648/index.html">SR-ORG:6648</a>: INGR94</li>
+
+  <li><a href="6649/index.html">SR-ORG:6649</a>: INGR94</li>
+
+  <li><a href="6650/index.html">SR-ORG:6650</a>: INDIAT4U</li>
+
+  <li><a href="6651/index.html">SR-ORG:6651</a>: Australian</li>
+
+  <li><a href="6652/index.html">SR-ORG:6652</a>: Aust</li>
+
+  <li><a href="6653/index.html">SR-ORG:6653</a>: Unknown</li>
+
+  <li><a href="6654/index.html">SR-ORG:6654</a>: NAD83 State Plane Maryland FIPS 1900</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=2">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=4">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

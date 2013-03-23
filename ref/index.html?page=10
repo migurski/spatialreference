@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=9">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=11">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2370/index.html">EPSG:2370</a>: Xian 1980 / 3-degree Gauss-Kruger CM 75E</li>
+
+  <li><a href="epsg/2371/index.html">EPSG:2371</a>: Xian 1980 / 3-degree Gauss-Kruger CM 78E</li>
+
+  <li><a href="epsg/2372/index.html">EPSG:2372</a>: Xian 1980 / 3-degree Gauss-Kruger CM 81E</li>
+
+  <li><a href="epsg/2373/index.html">EPSG:2373</a>: Xian 1980 / 3-degree Gauss-Kruger CM 84E</li>
+
+  <li><a href="epsg/2374/index.html">EPSG:2374</a>: Xian 1980 / 3-degree Gauss-Kruger CM 87E</li>
+
+  <li><a href="epsg/2375/index.html">EPSG:2375</a>: Xian 1980 / 3-degree Gauss-Kruger CM 90E</li>
+
+  <li><a href="epsg/2376/index.html">EPSG:2376</a>: Xian 1980 / 3-degree Gauss-Kruger CM 93E</li>
+
+  <li><a href="epsg/2377/index.html">EPSG:2377</a>: Xian 1980 / 3-degree Gauss-Kruger CM 96E</li>
+
+  <li><a href="epsg/2378/index.html">EPSG:2378</a>: Xian 1980 / 3-degree Gauss-Kruger CM 99E</li>
+
+  <li><a href="epsg/2379/index.html">EPSG:2379</a>: Xian 1980 / 3-degree Gauss-Kruger CM 102E</li>
+
+  <li><a href="epsg/2380/index.html">EPSG:2380</a>: Xian 1980 / 3-degree Gauss-Kruger CM 105E</li>
+
+  <li><a href="epsg/2381/index.html">EPSG:2381</a>: Xian 1980 / 3-degree Gauss-Kruger CM 108E</li>
+
+  <li><a href="epsg/2382/index.html">EPSG:2382</a>: Xian 1980 / 3-degree Gauss-Kruger CM 111E</li>
+
+  <li><a href="epsg/2383/index.html">EPSG:2383</a>: Xian 1980 / 3-degree Gauss-Kruger CM 114E</li>
+
+  <li><a href="epsg/2384/index.html">EPSG:2384</a>: Xian 1980 / 3-degree Gauss-Kruger CM 117E</li>
+
+  <li><a href="epsg/2385/index.html">EPSG:2385</a>: Xian 1980 / 3-degree Gauss-Kruger CM 120E</li>
+
+  <li><a href="epsg/2386/index.html">EPSG:2386</a>: Xian 1980 / 3-degree Gauss-Kruger CM 123E</li>
+
+  <li><a href="epsg/2387/index.html">EPSG:2387</a>: Xian 1980 / 3-degree Gauss-Kruger CM 126E</li>
+
+  <li><a href="epsg/2388/index.html">EPSG:2388</a>: Xian 1980 / 3-degree Gauss-Kruger CM 129E</li>
+
+  <li><a href="epsg/2389/index.html">EPSG:2389</a>: Xian 1980 / 3-degree Gauss-Kruger CM 132E</li>
+
+  <li><a href="epsg/2390/index.html">EPSG:2390</a>: Xian 1980 / 3-degree Gauss-Kruger CM 135E</li>
+
+  <li><a href="epsg/2391/index.html">EPSG:2391</a>: KKJ / Finland zone 1</li>
+
+  <li><a href="epsg/2392/index.html">EPSG:2392</a>: KKJ / Finland zone 2</li>
+
+  <li><a href="epsg/2393/index.html">EPSG:2393</a>: KKJ / Finland Uniform Coordinate System</li>
+
+  <li><a href="epsg/2394/index.html">EPSG:2394</a>: KKJ / Finland zone 4</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2395/index.html">EPSG:2395</a>: South Yemen / Gauss-Kruger zone 8</li>
+
+  <li><a href="epsg/2396/index.html">EPSG:2396</a>: South Yemen / Gauss-Kruger zone 9</li>
+
+  <li><a href="epsg/2397/index.html">EPSG:2397</a>: Pulkovo 1942(83) / 3-degree Gauss-Kruger zone 3</li>
+
+  <li><a href="epsg/2398/index.html">EPSG:2398</a>: Pulkovo 1942(83) / 3-degree Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/2399/index.html">EPSG:2399</a>: Pulkovo 1942(83) / 3-degree Gauss-Kruger zone 5</li>
+
+  <li><a href="epsg/2400/index.html">EPSG:2400</a>: RT90 2.5 gon W</li>
+
+  <li><a href="epsg/2401/index.html">EPSG:2401</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 25</li>
+
+  <li><a href="epsg/2402/index.html">EPSG:2402</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 26</li>
+
+  <li><a href="epsg/2403/index.html">EPSG:2403</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 27</li>
+
+  <li><a href="epsg/2404/index.html">EPSG:2404</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 28</li>
+
+  <li><a href="epsg/2405/index.html">EPSG:2405</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 29</li>
+
+  <li><a href="epsg/2406/index.html">EPSG:2406</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 30</li>
+
+  <li><a href="epsg/2407/index.html">EPSG:2407</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 31</li>
+
+  <li><a href="epsg/2408/index.html">EPSG:2408</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 32</li>
+
+  <li><a href="epsg/2409/index.html">EPSG:2409</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 33</li>
+
+  <li><a href="epsg/2410/index.html">EPSG:2410</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 34</li>
+
+  <li><a href="epsg/2411/index.html">EPSG:2411</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 35</li>
+
+  <li><a href="epsg/2412/index.html">EPSG:2412</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 36</li>
+
+  <li><a href="epsg/2413/index.html">EPSG:2413</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 37</li>
+
+  <li><a href="epsg/2414/index.html">EPSG:2414</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 38</li>
+
+  <li><a href="epsg/2415/index.html">EPSG:2415</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 39</li>
+
+  <li><a href="epsg/2416/index.html">EPSG:2416</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 40</li>
+
+  <li><a href="epsg/2417/index.html">EPSG:2417</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 41</li>
+
+  <li><a href="epsg/2418/index.html">EPSG:2418</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 42</li>
+
+  <li><a href="epsg/2419/index.html">EPSG:2419</a>: Beijing 1954 / 3-degree Gauss-Kruger zone 43</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=9">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=11">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

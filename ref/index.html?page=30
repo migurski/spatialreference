@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=29">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=31">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3371/index.html">EPSG:3371</a>: NAD27 / UTM zone 60N</li>
+
+  <li><a href="epsg/3372/index.html">EPSG:3372</a>: NAD83 / UTM zone 59N</li>
+
+  <li><a href="epsg/3373/index.html">EPSG:3373</a>: NAD83 / UTM zone 60N</li>
+
+  <li><a href="epsg/3374/index.html">EPSG:3374</a>: FD54 / UTM zone 29N</li>
+
+  <li><a href="epsg/3375/index.html">EPSG:3375</a>: GDM2000 / Peninsula RSO</li>
+
+  <li><a href="epsg/3376/index.html">EPSG:3376</a>: GDM2000 / East Malaysia BRSO</li>
+
+  <li><a href="epsg/3377/index.html">EPSG:3377</a>: GDM2000 / Johor Grid</li>
+
+  <li><a href="epsg/3378/index.html">EPSG:3378</a>: GDM2000 / Sembilan and Melaka Grid</li>
+
+  <li><a href="epsg/3379/index.html">EPSG:3379</a>: GDM2000 / PahangGrid</li>
+
+  <li><a href="epsg/3380/index.html">EPSG:3380</a>: GDM2000 / Selangor Grid</li>
+
+  <li><a href="epsg/3381/index.html">EPSG:3381</a>: GDM2000 / Terengganu Grid</li>
+
+  <li><a href="epsg/3382/index.html">EPSG:3382</a>: GDM2000 / Pinang Grid</li>
+
+  <li><a href="epsg/3383/index.html">EPSG:3383</a>: GDM2000 / Kedah and Perlis Grid</li>
+
+  <li><a href="epsg/3384/index.html">EPSG:3384</a>: GDM2000 / Perak Grid</li>
+
+  <li><a href="epsg/3385/index.html">EPSG:3385</a>: GDM2000 / Kelantan Grid</li>
+
+  <li><a href="epsg/3386/index.html">EPSG:3386</a>: KKJ / Finland zone 0</li>
+
+  <li><a href="epsg/3387/index.html">EPSG:3387</a>: KKJ / Finland zone 5</li>
+
+  <li><a href="epsg/3388/index.html">EPSG:3388</a>: Pulkovo 1942 / Caspian Sea Mercator</li>
+
+  <li><a href="epsg/3389/index.html">EPSG:3389</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 60</li>
+
+  <li><a href="epsg/3390/index.html">EPSG:3390</a>: Pulkovo 1995 / 3-degree Gauss-Kruger zone 60</li>
+
+  <li><a href="epsg/3391/index.html">EPSG:3391</a>: Karbala 1979 (Polservice) / UTM zone 37N</li>
+
+  <li><a href="epsg/3392/index.html">EPSG:3392</a>: Karbala 1979 (Polservice) / UTM zone 38N</li>
+
+  <li><a href="epsg/3393/index.html">EPSG:3393</a>: Karbala 1979 (Polservice) / UTM zone 39N</li>
+
+  <li><a href="epsg/3394/index.html">EPSG:3394</a>: Nahrwan 1934 / Iraq zone</li>
+
+  <li><a href="epsg/3395/index.html">EPSG:3395</a>: WGS 84 / World Mercator</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3396/index.html">EPSG:3396</a>: PD/83 / 3-degree Gauss-Kruger zone 3</li>
+
+  <li><a href="epsg/3397/index.html">EPSG:3397</a>: PD/83 / 3-degree Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/3398/index.html">EPSG:3398</a>: RD/83 / 3-degree Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/3399/index.html">EPSG:3399</a>: RD/83 / 3-degree Gauss-Kruger zone 5</li>
+
+  <li><a href="epsg/3400/index.html">EPSG:3400</a>: NAD83 / Alberta 10-TM (Forest)</li>
+
+  <li><a href="epsg/3401/index.html">EPSG:3401</a>: NAD83 / Alberta 10-TM (Resource)</li>
+
+  <li><a href="epsg/3402/index.html">EPSG:3402</a>: NAD83(CSRS) / Alberta 10-TM (Forest)</li>
+
+  <li><a href="epsg/3403/index.html">EPSG:3403</a>: NAD83(CSRS) / Alberta 10-TM (Resource)</li>
+
+  <li><a href="epsg/3404/index.html">EPSG:3404</a>: NAD83(HARN) / North Carolina (ftUS)</li>
+
+  <li><a href="epsg/3405/index.html">EPSG:3405</a>: VN-2000 / UTM zone 48N</li>
+
+  <li><a href="epsg/3406/index.html">EPSG:3406</a>: VN-2000 / UTM zone 49N</li>
+
+  <li><a href="epsg/3407/index.html">EPSG:3407</a>: Hong Kong 1963 Grid System</li>
+
+  <li><a href="epsg/3408/index.html">EPSG:3408</a>: NSIDC EASE-Grid North</li>
+
+  <li><a href="epsg/3409/index.html">EPSG:3409</a>: NSIDC EASE-Grid South</li>
+
+  <li><a href="epsg/3410/index.html">EPSG:3410</a>: NSIDC EASE-Grid Global</li>
+
+  <li><a href="epsg/3411/index.html">EPSG:3411</a>: NSIDC Sea Ice Polar Stereographic North</li>
+
+  <li><a href="epsg/3412/index.html">EPSG:3412</a>: NSIDC Sea Ice Polar Stereographic South</li>
+
+  <li><a href="epsg/3413/index.html">EPSG:3413</a>: WGS 84 / NSIDC Sea Ice Polar Stereographic North</li>
+
+  <li><a href="epsg/3414/index.html">EPSG:3414</a>: SVY21 / Singapore TM</li>
+
+  <li><a href="epsg/3415/index.html">EPSG:3415</a>: WGS 72BE / South China Sea Lambert</li>
+
+  <li><a href="epsg/3416/index.html">EPSG:3416</a>: ETRS89 / Austria Lambert</li>
+
+  <li><a href="epsg/3417/index.html">EPSG:3417</a>: NAD83 / Iowa North (ft US)</li>
+
+  <li><a href="epsg/3418/index.html">EPSG:3418</a>: NAD83 / Iowa South (ft US)</li>
+
+  <li><a href="epsg/3419/index.html">EPSG:3419</a>: NAD83 / Kansas North (ft US)</li>
+
+  <li><a href="epsg/3420/index.html">EPSG:3420</a>: NAD83 / Kansas South (ft US)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=29">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=31">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

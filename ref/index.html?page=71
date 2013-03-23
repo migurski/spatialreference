@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=70">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=72">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/7413/index.html">EPSG:7413</a>: NTF (Paris) / Lambert zone III + NGF IGN69</li>
+
+  <li><a href="sr-org/7413/index.html">SR-ORG:7413</a>: EPSG:5109</li>
+
+  <li><a href="epsg/7414/index.html">EPSG:7414</a>: Tokyo + JSLD height</li>
+
+  <li><a href="sr-org/7414/index.html">SR-ORG:7414</a>: sunil</li>
+
+  <li><a href="epsg/7415/index.html">EPSG:7415</a>: Amersfoort / RD New + NAP height</li>
+
+  <li><a href="sr-org/7415/index.html">SR-ORG:7415</a>: ordinance survey boundry-line</li>
+
+  <li><a href="epsg/7416/index.html">EPSG:7416</a>: ETRS89 / UTM zone 32N + DVR90 height</li>
+
+  <li><a href="sr-org/7416/index.html">SR-ORG:7416</a>: NAD 1983 HARN Adj MN Hennepin Feet</li>
+
+  <li><a href="epsg/7417/index.html">EPSG:7417</a>: ETRS89 / UTM zone 33N + DVR90 height</li>
+
+  <li><a href="sr-org/7417/index.html">SR-ORG:7417</a>: test</li>
+
+  <li><a href="sr-org/7418/index.html">SR-ORG:7418</a>: check</li>
+
+  <li><a href="epsg/7418/index.html">EPSG:7418</a>: ETRS89 / Kp2000 Jutland + DVR90 height</li>
+
+  <li><a href="epsg/7419/index.html">EPSG:7419</a>: ETRS89 / Kp2000 Zealand + DVR90 height</li>
+
+  <li><a href="sr-org/7419/index.html">SR-ORG:7419</a>: check</li>
+
+  <li><a href="epsg/7420/index.html">EPSG:7420</a>: ETRS89 / Kp2000 Bornholm + DVR90 height</li>
+
+  <li><a href="sr-org/7420/index.html">SR-ORG:7420</a>: check</li>
+
+  <li><a href="sr-org/7421/index.html">SR-ORG:7421</a>: Colombia_PCS_Cali_San_Antonio</li>
+
+  <li><a href="epsg/7421/index.html">EPSG:7421</a>: NTF (Paris) / Lambert zone II + NGF IGN69 height</li>
+
+  <li><a href="epsg/7422/index.html">EPSG:7422</a>: NTF (Paris) / Lambert zone III + NGF IGN69 height</li>
+
+  <li><a href="sr-org/7422/index.html">SR-ORG:7422</a>: IGCustom</li>
+
+  <li><a href="sr-org/7423/index.html">SR-ORG:7423</a>: Cali_prueba_san_antonio</li>
+
+  <li><a href="sr-org/7424/index.html">SR-ORG:7424</a>: ada county</li>
+
+  <li><a href="sr-org/7425/index.html">SR-ORG:7425</a>: Cali_prueba_san_antonio2</li>
+
+  <li><a href="sr-org/7426/index.html">SR-ORG:7426</a>: WGS_1984_Lambert_Conformal_Conic</li>
+
+  <li><a href="sr-org/7427/index.html">SR-ORG:7427</a>: RGF93_Lambert_93</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7428/index.html">SR-ORG:7428</a>: WGS 84 (3D EGM96 geoid height)</li>
+
+  <li><a href="sr-org/7429/index.html">SR-ORG:7429</a>: tet</li>
+
+  <li><a href="sr-org/7430/index.html">SR-ORG:7430</a>: CIG85</li>
+
+  <li><a href="sr-org/7431/index.html">SR-ORG:7431</a>: CIG85</li>
+
+  <li><a href="sr-org/7432/index.html">SR-ORG:7432</a>: cig85</li>
+
+  <li><a href="sr-org/7433/index.html">SR-ORG:7433</a>: Gauss-Kruger Buenos Aires Reproyectado</li>
+
+  <li><a href="sr-org/7434/index.html">SR-ORG:7434</a>: North_african_bonne</li>
+
+  <li><a href="sr-org/7435/index.html">SR-ORG:7435</a>: NAD_1983_10TM_AEP_Resource</li>
+
+  <li><a href="sr-org/7436/index.html">SR-ORG:7436</a>: NAD_1983_10TM_AEP_Resource</li>
+
+  <li><a href="sr-org/7437/index.html">SR-ORG:7437</a>: WGS 84 / UTM Zone 50 N KTT</li>
+
+  <li><a href="sr-org/7438/index.html">SR-ORG:7438</a>: North_african_bonne2</li>
+
+  <li><a href="sr-org/7439/index.html">SR-ORG:7439</a>: ED50 UTM34N</li>
+
+  <li><a href="sr-org/7440/index.html">SR-ORG:7440</a>: Greenland_sp71_cm-39_Stereographic</li>
+
+  <li><a href="sr-org/7441/index.html">SR-ORG:7441</a>: GGC Projection</li>
+
+  <li><a href="sr-org/7442/index.html">SR-ORG:7442</a>: India</li>
+
+  <li><a href="sr-org/7443/index.html">SR-ORG:7443</a>: testing_World_Behrman</li>
+
+  <li><a href="sr-org/7444/index.html">SR-ORG:7444</a>: WGS84 / UTM zone 32N</li>
+
+  <li><a href="sr-org/7445/index.html">SR-ORG:7445</a>: test</li>
+
+  <li><a href="sr-org/7446/index.html">SR-ORG:7446</a>: NAD 83 HARN State Plane Michegan South FIPs</li>
+
+  <li><a href="sr-org/7447/index.html">SR-ORG:7447</a>: UTM 12N US Foot</li>
+
+  <li><a href="sr-org/7448/index.html">SR-ORG:7448</a>: test</li>
+
+  <li><a href="sr-org/7449/index.html">SR-ORG:7449</a>: Google Mercator India</li>
+
+  <li><a href="sr-org/7450/index.html">SR-ORG:7450</a>: qqqq1111</li>
+
+  <li><a href="sr-org/7451/index.html">SR-ORG:7451</a>: Lowrance Mercator Meter</li>
+
+  <li><a href="sr-org/7452/index.html">SR-ORG:7452</a>: New Milford, CT</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=70">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=72">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

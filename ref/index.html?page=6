@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=5">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=7">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2162/index.html">EPSG:2162</a>: Sierra Leone 1968 / UTM zone 29N</li>
+
+  <li><a href="epsg/2163/index.html">EPSG:2163</a>: US National Atlas Equal Area</li>
+
+  <li><a href="epsg/2164/index.html">EPSG:2164</a>: Locodjo 1965 / TM 5 NW</li>
+
+  <li><a href="epsg/2165/index.html">EPSG:2165</a>: Abidjan 1987 / TM 5 NW</li>
+
+  <li><a href="epsg/2166/index.html">EPSG:2166</a>: Pulkovo 1942(83) / Gauss Kruger zone 3</li>
+
+  <li><a href="epsg/2167/index.html">EPSG:2167</a>: Pulkovo 1942(83) / Gauss Kruger zone 4</li>
+
+  <li><a href="epsg/2168/index.html">EPSG:2168</a>: Pulkovo 1942(83) / Gauss Kruger zone 5</li>
+
+  <li><a href="epsg/2169/index.html">EPSG:2169</a>: Luxembourg 1930 / Gauss</li>
+
+  <li><a href="epsg/2170/index.html">EPSG:2170</a>: MGI / Slovenia Grid</li>
+
+  <li><a href="epsg/2171/index.html">EPSG:2171</a>: Pulkovo 1942(58) / Poland zone I</li>
+
+  <li><a href="epsg/2172/index.html">EPSG:2172</a>: Pulkovo 1942(58) / Poland zone II</li>
+
+  <li><a href="epsg/2173/index.html">EPSG:2173</a>: Pulkovo 1942(58) / Poland zone III</li>
+
+  <li><a href="epsg/2174/index.html">EPSG:2174</a>: Pulkovo 1942(58) / Poland zone IV</li>
+
+  <li><a href="epsg/2175/index.html">EPSG:2175</a>: Pulkovo 1942(58) / Poland zone V</li>
+
+  <li><a href="epsg/2176/index.html">EPSG:2176</a>: ETRS89 / Poland CS2000 zone 5</li>
+
+  <li><a href="epsg/2177/index.html">EPSG:2177</a>: ETRS89 / Poland CS2000 zone 6</li>
+
+  <li><a href="epsg/2178/index.html">EPSG:2178</a>: ETRS89 / Poland CS2000 zone 7</li>
+
+  <li><a href="epsg/2179/index.html">EPSG:2179</a>: ETRS89 / Poland CS2000 zone 8</li>
+
+  <li><a href="epsg/2180/index.html">EPSG:2180</a>: ETRS89 / Poland CS92</li>
+
+  <li><a href="epsg/2188/index.html">EPSG:2188</a>: Azores Occidental 1939 / UTM zone 25N</li>
+
+  <li><a href="epsg/2189/index.html">EPSG:2189</a>: Azores Central 1948 / UTM zone 26N</li>
+
+  <li><a href="epsg/2190/index.html">EPSG:2190</a>: Azores Oriental 1940 / UTM zone 26N</li>
+
+  <li><a href="epsg/2191/index.html">EPSG:2191</a>: Madeira 1936 / UTM zone 28N</li>
+
+  <li><a href="epsg/2192/index.html">EPSG:2192</a>: ED50 / France EuroLambert</li>
+
+  <li><a href="epsg/2193/index.html">EPSG:2193</a>: NZGD2000 / New Zealand Transverse Mercator 2000</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2194/index.html">EPSG:2194</a>: American Samoa 1962 / American Samoa Lambert</li>
+
+  <li><a href="epsg/2195/index.html">EPSG:2195</a>: NAD83(HARN) / UTM zone 2S</li>
+
+  <li><a href="epsg/2196/index.html">EPSG:2196</a>: ETRS89 / Kp2000 Jutland</li>
+
+  <li><a href="epsg/2197/index.html">EPSG:2197</a>: ETRS89 / Kp2000 Zealand</li>
+
+  <li><a href="epsg/2198/index.html">EPSG:2198</a>: ETRS89 / Kp2000 Bornholm</li>
+
+  <li><a href="epsg/2199/index.html">EPSG:2199</a>: Albanian 1987 / Gauss Kruger zone 4</li>
+
+  <li><a href="epsg/2200/index.html">EPSG:2200</a>: ATS77 / New Brunswick Stereographic (ATS77)</li>
+
+  <li><a href="epsg/2201/index.html">EPSG:2201</a>: REGVEN / UTM zone 18N</li>
+
+  <li><a href="epsg/2202/index.html">EPSG:2202</a>: REGVEN / UTM zone 19N</li>
+
+  <li><a href="epsg/2203/index.html">EPSG:2203</a>: REGVEN / UTM zone 20N</li>
+
+  <li><a href="epsg/2204/index.html">EPSG:2204</a>: NAD27 / Tennessee</li>
+
+  <li><a href="epsg/2205/index.html">EPSG:2205</a>: NAD83 / Kentucky North</li>
+
+  <li><a href="epsg/2206/index.html">EPSG:2206</a>: ED50 / 3-degree Gauss-Kruger zone 9</li>
+
+  <li><a href="epsg/2207/index.html">EPSG:2207</a>: ED50 / 3-degree Gauss-Kruger zone 10</li>
+
+  <li><a href="epsg/2208/index.html">EPSG:2208</a>: ED50 / 3-degree Gauss-Kruger zone 11</li>
+
+  <li><a href="epsg/2209/index.html">EPSG:2209</a>: ED50 / 3-degree Gauss-Kruger zone 12</li>
+
+  <li><a href="epsg/2210/index.html">EPSG:2210</a>: ED50 / 3-degree Gauss-Kruger zone 13</li>
+
+  <li><a href="epsg/2211/index.html">EPSG:2211</a>: ED50 / 3-degree Gauss-Kruger zone 14</li>
+
+  <li><a href="epsg/2212/index.html">EPSG:2212</a>: ED50 / 3-degree Gauss-Kruger zone 15</li>
+
+  <li><a href="epsg/2213/index.html">EPSG:2213</a>: ETRS89 / TM 30 NE</li>
+
+  <li><a href="epsg/2214/index.html">EPSG:2214</a>: Douala 1948 / AOF west</li>
+
+  <li><a href="epsg/2215/index.html">EPSG:2215</a>: Manoca 1962 / UTM zone 32N</li>
+
+  <li><a href="epsg/2216/index.html">EPSG:2216</a>: Qornoq 1927 / UTM zone 22N</li>
+
+  <li><a href="epsg/2217/index.html">EPSG:2217</a>: Qornoq 1927 / UTM zone 23N</li>
+
+  <li><a href="epsg/2218/index.html">EPSG:2218</a>: Scoresbysund 1952 / Greenland zone 5 east</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=5">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=7">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

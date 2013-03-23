@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=59">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=61">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/6876/index.html">SR-ORG:6876</a>: 23035</li>
+
+  <li><a href="sr-org/6877/index.html">SR-ORG:6877</a>: VN_VinhPhuc</li>
+
+  <li><a href="sr-org/6878/index.html">SR-ORG:6878</a>: VN_VinhPhuc_Good</li>
+
+  <li><a href="sr-org/6879/index.html">SR-ORG:6879</a>: Lambert Conformal Conic. RADAR AEMet</li>
+
+  <li><a href="sr-org/6880/index.html">SR-ORG:6880</a>: DHDN / Soldner Berlin Lagerstatus 660</li>
+
+  <li><a href="sr-org/6881/index.html">SR-ORG:6881</a>: DHDN / Soldner Berlin Lagerstatus 600</li>
+
+  <li><a href="sr-org/6882/index.html">SR-ORG:6882</a>: IGNF:GEOPORTALFXX</li>
+
+  <li><a href="sr-org/6883/index.html">SR-ORG:6883</a>: im</li>
+
+  <li><a href="sr-org/6884/index.html">SR-ORG:6884</a>: NAD_1983_HARN_Transverse_Mercator</li>
+
+  <li><a href="sr-org/6885/index.html">SR-ORG:6885</a>: NAD_1983_HARN_Transverse_Mercator1</li>
+
+  <li><a href="sr-org/6886/index.html">SR-ORG:6886</a>: NAD_1983_StatePlane_California_VI_FIPS_0406_Feet1</li>
+
+  <li><a href="sr-org/6887/index.html">SR-ORG:6887</a>: HARN (HPGN) Illinois State Planes, Eastern Zone, US Foot</li>
+
+  <li><a href="sr-org/6888/index.html">SR-ORG:6888</a>: IGNF:GEOPORTALANF</li>
+
+  <li><a href="sr-org/6889/index.html">SR-ORG:6889</a>: fefe</li>
+
+  <li><a href="sr-org/6890/index.html">SR-ORG:6890</a>: IGNF:GEOPORTALGUF</li>
+
+  <li><a href="sr-org/6891/index.html">SR-ORG:6891</a>: IGNF:GEOPORTALREU</li>
+
+  <li><a href="sr-org/6892/index.html">SR-ORG:6892</a>: IGNF:GEOPORTALMYT</li>
+
+  <li><a href="sr-org/6893/index.html">SR-ORG:6893</a>: IGNF:GEOPORTALSPM</li>
+
+  <li><a href="sr-org/6894/index.html">SR-ORG:6894</a>: IGNF:GEOPORTALCRZ</li>
+
+  <li><a href="sr-org/6895/index.html">SR-ORG:6895</a>: IGNF:GEOPORTALKER</li>
+
+  <li><a href="sr-org/6896/index.html">SR-ORG:6896</a>: IGNF:GEOPORTALNCL</li>
+
+  <li><a href="sr-org/6897/index.html">SR-ORG:6897</a>: IGNF:GEOPORTALPYF</li>
+
+  <li><a href="sr-org/6898/index.html">SR-ORG:6898</a>: IGNF:GEOPORTALWLF</li>
+
+  <li><a href="sr-org/6899/index.html">SR-ORG:6899</a>: Auckland</li>
+
+  <li><a href="sr-org/6900/index.html">SR-ORG:6900</a>: 5971001,8</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/6901/index.html">SR-ORG:6901</a>: NAD_1983_HARN_WISCRS_Monroe_County_Feet</li>
+
+  <li><a href="sr-org/6902/index.html">SR-ORG:6902</a>: gr</li>
+
+  <li><a href="sr-org/6903/index.html">SR-ORG:6903</a>: USA Contiguous Lambert Azmuthal Equal Area (USGS-EDC)</li>
+
+  <li><a href="sr-org/6904/index.html">SR-ORG:6904</a>: VCMAC</li>
+
+  <li><a href="sr-org/6905/index.html">SR-ORG:6905</a>: NAD_1983_HARN_WISCRS_EauClaire_County_Feet</li>
+
+  <li><a href="sr-org/6906/index.html">SR-ORG:6906</a>: NAD_1927_StatePlane_Colorado_Central_FIPS_0502</li>
+
+  <li><a href="sr-org/6907/index.html">SR-ORG:6907</a>: testMine</li>
+
+  <li><a href="sr-org/6908/index.html">SR-ORG:6908</a>: testMine2</li>
+
+  <li><a href="sr-org/6909/index.html">SR-ORG:6909</a>: testMine3</li>
+
+  <li><a href="sr-org/6910/index.html">SR-ORG:6910</a>: NTF Lambert Zone 1 France 2SP</li>
+
+  <li><a href="sr-org/6911/index.html">SR-ORG:6911</a>: Guam Projection</li>
+
+  <li><a href="sr-org/6912/index.html">SR-ORG:6912</a>: EPSG:31493</li>
+
+  <li><a href="sr-org/6913/index.html">SR-ORG:6913</a>: fsdfs</li>
+
+  <li><a href="sr-org/6914/index.html">SR-ORG:6914</a>: Brandenburg</li>
+
+  <li><a href="sr-org/6915/index.html">SR-ORG:6915</a>: zzanghi</li>
+
+  <li><a href="sr-org/6916/index.html">SR-ORG:6916</a>: California Transverse_Mercator</li>
+
+  <li><a href="sr-org/6917/index.html">SR-ORG:6917</a>: VN_TP_Hue_KhiHau</li>
+
+  <li><a href="sr-org/6918/index.html">SR-ORG:6918</a>: Albers Conical Equal Area (Brazil) SAD69</li>
+
+  <li><a href="sr-org/6919/index.html">SR-ORG:6919</a>: Albers Conical Equal Area (Brazil) SAD69</li>
+
+  <li><a href="sr-org/6920/index.html">SR-ORG:6920</a>: US test</li>
+
+  <li><a href="sr-org/6921/index.html">SR-ORG:6921</a>: US Test</li>
+
+  <li><a href="sr-org/6922/index.html">SR-ORG:6922</a>: DC-4</li>
+
+  <li><a href="sr-org/6923/index.html">SR-ORG:6923</a>: NAD 83 UTM, Province of Alberta, Canada</li>
+
+  <li><a href="sr-org/6924/index.html">SR-ORG:6924</a>: DHDN / Ferro - Deutsches Hauptdreiecksnetz</li>
+
+  <li><a href="sr-org/6925/index.html">SR-ORG:6925</a>: Monroe_Tomah</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=59">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=61">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

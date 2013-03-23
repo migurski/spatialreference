@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=30">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=32">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3421/index.html">EPSG:3421</a>: NAD83 / Nevada East (ft US)</li>
+
+  <li><a href="epsg/3422/index.html">EPSG:3422</a>: NAD83 / Nevada Central (ft US)</li>
+
+  <li><a href="epsg/3423/index.html">EPSG:3423</a>: NAD83 / Nevada West (ft US)</li>
+
+  <li><a href="epsg/3424/index.html">EPSG:3424</a>: NAD83 / New Jersey (ft US)</li>
+
+  <li><a href="epsg/3425/index.html">EPSG:3425</a>: NAD83(HARN) / Iowa North (ft US)</li>
+
+  <li><a href="epsg/3426/index.html">EPSG:3426</a>: NAD83(HARN) / Iowa South (ft US)</li>
+
+  <li><a href="epsg/3427/index.html">EPSG:3427</a>: NAD83(HARN) / Kansas North (ft US)</li>
+
+  <li><a href="epsg/3428/index.html">EPSG:3428</a>: NAD83(HARN) / Kansas South (ft US)</li>
+
+  <li><a href="epsg/3429/index.html">EPSG:3429</a>: NAD83(HARN) / Nevada East (ft US)</li>
+
+  <li><a href="epsg/3430/index.html">EPSG:3430</a>: NAD83(HARN) / Nevada Central (ft US)</li>
+
+  <li><a href="epsg/3431/index.html">EPSG:3431</a>: NAD83(HARN) / Nevada West (ft US)</li>
+
+  <li><a href="epsg/3432/index.html">EPSG:3432</a>: NAD83(HARN) / New Jersey (ft US)</li>
+
+  <li><a href="epsg/3433/index.html">EPSG:3433</a>: NAD83 / Arkansas North (ftUS)</li>
+
+  <li><a href="epsg/3434/index.html">EPSG:3434</a>: NAD83 / Arkansas South (ftUS)</li>
+
+  <li><a href="epsg/3435/index.html">EPSG:3435</a>: NAD83 / Illinois East (ftUS)</li>
+
+  <li><a href="epsg/3436/index.html">EPSG:3436</a>: NAD83 / Illinois West (ftUS)</li>
+
+  <li><a href="epsg/3437/index.html">EPSG:3437</a>: NAD83 / New Hampshire (ftUS)</li>
+
+  <li><a href="epsg/3438/index.html">EPSG:3438</a>: NAD83 / Rhode Island (ftUS)</li>
+
+  <li><a href="epsg/3439/index.html">EPSG:3439</a>: PSD93 / UTM zone 39N</li>
+
+  <li><a href="epsg/3440/index.html">EPSG:3440</a>: PSD93 / UTM zone 40N</li>
+
+  <li><a href="epsg/3441/index.html">EPSG:3441</a>: NAD83(HARN) / Arkansas North (ftUS)</li>
+
+  <li><a href="epsg/3442/index.html">EPSG:3442</a>: NAD83(HARN) / Arkansas South (ftUS)</li>
+
+  <li><a href="epsg/3443/index.html">EPSG:3443</a>: NAD83(HARN) / Illinois East (ftUS)</li>
+
+  <li><a href="epsg/3444/index.html">EPSG:3444</a>: NAD83(HARN) / Illinois West (ftUS)</li>
+
+  <li><a href="epsg/3445/index.html">EPSG:3445</a>: NAD83(HARN) / New Hampshire (ftUS)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3446/index.html">EPSG:3446</a>: NAD83(HARN) / Rhode Island (ftUS)</li>
+
+  <li><a href="epsg/3447/index.html">EPSG:3447</a>: ETRS89 / Belgian Lambert 2005</li>
+
+  <li><a href="epsg/3448/index.html">EPSG:3448</a>: JAD2001 / Jamaica Metric Grid</li>
+
+  <li><a href="epsg/3449/index.html">EPSG:3449</a>: JAD2001 / UTM zone 17N</li>
+
+  <li><a href="epsg/3450/index.html">EPSG:3450</a>: JAD2001 / UTM zone 18N</li>
+
+  <li><a href="epsg/3451/index.html">EPSG:3451</a>: NAD83 / Louisiana North (ftUS)</li>
+
+  <li><a href="epsg/3452/index.html">EPSG:3452</a>: NAD83 / Louisiana South (ftUS)</li>
+
+  <li><a href="epsg/3453/index.html">EPSG:3453</a>: NAD83 / Louisiana Offshore (ftUS)</li>
+
+  <li><a href="epsg/3454/index.html">EPSG:3454</a>: NAD83 / South Dakota North (ftUS)</li>
+
+  <li><a href="epsg/3455/index.html">EPSG:3455</a>: NAD83 / South Dakota South (ftUS)</li>
+
+  <li><a href="epsg/3456/index.html">EPSG:3456</a>: NAD83(HARN) / Louisiana North (ftUS)</li>
+
+  <li><a href="epsg/3457/index.html">EPSG:3457</a>: NAD83(HARN) / Louisiana South (ftUS)</li>
+
+  <li><a href="epsg/3458/index.html">EPSG:3458</a>: NAD83(HARN) / South Dakota North (ftUS)</li>
+
+  <li><a href="epsg/3459/index.html">EPSG:3459</a>: NAD83(HARN) / South Dakota South (ftUS)</li>
+
+  <li><a href="epsg/3460/index.html">EPSG:3460</a>: Fiji 1986 / Fiji Map Grid</li>
+
+  <li><a href="epsg/3461/index.html">EPSG:3461</a>: Dabola 1981 / UTM zone 28N</li>
+
+  <li><a href="epsg/3462/index.html">EPSG:3462</a>: Dabola 1981 / UTM zone 29N</li>
+
+  <li><a href="epsg/3463/index.html">EPSG:3463</a>: NAD83 / Maine CS2000 Central</li>
+
+  <li><a href="epsg/3464/index.html">EPSG:3464</a>: NAD83(HARN) / Maine CS2000 Central</li>
+
+  <li><a href="epsg/3465/index.html">EPSG:3465</a>: NAD83(NSRS2007) / Alabama East</li>
+
+  <li><a href="epsg/3466/index.html">EPSG:3466</a>: NAD83(NSRS2007) / Alabama West</li>
+
+  <li><a href="epsg/3467/index.html">EPSG:3467</a>: NAD83(NSRS2007) / Alaska Albers</li>
+
+  <li><a href="epsg/3468/index.html">EPSG:3468</a>: NAD83(NSRS2007) / Alaska zone 1</li>
+
+  <li><a href="epsg/3469/index.html">EPSG:3469</a>: NAD83(NSRS2007) / Alaska zone 2</li>
+
+  <li><a href="epsg/3470/index.html">EPSG:3470</a>: NAD83(NSRS2007) / Alaska zone 3</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=30">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=32">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

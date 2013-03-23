@@ -1,0 +1,4 @@
+from mapnik import Map, Layer
+proj4 = '+proj=tmerc +lat_0=0 +lon_0=57 +k=1 +x_0=10500000 +y_0=0 +ellps=krass +towgs84=23.9,-141.3,-80.9,0,-0.37,-0.85,-0.12 +units=m +no_defs'
+m = Map(256,256,proj4)
+lyr = Layer('Name',proj4)

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=24">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=26">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3121/index.html">EPSG:3121</a>: PRS92 / Philippines zone 1</li>
+
+  <li><a href="epsg/3122/index.html">EPSG:3122</a>: PRS92 / Philippines zone 2</li>
+
+  <li><a href="epsg/3123/index.html">EPSG:3123</a>: PRS92 / Philippines zone 3</li>
+
+  <li><a href="epsg/3124/index.html">EPSG:3124</a>: PRS92 / Philippines zone 4</li>
+
+  <li><a href="epsg/3125/index.html">EPSG:3125</a>: PRS92 / Philippines zone 5</li>
+
+  <li><a href="epsg/3126/index.html">EPSG:3126</a>: ETRS89 / ETRS-GK19FIN</li>
+
+  <li><a href="epsg/3127/index.html">EPSG:3127</a>: ETRS89 / ETRS-GK20FIN</li>
+
+  <li><a href="epsg/3128/index.html">EPSG:3128</a>: ETRS89 / ETRS-GK21FIN</li>
+
+  <li><a href="epsg/3129/index.html">EPSG:3129</a>: ETRS89 / ETRS-GK22FIN</li>
+
+  <li><a href="epsg/3130/index.html">EPSG:3130</a>: ETRS89 / ETRS-GK23FIN</li>
+
+  <li><a href="epsg/3131/index.html">EPSG:3131</a>: ETRS89 / ETRS-GK24FIN</li>
+
+  <li><a href="epsg/3132/index.html">EPSG:3132</a>: ETRS89 / ETRS-GK25FIN</li>
+
+  <li><a href="epsg/3133/index.html">EPSG:3133</a>: ETRS89 / ETRS-GK26FIN</li>
+
+  <li><a href="epsg/3134/index.html">EPSG:3134</a>: ETRS89 / ETRS-GK27FIN</li>
+
+  <li><a href="epsg/3135/index.html">EPSG:3135</a>: ETRS89 / ETRS-GK28FIN</li>
+
+  <li><a href="epsg/3136/index.html">EPSG:3136</a>: ETRS89 / ETRS-GK29FIN</li>
+
+  <li><a href="epsg/3137/index.html">EPSG:3137</a>: ETRS89 / ETRS-GK30FIN</li>
+
+  <li><a href="epsg/3138/index.html">EPSG:3138</a>: ETRS89 / ETRS-GK31FIN</li>
+
+  <li><a href="epsg/3139/index.html">EPSG:3139</a>: Vanua Levu 1915 / Vanua Levu Grid</li>
+
+  <li><a href="epsg/3140/index.html">EPSG:3140</a>: Viti Levu 1912 / Viti Levu Grid</li>
+
+  <li><a href="epsg/3141/index.html">EPSG:3141</a>: Fiji 1956 / UTM zone 60S</li>
+
+  <li><a href="epsg/3142/index.html">EPSG:3142</a>: Fiji 1956 / UTM zone 1S</li>
+
+  <li><a href="epsg/3143/index.html">EPSG:3143</a>: Fiji 1986 / Fiji Map Grid</li>
+
+  <li><a href="epsg/3144/index.html">EPSG:3144</a>: FD54 / Faroe Lambert</li>
+
+  <li><a href="epsg/3145/index.html">EPSG:3145</a>: ETRS89 / Faroe Lambert</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3146/index.html">EPSG:3146</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 6</li>
+
+  <li><a href="epsg/3147/index.html">EPSG:3147</a>: Pulkovo 1942 / 3-degree Gauss-Kruger CM 18E</li>
+
+  <li><a href="epsg/3148/index.html">EPSG:3148</a>: Indian 1960 / UTM zone 48N</li>
+
+  <li><a href="epsg/3149/index.html">EPSG:3149</a>: Indian 1960 / UTM zone 49N</li>
+
+  <li><a href="epsg/3150/index.html">EPSG:3150</a>: Pulkovo 1995 / 3-degree Gauss-Kruger zone 6</li>
+
+  <li><a href="epsg/3151/index.html">EPSG:3151</a>: Pulkovo 1995 / 3-degree Gauss-Kruger CM 18E</li>
+
+  <li><a href="epsg/3152/index.html">EPSG:3152</a>: ST74</li>
+
+  <li><a href="epsg/3153/index.html">EPSG:3153</a>: NAD83(CSRS) / BC Albers</li>
+
+  <li><a href="epsg/3154/index.html">EPSG:3154</a>: NAD83(CSRS) / UTM zone 7N</li>
+
+  <li><a href="epsg/3155/index.html">EPSG:3155</a>: NAD83(CSRS) / UTM zone 8N</li>
+
+  <li><a href="epsg/3156/index.html">EPSG:3156</a>: NAD83(CSRS) / UTM zone 9N</li>
+
+  <li><a href="epsg/3157/index.html">EPSG:3157</a>: NAD83(CSRS) / UTM zone 10N</li>
+
+  <li><a href="epsg/3158/index.html">EPSG:3158</a>: NAD83(CSRS) / UTM zone 14N</li>
+
+  <li><a href="epsg/3159/index.html">EPSG:3159</a>: NAD83(CSRS) / UTM zone 15N</li>
+
+  <li><a href="epsg/3160/index.html">EPSG:3160</a>: NAD83(CSRS) / UTM zone 16N</li>
+
+  <li><a href="epsg/3161/index.html">EPSG:3161</a>: NAD83 / Ontario MNR Lambert</li>
+
+  <li><a href="epsg/3162/index.html">EPSG:3162</a>: NAD83(CSRS) / Ontario MNR Lambert</li>
+
+  <li><a href="epsg/3163/index.html">EPSG:3163</a>: RGNC91-93 / Lambert New Caledonia</li>
+
+  <li><a href="epsg/3164/index.html">EPSG:3164</a>: ST87 Ouvea / UTM zone 58S</li>
+
+  <li><a href="epsg/3165/index.html">EPSG:3165</a>: NEA74 Noumea / Noumea Lambert</li>
+
+  <li><a href="epsg/3166/index.html">EPSG:3166</a>: NEA74 Noumea / Noumea Lambert 2</li>
+
+  <li><a href="epsg/3167/index.html">EPSG:3167</a>: Kertau (RSO) / RSO Malaya (ch)</li>
+
+  <li><a href="epsg/3168/index.html">EPSG:3168</a>: Kertau (RSO) / RSO Malaya (m)</li>
+
+  <li><a href="epsg/3169/index.html">EPSG:3169</a>: RGNC91-93 / UTM zone 57S</li>
+
+  <li><a href="epsg/3170/index.html">EPSG:3170</a>: RGNC91-93 / UTM zone 58S</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=24">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=26">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=12">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=14">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2520/index.html">EPSG:2520</a>: Pulkovo 1942 / Gauss-Kruger CM 177E</li>
+
+  <li><a href="epsg/2521/index.html">EPSG:2521</a>: Pulkovo 1942 / Gauss-Kruger CM 177W</li>
+
+  <li><a href="epsg/2522/index.html">EPSG:2522</a>: Pulkovo 1942 / Gauss-Kruger CM 171W</li>
+
+  <li><a href="epsg/2523/index.html">EPSG:2523</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 7</li>
+
+  <li><a href="epsg/2524/index.html">EPSG:2524</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 8</li>
+
+  <li><a href="epsg/2525/index.html">EPSG:2525</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 9</li>
+
+  <li><a href="epsg/2526/index.html">EPSG:2526</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 10</li>
+
+  <li><a href="epsg/2527/index.html">EPSG:2527</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 11</li>
+
+  <li><a href="epsg/2528/index.html">EPSG:2528</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 12</li>
+
+  <li><a href="epsg/2529/index.html">EPSG:2529</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 13</li>
+
+  <li><a href="epsg/2530/index.html">EPSG:2530</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 14</li>
+
+  <li><a href="epsg/2531/index.html">EPSG:2531</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 15</li>
+
+  <li><a href="epsg/2532/index.html">EPSG:2532</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 16</li>
+
+  <li><a href="epsg/2533/index.html">EPSG:2533</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 17</li>
+
+  <li><a href="epsg/2534/index.html">EPSG:2534</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 18</li>
+
+  <li><a href="epsg/2535/index.html">EPSG:2535</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 19</li>
+
+  <li><a href="epsg/2536/index.html">EPSG:2536</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 20</li>
+
+  <li><a href="epsg/2537/index.html">EPSG:2537</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 21</li>
+
+  <li><a href="epsg/2538/index.html">EPSG:2538</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 22</li>
+
+  <li><a href="epsg/2539/index.html">EPSG:2539</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 23</li>
+
+  <li><a href="epsg/2540/index.html">EPSG:2540</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 24</li>
+
+  <li><a href="epsg/2541/index.html">EPSG:2541</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 25</li>
+
+  <li><a href="epsg/2542/index.html">EPSG:2542</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 26</li>
+
+  <li><a href="epsg/2543/index.html">EPSG:2543</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 27</li>
+
+  <li><a href="epsg/2544/index.html">EPSG:2544</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 28</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2545/index.html">EPSG:2545</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 29</li>
+
+  <li><a href="epsg/2546/index.html">EPSG:2546</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 30</li>
+
+  <li><a href="epsg/2547/index.html">EPSG:2547</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 31</li>
+
+  <li><a href="epsg/2548/index.html">EPSG:2548</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 32</li>
+
+  <li><a href="epsg/2549/index.html">EPSG:2549</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 33</li>
+
+  <li><a href="epsg/2550/index.html">EPSG:2550</a>: Samboja / UTM zone 50S</li>
+
+  <li><a href="epsg/2551/index.html">EPSG:2551</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 34</li>
+
+  <li><a href="epsg/2552/index.html">EPSG:2552</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 35</li>
+
+  <li><a href="epsg/2553/index.html">EPSG:2553</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 36</li>
+
+  <li><a href="epsg/2554/index.html">EPSG:2554</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 37</li>
+
+  <li><a href="epsg/2555/index.html">EPSG:2555</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 38</li>
+
+  <li><a href="epsg/2556/index.html">EPSG:2556</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 39</li>
+
+  <li><a href="epsg/2557/index.html">EPSG:2557</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 40</li>
+
+  <li><a href="epsg/2558/index.html">EPSG:2558</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 41</li>
+
+  <li><a href="epsg/2559/index.html">EPSG:2559</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 42</li>
+
+  <li><a href="epsg/2560/index.html">EPSG:2560</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 43</li>
+
+  <li><a href="epsg/2561/index.html">EPSG:2561</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 44</li>
+
+  <li><a href="epsg/2562/index.html">EPSG:2562</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 45</li>
+
+  <li><a href="epsg/2563/index.html">EPSG:2563</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 46</li>
+
+  <li><a href="epsg/2564/index.html">EPSG:2564</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 47</li>
+
+  <li><a href="epsg/2565/index.html">EPSG:2565</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 48</li>
+
+  <li><a href="epsg/2566/index.html">EPSG:2566</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 49</li>
+
+  <li><a href="epsg/2567/index.html">EPSG:2567</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 50</li>
+
+  <li><a href="epsg/2568/index.html">EPSG:2568</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 51</li>
+
+  <li><a href="epsg/2569/index.html">EPSG:2569</a>: Pulkovo 1942 / 3-degree Gauss-Kruger zone 52</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=12">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=14">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

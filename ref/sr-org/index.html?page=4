@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="../index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="../upload/index.html">Upload Your Own</a> | 
+            <a href="index.html">List user-contributed references</a> | 
+            <a href="../index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=3">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=5">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="6655/index.html">SR-ORG:6655</a>: satish</li>
+
+  <li><a href="6656/index.html">SR-ORG:6656</a>: kranthi</li>
+
+  <li><a href="6657/index.html">SR-ORG:6657</a>: Permian Base</li>
+
+  <li><a href="6658/index.html">SR-ORG:6658</a>: TestLocalSystem</li>
+
+  <li><a href="6659/index.html">SR-ORG:6659</a>: TestLocalSystem</li>
+
+  <li><a href="6660/index.html">SR-ORG:6660</a>: test1</li>
+
+  <li><a href="6661/index.html">SR-ORG:6661</a>: Darwin Glacier Lambert Conformal 2000</li>
+
+  <li><a href="6662/index.html">SR-ORG:6662</a>: Chua - UTM 23S</li>
+
+  <li><a href="6663/index.html">SR-ORG:6663</a>: Chua Astro- UTM 23S (Before 2000)</li>
+
+  <li><a href="6664/index.html">SR-ORG:6664</a>: Chua Astro - UTM 23S (After 2000)</li>
+
+  <li><a href="6665/index.html">SR-ORG:6665</a>: Lambert N CR</li>
+
+  <li><a href="6666/index.html">SR-ORG:6666</a>: NAD 1983 HARN Wisconsin CRS Dodge (US feet)</li>
+
+  <li><a href="6667/index.html">SR-ORG:6667</a>: test</li>
+
+  <li><a href="6668/index.html">SR-ORG:6668</a>: Kerb Line Sample</li>
+
+  <li><a href="6669/index.html">SR-ORG:6669</a>: testy</li>
+
+  <li><a href="6670/index.html">SR-ORG:6670</a>: Albers Conical Equal Area</li>
+
+  <li><a href="6671/index.html">SR-ORG:6671</a>: 27591</li>
+
+  <li><a href="6672/index.html">SR-ORG:6672</a>: PPPARISNORD</li>
+
+  <li><a href="6673/index.html">SR-ORG:6673</a>: PPNIMES</li>
+
+  <li><a href="6674/index.html">SR-ORG:6674</a>: DodgeCountyWi</li>
+
+  <li><a href="6675/index.html">SR-ORG:6675</a>: ESRI:103412:  Wisconsin Dane County Coordinate System - US Feet</li>
+
+  <li><a href="6676/index.html">SR-ORG:6676</a>: NAD83 / Southwestern US Lambert Conformal Conic 2SP NAD83 (m)</li>
+
+  <li><a href="6677/index.html">SR-ORG:6677</a>: Idaho Tranverse Mercator</li>
+
+  <li><a href="6678/index.html">SR-ORG:6678</a>: State Plane Texas North (FIPS 4201), NAD83</li>
+
+  <li><a href="6679/index.html">SR-ORG:6679</a>: NAD 1983 HARN Wisconsin CRS Burnett (US feet)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="6680/index.html">SR-ORG:6680</a>: ccos</li>
+
+  <li><a href="6681/index.html">SR-ORG:6681</a>: newmm5</li>
+
+  <li><a href="6682/index.html">SR-ORG:6682</a>: k3bg-wrong-test1</li>
+
+  <li><a href="6683/index.html">SR-ORG:6683</a>: test222</li>
+
+  <li><a href="6684/index.html">SR-ORG:6684</a>: sri lanka</li>
+
+  <li><a href="6685/index.html">SR-ORG:6685</a>: test</li>
+
+  <li><a href="6686/index.html">SR-ORG:6686</a>: NAD83_Ohio_South_FIPS_3402_Feet</li>
+
+  <li><a href="6687/index.html">SR-ORG:6687</a>: SIRGAS 2000 / Polyconic</li>
+
+  <li><a href="6688/index.html">SR-ORG:6688</a>: Krovak</li>
+
+  <li><a href="6689/index.html">SR-ORG:6689</a>: Ecuador_2009</li>
+
+  <li><a href="6690/index.html">SR-ORG:6690</a>: seretis travel</li>
+
+  <li><a href="6691/index.html">SR-ORG:6691</a>: BGS70k5</li>
+
+  <li><a href="6692/index.html">SR-ORG:6692</a>: gg</li>
+
+  <li><a href="6693/index.html">SR-ORG:6693</a>: canada</li>
+
+  <li><a href="6694/index.html">SR-ORG:6694</a>: canada</li>
+
+  <li><a href="6695/index.html">SR-ORG:6695</a>: 298558</li>
+
+  <li><a href="6696/index.html">SR-ORG:6696</a>: Landeskoordinaten Steiermark</li>
+
+  <li><a href="6697/index.html">SR-ORG:6697</a>: Selangor</li>
+
+  <li><a href="6698/index.html">SR-ORG:6698</a>: Selangor2</li>
+
+  <li><a href="6699/index.html">SR-ORG:6699</a>: WRL</li>
+
+  <li><a href="6700/index.html">SR-ORG:6700</a>: Mexico INEGI Lambert Conformal Conic</li>
+
+  <li><a href="6701/index.html">SR-ORG:6701</a>: My Israel</li>
+
+  <li><a href="6702/index.html">SR-ORG:6702</a>: myprj</li>
+
+  <li><a href="6703/index.html">SR-ORG:6703</a>: USA_Contiguous_Albers_Equal_Area_Conic_USGS_version</li>
+
+  <li><a href="6704/index.html">SR-ORG:6704</a>: Test</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=3">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=5">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

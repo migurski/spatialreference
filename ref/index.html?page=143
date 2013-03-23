@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=142">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=144">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/70963/index.html">IAU2000:70963</a>: Cressida Stereographic AUTO</li>
+
+  <li><a href="iau2000/70964/index.html">IAU2000:70964</a>: Cressida Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/70965/index.html">IAU2000:70965</a>: Cressida Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/70966/index.html">IAU2000:70966</a>: Cressida Orthographic AUTO</li>
+
+  <li><a href="iau2000/70967/index.html">IAU2000:70967</a>: Cressida Orthographic AUTO</li>
+
+  <li><a href="iau2000/70968/index.html">IAU2000:70968</a>: Cressida Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/70969/index.html">IAU2000:70969</a>: Cressida Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/70970/index.html">IAU2000:70970</a>: Cressida Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/70971/index.html">IAU2000:70971</a>: Cressida Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/70972/index.html">IAU2000:70972</a>: Cressida Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/70973/index.html">IAU2000:70973</a>: Cressida Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/70974/index.html">IAU2000:70974</a>: Cressida Mercator AUTO</li>
+
+  <li><a href="iau2000/70975/index.html">IAU2000:70975</a>: Cressida Mercator AUTO</li>
+
+  <li><a href="iau2000/70976/index.html">IAU2000:70976</a>: Cressida Albers AUTO</li>
+
+  <li><a href="iau2000/70977/index.html">IAU2000:70977</a>: Cressida Albers AUTO</li>
+
+  <li><a href="iau2000/70978/index.html">IAU2000:70978</a>: Cressida Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/70979/index.html">IAU2000:70979</a>: Cressida Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71000/index.html">IAU2000:71000</a>: Desdemona 2000</li>
+
+  <li><a href="iau2000/71001/index.html">IAU2000:71001</a>: Desdemona 2000</li>
+
+  <li><a href="iau2000/71010/index.html">IAU2000:71010</a>: Desdemona Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71011/index.html">IAU2000:71011</a>: Desdemona Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71012/index.html">IAU2000:71012</a>: Desdemona Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71013/index.html">IAU2000:71013</a>: Desdemona Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71014/index.html">IAU2000:71014</a>: Desdemona Sinusoidal</li>
+
+  <li><a href="iau2000/71015/index.html">IAU2000:71015</a>: Desdemona Sinusoidal</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/71016/index.html">IAU2000:71016</a>: Desdemona Sinusoidal</li>
+
+  <li><a href="iau2000/71017/index.html">IAU2000:71017</a>: Desdemona Sinusoidal</li>
+
+  <li><a href="iau2000/71018/index.html">IAU2000:71018</a>: Desdemona North Pole Stereographic</li>
+
+  <li><a href="iau2000/71019/index.html">IAU2000:71019</a>: Desdemona North Pole Stereographic</li>
+
+  <li><a href="iau2000/71020/index.html">IAU2000:71020</a>: Desdemona South Pole Stereographic</li>
+
+  <li><a href="iau2000/71021/index.html">IAU2000:71021</a>: Desdemona South Pole Stereographic</li>
+
+  <li><a href="iau2000/71060/index.html">IAU2000:71060</a>: Desdemona Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71061/index.html">IAU2000:71061</a>: Desdemona Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71062/index.html">IAU2000:71062</a>: Desdemona Stereographic AUTO</li>
+
+  <li><a href="iau2000/71063/index.html">IAU2000:71063</a>: Desdemona Stereographic AUTO</li>
+
+  <li><a href="iau2000/71064/index.html">IAU2000:71064</a>: Desdemona Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71065/index.html">IAU2000:71065</a>: Desdemona Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71066/index.html">IAU2000:71066</a>: Desdemona Orthographic AUTO</li>
+
+  <li><a href="iau2000/71067/index.html">IAU2000:71067</a>: Desdemona Orthographic AUTO</li>
+
+  <li><a href="iau2000/71068/index.html">IAU2000:71068</a>: Desdemona Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71069/index.html">IAU2000:71069</a>: Desdemona Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71070/index.html">IAU2000:71070</a>: Desdemona Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71071/index.html">IAU2000:71071</a>: Desdemona Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71072/index.html">IAU2000:71072</a>: Desdemona Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71073/index.html">IAU2000:71073</a>: Desdemona Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71074/index.html">IAU2000:71074</a>: Desdemona Mercator AUTO</li>
+
+  <li><a href="iau2000/71075/index.html">IAU2000:71075</a>: Desdemona Mercator AUTO</li>
+
+  <li><a href="iau2000/71076/index.html">IAU2000:71076</a>: Desdemona Albers AUTO</li>
+
+  <li><a href="iau2000/71077/index.html">IAU2000:71077</a>: Desdemona Albers AUTO</li>
+
+  <li><a href="iau2000/71078/index.html">IAU2000:71078</a>: Desdemona Oblique Cylindrical Equal Area AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=142">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=144">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

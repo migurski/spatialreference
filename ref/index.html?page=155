@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=154">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=156">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/99913/index.html">IAU2000:99913</a>: Pluto Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/99914/index.html">IAU2000:99914</a>: Pluto Sinusoidal</li>
+
+  <li><a href="iau2000/99915/index.html">IAU2000:99915</a>: Pluto Sinusoidal</li>
+
+  <li><a href="iau2000/99916/index.html">IAU2000:99916</a>: Pluto Sinusoidal</li>
+
+  <li><a href="iau2000/99917/index.html">IAU2000:99917</a>: Pluto Sinusoidal</li>
+
+  <li><a href="iau2000/99918/index.html">IAU2000:99918</a>: Pluto North Pole Stereographic</li>
+
+  <li><a href="iau2000/99919/index.html">IAU2000:99919</a>: Pluto North Pole Stereographic</li>
+
+  <li><a href="iau2000/99920/index.html">IAU2000:99920</a>: Pluto South Pole Stereographic</li>
+
+  <li><a href="iau2000/99921/index.html">IAU2000:99921</a>: Pluto South Pole Stereographic</li>
+
+  <li><a href="iau2000/99960/index.html">IAU2000:99960</a>: Pluto Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/99961/index.html">IAU2000:99961</a>: Pluto Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/99962/index.html">IAU2000:99962</a>: Pluto Stereographic AUTO</li>
+
+  <li><a href="iau2000/99963/index.html">IAU2000:99963</a>: Pluto Stereographic AUTO</li>
+
+  <li><a href="iau2000/99964/index.html">IAU2000:99964</a>: Pluto Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/99965/index.html">IAU2000:99965</a>: Pluto Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/99966/index.html">IAU2000:99966</a>: Pluto Orthographic AUTO</li>
+
+  <li><a href="iau2000/99967/index.html">IAU2000:99967</a>: Pluto Orthographic AUTO</li>
+
+  <li><a href="iau2000/99968/index.html">IAU2000:99968</a>: Pluto Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/99969/index.html">IAU2000:99969</a>: Pluto Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/99970/index.html">IAU2000:99970</a>: Pluto Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/99971/index.html">IAU2000:99971</a>: Pluto Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/99972/index.html">IAU2000:99972</a>: Pluto Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/99973/index.html">IAU2000:99973</a>: Pluto Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/99974/index.html">IAU2000:99974</a>: Pluto Mercator AUTO</li>
+
+  <li><a href="iau2000/99975/index.html">IAU2000:99975</a>: Pluto Mercator AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/99976/index.html">IAU2000:99976</a>: Pluto Albers AUTO</li>
+
+  <li><a href="iau2000/99977/index.html">IAU2000:99977</a>: Pluto Albers AUTO</li>
+
+  <li><a href="iau2000/99978/index.html">IAU2000:99978</a>: Pluto Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/99979/index.html">IAU2000:99979</a>: Pluto Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="esri/102001/index.html">ESRI:102001</a>: Canada Albers Equal Area Conic</li>
+
+  <li><a href="esri/102002/index.html">ESRI:102002</a>: Canada Lambert Conformal Conic</li>
+
+  <li><a href="esri/102003/index.html">ESRI:102003</a>: USA Contiguous Albers Equal Area Conic</li>
+
+  <li><a href="esri/102004/index.html">ESRI:102004</a>: USA Contiguous Lambert Conformal Conic</li>
+
+  <li><a href="esri/102005/index.html">ESRI:102005</a>: USA Contiguous Equidistant Conic</li>
+
+  <li><a href="esri/102006/index.html">ESRI:102006</a>: Alaska Albers Equal Area Conic</li>
+
+  <li><a href="esri/102007/index.html">ESRI:102007</a>: Hawaii Albers Equal Area Conic</li>
+
+  <li><a href="esri/102008/index.html">ESRI:102008</a>: North America Albers Equal Area Conic</li>
+
+  <li><a href="esri/102009/index.html">ESRI:102009</a>: North America Lambert Conformal Conic</li>
+
+  <li><a href="esri/102010/index.html">ESRI:102010</a>: North America Equidistant Conic</li>
+
+  <li><a href="esri/102011/index.html">ESRI:102011</a>: Africa Sinusoidal</li>
+
+  <li><a href="esri/102012/index.html">ESRI:102012</a>: Asia Lambert Conformal Conic</li>
+
+  <li><a href="esri/102013/index.html">ESRI:102013</a>: Europe Albers Equal Area Conic</li>
+
+  <li><a href="esri/102014/index.html">ESRI:102014</a>: Europe Lambert Conformal Conic</li>
+
+  <li><a href="esri/102015/index.html">ESRI:102015</a>: South America Lambert Conformal Conic</li>
+
+  <li><a href="esri/102016/index.html">ESRI:102016</a>: North Pole Azimuthal Equidistant</li>
+
+  <li><a href="esri/102017/index.html">ESRI:102017</a>: North Pole Lambert Azimuthal Equal Area</li>
+
+  <li><a href="esri/102018/index.html">ESRI:102018</a>: North Pole Stereographic</li>
+
+  <li><a href="esri/102019/index.html">ESRI:102019</a>: South Pole Azimuthal Equidistant</li>
+
+  <li><a href="esri/102020/index.html">ESRI:102020</a>: South Pole Lambert Azimuthal Equal Area</li>
+
+  <li><a href="esri/102021/index.html">ESRI:102021</a>: South Pole Stereographic</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=154">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=156">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

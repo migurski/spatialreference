@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=69">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=71">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7376/index.html">SR-ORG:7376</a>: SAD69 / UTM zone 25S</li>
+
+  <li><a href="sr-org/7377/index.html">SR-ORG:7377</a>: SAD69 / UTM zone 20N</li>
+
+  <li><a href="sr-org/7378/index.html">SR-ORG:7378</a>: SAD69 / UTM zone 21N</li>
+
+  <li><a href="sr-org/7379/index.html">SR-ORG:7379</a>: SAD69 / UTM zone 22N</li>
+
+  <li><a href="sr-org/7380/index.html">SR-ORG:7380</a>: test colombia</li>
+
+  <li><a href="sr-org/7381/index.html">SR-ORG:7381</a>: Bologna</li>
+
+  <li><a href="sr-org/7382/index.html">SR-ORG:7382</a>: Bologn2</li>
+
+  <li><a href="sr-org/7383/index.html">SR-ORG:7383</a>: Jonkoping Lokala</li>
+
+  <li><a href="sr-org/7384/index.html">SR-ORG:7384</a>: annatest</li>
+
+  <li><a href="sr-org/7385/index.html">SR-ORG:7385</a>: MK GK 7</li>
+
+  <li><a href="sr-org/7386/index.html">SR-ORG:7386</a>: ED50 / UTMA (RER)</li>
+
+  <li><a href="sr-org/7387/index.html">SR-ORG:7387</a>: ED50 / UTMA (RER)</li>
+
+  <li><a href="sr-org/7388/index.html">SR-ORG:7388</a>: nutm50</li>
+
+  <li><a href="sr-org/7389/index.html">SR-ORG:7389</a>: Test</li>
+
+  <li><a href="sr-org/7390/index.html">SR-ORG:7390</a>: Brazil / Albers Equal Area Conic (WGS84)</li>
+
+  <li><a href="sr-org/7391/index.html">SR-ORG:7391</a>: Cabo Verde National Grid</li>
+
+  <li><a href="sr-org/7392/index.html">SR-ORG:7392</a>: KosovaRef01</li>
+
+  <li><a href="sr-org/7393/index.html">SR-ORG:7393</a>: MAGNA_Colombia_Cali</li>
+
+  <li><a href="sr-org/7394/index.html">SR-ORG:7394</a>: PCS_CALI_SAN_ANTONIO</li>
+
+  <li><a href="sr-org/7395/index.html">SR-ORG:7395</a>: PCS_CALI_SAN_ANTONIO</li>
+
+  <li><a href="sr-org/7396/index.html">SR-ORG:7396</a>: NAD_1983_HARN_Transverse_Mercator2</li>
+
+  <li><a href="sr-org/7397/index.html">SR-ORG:7397</a>: Lambert</li>
+
+  <li><a href="sr-org/7398/index.html">SR-ORG:7398</a>: INEGI CCL</li>
+
+  <li><a href="sr-org/7399/index.html">SR-ORG:7399</a>: molweide</li>
+
+  <li><a href="epsg/7400/index.html">EPSG:7400</a>: NTF (Paris) + NGF IGN69 height</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7400/index.html">SR-ORG:7400</a>: PCG94</li>
+
+  <li><a href="sr-org/7401/index.html">SR-ORG:7401</a>: Japanese Census</li>
+
+  <li><a href="epsg/7401/index.html">EPSG:7401</a>: NTF (Paris) / France II + NGF Lallemand</li>
+
+  <li><a href="sr-org/7402/index.html">SR-ORG:7402</a>: Prova</li>
+
+  <li><a href="epsg/7402/index.html">EPSG:7402</a>: NTF (Paris) / France II + NGF IGN69</li>
+
+  <li><a href="epsg/7403/index.html">EPSG:7403</a>: NTF (Paris) / France III + NGF IGN69</li>
+
+  <li><a href="sr-org/7403/index.html">SR-ORG:7403</a>: test</li>
+
+  <li><a href="sr-org/7404/index.html">SR-ORG:7404</a>: Borowa Góra</li>
+
+  <li><a href="epsg/7404/index.html">EPSG:7404</a>: RT90 + RH70 height</li>
+
+  <li><a href="sr-org/7405/index.html">SR-ORG:7405</a>: CopyTest</li>
+
+  <li><a href="epsg/7405/index.html">EPSG:7405</a>: OSGB36 / British National Grid + ODN height</li>
+
+  <li><a href="sr-org/7406/index.html">SR-ORG:7406</a>: NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</li>
+
+  <li><a href="epsg/7406/index.html">EPSG:7406</a>: NAD27 + NGVD29 height</li>
+
+  <li><a href="epsg/7407/index.html">EPSG:7407</a>: NAD27 / Texas North + NGVD29 height</li>
+
+  <li><a href="sr-org/7407/index.html">SR-ORG:7407</a>: Martinique WGS 84 / UTM zone 20N</li>
+
+  <li><a href="sr-org/7408/index.html">SR-ORG:7408</a>: China Geodetic Coordinate System 2000</li>
+
+  <li><a href="epsg/7408/index.html">EPSG:7408</a>: RD/NAP</li>
+
+  <li><a href="sr-org/7409/index.html">SR-ORG:7409</a>: 27217</li>
+
+  <li><a href="epsg/7409/index.html">EPSG:7409</a>: ETRS89 + EVRF2000 height</li>
+
+  <li><a href="epsg/7410/index.html">EPSG:7410</a>: PSHD93</li>
+
+  <li><a href="sr-org/7410/index.html">SR-ORG:7410</a>: (ESRI:102160) Datum 73 Hayford Gauss IgeoE</li>
+
+  <li><a href="epsg/7411/index.html">EPSG:7411</a>: NTF (Paris) / Lambert zone II + NGF Lallemand height</li>
+
+  <li><a href="sr-org/7411/index.html">SR-ORG:7411</a>: LAMBERT WGS84, GERMANY</li>
+
+  <li><a href="epsg/7412/index.html">EPSG:7412</a>: NTF (Paris) / Lambert zone II + NGF IGN69</li>
+
+  <li><a href="sr-org/7412/index.html">SR-ORG:7412</a>: EPSG::5109</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=69">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=71">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

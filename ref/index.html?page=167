@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=166">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=168">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/66246405/index.html">EPSG:66246405</a>: RGFG95 (deg)</li>
+
+  <li><a href="epsg/66246413/index.html">EPSG:66246413</a>: RGFG95 (3D deg)</li>
+
+  <li><a href="epsg/66256405/index.html">EPSG:66256405</a>: Fort Desaix (deg)</li>
+
+  <li><a href="epsg/66266405/index.html">EPSG:66266405</a>: Piton des Neiges (deg)</li>
+
+  <li><a href="epsg/66276405/index.html">EPSG:66276405</a>: RGR92 (deg)</li>
+
+  <li><a href="epsg/66276413/index.html">EPSG:66276413</a>: RGR92 (3D deg)</li>
+
+  <li><a href="epsg/66286405/index.html">EPSG:66286405</a>: Tahiti (deg)</li>
+
+  <li><a href="epsg/66296405/index.html">EPSG:66296405</a>: Tahaa (deg)</li>
+
+  <li><a href="epsg/66306405/index.html">EPSG:66306405</a>: IGN72 Nuku Hiva (deg)</li>
+
+  <li><a href="epsg/66316405/index.html">EPSG:66316405</a>: K0 1949 (deg)</li>
+
+  <li><a href="epsg/66326405/index.html">EPSG:66326405</a>: Combani 1950 (deg)</li>
+
+  <li><a href="epsg/66336405/index.html">EPSG:66336405</a>: IGN56 Lifou (deg)</li>
+
+  <li><a href="epsg/66346405/index.html">EPSG:66346405</a>: IGN72 Grande Terre (deg)</li>
+
+  <li><a href="epsg/66356405/index.html">EPSG:66356405</a>: ST87 Ouvea (deg)</li>
+
+  <li><a href="epsg/66366405/index.html">EPSG:66366405</a>: Petrels 1972 (deg)</li>
+
+  <li><a href="epsg/66376405/index.html">EPSG:66376405</a>: Perroud 1950 (deg)</li>
+
+  <li><a href="epsg/66386405/index.html">EPSG:66386405</a>: Saint Pierre et Miquelon 1950 (deg)</li>
+
+  <li><a href="epsg/66396405/index.html">EPSG:66396405</a>: MOP78 (deg)</li>
+
+  <li><a href="epsg/66406405/index.html">EPSG:66406405</a>: RRAF 1991 (deg)</li>
+
+  <li><a href="epsg/66406413/index.html">EPSG:66406413</a>: RRAF 1991 (3D deg)</li>
+
+  <li><a href="epsg/66416405/index.html">EPSG:66416405</a>: IGN53 Mare (deg)</li>
+
+  <li><a href="epsg/66426405/index.html">EPSG:66426405</a>: ST84 Ile des Pins (deg)</li>
+
+  <li><a href="epsg/66436405/index.html">EPSG:66436405</a>: ST71 Belep (deg)</li>
+
+  <li><a href="epsg/66446405/index.html">EPSG:66446405</a>: NEA74 Noumea (deg)</li>
+
+  <li><a href="epsg/66456405/index.html">EPSG:66456405</a>: RGNC 1991 (deg)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/66456413/index.html">EPSG:66456413</a>: RGNC 1991 (3D deg)</li>
+
+  <li><a href="epsg/66466405/index.html">EPSG:66466405</a>: Grand Comoros (deg)</li>
+
+  <li><a href="epsg/66576405/index.html">EPSG:66576405</a>: Reykjavik 1900 (deg)</li>
+
+  <li><a href="epsg/66586405/index.html">EPSG:66586405</a>: Hjorsey 1955 (deg)</li>
+
+  <li><a href="epsg/66596405/index.html">EPSG:66596405</a>: ISN93 (deg)</li>
+
+  <li><a href="epsg/66596413/index.html">EPSG:66596413</a>: ISN93 (3D deg)</li>
+
+  <li><a href="epsg/66606405/index.html">EPSG:66606405</a>: Helle 1954 (deg)</li>
+
+  <li><a href="epsg/66616405/index.html">EPSG:66616405</a>: LKS92 (deg)</li>
+
+  <li><a href="epsg/66616413/index.html">EPSG:66616413</a>: LKS92 (3D deg)</li>
+
+  <li><a href="epsg/66636405/index.html">EPSG:66636405</a>: Porto Santo 1995 (deg)</li>
+
+  <li><a href="epsg/66646405/index.html">EPSG:66646405</a>: Azores Oriental 1995 (deg)</li>
+
+  <li><a href="epsg/66656405/index.html">EPSG:66656405</a>: Azores Central 1995 (deg)</li>
+
+  <li><a href="epsg/66666405/index.html">EPSG:66666405</a>: Lisbon 1890 (deg)</li>
+
+  <li><a href="epsg/66676405/index.html">EPSG:66676405</a>: IKBD-92 (deg)</li>
+
+  <li><a href="epsg/68016405/index.html">EPSG:68016405</a>: Bern 1898 (Bern) (deg)</li>
+
+  <li><a href="epsg/68026405/index.html">EPSG:68026405</a>: Bogota 1975 (Bogota) (deg)</li>
+
+  <li><a href="epsg/68036405/index.html">EPSG:68036405</a>: Lisbon (Lisbon) (deg)</li>
+
+  <li><a href="epsg/68046405/index.html">EPSG:68046405</a>: Makassar (Jakarta) (deg)</li>
+
+  <li><a href="epsg/68056405/index.html">EPSG:68056405</a>: MGI (Ferro) (deg)</li>
+
+  <li><a href="epsg/68066405/index.html">EPSG:68066405</a>: Monte Mario (Rome) (deg)</li>
+
+  <li><a href="epsg/68086405/index.html">EPSG:68086405</a>: Padang (Jakarta) (deg)</li>
+
+  <li><a href="epsg/68096405/index.html">EPSG:68096405</a>: Belge 1950 (Brussels) (deg)</li>
+
+  <li><a href="epsg/68136405/index.html">EPSG:68136405</a>: Batavia (Jakarta) (deg)</li>
+
+  <li><a href="epsg/68146405/index.html">EPSG:68146405</a>: RT38 (Stockholm) (deg)</li>
+
+  <li><a href="epsg/68156405/index.html">EPSG:68156405</a>: Greek (Athens) (deg)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=166">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=168">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

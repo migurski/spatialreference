@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=116">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=118">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/50879/index.html">IAU2000:50879</a>: Pasiphae Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/50900/index.html">IAU2000:50900</a>: Sinope 2000</li>
+
+  <li><a href="iau2000/50901/index.html">IAU2000:50901</a>: Sinope 2000</li>
+
+  <li><a href="iau2000/50910/index.html">IAU2000:50910</a>: Sinope Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/50911/index.html">IAU2000:50911</a>: Sinope Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/50912/index.html">IAU2000:50912</a>: Sinope Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/50913/index.html">IAU2000:50913</a>: Sinope Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/50914/index.html">IAU2000:50914</a>: Sinope Sinusoidal</li>
+
+  <li><a href="iau2000/50915/index.html">IAU2000:50915</a>: Sinope Sinusoidal</li>
+
+  <li><a href="iau2000/50916/index.html">IAU2000:50916</a>: Sinope Sinusoidal</li>
+
+  <li><a href="iau2000/50917/index.html">IAU2000:50917</a>: Sinope Sinusoidal</li>
+
+  <li><a href="iau2000/50918/index.html">IAU2000:50918</a>: Sinope North Pole Stereographic</li>
+
+  <li><a href="iau2000/50919/index.html">IAU2000:50919</a>: Sinope North Pole Stereographic</li>
+
+  <li><a href="iau2000/50920/index.html">IAU2000:50920</a>: Sinope South Pole Stereographic</li>
+
+  <li><a href="iau2000/50921/index.html">IAU2000:50921</a>: Sinope South Pole Stereographic</li>
+
+  <li><a href="iau2000/50960/index.html">IAU2000:50960</a>: Sinope Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/50961/index.html">IAU2000:50961</a>: Sinope Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/50962/index.html">IAU2000:50962</a>: Sinope Stereographic AUTO</li>
+
+  <li><a href="iau2000/50963/index.html">IAU2000:50963</a>: Sinope Stereographic AUTO</li>
+
+  <li><a href="iau2000/50964/index.html">IAU2000:50964</a>: Sinope Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/50965/index.html">IAU2000:50965</a>: Sinope Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/50966/index.html">IAU2000:50966</a>: Sinope Orthographic AUTO</li>
+
+  <li><a href="iau2000/50967/index.html">IAU2000:50967</a>: Sinope Orthographic AUTO</li>
+
+  <li><a href="iau2000/50968/index.html">IAU2000:50968</a>: Sinope Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/50969/index.html">IAU2000:50969</a>: Sinope Equidistant Cylindrical AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/50970/index.html">IAU2000:50970</a>: Sinope Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/50971/index.html">IAU2000:50971</a>: Sinope Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/50972/index.html">IAU2000:50972</a>: Sinope Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/50973/index.html">IAU2000:50973</a>: Sinope Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/50974/index.html">IAU2000:50974</a>: Sinope Mercator AUTO</li>
+
+  <li><a href="iau2000/50975/index.html">IAU2000:50975</a>: Sinope Mercator AUTO</li>
+
+  <li><a href="iau2000/50976/index.html">IAU2000:50976</a>: Sinope Albers AUTO</li>
+
+  <li><a href="iau2000/50977/index.html">IAU2000:50977</a>: Sinope Albers AUTO</li>
+
+  <li><a href="iau2000/50978/index.html">IAU2000:50978</a>: Sinope Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/50979/index.html">IAU2000:50979</a>: Sinope Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51000/index.html">IAU2000:51000</a>: Lysithea 2000</li>
+
+  <li><a href="iau2000/51001/index.html">IAU2000:51001</a>: Lysithea 2000</li>
+
+  <li><a href="iau2000/51010/index.html">IAU2000:51010</a>: Lysithea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51011/index.html">IAU2000:51011</a>: Lysithea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51012/index.html">IAU2000:51012</a>: Lysithea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51013/index.html">IAU2000:51013</a>: Lysithea Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51014/index.html">IAU2000:51014</a>: Lysithea Sinusoidal</li>
+
+  <li><a href="iau2000/51015/index.html">IAU2000:51015</a>: Lysithea Sinusoidal</li>
+
+  <li><a href="iau2000/51016/index.html">IAU2000:51016</a>: Lysithea Sinusoidal</li>
+
+  <li><a href="iau2000/51017/index.html">IAU2000:51017</a>: Lysithea Sinusoidal</li>
+
+  <li><a href="iau2000/51018/index.html">IAU2000:51018</a>: Lysithea North Pole Stereographic</li>
+
+  <li><a href="iau2000/51019/index.html">IAU2000:51019</a>: Lysithea North Pole Stereographic</li>
+
+  <li><a href="iau2000/51020/index.html">IAU2000:51020</a>: Lysithea South Pole Stereographic</li>
+
+  <li><a href="iau2000/51021/index.html">IAU2000:51021</a>: Lysithea South Pole Stereographic</li>
+
+  <li><a href="iau2000/51060/index.html">IAU2000:51060</a>: Lysithea Sinusoidal AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=116">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=118">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

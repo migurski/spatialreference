@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=48">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=50">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4748/index.html">EPSG:4748</a>: Vanua Levu 1915</li>
+
+  <li><a href="epsg/4749/index.html">EPSG:4749</a>: RGNC91-93</li>
+
+  <li><a href="epsg/4750/index.html">EPSG:4750</a>: ST87 Ouvea</li>
+
+  <li><a href="epsg/4751/index.html">EPSG:4751</a>: Kertau (RSO)</li>
+
+  <li><a href="epsg/4752/index.html">EPSG:4752</a>: Viti Levu 1912</li>
+
+  <li><a href="epsg/4753/index.html">EPSG:4753</a>: fk89</li>
+
+  <li><a href="epsg/4754/index.html">EPSG:4754</a>: LGD2006</li>
+
+  <li><a href="epsg/4755/index.html">EPSG:4755</a>: DGN95</li>
+
+  <li><a href="epsg/4756/index.html">EPSG:4756</a>: VN-2000</li>
+
+  <li><a href="epsg/4757/index.html">EPSG:4757</a>: SVY21</li>
+
+  <li><a href="epsg/4758/index.html">EPSG:4758</a>: JAD2001</li>
+
+  <li><a href="epsg/4759/index.html">EPSG:4759</a>: NAD83(NSRS2007)</li>
+
+  <li><a href="epsg/4760/index.html">EPSG:4760</a>: WGS 66</li>
+
+  <li><a href="epsg/4761/index.html">EPSG:4761</a>: HTRS96</li>
+
+  <li><a href="epsg/4762/index.html">EPSG:4762</a>: BDA2000</li>
+
+  <li><a href="epsg/4763/index.html">EPSG:4763</a>: Pitcairn 2006</li>
+
+  <li><a href="epsg/4764/index.html">EPSG:4764</a>: RSRGD2000</li>
+
+  <li><a href="epsg/4765/index.html">EPSG:4765</a>: Slovenia 1996</li>
+
+  <li><a href="epsg/4801/index.html">EPSG:4801</a>: Bern 1898 (Bern)</li>
+
+  <li><a href="epsg/4802/index.html">EPSG:4802</a>: Bogota 1975 (Bogota)</li>
+
+  <li><a href="epsg/4803/index.html">EPSG:4803</a>: Lisbon (Lisbon)</li>
+
+  <li><a href="epsg/4804/index.html">EPSG:4804</a>: Makassar (Jakarta)</li>
+
+  <li><a href="epsg/4805/index.html">EPSG:4805</a>: MGI (Ferro)</li>
+
+  <li><a href="epsg/4806/index.html">EPSG:4806</a>: Monte Mario (Rome)</li>
+
+  <li><a href="epsg/4807/index.html">EPSG:4807</a>: NTF (Paris)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4808/index.html">EPSG:4808</a>: Padang (Jakarta)</li>
+
+  <li><a href="epsg/4809/index.html">EPSG:4809</a>: Belge 1950 (Brussels)</li>
+
+  <li><a href="epsg/4810/index.html">EPSG:4810</a>: Tananarive (Paris)</li>
+
+  <li><a href="epsg/4811/index.html">EPSG:4811</a>: Voirol 1875 (Paris)</li>
+
+  <li><a href="epsg/4813/index.html">EPSG:4813</a>: Batavia (Jakarta)</li>
+
+  <li><a href="epsg/4814/index.html">EPSG:4814</a>: RT38 (Stockholm)</li>
+
+  <li><a href="epsg/4815/index.html">EPSG:4815</a>: Greek (Athens)</li>
+
+  <li><a href="epsg/4816/index.html">EPSG:4816</a>: Carthage (Paris)</li>
+
+  <li><a href="epsg/4817/index.html">EPSG:4817</a>: NGO 1948 (Oslo)</li>
+
+  <li><a href="epsg/4818/index.html">EPSG:4818</a>: S-JTSK (Ferro)</li>
+
+  <li><a href="epsg/4819/index.html">EPSG:4819</a>: Nord Sahara 1959 (Paris)</li>
+
+  <li><a href="epsg/4820/index.html">EPSG:4820</a>: Segara (Jakarta)</li>
+
+  <li><a href="epsg/4821/index.html">EPSG:4821</a>: Voirol 1879 (Paris)</li>
+
+  <li><a href="epsg/4882/index.html">EPSG:4882</a>: Slovenia 1996</li>
+
+  <li><a href="epsg/4883/index.html">EPSG:4883</a>: Slovenia 1996</li>
+
+  <li><a href="epsg/4884/index.html">EPSG:4884</a>: RSRGD2000</li>
+
+  <li><a href="epsg/4885/index.html">EPSG:4885</a>: RSRGD2000</li>
+
+  <li><a href="epsg/4886/index.html">EPSG:4886</a>: BDA2000</li>
+
+  <li><a href="epsg/4887/index.html">EPSG:4887</a>: BDA2000</li>
+
+  <li><a href="epsg/4888/index.html">EPSG:4888</a>: HTRS96</li>
+
+  <li><a href="epsg/4889/index.html">EPSG:4889</a>: HTRS96</li>
+
+  <li><a href="epsg/4890/index.html">EPSG:4890</a>: WGS 66</li>
+
+  <li><a href="epsg/4891/index.html">EPSG:4891</a>: WGS 66</li>
+
+  <li><a href="epsg/4892/index.html">EPSG:4892</a>: NAD83(NSRS2007)</li>
+
+  <li><a href="epsg/4893/index.html">EPSG:4893</a>: NAD83(NSRS2007)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=48">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=50">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

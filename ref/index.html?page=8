@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=7">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=9">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2269/index.html">EPSG:2269</a>: NAD83 / Oregon North (ft)</li>
+
+  <li><a href="epsg/2270/index.html">EPSG:2270</a>: NAD83 / Oregon South (ft)</li>
+
+  <li><a href="epsg/2271/index.html">EPSG:2271</a>: NAD83 / Pennsylvania North (ftUS)</li>
+
+  <li><a href="epsg/2272/index.html">EPSG:2272</a>: NAD83 / Pennsylvania South (ftUS)</li>
+
+  <li><a href="epsg/2273/index.html">EPSG:2273</a>: NAD83 / South Carolina (ft)</li>
+
+  <li><a href="epsg/2274/index.html">EPSG:2274</a>: NAD83 / Tennessee (ftUS)</li>
+
+  <li><a href="epsg/2275/index.html">EPSG:2275</a>: NAD83 / Texas North (ftUS)</li>
+
+  <li><a href="epsg/2276/index.html">EPSG:2276</a>: NAD83 / Texas North Central (ftUS)</li>
+
+  <li><a href="epsg/2277/index.html">EPSG:2277</a>: NAD83 / Texas Central (ftUS)</li>
+
+  <li><a href="epsg/2278/index.html">EPSG:2278</a>: NAD83 / Texas South Central (ftUS)</li>
+
+  <li><a href="epsg/2279/index.html">EPSG:2279</a>: NAD83 / Texas South (ftUS)</li>
+
+  <li><a href="epsg/2280/index.html">EPSG:2280</a>: NAD83 / Utah North (ft)</li>
+
+  <li><a href="epsg/2281/index.html">EPSG:2281</a>: NAD83 / Utah Central (ft)</li>
+
+  <li><a href="epsg/2282/index.html">EPSG:2282</a>: NAD83 / Utah South (ft)</li>
+
+  <li><a href="epsg/2283/index.html">EPSG:2283</a>: NAD83 / Virginia North (ftUS)</li>
+
+  <li><a href="epsg/2284/index.html">EPSG:2284</a>: NAD83 / Virginia South (ftUS)</li>
+
+  <li><a href="epsg/2285/index.html">EPSG:2285</a>: NAD83 / Washington North (ftUS)</li>
+
+  <li><a href="epsg/2286/index.html">EPSG:2286</a>: NAD83 / Washington South (ftUS)</li>
+
+  <li><a href="epsg/2287/index.html">EPSG:2287</a>: NAD83 / Wisconsin North (ftUS)</li>
+
+  <li><a href="epsg/2288/index.html">EPSG:2288</a>: NAD83 / Wisconsin Central (ftUS)</li>
+
+  <li><a href="epsg/2289/index.html">EPSG:2289</a>: NAD83 / Wisconsin South (ftUS)</li>
+
+  <li><a href="epsg/2290/index.html">EPSG:2290</a>: ATS77 / Prince Edward Isl. Stereographic (ATS77)</li>
+
+  <li><a href="epsg/2291/index.html">EPSG:2291</a>: NAD83(CSRS98) / Prince Edward Isl. Stereographic (NAD83)</li>
+
+  <li><a href="epsg/2292/index.html">EPSG:2292</a>: NAD83(CSRS98) / Prince Edward Isl. Stereographic (NAD83)</li>
+
+  <li><a href="epsg/2294/index.html">EPSG:2294</a>: ATS77 / MTM Nova Scotia zone 4</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2295/index.html">EPSG:2295</a>: ATS77 / MTM Nova Scotia zone 5</li>
+
+  <li><a href="epsg/2296/index.html">EPSG:2296</a>: Ammassalik 1958 / Greenland zone 7 east</li>
+
+  <li><a href="epsg/2297/index.html">EPSG:2297</a>: Qornoq 1927 / Greenland zone 1 east</li>
+
+  <li><a href="epsg/2298/index.html">EPSG:2298</a>: Qornoq 1927 / Greenland zone 2 east</li>
+
+  <li><a href="epsg/2299/index.html">EPSG:2299</a>: Qornoq 1927 / Greenland zone 2 west</li>
+
+  <li><a href="epsg/2300/index.html">EPSG:2300</a>: Qornoq 1927 / Greenland zone 3 east</li>
+
+  <li><a href="epsg/2301/index.html">EPSG:2301</a>: Qornoq 1927 / Greenland zone 3 west</li>
+
+  <li><a href="epsg/2302/index.html">EPSG:2302</a>: Qornoq 1927 / Greenland zone 4 east</li>
+
+  <li><a href="epsg/2303/index.html">EPSG:2303</a>: Qornoq 1927 / Greenland zone 4 west</li>
+
+  <li><a href="epsg/2304/index.html">EPSG:2304</a>: Qornoq 1927 / Greenland zone 5 west</li>
+
+  <li><a href="epsg/2305/index.html">EPSG:2305</a>: Qornoq 1927 / Greenland zone 6 west</li>
+
+  <li><a href="epsg/2306/index.html">EPSG:2306</a>: Qornoq 1927 / Greenland zone 7 west</li>
+
+  <li><a href="epsg/2307/index.html">EPSG:2307</a>: Qornoq 1927 / Greenland zone 8 east</li>
+
+  <li><a href="epsg/2308/index.html">EPSG:2308</a>: Batavia / TM 109 SE</li>
+
+  <li><a href="epsg/2309/index.html">EPSG:2309</a>: WGS 84 / TM 116 SE</li>
+
+  <li><a href="epsg/2310/index.html">EPSG:2310</a>: WGS 84 / TM 132 SE</li>
+
+  <li><a href="epsg/2311/index.html">EPSG:2311</a>: WGS 84 / TM 6 NE</li>
+
+  <li><a href="epsg/2312/index.html">EPSG:2312</a>: Garoua / UTM zone 33N</li>
+
+  <li><a href="epsg/2313/index.html">EPSG:2313</a>: Kousseri / UTM zone 33N</li>
+
+  <li><a href="epsg/2314/index.html">EPSG:2314</a>: Trinidad 1903 / Trinidad Grid (ftCla)</li>
+
+  <li><a href="epsg/2315/index.html">EPSG:2315</a>: Campo Inchauspe / UTM zone 19S</li>
+
+  <li><a href="epsg/2316/index.html">EPSG:2316</a>: Campo Inchauspe / UTM zone 20S</li>
+
+  <li><a href="epsg/2317/index.html">EPSG:2317</a>: PSAD56 / ICN Regional</li>
+
+  <li><a href="epsg/2318/index.html">EPSG:2318</a>: Ain el Abd / Aramco Lambert</li>
+
+  <li><a href="epsg/2319/index.html">EPSG:2319</a>: ED50 / TM27</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=7">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=9">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=2">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=4">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2012/index.html">EPSG:2012</a>: NAD27(CGQ77) / SCoPQ zone 6</li>
+
+  <li><a href="epsg/2013/index.html">EPSG:2013</a>: NAD27(CGQ77) / SCoPQ zone 7</li>
+
+  <li><a href="epsg/2014/index.html">EPSG:2014</a>: NAD27(CGQ77) / SCoPQ zone 8</li>
+
+  <li><a href="epsg/2015/index.html">EPSG:2015</a>: NAD27(CGQ77) / SCoPQ zone 9</li>
+
+  <li><a href="epsg/2016/index.html">EPSG:2016</a>: NAD27(CGQ77) / SCoPQ zone 10</li>
+
+  <li><a href="epsg/2017/index.html">EPSG:2017</a>: NAD27(76) / MTM zone 8</li>
+
+  <li><a href="epsg/2018/index.html">EPSG:2018</a>: NAD27(76) / MTM zone 9</li>
+
+  <li><a href="epsg/2019/index.html">EPSG:2019</a>: NAD27(76) / MTM zone 10</li>
+
+  <li><a href="epsg/2020/index.html">EPSG:2020</a>: NAD27(76) / MTM zone 11</li>
+
+  <li><a href="epsg/2021/index.html">EPSG:2021</a>: NAD27(76) / MTM zone 12</li>
+
+  <li><a href="epsg/2022/index.html">EPSG:2022</a>: NAD27(76) / MTM zone 13</li>
+
+  <li><a href="epsg/2023/index.html">EPSG:2023</a>: NAD27(76) / MTM zone 14</li>
+
+  <li><a href="epsg/2024/index.html">EPSG:2024</a>: NAD27(76) / MTM zone 15</li>
+
+  <li><a href="epsg/2025/index.html">EPSG:2025</a>: NAD27(76) / MTM zone 16</li>
+
+  <li><a href="epsg/2026/index.html">EPSG:2026</a>: NAD27(76) / MTM zone 17</li>
+
+  <li><a href="epsg/2027/index.html">EPSG:2027</a>: NAD27(76) / UTM zone 15N</li>
+
+  <li><a href="epsg/2028/index.html">EPSG:2028</a>: NAD27(76) / UTM zone 16N</li>
+
+  <li><a href="epsg/2029/index.html">EPSG:2029</a>: NAD27(76) / UTM zone 17N</li>
+
+  <li><a href="epsg/2030/index.html">EPSG:2030</a>: NAD27(76) / UTM zone 18N</li>
+
+  <li><a href="epsg/2031/index.html">EPSG:2031</a>: NAD27(CGQ77) / UTM zone 17N</li>
+
+  <li><a href="epsg/2032/index.html">EPSG:2032</a>: NAD27(CGQ77) / UTM zone 18N</li>
+
+  <li><a href="epsg/2033/index.html">EPSG:2033</a>: NAD27(CGQ77) / UTM zone 19N</li>
+
+  <li><a href="epsg/2034/index.html">EPSG:2034</a>: NAD27(CGQ77) / UTM zone 20N</li>
+
+  <li><a href="epsg/2035/index.html">EPSG:2035</a>: NAD27(CGQ77) / UTM zone 21N</li>
+
+  <li><a href="epsg/2036/index.html">EPSG:2036</a>: NAD83(CSRS98) / New Brunswick Stereo</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2037/index.html">EPSG:2037</a>: NAD83(CSRS98) / UTM zone 19N</li>
+
+  <li><a href="epsg/2038/index.html">EPSG:2038</a>: NAD83(CSRS98) / UTM zone 20N</li>
+
+  <li><a href="epsg/2039/index.html">EPSG:2039</a>: Israel / Israeli TM Grid</li>
+
+  <li><a href="epsg/2040/index.html">EPSG:2040</a>: Locodjo 1965 / UTM zone 30N</li>
+
+  <li><a href="epsg/2041/index.html">EPSG:2041</a>: Abidjan 1987 / UTM zone 30N</li>
+
+  <li><a href="epsg/2042/index.html">EPSG:2042</a>: Locodjo 1965 / UTM zone 29N</li>
+
+  <li><a href="epsg/2043/index.html">EPSG:2043</a>: Abidjan 1987 / UTM zone 29N</li>
+
+  <li><a href="epsg/2044/index.html">EPSG:2044</a>: Hanoi 1972 / Gauss-Kruger zone 18</li>
+
+  <li><a href="epsg/2045/index.html">EPSG:2045</a>: Hanoi 1972 / Gauss-Kruger zone 19</li>
+
+  <li><a href="epsg/2046/index.html">EPSG:2046</a>: Hartebeesthoek94 / Lo15</li>
+
+  <li><a href="epsg/2047/index.html">EPSG:2047</a>: Hartebeesthoek94 / Lo17</li>
+
+  <li><a href="epsg/2048/index.html">EPSG:2048</a>: Hartebeesthoek94 / Lo19</li>
+
+  <li><a href="epsg/2049/index.html">EPSG:2049</a>: Hartebeesthoek94 / Lo21</li>
+
+  <li><a href="epsg/2050/index.html">EPSG:2050</a>: Hartebeesthoek94 / Lo23</li>
+
+  <li><a href="epsg/2051/index.html">EPSG:2051</a>: Hartebeesthoek94 / Lo25</li>
+
+  <li><a href="epsg/2052/index.html">EPSG:2052</a>: Hartebeesthoek94 / Lo27</li>
+
+  <li><a href="epsg/2053/index.html">EPSG:2053</a>: Hartebeesthoek94 / Lo29</li>
+
+  <li><a href="epsg/2054/index.html">EPSG:2054</a>: Hartebeesthoek94 / Lo31</li>
+
+  <li><a href="epsg/2055/index.html">EPSG:2055</a>: Hartebeesthoek94 / Lo33</li>
+
+  <li><a href="epsg/2056/index.html">EPSG:2056</a>: CH1903+ / LV95</li>
+
+  <li><a href="epsg/2057/index.html">EPSG:2057</a>: Rassadiran / Nakhl e Taqi</li>
+
+  <li><a href="epsg/2058/index.html">EPSG:2058</a>: ED50(ED77) / UTM zone 38N</li>
+
+  <li><a href="epsg/2059/index.html">EPSG:2059</a>: ED50(ED77) / UTM zone 39N</li>
+
+  <li><a href="epsg/2060/index.html">EPSG:2060</a>: ED50(ED77) / UTM zone 40N</li>
+
+  <li><a href="epsg/2061/index.html">EPSG:2061</a>: ED50(ED77) / UTM zone 41N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=2">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=4">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

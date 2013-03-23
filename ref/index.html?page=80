@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=79">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=81">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/21818/index.html">EPSG:21818</a>: Bogota 1975 / UTM zone 18N</li>
+
+  <li><a href="epsg/21891/index.html">EPSG:21891</a>: Bogota 1975 / Colombia West zone</li>
+
+  <li><a href="epsg/21892/index.html">EPSG:21892</a>: Bogota 1975 / Colombia Bogota zone</li>
+
+  <li><a href="epsg/21893/index.html">EPSG:21893</a>: Bogota 1975 / Colombia East Central zone</li>
+
+  <li><a href="epsg/21894/index.html">EPSG:21894</a>: Bogota 1975 / Colombia East</li>
+
+  <li><a href="epsg/21896/index.html">EPSG:21896</a>: Bogota 1975 / Colombia West zone</li>
+
+  <li><a href="epsg/21897/index.html">EPSG:21897</a>: Bogota 1975 / Colombia Bogota zone</li>
+
+  <li><a href="epsg/21898/index.html">EPSG:21898</a>: Bogota 1975 / Colombia East Central zone</li>
+
+  <li><a href="epsg/21899/index.html">EPSG:21899</a>: Bogota 1975 / Colombia East</li>
+
+  <li><a href="epsg/22032/index.html">EPSG:22032</a>: Camacupa / UTM zone 32S</li>
+
+  <li><a href="epsg/22033/index.html">EPSG:22033</a>: Camacupa / UTM zone 33S</li>
+
+  <li><a href="epsg/22091/index.html">EPSG:22091</a>: Camacupa / TM 11.30 SE</li>
+
+  <li><a href="epsg/22092/index.html">EPSG:22092</a>: Camacupa / TM 12 SE</li>
+
+  <li><a href="epsg/22171/index.html">EPSG:22171</a>: POSGAR 98 / Argentina 1</li>
+
+  <li><a href="epsg/22172/index.html">EPSG:22172</a>: POSGAR 98 / Argentina 2</li>
+
+  <li><a href="epsg/22173/index.html">EPSG:22173</a>: POSGAR 98 / Argentina 3</li>
+
+  <li><a href="epsg/22174/index.html">EPSG:22174</a>: POSGAR 98 / Argentina 4</li>
+
+  <li><a href="epsg/22175/index.html">EPSG:22175</a>: POSGAR 98 / Argentina 5</li>
+
+  <li><a href="epsg/22176/index.html">EPSG:22176</a>: POSGAR 98 / Argentina 6</li>
+
+  <li><a href="epsg/22177/index.html">EPSG:22177</a>: POSGAR 98 / Argentina 7</li>
+
+  <li><a href="epsg/22181/index.html">EPSG:22181</a>: POSGAR 94 / Argentina 1</li>
+
+  <li><a href="epsg/22182/index.html">EPSG:22182</a>: POSGAR 94 / Argentina 2</li>
+
+  <li><a href="epsg/22183/index.html">EPSG:22183</a>: POSGAR 94 / Argentina 3</li>
+
+  <li><a href="epsg/22184/index.html">EPSG:22184</a>: POSGAR 94 / Argentina 4</li>
+
+  <li><a href="epsg/22185/index.html">EPSG:22185</a>: POSGAR 94 / Argentina 5</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/22186/index.html">EPSG:22186</a>: POSGAR 94 / Argentina 6</li>
+
+  <li><a href="epsg/22187/index.html">EPSG:22187</a>: POSGAR 94 / Argentina 7</li>
+
+  <li><a href="epsg/22191/index.html">EPSG:22191</a>: Campo Inchauspe / Argentina 1</li>
+
+  <li><a href="epsg/22192/index.html">EPSG:22192</a>: Campo Inchauspe / Argentina 2</li>
+
+  <li><a href="epsg/22193/index.html">EPSG:22193</a>: Campo Inchauspe / Argentina 3</li>
+
+  <li><a href="epsg/22194/index.html">EPSG:22194</a>: Campo Inchauspe / Argentina 4</li>
+
+  <li><a href="epsg/22195/index.html">EPSG:22195</a>: Campo Inchauspe / Argentina 5</li>
+
+  <li><a href="epsg/22196/index.html">EPSG:22196</a>: Campo Inchauspe / Argentina 6</li>
+
+  <li><a href="epsg/22197/index.html">EPSG:22197</a>: Campo Inchauspe / Argentina 7</li>
+
+  <li><a href="epsg/22234/index.html">EPSG:22234</a>: Cape / UTM zone 34S</li>
+
+  <li><a href="epsg/22235/index.html">EPSG:22235</a>: Cape / UTM zone 35S</li>
+
+  <li><a href="epsg/22236/index.html">EPSG:22236</a>: Cape / UTM zone 36S</li>
+
+  <li><a href="epsg/22275/index.html">EPSG:22275</a>: Cape / Lo15</li>
+
+  <li><a href="epsg/22277/index.html">EPSG:22277</a>: Cape / Lo17</li>
+
+  <li><a href="epsg/22279/index.html">EPSG:22279</a>: Cape / Lo19</li>
+
+  <li><a href="epsg/22281/index.html">EPSG:22281</a>: Cape / Lo21</li>
+
+  <li><a href="epsg/22283/index.html">EPSG:22283</a>: Cape / Lo23</li>
+
+  <li><a href="epsg/22285/index.html">EPSG:22285</a>: Cape / Lo25</li>
+
+  <li><a href="epsg/22287/index.html">EPSG:22287</a>: Cape / Lo27</li>
+
+  <li><a href="epsg/22289/index.html">EPSG:22289</a>: Cape / Lo29</li>
+
+  <li><a href="epsg/22291/index.html">EPSG:22291</a>: Cape / Lo31</li>
+
+  <li><a href="epsg/22293/index.html">EPSG:22293</a>: Cape / Lo33</li>
+
+  <li><a href="epsg/22300/index.html">EPSG:22300</a>: Carthage (Paris) / Tunisia Mining Grid</li>
+
+  <li><a href="epsg/22332/index.html">EPSG:22332</a>: Carthage / UTM zone 32N</li>
+
+  <li><a href="epsg/22391/index.html">EPSG:22391</a>: Carthage / Nord Tunisie</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=79">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=81">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

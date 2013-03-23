@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=22">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=24">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3021/index.html">EPSG:3021</a>: RT90 2.5 gon V</li>
+
+  <li><a href="epsg/3022/index.html">EPSG:3022</a>: RT90 0 gon</li>
+
+  <li><a href="epsg/3023/index.html">EPSG:3023</a>: RT90 2.5 gon O</li>
+
+  <li><a href="epsg/3024/index.html">EPSG:3024</a>: RT90 5 gon O</li>
+
+  <li><a href="epsg/3025/index.html">EPSG:3025</a>: RT38 7.5 gon V</li>
+
+  <li><a href="epsg/3026/index.html">EPSG:3026</a>: RT38 5 gon V</li>
+
+  <li><a href="epsg/3027/index.html">EPSG:3027</a>: RT38 2.5 gon V</li>
+
+  <li><a href="epsg/3028/index.html">EPSG:3028</a>: RT38 0 gon</li>
+
+  <li><a href="epsg/3029/index.html">EPSG:3029</a>: RT38 2.5 gon O</li>
+
+  <li><a href="epsg/3030/index.html">EPSG:3030</a>: RT38 5 gon O</li>
+
+  <li><a href="epsg/3031/index.html">EPSG:3031</a>: WGS 84 / Antarctic Polar Stereographic</li>
+
+  <li><a href="epsg/3032/index.html">EPSG:3032</a>: WGS 84 / Australian Antarctic Polar Stereographic</li>
+
+  <li><a href="epsg/3033/index.html">EPSG:3033</a>: WGS 84 / Australian Antarctic Lambert</li>
+
+  <li><a href="epsg/3034/index.html">EPSG:3034</a>: ETRS89 / ETRS-LCC</li>
+
+  <li><a href="epsg/3035/index.html">EPSG:3035</a>: ETRS89 / ETRS-LAEA</li>
+
+  <li><a href="epsg/3036/index.html">EPSG:3036</a>: Moznet / UTM zone 36S</li>
+
+  <li><a href="epsg/3037/index.html">EPSG:3037</a>: Moznet / UTM zone 37S</li>
+
+  <li><a href="epsg/3038/index.html">EPSG:3038</a>: ETRS89 / ETRS-TM26</li>
+
+  <li><a href="epsg/3039/index.html">EPSG:3039</a>: ETRS89 / ETRS-TM27</li>
+
+  <li><a href="epsg/3040/index.html">EPSG:3040</a>: ETRS89 / ETRS-TM28</li>
+
+  <li><a href="epsg/3041/index.html">EPSG:3041</a>: ETRS89 / ETRS-TM29</li>
+
+  <li><a href="epsg/3042/index.html">EPSG:3042</a>: ETRS89 / ETRS-TM30</li>
+
+  <li><a href="epsg/3043/index.html">EPSG:3043</a>: ETRS89 / ETRS-TM31</li>
+
+  <li><a href="epsg/3044/index.html">EPSG:3044</a>: ETRS89 / ETRS-TM32</li>
+
+  <li><a href="epsg/3045/index.html">EPSG:3045</a>: ETRS89 / ETRS-TM33</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3046/index.html">EPSG:3046</a>: ETRS89 / ETRS-TM34</li>
+
+  <li><a href="epsg/3047/index.html">EPSG:3047</a>: ETRS89 / ETRS-TM35</li>
+
+  <li><a href="epsg/3048/index.html">EPSG:3048</a>: ETRS89 / ETRS-TM36</li>
+
+  <li><a href="epsg/3049/index.html">EPSG:3049</a>: ETRS89 / ETRS-TM37</li>
+
+  <li><a href="epsg/3050/index.html">EPSG:3050</a>: ETRS89 / ETRS-TM38</li>
+
+  <li><a href="epsg/3051/index.html">EPSG:3051</a>: ETRS89 / ETRS-TM39</li>
+
+  <li><a href="epsg/3052/index.html">EPSG:3052</a>: Reykjavik 1900 / Lambert 1900</li>
+
+  <li><a href="epsg/3053/index.html">EPSG:3053</a>: Hjorsey 1955 / Lambert 1955</li>
+
+  <li><a href="epsg/3054/index.html">EPSG:3054</a>: Hjorsey 1955 / UTM zone 26N</li>
+
+  <li><a href="epsg/3055/index.html">EPSG:3055</a>: Hjorsey 1955 / UTM zone 27N</li>
+
+  <li><a href="epsg/3056/index.html">EPSG:3056</a>: Hjorsey 1955 / UTM zone 28N</li>
+
+  <li><a href="epsg/3057/index.html">EPSG:3057</a>: ISN93 / Lambert 1993</li>
+
+  <li><a href="epsg/3058/index.html">EPSG:3058</a>: Helle 1954 / Jan Mayen Grid</li>
+
+  <li><a href="epsg/3059/index.html">EPSG:3059</a>: LKS92 / Latvia TM</li>
+
+  <li><a href="epsg/3060/index.html">EPSG:3060</a>: IGN72 Grande Terre / UTM zone 58S</li>
+
+  <li><a href="epsg/3061/index.html">EPSG:3061</a>: Porto Santo 1995 / UTM zone 28N</li>
+
+  <li><a href="epsg/3062/index.html">EPSG:3062</a>: Azores Oriental 1995 / UTM zone 26N</li>
+
+  <li><a href="epsg/3063/index.html">EPSG:3063</a>: Azores Central 1995 / UTM zone 26N</li>
+
+  <li><a href="epsg/3064/index.html">EPSG:3064</a>: IGM95 / UTM zone 32N</li>
+
+  <li><a href="epsg/3065/index.html">EPSG:3065</a>: IGM95 / UTM zone 33N</li>
+
+  <li><a href="epsg/3066/index.html">EPSG:3066</a>: ED50 / Jordan TM</li>
+
+  <li><a href="epsg/3067/index.html">EPSG:3067</a>: ETRS89 / ETRS-TM35FIN</li>
+
+  <li><a href="epsg/3068/index.html">EPSG:3068</a>: DHDN / Soldner Berlin</li>
+
+  <li><a href="epsg/3069/index.html">EPSG:3069</a>: NAD27 / Wisconsin Transverse Mercator</li>
+
+  <li><a href="epsg/3070/index.html">EPSG:3070</a>: NAD83 / Wisconsin Transverse Mercator</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=22">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=24">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

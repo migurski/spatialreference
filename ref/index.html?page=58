@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=57">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=59">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/6776/index.html">SR-ORG:6776</a>: SOSMA</li>
+
+  <li><a href="sr-org/6777/index.html">SR-ORG:6777</a>: Hungary S-42/Hu  Pulkovo 1942 / Gauss-Kruger zone 3</li>
+
+  <li><a href="sr-org/6778/index.html">SR-ORG:6778</a>: Hungary S-42/Hu  Pulkovo 1942 / Gauss-Kruger zone 4</li>
+
+  <li><a href="sr-org/6779/index.html">SR-ORG:6779</a>: NAD_1983_HARN_Adj_MN_Blue_Earth_Feet</li>
+
+  <li><a href="sr-org/6780/index.html">SR-ORG:6780</a>: Serbia National Coordinate System</li>
+
+  <li><a href="sr-org/6781/index.html">SR-ORG:6781</a>: Amersfoort / RD New</li>
+
+  <li><a href="sr-org/6782/index.html">SR-ORG:6782</a>: viña</li>
+
+  <li><a href="sr-org/6783/index.html">SR-ORG:6783</a>: albania (right version)</li>
+
+  <li><a href="sr-org/6784/index.html">SR-ORG:6784</a>: GRS80 Korea TM East Belt</li>
+
+  <li><a href="sr-org/6785/index.html">SR-ORG:6785</a>: Local Lviv v1</li>
+
+  <li><a href="sr-org/6786/index.html">SR-ORG:6786</a>: Test</li>
+
+  <li><a href="sr-org/6787/index.html">SR-ORG:6787</a>: North American Datum 1983, UTM zone 10N NADV88</li>
+
+  <li><a href="sr-org/6788/index.html">SR-ORG:6788</a>: PA Albers</li>
+
+  <li><a href="sr-org/6789/index.html">SR-ORG:6789</a>: brooklyn</li>
+
+  <li><a href="sr-org/6790/index.html">SR-ORG:6790</a>: a test wtk</li>
+
+  <li><a href="sr-org/6791/index.html">SR-ORG:6791</a>: esri_wkt_austria</li>
+
+  <li><a href="sr-org/6792/index.html">SR-ORG:6792</a>: kertau 9001</li>
+
+  <li><a href="sr-org/6793/index.html">SR-ORG:6793</a>: test</li>
+
+  <li><a href="sr-org/6794/index.html">SR-ORG:6794</a>: Georgia Statewide Lambert Conformal Conic</li>
+
+  <li><a href="sr-org/6795/index.html">SR-ORG:6795</a>: Rice County MN</li>
+
+  <li><a href="sr-org/6796/index.html">SR-ORG:6796</a>: NAD27_LCC_2SP_EL SALVDOR</li>
+
+  <li><a href="sr-org/6797/index.html">SR-ORG:6797</a>: LP:8881</li>
+
+  <li><a href="sr-org/6798/index.html">SR-ORG:6798</a>: MN_Dakota_Lambert_Conformal_Conic</li>
+
+  <li><a href="sr-org/6799/index.html">SR-ORG:6799</a>: NAD_1983_HARN_Adj_MN_Dakota_Feet</li>
+
+  <li><a href="sr-org/6800/index.html">SR-ORG:6800</a>: MN_Dakota_Lambert_Conformal_ConicNew</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/6801/index.html">SR-ORG:6801</a>: Ramsey - county coordinates - english1</li>
+
+  <li><a href="sr-org/6802/index.html">SR-ORG:6802</a>: Ramsey - county coordinates - english2</li>
+
+  <li><a href="sr-org/6803/index.html">SR-ORG:6803</a>: test</li>
+
+  <li><a href="sr-org/6804/index.html">SR-ORG:6804</a>: test</li>
+
+  <li><a href="sr-org/6805/index.html">SR-ORG:6805</a>: NAD_1983_UTM_Zone_15N</li>
+
+  <li><a href="sr-org/6806/index.html">SR-ORG:6806</a>: NAD_1983_HARN_WISCRS_Price_County_Feet</li>
+
+  <li><a href="sr-org/6807/index.html">SR-ORG:6807</a>: Mexico_Conica_Confome _Lambert_Clarke_1866</li>
+
+  <li><a href="sr-org/6808/index.html">SR-ORG:6808</a>: test</li>
+
+  <li><a href="sr-org/6809/index.html">SR-ORG:6809</a>: NAD27_LCC_El_SALVADOR_CA</li>
+
+  <li><a href="sr-org/6810/index.html">SR-ORG:6810</a>: NAD27_LCC_EL_SALVADOR</li>
+
+  <li><a href="sr-org/6811/index.html">SR-ORG:6811</a>: NAD_1983_HARN_Adj_MN_Dakota_Feet2</li>
+
+  <li><a href="sr-org/6812/index.html">SR-ORG:6812</a>: BritishNatGrid</li>
+
+  <li><a href="sr-org/6813/index.html">SR-ORG:6813</a>: Agelos:Test</li>
+
+  <li><a href="sr-org/6814/index.html">SR-ORG:6814</a>: GRS80 Korea TM Jeju Belt </li>
+
+  <li><a href="sr-org/6815/index.html">SR-ORG:6815</a>: NAD27_LCC_2SP_El Salvador</li>
+
+  <li><a href="sr-org/6816/index.html">SR-ORG:6816</a>: Barron Co WI</li>
+
+  <li><a href="sr-org/6817/index.html">SR-ORG:6817</a>: VN2000</li>
+
+  <li><a href="sr-org/6818/index.html">SR-ORG:6818</a>: Albers Conical Equal Area (Brazil)</li>
+
+  <li><a href="sr-org/6819/index.html">SR-ORG:6819</a>: Albers Conical Equal Area (Brazil)</li>
+
+  <li><a href="sr-org/6820/index.html">SR-ORG:6820</a>: Albers Conical Equal Area (Brazil) Last Try</li>
+
+  <li><a href="sr-org/6821/index.html">SR-ORG:6821</a>: NAD_1983_StatePlane_Texas_Central_FIPS_4203_Feet</li>
+
+  <li><a href="sr-org/6822/index.html">SR-ORG:6822</a>: NAD_1983_HARN_Adj_WI_Ashland_Feet</li>
+
+  <li><a href="sr-org/6823/index.html">SR-ORG:6823</a>: NAD27_LCC_2SP_El Salvador</li>
+
+  <li><a href="sr-org/6824/index.html">SR-ORG:6824</a>: NAD_1983_HARN_WISCRS_Jackson_County_Feet</li>
+
+  <li><a href="sr-org/6825/index.html">SR-ORG:6825</a>: NDFD Lambert Conformal Conic</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=57">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=59">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

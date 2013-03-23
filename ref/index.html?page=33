@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=32">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=34">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3521/index.html">EPSG:3521</a>: NAD83(NSRS2007) / Georgia West (ftUS)</li>
+
+  <li><a href="epsg/3522/index.html">EPSG:3522</a>: NAD83(NSRS2007) / Idaho Central</li>
+
+  <li><a href="epsg/3523/index.html">EPSG:3523</a>: NAD83(NSRS2007) / Idaho Central (ftUS)</li>
+
+  <li><a href="epsg/3524/index.html">EPSG:3524</a>: NAD83(NSRS2007) / Idaho East</li>
+
+  <li><a href="epsg/3525/index.html">EPSG:3525</a>: NAD83(NSRS2007) / Idaho East (ftUS)</li>
+
+  <li><a href="epsg/3526/index.html">EPSG:3526</a>: NAD83(NSRS2007) / Idaho West</li>
+
+  <li><a href="epsg/3527/index.html">EPSG:3527</a>: NAD83(NSRS2007) / Idaho West (ftUS)</li>
+
+  <li><a href="epsg/3528/index.html">EPSG:3528</a>: NAD83(NSRS2007) / Illinois East</li>
+
+  <li><a href="epsg/3529/index.html">EPSG:3529</a>: NAD83(NSRS2007) / Illinois East (ftUS)</li>
+
+  <li><a href="epsg/3530/index.html">EPSG:3530</a>: NAD83(NSRS2007) / Illinois West</li>
+
+  <li><a href="epsg/3531/index.html">EPSG:3531</a>: NAD83(NSRS2007) / Illinois West (ftUS)</li>
+
+  <li><a href="epsg/3532/index.html">EPSG:3532</a>: NAD83(NSRS2007) / Indiana East</li>
+
+  <li><a href="epsg/3533/index.html">EPSG:3533</a>: NAD83(NSRS2007) / Indiana East (ftUS)</li>
+
+  <li><a href="epsg/3534/index.html">EPSG:3534</a>: NAD83(NSRS2007) / Indiana West</li>
+
+  <li><a href="epsg/3535/index.html">EPSG:3535</a>: NAD83(NSRS2007) / Indiana West (ftUS)</li>
+
+  <li><a href="epsg/3536/index.html">EPSG:3536</a>: NAD83(NSRS2007) / Iowa North</li>
+
+  <li><a href="epsg/3537/index.html">EPSG:3537</a>: NAD83(NSRS2007) / Iowa North (ft US)</li>
+
+  <li><a href="epsg/3538/index.html">EPSG:3538</a>: NAD83(NSRS2007) / Iowa South</li>
+
+  <li><a href="epsg/3539/index.html">EPSG:3539</a>: NAD83(NSRS2007) / Iowa South (ft US)</li>
+
+  <li><a href="epsg/3540/index.html">EPSG:3540</a>: NAD83(NSRS2007) / Kansas North</li>
+
+  <li><a href="epsg/3541/index.html">EPSG:3541</a>: NAD83(NSRS2007) / Kansas North (ft US)</li>
+
+  <li><a href="epsg/3542/index.html">EPSG:3542</a>: NAD83(NSRS2007) / Kansas South</li>
+
+  <li><a href="epsg/3543/index.html">EPSG:3543</a>: NAD83(NSRS2007) / Kansas South (ft US)</li>
+
+  <li><a href="epsg/3544/index.html">EPSG:3544</a>: NAD83(NSRS2007) / Kentucky North</li>
+
+  <li><a href="epsg/3545/index.html">EPSG:3545</a>: NAD83(NSRS2007) / Kentucky North (ftUS)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3546/index.html">EPSG:3546</a>: NAD83(NSRS2007) / Kentucky Single Zone</li>
+
+  <li><a href="epsg/3547/index.html">EPSG:3547</a>: NAD83(NSRS2007) / Kentucky Single Zone (ftUS)</li>
+
+  <li><a href="epsg/3548/index.html">EPSG:3548</a>: NAD83(NSRS2007) / Kentucky South</li>
+
+  <li><a href="epsg/3549/index.html">EPSG:3549</a>: NAD83(NSRS2007) / Kentucky South (ftUS)</li>
+
+  <li><a href="epsg/3550/index.html">EPSG:3550</a>: NAD83(NSRS2007) / Louisiana North</li>
+
+  <li><a href="epsg/3551/index.html">EPSG:3551</a>: NAD83(NSRS2007) / Louisiana North (ftUS)</li>
+
+  <li><a href="epsg/3552/index.html">EPSG:3552</a>: NAD83(NSRS2007) / Louisiana South</li>
+
+  <li><a href="epsg/3553/index.html">EPSG:3553</a>: NAD83(NSRS2007) / Louisiana South (ftUS)</li>
+
+  <li><a href="epsg/3554/index.html">EPSG:3554</a>: NAD83(NSRS2007) / Maine CS2000 Central</li>
+
+  <li><a href="epsg/3555/index.html">EPSG:3555</a>: NAD83(NSRS2007) / Maine CS2000 East</li>
+
+  <li><a href="epsg/3556/index.html">EPSG:3556</a>: NAD83(NSRS2007) / Maine CS2000 West</li>
+
+  <li><a href="epsg/3557/index.html">EPSG:3557</a>: NAD83(NSRS2007) / Maine East</li>
+
+  <li><a href="epsg/3558/index.html">EPSG:3558</a>: NAD83(NSRS2007) / Maine West</li>
+
+  <li><a href="epsg/3559/index.html">EPSG:3559</a>: NAD83(NSRS2007) / Maryland</li>
+
+  <li><a href="epsg/3560/index.html">EPSG:3560</a>: NAD83 / Utah North (ftUS)</li>
+
+  <li><a href="epsg/3561/index.html">EPSG:3561</a>: Old Hawaiian / Hawaii zone 1</li>
+
+  <li><a href="epsg/3562/index.html">EPSG:3562</a>: Old Hawaiian / Hawaii zone 2</li>
+
+  <li><a href="epsg/3563/index.html">EPSG:3563</a>: Old Hawaiian / Hawaii zone 3</li>
+
+  <li><a href="epsg/3564/index.html">EPSG:3564</a>: Old Hawaiian / Hawaii zone 4</li>
+
+  <li><a href="epsg/3565/index.html">EPSG:3565</a>: Old Hawaiian / Hawaii zone 5</li>
+
+  <li><a href="epsg/3566/index.html">EPSG:3566</a>: NAD83 / Utah Central (ftUS)</li>
+
+  <li><a href="epsg/3567/index.html">EPSG:3567</a>: NAD83 / Utah South (ftUS)</li>
+
+  <li><a href="epsg/3568/index.html">EPSG:3568</a>: NAD83(HARN) / Utah North (ftUS)</li>
+
+  <li><a href="epsg/3569/index.html">EPSG:3569</a>: NAD83(HARN) / Utah Central (ftUS)</li>
+
+  <li><a href="epsg/3570/index.html">EPSG:3570</a>: NAD83(HARN) / Utah South (ftUS)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=32">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=34">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

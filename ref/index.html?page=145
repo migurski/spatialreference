@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=144">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=146">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/71261/index.html">IAU2000:71261</a>: Portia Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71262/index.html">IAU2000:71262</a>: Portia Stereographic AUTO</li>
+
+  <li><a href="iau2000/71263/index.html">IAU2000:71263</a>: Portia Stereographic AUTO</li>
+
+  <li><a href="iau2000/71264/index.html">IAU2000:71264</a>: Portia Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71265/index.html">IAU2000:71265</a>: Portia Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71266/index.html">IAU2000:71266</a>: Portia Orthographic AUTO</li>
+
+  <li><a href="iau2000/71267/index.html">IAU2000:71267</a>: Portia Orthographic AUTO</li>
+
+  <li><a href="iau2000/71268/index.html">IAU2000:71268</a>: Portia Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71269/index.html">IAU2000:71269</a>: Portia Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71270/index.html">IAU2000:71270</a>: Portia Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71271/index.html">IAU2000:71271</a>: Portia Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71272/index.html">IAU2000:71272</a>: Portia Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71273/index.html">IAU2000:71273</a>: Portia Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71274/index.html">IAU2000:71274</a>: Portia Mercator AUTO</li>
+
+  <li><a href="iau2000/71275/index.html">IAU2000:71275</a>: Portia Mercator AUTO</li>
+
+  <li><a href="iau2000/71276/index.html">IAU2000:71276</a>: Portia Albers AUTO</li>
+
+  <li><a href="iau2000/71277/index.html">IAU2000:71277</a>: Portia Albers AUTO</li>
+
+  <li><a href="iau2000/71278/index.html">IAU2000:71278</a>: Portia Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71279/index.html">IAU2000:71279</a>: Portia Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71300/index.html">IAU2000:71300</a>: Rosalind 2000</li>
+
+  <li><a href="iau2000/71301/index.html">IAU2000:71301</a>: Rosalind 2000</li>
+
+  <li><a href="iau2000/71310/index.html">IAU2000:71310</a>: Rosalind Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71311/index.html">IAU2000:71311</a>: Rosalind Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71312/index.html">IAU2000:71312</a>: Rosalind Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71313/index.html">IAU2000:71313</a>: Rosalind Equidistant Cylindrical</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/71314/index.html">IAU2000:71314</a>: Rosalind Sinusoidal</li>
+
+  <li><a href="iau2000/71315/index.html">IAU2000:71315</a>: Rosalind Sinusoidal</li>
+
+  <li><a href="iau2000/71316/index.html">IAU2000:71316</a>: Rosalind Sinusoidal</li>
+
+  <li><a href="iau2000/71317/index.html">IAU2000:71317</a>: Rosalind Sinusoidal</li>
+
+  <li><a href="iau2000/71318/index.html">IAU2000:71318</a>: Rosalind North Pole Stereographic</li>
+
+  <li><a href="iau2000/71319/index.html">IAU2000:71319</a>: Rosalind North Pole Stereographic</li>
+
+  <li><a href="iau2000/71320/index.html">IAU2000:71320</a>: Rosalind South Pole Stereographic</li>
+
+  <li><a href="iau2000/71321/index.html">IAU2000:71321</a>: Rosalind South Pole Stereographic</li>
+
+  <li><a href="iau2000/71360/index.html">IAU2000:71360</a>: Rosalind Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71361/index.html">IAU2000:71361</a>: Rosalind Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71362/index.html">IAU2000:71362</a>: Rosalind Stereographic AUTO</li>
+
+  <li><a href="iau2000/71363/index.html">IAU2000:71363</a>: Rosalind Stereographic AUTO</li>
+
+  <li><a href="iau2000/71364/index.html">IAU2000:71364</a>: Rosalind Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71365/index.html">IAU2000:71365</a>: Rosalind Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71366/index.html">IAU2000:71366</a>: Rosalind Orthographic AUTO</li>
+
+  <li><a href="iau2000/71367/index.html">IAU2000:71367</a>: Rosalind Orthographic AUTO</li>
+
+  <li><a href="iau2000/71368/index.html">IAU2000:71368</a>: Rosalind Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71369/index.html">IAU2000:71369</a>: Rosalind Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71370/index.html">IAU2000:71370</a>: Rosalind Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71371/index.html">IAU2000:71371</a>: Rosalind Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71372/index.html">IAU2000:71372</a>: Rosalind Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71373/index.html">IAU2000:71373</a>: Rosalind Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71374/index.html">IAU2000:71374</a>: Rosalind Mercator AUTO</li>
+
+  <li><a href="iau2000/71375/index.html">IAU2000:71375</a>: Rosalind Mercator AUTO</li>
+
+  <li><a href="iau2000/71376/index.html">IAU2000:71376</a>: Rosalind Albers AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=144">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=146">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

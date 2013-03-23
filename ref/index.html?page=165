@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=164">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=166">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/62586405/index.html">EPSG:62586405</a>: ETRS89 (deg)</li>
+
+  <li><a href="epsg/62586413/index.html">EPSG:62586413</a>: ETRS89 (3D deg)</li>
+
+  <li><a href="epsg/62596405/index.html">EPSG:62596405</a>: Malongo 1987 (deg)</li>
+
+  <li><a href="epsg/62616405/index.html">EPSG:62616405</a>: Merchich (deg)</li>
+
+  <li><a href="epsg/62626405/index.html">EPSG:62626405</a>: Massawa (deg)</li>
+
+  <li><a href="epsg/62636405/index.html">EPSG:62636405</a>: Minna (deg)</li>
+
+  <li><a href="epsg/62646405/index.html">EPSG:62646405</a>: Mhast (deg)</li>
+
+  <li><a href="epsg/62656405/index.html">EPSG:62656405</a>: Monte Mario (deg)</li>
+
+  <li><a href="epsg/62666405/index.html">EPSG:62666405</a>: M&#39;poraloko (deg)</li>
+
+  <li><a href="epsg/62676405/index.html">EPSG:62676405</a>: NAD27 (deg)</li>
+
+  <li><a href="epsg/62686405/index.html">EPSG:62686405</a>: NAD27 Michigan (deg)</li>
+
+  <li><a href="epsg/62696405/index.html">EPSG:62696405</a>: NAD83 (deg)</li>
+
+  <li><a href="epsg/62706405/index.html">EPSG:62706405</a>: Nahrwan 1967 (deg)</li>
+
+  <li><a href="epsg/62716405/index.html">EPSG:62716405</a>: Naparima 1972 (deg)</li>
+
+  <li><a href="epsg/62726405/index.html">EPSG:62726405</a>: NZGD49 (deg)</li>
+
+  <li><a href="epsg/62736405/index.html">EPSG:62736405</a>: NGO 1948 (deg)</li>
+
+  <li><a href="epsg/62746405/index.html">EPSG:62746405</a>: Datum 73 (deg)</li>
+
+  <li><a href="epsg/62756405/index.html">EPSG:62756405</a>: NTF (deg)</li>
+
+  <li><a href="epsg/62766405/index.html">EPSG:62766405</a>: NSWC 9Z-2 (deg)</li>
+
+  <li><a href="epsg/62776405/index.html">EPSG:62776405</a>: OSGB 1936 (deg)</li>
+
+  <li><a href="epsg/62786405/index.html">EPSG:62786405</a>: OSGB70 (deg)</li>
+
+  <li><a href="epsg/62796405/index.html">EPSG:62796405</a>: OS(SN)80 (deg)</li>
+
+  <li><a href="epsg/62806405/index.html">EPSG:62806405</a>: Padang (deg)</li>
+
+  <li><a href="epsg/62816405/index.html">EPSG:62816405</a>: Palestine 1923 (deg)</li>
+
+  <li><a href="epsg/62826405/index.html">EPSG:62826405</a>: Pointe Noire (deg)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/62836405/index.html">EPSG:62836405</a>: GDA94 (deg)</li>
+
+  <li><a href="epsg/62836413/index.html">EPSG:62836413</a>: GDA94 (3D deg)</li>
+
+  <li><a href="epsg/62846405/index.html">EPSG:62846405</a>: Pulkovo 1942 (deg)</li>
+
+  <li><a href="epsg/62856405/index.html">EPSG:62856405</a>: Qatar 1974 (deg)</li>
+
+  <li><a href="epsg/62866405/index.html">EPSG:62866405</a>: Qatar 1948 (deg)</li>
+
+  <li><a href="epsg/62886405/index.html">EPSG:62886405</a>: Loma Quintana (deg)</li>
+
+  <li><a href="epsg/62896405/index.html">EPSG:62896405</a>: Amersfoort (deg)</li>
+
+  <li><a href="epsg/62926405/index.html">EPSG:62926405</a>: Sapper Hill 1943 (deg)</li>
+
+  <li><a href="epsg/62936405/index.html">EPSG:62936405</a>: Schwarzeck (deg)</li>
+
+  <li><a href="epsg/62956405/index.html">EPSG:62956405</a>: Serindung (deg)</li>
+
+  <li><a href="epsg/62976405/index.html">EPSG:62976405</a>: Tananarive (deg)</li>
+
+  <li><a href="epsg/62986405/index.html">EPSG:62986405</a>: Timbalai 1948 (deg)</li>
+
+  <li><a href="epsg/62996405/index.html">EPSG:62996405</a>: TM65 (deg)</li>
+
+  <li><a href="epsg/63006405/index.html">EPSG:63006405</a>: TM75 (deg)</li>
+
+  <li><a href="epsg/63016405/index.html">EPSG:63016405</a>: Tokyo (deg)</li>
+
+  <li><a href="epsg/63026405/index.html">EPSG:63026405</a>: Trinidad 1903 (deg)</li>
+
+  <li><a href="epsg/63036405/index.html">EPSG:63036405</a>: TC(1948) (deg)</li>
+
+  <li><a href="epsg/63046405/index.html">EPSG:63046405</a>: Voirol 1875 (deg)</li>
+
+  <li><a href="epsg/63066405/index.html">EPSG:63066405</a>: Bern 1938 (deg)</li>
+
+  <li><a href="epsg/63076405/index.html">EPSG:63076405</a>: Nord Sahara 1959 (deg)</li>
+
+  <li><a href="epsg/63086405/index.html">EPSG:63086405</a>: RT38 (deg)</li>
+
+  <li><a href="epsg/63096405/index.html">EPSG:63096405</a>: Yacare (deg)</li>
+
+  <li><a href="epsg/63106405/index.html">EPSG:63106405</a>: Yoff (deg)</li>
+
+  <li><a href="epsg/63116405/index.html">EPSG:63116405</a>: Zanderij (deg)</li>
+
+  <li><a href="epsg/63126405/index.html">EPSG:63126405</a>: MGI (deg)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=164">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=166">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

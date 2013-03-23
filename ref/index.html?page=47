@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=46">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=48">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4676/index.html">EPSG:4676</a>: Vientiane 1982</li>
+
+  <li><a href="epsg/4677/index.html">EPSG:4677</a>: Lao 1993</li>
+
+  <li><a href="epsg/4678/index.html">EPSG:4678</a>: Lao 1997</li>
+
+  <li><a href="epsg/4679/index.html">EPSG:4679</a>: Jouik 1961</li>
+
+  <li><a href="epsg/4680/index.html">EPSG:4680</a>: Nouakchott 1965</li>
+
+  <li><a href="epsg/4681/index.html">EPSG:4681</a>: Mauritania 1999</li>
+
+  <li><a href="epsg/4682/index.html">EPSG:4682</a>: Gulshan 303</li>
+
+  <li><a href="sr-org/4682/index.html">SR-ORG:4682</a>: INEGI</li>
+
+  <li><a href="epsg/4683/index.html">EPSG:4683</a>: PRS92</li>
+
+  <li><a href="sr-org/4683/index.html">SR-ORG:4683</a>: yo</li>
+
+  <li><a href="epsg/4684/index.html">EPSG:4684</a>: Gan 1970</li>
+
+  <li><a href="sr-org/4684/index.html">SR-ORG:4684</a>: geo</li>
+
+  <li><a href="epsg/4685/index.html">EPSG:4685</a>: Gandajika</li>
+
+  <li><a href="sr-org/4685/index.html">SR-ORG:4685</a>: Gauss Boaga Fuso Ovest</li>
+
+  <li><a href="epsg/4686/index.html">EPSG:4686</a>: MAGNA-SIRGAS</li>
+
+  <li><a href="sr-org/4686/index.html">SR-ORG:4686</a>: Gauss Boaga Fuso Est</li>
+
+  <li><a href="epsg/4687/index.html">EPSG:4687</a>: RGPF</li>
+
+  <li><a href="sr-org/4687/index.html">SR-ORG:4687</a>: StreamNet Lambert Conformal Conic projection (NAD27)</li>
+
+  <li><a href="epsg/4688/index.html">EPSG:4688</a>: Fatu Iva 72</li>
+
+  <li><a href="epsg/4689/index.html">EPSG:4689</a>: IGN63 Hiva Oa</li>
+
+  <li><a href="sr-org/4689/index.html">SR-ORG:4689</a>: KIST</li>
+
+  <li><a href="epsg/4690/index.html">EPSG:4690</a>: Tahiti 79</li>
+
+  <li><a href="sr-org/4690/index.html">SR-ORG:4690</a>: ALKIS_INTERN_ETRS89_UTM32</li>
+
+  <li><a href="sr-org/4691/index.html">SR-ORG:4691</a>: ALB_INDIA_IIRS</li>
+
+  <li><a href="epsg/4691/index.html">EPSG:4691</a>: Moorea 87</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4692/index.html">EPSG:4692</a>: Maupiti 83</li>
+
+  <li><a href="epsg/4693/index.html">EPSG:4693</a>: Nakhl-e Ghanem</li>
+
+  <li><a href="epsg/4694/index.html">EPSG:4694</a>: POSGAR 94</li>
+
+  <li><a href="sr-org/4695/index.html">SR-ORG:4695</a>: HRAP </li>
+
+  <li><a href="epsg/4695/index.html">EPSG:4695</a>: Katanga 1955</li>
+
+  <li><a href="sr-org/4696/index.html">SR-ORG:4696</a>: Guam / Yap UTM</li>
+
+  <li><a href="epsg/4696/index.html">EPSG:4696</a>: Kasai 1953</li>
+
+  <li><a href="epsg/4697/index.html">EPSG:4697</a>: IGC 1962 6th Parallel South</li>
+
+  <li><a href="epsg/4698/index.html">EPSG:4698</a>: IGN 1962 Kerguelen</li>
+
+  <li><a href="sr-org/4698/index.html">SR-ORG:4698</a>: ED50 UTM31N (ICC Catalunya)</li>
+
+  <li><a href="sr-org/4699/index.html">SR-ORG:4699</a>: Just a try</li>
+
+  <li><a href="epsg/4699/index.html">EPSG:4699</a>: Le Pouce 1934</li>
+
+  <li><a href="sr-org/4700/index.html">SR-ORG:4700</a>: D_DEUTSCHES_HAUPTDREIECKSNETZ</li>
+
+  <li><a href="epsg/4700/index.html">EPSG:4700</a>: IGN Astro 1960</li>
+
+  <li><a href="sr-org/4701/index.html">SR-ORG:4701</a>: D_DEUTSCHES_HAUPTDREIECKSNETZ, 2nd try</li>
+
+  <li><a href="epsg/4701/index.html">EPSG:4701</a>: IGCB 1955</li>
+
+  <li><a href="epsg/4702/index.html">EPSG:4702</a>: Mauritania 1999</li>
+
+  <li><a href="epsg/4703/index.html">EPSG:4703</a>: Mhast 1951</li>
+
+  <li><a href="epsg/4704/index.html">EPSG:4704</a>: Mhast (onshore)</li>
+
+  <li><a href="epsg/4705/index.html">EPSG:4705</a>: Mhast (offshore)</li>
+
+  <li><a href="sr-org/4705/index.html">SR-ORG:4705</a>: Popular Visualisation CRS / Mercator</li>
+
+  <li><a href="epsg/4706/index.html">EPSG:4706</a>: Egypt Gulf of Suez S-650 TL</li>
+
+  <li><a href="epsg/4707/index.html">EPSG:4707</a>: Tern Island 1961</li>
+
+  <li><a href="epsg/4708/index.html">EPSG:4708</a>: Cocos Islands 1965</li>
+
+  <li><a href="epsg/4709/index.html">EPSG:4709</a>: Iwo Jima 1945</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=46">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=48">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

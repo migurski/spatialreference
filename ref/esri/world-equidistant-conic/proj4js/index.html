@@ -1,0 +1,1 @@
+Proj4js.defs["ESRI:54027"] = "+proj=eqdc +lat_0=0 +lon_0=0 +lat_1=60 +lat_2=60 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs";

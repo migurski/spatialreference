@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=26">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=28">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3221/index.html">EPSG:3221</a>: WGS 84 / SCAR IMW SR13-14</li>
+
+  <li><a href="epsg/3222/index.html">EPSG:3222</a>: WGS 84 / SCAR IMW SR15-16</li>
+
+  <li><a href="epsg/3223/index.html">EPSG:3223</a>: WGS 84 / SCAR IMW SR17-18</li>
+
+  <li><a href="epsg/3224/index.html">EPSG:3224</a>: WGS 84 / SCAR IMW SR19-20</li>
+
+  <li><a href="epsg/3225/index.html">EPSG:3225</a>: WGS 84 / SCAR IMW SR27-28</li>
+
+  <li><a href="epsg/3226/index.html">EPSG:3226</a>: WGS 84 / SCAR IMW SR29-30</li>
+
+  <li><a href="epsg/3227/index.html">EPSG:3227</a>: WGS 84 / SCAR IMW SR31-32</li>
+
+  <li><a href="epsg/3228/index.html">EPSG:3228</a>: WGS 84 / SCAR IMW SR33-34</li>
+
+  <li><a href="epsg/3229/index.html">EPSG:3229</a>: WGS 84 / SCAR IMW SR35-36</li>
+
+  <li><a href="epsg/3230/index.html">EPSG:3230</a>: WGS 84 / SCAR IMW SR37-38</li>
+
+  <li><a href="epsg/3231/index.html">EPSG:3231</a>: WGS 84 / SCAR IMW SR39-40</li>
+
+  <li><a href="epsg/3232/index.html">EPSG:3232</a>: WGS 84 / SCAR IMW SR41-42</li>
+
+  <li><a href="epsg/3233/index.html">EPSG:3233</a>: WGS 84 / SCAR IMW SR43-44</li>
+
+  <li><a href="epsg/3234/index.html">EPSG:3234</a>: WGS 84 / SCAR IMW SR45-46</li>
+
+  <li><a href="epsg/3235/index.html">EPSG:3235</a>: WGS 84 / SCAR IMW SR47-48</li>
+
+  <li><a href="epsg/3236/index.html">EPSG:3236</a>: WGS 84 / SCAR IMW SR49-50</li>
+
+  <li><a href="epsg/3237/index.html">EPSG:3237</a>: WGS 84 / SCAR IMW SR51-52</li>
+
+  <li><a href="epsg/3238/index.html">EPSG:3238</a>: WGS 84 / SCAR IMW SR53-54</li>
+
+  <li><a href="epsg/3239/index.html">EPSG:3239</a>: WGS 84 / SCAR IMW SR55-56</li>
+
+  <li><a href="epsg/3240/index.html">EPSG:3240</a>: WGS 84 / SCAR IMW SR57-58</li>
+
+  <li><a href="epsg/3241/index.html">EPSG:3241</a>: WGS 84 / SCAR IMW SR59-60</li>
+
+  <li><a href="epsg/3242/index.html">EPSG:3242</a>: WGS 84 / SCAR IMW SS04-06</li>
+
+  <li><a href="epsg/3243/index.html">EPSG:3243</a>: WGS 84 / SCAR IMW SS07-09</li>
+
+  <li><a href="epsg/3244/index.html">EPSG:3244</a>: WGS 84 / SCAR IMW SS10-12</li>
+
+  <li><a href="epsg/3245/index.html">EPSG:3245</a>: WGS 84 / SCAR IMW SS13-15</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3246/index.html">EPSG:3246</a>: WGS 84 / SCAR IMW SS16-18</li>
+
+  <li><a href="epsg/3247/index.html">EPSG:3247</a>: WGS 84 / SCAR IMW SS19-21</li>
+
+  <li><a href="epsg/3248/index.html">EPSG:3248</a>: WGS 84 / SCAR IMW SS25-27</li>
+
+  <li><a href="epsg/3249/index.html">EPSG:3249</a>: WGS 84 / SCAR IMW SS28-30</li>
+
+  <li><a href="epsg/3250/index.html">EPSG:3250</a>: WGS 84 / SCAR IMW SS31-33</li>
+
+  <li><a href="epsg/3251/index.html">EPSG:3251</a>: WGS 84 / SCAR IMW SS34-36</li>
+
+  <li><a href="epsg/3252/index.html">EPSG:3252</a>: WGS 84 / SCAR IMW SS37-39</li>
+
+  <li><a href="epsg/3253/index.html">EPSG:3253</a>: WGS 84 / SCAR IMW SS40-42</li>
+
+  <li><a href="epsg/3254/index.html">EPSG:3254</a>: WGS 84 / SCAR IMW SS43-45</li>
+
+  <li><a href="epsg/3255/index.html">EPSG:3255</a>: WGS 84 / SCAR IMW SS46-48</li>
+
+  <li><a href="epsg/3256/index.html">EPSG:3256</a>: WGS 84 / SCAR IMW SS49-51</li>
+
+  <li><a href="epsg/3257/index.html">EPSG:3257</a>: WGS 84 / SCAR IMW SS52-54</li>
+
+  <li><a href="epsg/3258/index.html">EPSG:3258</a>: WGS 84 / SCAR IMW SS55-57</li>
+
+  <li><a href="epsg/3259/index.html">EPSG:3259</a>: WGS 84 / SCAR IMW SS58-60</li>
+
+  <li><a href="epsg/3260/index.html">EPSG:3260</a>: WGS 84 / SCAR IMW ST01-04</li>
+
+  <li><a href="epsg/3261/index.html">EPSG:3261</a>: WGS 84 / SCAR IMW ST05-08</li>
+
+  <li><a href="epsg/3262/index.html">EPSG:3262</a>: WGS 84 / SCAR IMW ST09-12</li>
+
+  <li><a href="epsg/3263/index.html">EPSG:3263</a>: WGS 84 / SCAR IMW ST13-16</li>
+
+  <li><a href="epsg/3264/index.html">EPSG:3264</a>: WGS 84 / SCAR IMW ST17-20</li>
+
+  <li><a href="epsg/3265/index.html">EPSG:3265</a>: WGS 84 / SCAR IMW ST21-24</li>
+
+  <li><a href="epsg/3266/index.html">EPSG:3266</a>: WGS 84 / SCAR IMW ST25-28</li>
+
+  <li><a href="epsg/3267/index.html">EPSG:3267</a>: WGS 84 / SCAR IMW ST29-32</li>
+
+  <li><a href="epsg/3268/index.html">EPSG:3268</a>: WGS 84 / SCAR IMW ST33-36</li>
+
+  <li><a href="epsg/3269/index.html">EPSG:3269</a>: WGS 84 / SCAR IMW ST37-40</li>
+
+  <li><a href="epsg/3270/index.html">EPSG:3270</a>: WGS 84 / SCAR IMW ST41-44</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=26">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=28">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

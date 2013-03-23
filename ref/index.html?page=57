@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=56">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=58">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/6726/index.html">SR-ORG:6726</a>: test</li>
+
+  <li><a href="sr-org/6727/index.html">SR-ORG:6727</a>: NAD_1983_HARN_Adj_WI_Polk_Feet</li>
+
+  <li><a href="sr-org/6728/index.html">SR-ORG:6728</a>: Ouranos North American Polar Stereographic</li>
+
+  <li><a href="sr-org/6729/index.html">SR-ORG:6729</a>: 19703</li>
+
+  <li><a href="sr-org/6730/index.html">SR-ORG:6730</a>: NTF Lambert I Nord Carto</li>
+
+  <li><a href="sr-org/6731/index.html">SR-ORG:6731</a>: GTM</li>
+
+  <li><a href="sr-org/6732/index.html">SR-ORG:6732</a>: test</li>
+
+  <li><a href="sr-org/6733/index.html">SR-ORG:6733</a>: adf</li>
+
+  <li><a href="sr-org/6734/index.html">SR-ORG:6734</a>: Brandenburg</li>
+
+  <li><a href="sr-org/6735/index.html">SR-ORG:6735</a>: mio</li>
+
+  <li><a href="sr-org/6736/index.html">SR-ORG:6736</a>: Landfire spatial reference</li>
+
+  <li><a href="sr-org/6737/index.html">SR-ORG:6737</a>: test</li>
+
+  <li><a href="sr-org/6738/index.html">SR-ORG:6738</a>: test</li>
+
+  <li><a href="sr-org/6739/index.html">SR-ORG:6739</a>: ADMCS</li>
+
+  <li><a href="sr-org/6740/index.html">SR-ORG:6740</a>: ADMINCS1</li>
+
+  <li><a href="sr-org/6741/index.html">SR-ORG:6741</a>: ADMINCS2</li>
+
+  <li><a href="sr-org/6742/index.html">SR-ORG:6742</a>: ADMINCS3</li>
+
+  <li><a href="sr-org/6743/index.html">SR-ORG:6743</a>: ADMINCS4</li>
+
+  <li><a href="sr-org/6744/index.html">SR-ORG:6744</a>: mundo</li>
+
+  <li><a href="sr-org/6745/index.html">SR-ORG:6745</a>: mundo</li>
+
+  <li><a href="sr-org/6746/index.html">SR-ORG:6746</a>: salamanca</li>
+
+  <li><a href="sr-org/6747/index.html">SR-ORG:6747</a>: mundo</li>
+
+  <li><a href="sr-org/6748/index.html">SR-ORG:6748</a>: unknown</li>
+
+  <li><a href="sr-org/6749/index.html">SR-ORG:6749</a>: soul to wgs defined</li>
+
+  <li><a href="sr-org/6750/index.html">SR-ORG:6750</a>: test</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/6751/index.html">SR-ORG:6751</a>: test</li>
+
+  <li><a href="sr-org/6752/index.html">SR-ORG:6752</a>: our proj</li>
+
+  <li><a href="sr-org/6753/index.html">SR-ORG:6753</a>: test_pk</li>
+
+  <li><a href="sr-org/6754/index.html">SR-ORG:6754</a>: EPSG:42304</li>
+
+  <li><a href="sr-org/6755/index.html">SR-ORG:6755</a>: sadasdsda</li>
+
+  <li><a href="sr-org/6756/index.html">SR-ORG:6756</a>: HTRS07 / TM07</li>
+
+  <li><a href="sr-org/6757/index.html">SR-ORG:6757</a>: HTRS07 / TM07 (fix ds)</li>
+
+  <li><a href="sr-org/6758/index.html">SR-ORG:6758</a>: HTRS07 / TM07 (No Datum Shift)</li>
+
+  <li><a href="sr-org/6759/index.html">SR-ORG:6759</a>: HTRS07 / TM07 (Invert Datum Shift)</li>
+
+  <li><a href="sr-org/6760/index.html">SR-ORG:6760</a>: HTRS07 / TM07 (Corrected)</li>
+
+  <li><a href="sr-org/6761/index.html">SR-ORG:6761</a>: Radar Deutschland</li>
+
+  <li><a href="sr-org/6762/index.html">SR-ORG:6762</a>: fsdsdfsd</li>
+
+  <li><a href="sr-org/6763/index.html">SR-ORG:6763</a>: fsdsdfsd</li>
+
+  <li><a href="sr-org/6764/index.html">SR-ORG:6764</a>: DCP 155</li>
+
+  <li><a href="sr-org/6765/index.html">SR-ORG:6765</a>: Calgary 3TM</li>
+
+  <li><a href="sr-org/6766/index.html">SR-ORG:6766</a>: Tas_LAEA</li>
+
+  <li><a href="sr-org/6767/index.html">SR-ORG:6767</a>: NAD 1983 HARN Adj MN Olmsted Feet</li>
+
+  <li><a href="sr-org/6768/index.html">SR-ORG:6768</a>: MapQuest</li>
+
+  <li><a href="sr-org/6769/index.html">SR-ORG:6769</a>: EPSG:3912</li>
+
+  <li><a href="sr-org/6770/index.html">SR-ORG:6770</a>: GCS_Sphere_EMEP</li>
+
+  <li><a href="sr-org/6771/index.html">SR-ORG:6771</a>: my</li>
+
+  <li><a href="sr-org/6772/index.html">SR-ORG:6772</a>: Bucaramanga</li>
+
+  <li><a href="sr-org/6773/index.html">SR-ORG:6773</a>: Lisbon (Coimbra)</li>
+
+  <li><a href="sr-org/6774/index.html">SR-ORG:6774</a>: Lisboa (lisboa)</li>
+
+  <li><a href="sr-org/6775/index.html">SR-ORG:6775</a>: Lisboa (Lisboa)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=56">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=58">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

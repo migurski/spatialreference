@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=159">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=161">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="esri/102658/index.html">ESRI:102658</a>: NAD 1983 StatePlane Florida East FIPS 0901 Feet</li>
+
+  <li><a href="esri/102659/index.html">ESRI:102659</a>: NAD 1983 StatePlane Florida West FIPS 0902 Feet</li>
+
+  <li><a href="esri/102660/index.html">ESRI:102660</a>: NAD 1983 StatePlane Florida North FIPS 0903 Feet</li>
+
+  <li><a href="esri/102661/index.html">ESRI:102661</a>: NAD 1983 StatePlane Hawaii 1 FIPS 5101 Feet</li>
+
+  <li><a href="esri/102662/index.html">ESRI:102662</a>: NAD 1983 StatePlane Hawaii 2 FIPS 5102 Feet</li>
+
+  <li><a href="esri/102663/index.html">ESRI:102663</a>: NAD 1983 StatePlane Hawaii 3 FIPS 5103 Feet</li>
+
+  <li><a href="esri/102664/index.html">ESRI:102664</a>: NAD 1983 StatePlane Hawaii 4 FIPS 5104 Feet</li>
+
+  <li><a href="esri/102665/index.html">ESRI:102665</a>: NAD 1983 StatePlane Hawaii 5 FIPS 5105 Feet</li>
+
+  <li><a href="esri/102666/index.html">ESRI:102666</a>: NAD 1983 StatePlane Georgia East FIPS 1001 Feet</li>
+
+  <li><a href="esri/102667/index.html">ESRI:102667</a>: NAD 1983 StatePlane Georgia West FIPS 1002 Feet</li>
+
+  <li><a href="esri/102668/index.html">ESRI:102668</a>: NAD 1983 StatePlane Idaho East FIPS 1101 Feet</li>
+
+  <li><a href="esri/102669/index.html">ESRI:102669</a>: NAD 1983 StatePlane Idaho Central FIPS 1102 Feet</li>
+
+  <li><a href="esri/102670/index.html">ESRI:102670</a>: NAD 1983 StatePlane Idaho West FIPS 1103 Feet</li>
+
+  <li><a href="esri/102671/index.html">ESRI:102671</a>: NAD 1983 StatePlane Illinois East FIPS 1201 Feet</li>
+
+  <li><a href="esri/102672/index.html">ESRI:102672</a>: NAD 1983 StatePlane Illinois West FIPS 1202 Feet</li>
+
+  <li><a href="esri/102673/index.html">ESRI:102673</a>: NAD 1983 StatePlane Indiana East FIPS 1301 Feet</li>
+
+  <li><a href="esri/102674/index.html">ESRI:102674</a>: NAD 1983 StatePlane Indiana West FIPS 1302 Feet</li>
+
+  <li><a href="esri/102675/index.html">ESRI:102675</a>: NAD 1983 StatePlane Iowa North FIPS 1401 Feet</li>
+
+  <li><a href="esri/102676/index.html">ESRI:102676</a>: NAD 1983 StatePlane Iowa South FIPS 1402 Feet</li>
+
+  <li><a href="esri/102677/index.html">ESRI:102677</a>: NAD 1983 StatePlane Kansas North FIPS 1501 Feet</li>
+
+  <li><a href="esri/102678/index.html">ESRI:102678</a>: NAD 1983 StatePlane Kansas South FIPS 1502 Feet</li>
+
+  <li><a href="esri/102679/index.html">ESRI:102679</a>: NAD 1983 StatePlane Kentucky North FIPS 1601 Feet</li>
+
+  <li><a href="esri/102680/index.html">ESRI:102680</a>: NAD 1983 StatePlane Kentucky South FIPS 1602 Feet</li>
+
+  <li><a href="esri/102681/index.html">ESRI:102681</a>: NAD 1983 StatePlane Louisiana North FIPS 1701 Feet</li>
+
+  <li><a href="esri/102682/index.html">ESRI:102682</a>: NAD 1983 StatePlane Louisiana South FIPS 1702 Feet</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="esri/102683/index.html">ESRI:102683</a>: NAD 1983 StatePlane Maine East FIPS 1801 Feet</li>
+
+  <li><a href="esri/102684/index.html">ESRI:102684</a>: NAD 1983 StatePlane Maine West FIPS 1802 Feet</li>
+
+  <li><a href="esri/102685/index.html">ESRI:102685</a>: NAD 1983 StatePlane Maryland FIPS 1900 Feet</li>
+
+  <li><a href="esri/102686/index.html">ESRI:102686</a>: NAD 1983 StatePlane Massachusetts Mainland FIPS 2001 Feet</li>
+
+  <li><a href="esri/102687/index.html">ESRI:102687</a>: NAD 1983 StatePlane Massachusetts Island FIPS 2002 Feet</li>
+
+  <li><a href="esri/102688/index.html">ESRI:102688</a>: NAD 1983 StatePlane Michigan North FIPS 2111 Feet</li>
+
+  <li><a href="esri/102689/index.html">ESRI:102689</a>: NAD 1983 StatePlane Michigan Central FIPS 2112 Feet</li>
+
+  <li><a href="esri/102690/index.html">ESRI:102690</a>: NAD 1983 StatePlane Michigan South FIPS 2113 Feet</li>
+
+  <li><a href="esri/102691/index.html">ESRI:102691</a>: NAD 1983 StatePlane Minnesota North FIPS 2201 Feet</li>
+
+  <li><a href="esri/102692/index.html">ESRI:102692</a>: NAD 1983 StatePlane Minnesota Central FIPS 2202 Feet</li>
+
+  <li><a href="esri/102693/index.html">ESRI:102693</a>: NAD 1983 StatePlane Minnesota South FIPS 2203 Feet</li>
+
+  <li><a href="esri/102694/index.html">ESRI:102694</a>: NAD 1983 StatePlane Mississippi East FIPS 2301 Feet</li>
+
+  <li><a href="esri/102695/index.html">ESRI:102695</a>: NAD 1983 StatePlane Mississippi West FIPS 2302 Feet</li>
+
+  <li><a href="esri/102696/index.html">ESRI:102696</a>: NAD 1983 StatePlane Missouri East FIPS 2401 Feet</li>
+
+  <li><a href="esri/102697/index.html">ESRI:102697</a>: NAD 1983 StatePlane Missouri Central FIPS 2402 Feet</li>
+
+  <li><a href="esri/102698/index.html">ESRI:102698</a>: NAD 1983 StatePlane Missouri West FIPS 2403 Feet</li>
+
+  <li><a href="esri/102700/index.html">ESRI:102700</a>: NAD 1983 StatePlane Montana FIPS 2500 Feet</li>
+
+  <li><a href="esri/102704/index.html">ESRI:102704</a>: NAD 1983 StatePlane Nebraska FIPS 2600 Feet</li>
+
+  <li><a href="esri/102707/index.html">ESRI:102707</a>: NAD 1983 StatePlane Nevada East FIPS 2701 Feet</li>
+
+  <li><a href="esri/102708/index.html">ESRI:102708</a>: NAD 1983 StatePlane Nevada Central FIPS 2702 Feet</li>
+
+  <li><a href="esri/102709/index.html">ESRI:102709</a>: NAD 1983 StatePlane Nevada West FIPS 2703 Feet</li>
+
+  <li><a href="esri/102710/index.html">ESRI:102710</a>: NAD 1983 StatePlane New Hampshire FIPS 2800 Feet</li>
+
+  <li><a href="esri/102711/index.html">ESRI:102711</a>: NAD 1983 StatePlane New Jersey FIPS 2900 Feet</li>
+
+  <li><a href="esri/102712/index.html">ESRI:102712</a>: NAD 1983 StatePlane New Mexico East FIPS 3001 Feet</li>
+
+  <li><a href="esri/102713/index.html">ESRI:102713</a>: NAD 1983 StatePlane New Mexico Central FIPS 3002 Feet</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=159">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=161">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

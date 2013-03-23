@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=140">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=142">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/70665/index.html">IAU2000:70665</a>: Cordelia Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/70666/index.html">IAU2000:70666</a>: Cordelia Orthographic AUTO</li>
+
+  <li><a href="iau2000/70667/index.html">IAU2000:70667</a>: Cordelia Orthographic AUTO</li>
+
+  <li><a href="iau2000/70668/index.html">IAU2000:70668</a>: Cordelia Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/70669/index.html">IAU2000:70669</a>: Cordelia Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/70670/index.html">IAU2000:70670</a>: Cordelia Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/70671/index.html">IAU2000:70671</a>: Cordelia Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/70672/index.html">IAU2000:70672</a>: Cordelia Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/70673/index.html">IAU2000:70673</a>: Cordelia Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/70674/index.html">IAU2000:70674</a>: Cordelia Mercator AUTO</li>
+
+  <li><a href="iau2000/70675/index.html">IAU2000:70675</a>: Cordelia Mercator AUTO</li>
+
+  <li><a href="iau2000/70676/index.html">IAU2000:70676</a>: Cordelia Albers AUTO</li>
+
+  <li><a href="iau2000/70677/index.html">IAU2000:70677</a>: Cordelia Albers AUTO</li>
+
+  <li><a href="iau2000/70678/index.html">IAU2000:70678</a>: Cordelia Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/70679/index.html">IAU2000:70679</a>: Cordelia Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/70700/index.html">IAU2000:70700</a>: Ophelia 2000</li>
+
+  <li><a href="iau2000/70701/index.html">IAU2000:70701</a>: Ophelia 2000</li>
+
+  <li><a href="iau2000/70710/index.html">IAU2000:70710</a>: Ophelia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70711/index.html">IAU2000:70711</a>: Ophelia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70712/index.html">IAU2000:70712</a>: Ophelia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70713/index.html">IAU2000:70713</a>: Ophelia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/70714/index.html">IAU2000:70714</a>: Ophelia Sinusoidal</li>
+
+  <li><a href="iau2000/70715/index.html">IAU2000:70715</a>: Ophelia Sinusoidal</li>
+
+  <li><a href="iau2000/70716/index.html">IAU2000:70716</a>: Ophelia Sinusoidal</li>
+
+  <li><a href="iau2000/70717/index.html">IAU2000:70717</a>: Ophelia Sinusoidal</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/70718/index.html">IAU2000:70718</a>: Ophelia North Pole Stereographic</li>
+
+  <li><a href="iau2000/70719/index.html">IAU2000:70719</a>: Ophelia North Pole Stereographic</li>
+
+  <li><a href="iau2000/70720/index.html">IAU2000:70720</a>: Ophelia South Pole Stereographic</li>
+
+  <li><a href="iau2000/70721/index.html">IAU2000:70721</a>: Ophelia South Pole Stereographic</li>
+
+  <li><a href="iau2000/70760/index.html">IAU2000:70760</a>: Ophelia Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/70761/index.html">IAU2000:70761</a>: Ophelia Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/70762/index.html">IAU2000:70762</a>: Ophelia Stereographic AUTO</li>
+
+  <li><a href="iau2000/70763/index.html">IAU2000:70763</a>: Ophelia Stereographic AUTO</li>
+
+  <li><a href="iau2000/70764/index.html">IAU2000:70764</a>: Ophelia Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/70765/index.html">IAU2000:70765</a>: Ophelia Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/70766/index.html">IAU2000:70766</a>: Ophelia Orthographic AUTO</li>
+
+  <li><a href="iau2000/70767/index.html">IAU2000:70767</a>: Ophelia Orthographic AUTO</li>
+
+  <li><a href="iau2000/70768/index.html">IAU2000:70768</a>: Ophelia Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/70769/index.html">IAU2000:70769</a>: Ophelia Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/70770/index.html">IAU2000:70770</a>: Ophelia Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/70771/index.html">IAU2000:70771</a>: Ophelia Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/70772/index.html">IAU2000:70772</a>: Ophelia Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/70773/index.html">IAU2000:70773</a>: Ophelia Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/70774/index.html">IAU2000:70774</a>: Ophelia Mercator AUTO</li>
+
+  <li><a href="iau2000/70775/index.html">IAU2000:70775</a>: Ophelia Mercator AUTO</li>
+
+  <li><a href="iau2000/70776/index.html">IAU2000:70776</a>: Ophelia Albers AUTO</li>
+
+  <li><a href="iau2000/70777/index.html">IAU2000:70777</a>: Ophelia Albers AUTO</li>
+
+  <li><a href="iau2000/70778/index.html">IAU2000:70778</a>: Ophelia Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/70779/index.html">IAU2000:70779</a>: Ophelia Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/70800/index.html">IAU2000:70800</a>: Bianca 2000</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=140">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=142">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

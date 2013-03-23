@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=143">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=145">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/71079/index.html">IAU2000:71079</a>: Desdemona Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71100/index.html">IAU2000:71100</a>: Juliet 2000</li>
+
+  <li><a href="iau2000/71101/index.html">IAU2000:71101</a>: Juliet 2000</li>
+
+  <li><a href="iau2000/71110/index.html">IAU2000:71110</a>: Juliet Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71111/index.html">IAU2000:71111</a>: Juliet Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71112/index.html">IAU2000:71112</a>: Juliet Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71113/index.html">IAU2000:71113</a>: Juliet Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71114/index.html">IAU2000:71114</a>: Juliet Sinusoidal</li>
+
+  <li><a href="iau2000/71115/index.html">IAU2000:71115</a>: Juliet Sinusoidal</li>
+
+  <li><a href="iau2000/71116/index.html">IAU2000:71116</a>: Juliet Sinusoidal</li>
+
+  <li><a href="iau2000/71117/index.html">IAU2000:71117</a>: Juliet Sinusoidal</li>
+
+  <li><a href="iau2000/71118/index.html">IAU2000:71118</a>: Juliet North Pole Stereographic</li>
+
+  <li><a href="iau2000/71119/index.html">IAU2000:71119</a>: Juliet North Pole Stereographic</li>
+
+  <li><a href="iau2000/71120/index.html">IAU2000:71120</a>: Juliet South Pole Stereographic</li>
+
+  <li><a href="iau2000/71121/index.html">IAU2000:71121</a>: Juliet South Pole Stereographic</li>
+
+  <li><a href="iau2000/71160/index.html">IAU2000:71160</a>: Juliet Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71161/index.html">IAU2000:71161</a>: Juliet Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/71162/index.html">IAU2000:71162</a>: Juliet Stereographic AUTO</li>
+
+  <li><a href="iau2000/71163/index.html">IAU2000:71163</a>: Juliet Stereographic AUTO</li>
+
+  <li><a href="iau2000/71164/index.html">IAU2000:71164</a>: Juliet Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71165/index.html">IAU2000:71165</a>: Juliet Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/71166/index.html">IAU2000:71166</a>: Juliet Orthographic AUTO</li>
+
+  <li><a href="iau2000/71167/index.html">IAU2000:71167</a>: Juliet Orthographic AUTO</li>
+
+  <li><a href="iau2000/71168/index.html">IAU2000:71168</a>: Juliet Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/71169/index.html">IAU2000:71169</a>: Juliet Equidistant Cylindrical AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/71170/index.html">IAU2000:71170</a>: Juliet Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71171/index.html">IAU2000:71171</a>: Juliet Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/71172/index.html">IAU2000:71172</a>: Juliet Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71173/index.html">IAU2000:71173</a>: Juliet Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/71174/index.html">IAU2000:71174</a>: Juliet Mercator AUTO</li>
+
+  <li><a href="iau2000/71175/index.html">IAU2000:71175</a>: Juliet Mercator AUTO</li>
+
+  <li><a href="iau2000/71176/index.html">IAU2000:71176</a>: Juliet Albers AUTO</li>
+
+  <li><a href="iau2000/71177/index.html">IAU2000:71177</a>: Juliet Albers AUTO</li>
+
+  <li><a href="iau2000/71178/index.html">IAU2000:71178</a>: Juliet Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71179/index.html">IAU2000:71179</a>: Juliet Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/71200/index.html">IAU2000:71200</a>: Portia 2000</li>
+
+  <li><a href="iau2000/71201/index.html">IAU2000:71201</a>: Portia 2000</li>
+
+  <li><a href="iau2000/71210/index.html">IAU2000:71210</a>: Portia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71211/index.html">IAU2000:71211</a>: Portia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71212/index.html">IAU2000:71212</a>: Portia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71213/index.html">IAU2000:71213</a>: Portia Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/71214/index.html">IAU2000:71214</a>: Portia Sinusoidal</li>
+
+  <li><a href="iau2000/71215/index.html">IAU2000:71215</a>: Portia Sinusoidal</li>
+
+  <li><a href="iau2000/71216/index.html">IAU2000:71216</a>: Portia Sinusoidal</li>
+
+  <li><a href="iau2000/71217/index.html">IAU2000:71217</a>: Portia Sinusoidal</li>
+
+  <li><a href="iau2000/71218/index.html">IAU2000:71218</a>: Portia North Pole Stereographic</li>
+
+  <li><a href="iau2000/71219/index.html">IAU2000:71219</a>: Portia North Pole Stereographic</li>
+
+  <li><a href="iau2000/71220/index.html">IAU2000:71220</a>: Portia South Pole Stereographic</li>
+
+  <li><a href="iau2000/71221/index.html">IAU2000:71221</a>: Portia South Pole Stereographic</li>
+
+  <li><a href="iau2000/71260/index.html">IAU2000:71260</a>: Portia Sinusoidal AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=143">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=145">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

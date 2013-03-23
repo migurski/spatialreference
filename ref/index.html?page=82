@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=81">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=83">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/23849/index.html">EPSG:23849</a>: ID74 / UTM zone 49N</li>
+
+  <li><a href="epsg/23850/index.html">EPSG:23850</a>: ID74 / UTM zone 50N</li>
+
+  <li><a href="epsg/23851/index.html">EPSG:23851</a>: ID74 / UTM zone 51N</li>
+
+  <li><a href="epsg/23852/index.html">EPSG:23852</a>: ID74 / UTM zone 52N</li>
+
+  <li><a href="epsg/23853/index.html">EPSG:23853</a>: ID74 / UTM zone 53N</li>
+
+  <li><a href="epsg/23866/index.html">EPSG:23866</a>: DGN95 / UTM zone 46N</li>
+
+  <li><a href="epsg/23867/index.html">EPSG:23867</a>: DGN95 / UTM zone 47N</li>
+
+  <li><a href="epsg/23868/index.html">EPSG:23868</a>: DGN95 / UTM zone 48N</li>
+
+  <li><a href="epsg/23869/index.html">EPSG:23869</a>: DGN95 / UTM zone 49N</li>
+
+  <li><a href="epsg/23870/index.html">EPSG:23870</a>: DGN95 / UTM zone 50N</li>
+
+  <li><a href="epsg/23871/index.html">EPSG:23871</a>: DGN95 / UTM zone 51N</li>
+
+  <li><a href="epsg/23872/index.html">EPSG:23872</a>: DGN95 / UTM zone 52N</li>
+
+  <li><a href="epsg/23877/index.html">EPSG:23877</a>: DGN95 / UTM zone 47S</li>
+
+  <li><a href="epsg/23878/index.html">EPSG:23878</a>: DGN95 / UTM zone 48S</li>
+
+  <li><a href="epsg/23879/index.html">EPSG:23879</a>: DGN95 / UTM zone 49S</li>
+
+  <li><a href="epsg/23880/index.html">EPSG:23880</a>: DGN95 / UTM zone 50S</li>
+
+  <li><a href="epsg/23881/index.html">EPSG:23881</a>: DGN95 / UTM zone 51S</li>
+
+  <li><a href="epsg/23882/index.html">EPSG:23882</a>: DGN95 / UTM zone 52S</li>
+
+  <li><a href="epsg/23883/index.html">EPSG:23883</a>: DGN95 / UTM zone 53S</li>
+
+  <li><a href="epsg/23884/index.html">EPSG:23884</a>: DGN95 / UTM zone 54S</li>
+
+  <li><a href="epsg/23886/index.html">EPSG:23886</a>: ID74 / UTM zone 46S</li>
+
+  <li><a href="epsg/23887/index.html">EPSG:23887</a>: ID74 / UTM zone 47S</li>
+
+  <li><a href="epsg/23888/index.html">EPSG:23888</a>: ID74 / UTM zone 48S</li>
+
+  <li><a href="epsg/23889/index.html">EPSG:23889</a>: ID74 / UTM zone 49S</li>
+
+  <li><a href="epsg/23890/index.html">EPSG:23890</a>: ID74 / UTM zone 50S</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/23891/index.html">EPSG:23891</a>: ID74 / UTM zone 51S</li>
+
+  <li><a href="epsg/23892/index.html">EPSG:23892</a>: ID74 / UTM zone 52S</li>
+
+  <li><a href="epsg/23893/index.html">EPSG:23893</a>: ID74 / UTM zone 53S</li>
+
+  <li><a href="epsg/23894/index.html">EPSG:23894</a>: ID74 / UTM zone 54S</li>
+
+  <li><a href="epsg/23946/index.html">EPSG:23946</a>: Indian 1954 / UTM zone 46N</li>
+
+  <li><a href="epsg/23947/index.html">EPSG:23947</a>: Indian 1954 / UTM zone 47N</li>
+
+  <li><a href="epsg/23948/index.html">EPSG:23948</a>: Indian 1954 / UTM zone 48N</li>
+
+  <li><a href="epsg/24047/index.html">EPSG:24047</a>: Indian 1975 / UTM zone 47N</li>
+
+  <li><a href="epsg/24048/index.html">EPSG:24048</a>: Indian 1975 / UTM zone 48N</li>
+
+  <li><a href="epsg/24100/index.html">EPSG:24100</a>: Jamaica 1875 / Jamaica (Old Grid)</li>
+
+  <li><a href="epsg/24200/index.html">EPSG:24200</a>: JAD69 / Jamaica National Grid</li>
+
+  <li><a href="epsg/24305/index.html">EPSG:24305</a>: Kalianpur 1937 / UTM zone 45N</li>
+
+  <li><a href="epsg/24306/index.html">EPSG:24306</a>: Kalianpur 1937 / UTM zone 46N</li>
+
+  <li><a href="epsg/24311/index.html">EPSG:24311</a>: Kalianpur 1962 / UTM zone 41N</li>
+
+  <li><a href="epsg/24312/index.html">EPSG:24312</a>: Kalianpur 1962 / UTM zone 42N</li>
+
+  <li><a href="epsg/24313/index.html">EPSG:24313</a>: Kalianpur 1962 / UTM zone 43N</li>
+
+  <li><a href="epsg/24342/index.html">EPSG:24342</a>: Kalianpur 1975 / UTM zone 42N</li>
+
+  <li><a href="epsg/24343/index.html">EPSG:24343</a>: Kalianpur 1975 / UTM zone 43N</li>
+
+  <li><a href="epsg/24344/index.html">EPSG:24344</a>: Kalianpur 1975 / UTM zone 44N</li>
+
+  <li><a href="epsg/24345/index.html">EPSG:24345</a>: Kalianpur 1975 / UTM zone 45N</li>
+
+  <li><a href="epsg/24346/index.html">EPSG:24346</a>: Kalianpur 1975 / UTM zone 46N</li>
+
+  <li><a href="epsg/24347/index.html">EPSG:24347</a>: Kalianpur 1975 / UTM zone 47N</li>
+
+  <li><a href="epsg/24370/index.html">EPSG:24370</a>: Kalianpur 1880 / India zone 0</li>
+
+  <li><a href="epsg/24371/index.html">EPSG:24371</a>: Kalianpur 1880 / India zone I</li>
+
+  <li><a href="epsg/24372/index.html">EPSG:24372</a>: Kalianpur 1880 / India zone IIa</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=81">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=83">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

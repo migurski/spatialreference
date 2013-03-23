@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=87">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=89">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/26938/index.html">EPSG:26938</a>: NAD83 / Alaska zone 8</li>
+
+  <li><a href="epsg/26939/index.html">EPSG:26939</a>: NAD83 / Alaska zone 9</li>
+
+  <li><a href="epsg/26940/index.html">EPSG:26940</a>: NAD83 / Alaska zone 10</li>
+
+  <li><a href="epsg/26941/index.html">EPSG:26941</a>: NAD83 / California zone 1</li>
+
+  <li><a href="epsg/26942/index.html">EPSG:26942</a>: NAD83 / California zone 2</li>
+
+  <li><a href="epsg/26943/index.html">EPSG:26943</a>: NAD83 / California zone 3</li>
+
+  <li><a href="epsg/26944/index.html">EPSG:26944</a>: NAD83 / California zone 4</li>
+
+  <li><a href="epsg/26945/index.html">EPSG:26945</a>: NAD83 / California zone 5</li>
+
+  <li><a href="epsg/26946/index.html">EPSG:26946</a>: NAD83 / California zone 6</li>
+
+  <li><a href="epsg/26948/index.html">EPSG:26948</a>: NAD83 / Arizona East</li>
+
+  <li><a href="epsg/26949/index.html">EPSG:26949</a>: NAD83 / Arizona Central</li>
+
+  <li><a href="epsg/26950/index.html">EPSG:26950</a>: NAD83 / Arizona West</li>
+
+  <li><a href="epsg/26951/index.html">EPSG:26951</a>: NAD83 / Arkansas North</li>
+
+  <li><a href="epsg/26952/index.html">EPSG:26952</a>: NAD83 / Arkansas South</li>
+
+  <li><a href="epsg/26953/index.html">EPSG:26953</a>: NAD83 / Colorado North</li>
+
+  <li><a href="epsg/26954/index.html">EPSG:26954</a>: NAD83 / Colorado Central</li>
+
+  <li><a href="epsg/26955/index.html">EPSG:26955</a>: NAD83 / Colorado South</li>
+
+  <li><a href="epsg/26956/index.html">EPSG:26956</a>: NAD83 / Connecticut</li>
+
+  <li><a href="epsg/26957/index.html">EPSG:26957</a>: NAD83 / Delaware</li>
+
+  <li><a href="epsg/26958/index.html">EPSG:26958</a>: NAD83 / Florida East</li>
+
+  <li><a href="epsg/26959/index.html">EPSG:26959</a>: NAD83 / Florida West</li>
+
+  <li><a href="epsg/26960/index.html">EPSG:26960</a>: NAD83 / Florida North</li>
+
+  <li><a href="epsg/26961/index.html">EPSG:26961</a>: NAD83 / Hawaii zone 1</li>
+
+  <li><a href="epsg/26962/index.html">EPSG:26962</a>: NAD83 / Hawaii zone 2</li>
+
+  <li><a href="epsg/26963/index.html">EPSG:26963</a>: NAD83 / Hawaii zone 3</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/26964/index.html">EPSG:26964</a>: NAD83 / Hawaii zone 4</li>
+
+  <li><a href="epsg/26965/index.html">EPSG:26965</a>: NAD83 / Hawaii zone 5</li>
+
+  <li><a href="epsg/26966/index.html">EPSG:26966</a>: NAD83 / Georgia East</li>
+
+  <li><a href="epsg/26967/index.html">EPSG:26967</a>: NAD83 / Georgia West</li>
+
+  <li><a href="epsg/26968/index.html">EPSG:26968</a>: NAD83 / Idaho East</li>
+
+  <li><a href="epsg/26969/index.html">EPSG:26969</a>: NAD83 / Idaho Central</li>
+
+  <li><a href="epsg/26970/index.html">EPSG:26970</a>: NAD83 / Idaho West</li>
+
+  <li><a href="epsg/26971/index.html">EPSG:26971</a>: NAD83 / Illinois East</li>
+
+  <li><a href="epsg/26972/index.html">EPSG:26972</a>: NAD83 / Illinois West</li>
+
+  <li><a href="epsg/26973/index.html">EPSG:26973</a>: NAD83 / Indiana East</li>
+
+  <li><a href="epsg/26974/index.html">EPSG:26974</a>: NAD83 / Indiana West</li>
+
+  <li><a href="epsg/26975/index.html">EPSG:26975</a>: NAD83 / Iowa North</li>
+
+  <li><a href="epsg/26976/index.html">EPSG:26976</a>: NAD83 / Iowa South</li>
+
+  <li><a href="epsg/26977/index.html">EPSG:26977</a>: NAD83 / Kansas North</li>
+
+  <li><a href="epsg/26978/index.html">EPSG:26978</a>: NAD83 / Kansas South</li>
+
+  <li><a href="epsg/26979/index.html">EPSG:26979</a>: NAD83 / Kentucky North</li>
+
+  <li><a href="epsg/26980/index.html">EPSG:26980</a>: NAD83 / Kentucky South</li>
+
+  <li><a href="epsg/26981/index.html">EPSG:26981</a>: NAD83 / Louisiana North</li>
+
+  <li><a href="epsg/26982/index.html">EPSG:26982</a>: NAD83 / Louisiana South</li>
+
+  <li><a href="epsg/26983/index.html">EPSG:26983</a>: NAD83 / Maine East</li>
+
+  <li><a href="epsg/26984/index.html">EPSG:26984</a>: NAD83 / Maine West</li>
+
+  <li><a href="epsg/26985/index.html">EPSG:26985</a>: NAD83 / Maryland</li>
+
+  <li><a href="epsg/26986/index.html">EPSG:26986</a>: NAD83 / Massachusetts Mainland</li>
+
+  <li><a href="epsg/26987/index.html">EPSG:26987</a>: NAD83 / Massachusetts Island</li>
+
+  <li><a href="epsg/26988/index.html">EPSG:26988</a>: NAD83 / Michigan North</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=87">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=89">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=51">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=53">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4995/index.html">EPSG:4995</a>: PRS92</li>
+
+  <li><a href="epsg/4996/index.html">EPSG:4996</a>: MAGNA-SIRGAS</li>
+
+  <li><a href="epsg/4997/index.html">EPSG:4997</a>: MAGNA-SIRGAS</li>
+
+  <li><a href="epsg/4998/index.html">EPSG:4998</a>: RGPF</li>
+
+  <li><a href="epsg/4999/index.html">EPSG:4999</a>: RGPF</li>
+
+  <li><a href="epsg/5600/index.html">EPSG:5600</a>: NGPF height</li>
+
+  <li><a href="epsg/5601/index.html">EPSG:5601</a>: IGN 1966 height</li>
+
+  <li><a href="epsg/5602/index.html">EPSG:5602</a>: Moorea SAU 1981 height</li>
+
+  <li><a href="epsg/5603/index.html">EPSG:5603</a>: Raiatea SAU 2001 height</li>
+
+  <li><a href="epsg/5604/index.html">EPSG:5604</a>: Maupiti SAU 2001 height</li>
+
+  <li><a href="epsg/5605/index.html">EPSG:5605</a>: Huahine SAU 2001 height</li>
+
+  <li><a href="epsg/5606/index.html">EPSG:5606</a>: Tahaa SAU 2001 height</li>
+
+  <li><a href="epsg/5607/index.html">EPSG:5607</a>: Bora Bora SAU 2001 height</li>
+
+  <li><a href="epsg/5608/index.html">EPSG:5608</a>: IGLD 1955 height</li>
+
+  <li><a href="epsg/5609/index.html">EPSG:5609</a>: IGLD 1985 height</li>
+
+  <li><a href="epsg/5610/index.html">EPSG:5610</a>: HVRS71 height</li>
+
+  <li><a href="epsg/5611/index.html">EPSG:5611</a>: Caspian height</li>
+
+  <li><a href="epsg/5612/index.html">EPSG:5612</a>: Baltic depth</li>
+
+  <li><a href="epsg/5613/index.html">EPSG:5613</a>: RH2000 height</li>
+
+  <li><a href="epsg/5614/index.html">EPSG:5614</a>: KOC WD depth (ft)</li>
+
+  <li><a href="epsg/5615/index.html">EPSG:5615</a>: RH00 height</li>
+
+  <li><a href="epsg/5616/index.html">EPSG:5616</a>: IGN 1988 LS height</li>
+
+  <li><a href="epsg/5617/index.html">EPSG:5617</a>: IGN 1988 MG height</li>
+
+  <li><a href="epsg/5618/index.html">EPSG:5618</a>: IGN 1992 LD height</li>
+
+  <li><a href="epsg/5619/index.html">EPSG:5619</a>: IGN 1988 SB height</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/5620/index.html">EPSG:5620</a>: IGN 1988 SM height</li>
+
+  <li><a href="epsg/5701/index.html">EPSG:5701</a>: ODN height</li>
+
+  <li><a href="epsg/5702/index.html">EPSG:5702</a>: NGVD29 height</li>
+
+  <li><a href="epsg/5703/index.html">EPSG:5703</a>: NAVD88 height</li>
+
+  <li><a href="epsg/5704/index.html">EPSG:5704</a>: Yellow Sea</li>
+
+  <li><a href="epsg/5705/index.html">EPSG:5705</a>: Baltic height</li>
+
+  <li><a href="epsg/5706/index.html">EPSG:5706</a>: Caspian depth</li>
+
+  <li><a href="epsg/5709/index.html">EPSG:5709</a>: NAP height</li>
+
+  <li><a href="epsg/5710/index.html">EPSG:5710</a>: Oostende height</li>
+
+  <li><a href="epsg/5711/index.html">EPSG:5711</a>: AHD height</li>
+
+  <li><a href="epsg/5712/index.html">EPSG:5712</a>: AHD (Tasmania) height</li>
+
+  <li><a href="epsg/5713/index.html">EPSG:5713</a>: CGVD28 height</li>
+
+  <li><a href="epsg/5714/index.html">EPSG:5714</a>: msl height</li>
+
+  <li><a href="epsg/5715/index.html">EPSG:5715</a>: msl depth</li>
+
+  <li><a href="epsg/5716/index.html">EPSG:5716</a>: Piraeus height</li>
+
+  <li><a href="epsg/5717/index.html">EPSG:5717</a>: N60 height</li>
+
+  <li><a href="epsg/5718/index.html">EPSG:5718</a>: RH70 height</li>
+
+  <li><a href="epsg/5719/index.html">EPSG:5719</a>: NGF Lallemand height</li>
+
+  <li><a href="epsg/5720/index.html">EPSG:5720</a>: NGF IGN69 height</li>
+
+  <li><a href="epsg/5721/index.html">EPSG:5721</a>: IGN78 Corsica height</li>
+
+  <li><a href="epsg/5722/index.html">EPSG:5722</a>: Maputo height</li>
+
+  <li><a href="epsg/5723/index.html">EPSG:5723</a>: JSLD height</li>
+
+  <li><a href="epsg/5724/index.html">EPSG:5724</a>: PHD93 height</li>
+
+  <li><a href="epsg/5725/index.html">EPSG:5725</a>: Fahud HD height</li>
+
+  <li><a href="epsg/5726/index.html">EPSG:5726</a>: Ha Tien 1960 height</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=51">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=53">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

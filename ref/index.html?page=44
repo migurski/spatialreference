@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=43">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=45">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4301/index.html">EPSG:4301</a>: Tokyo</li>
+
+  <li><a href="epsg/4302/index.html">EPSG:4302</a>: Trinidad 1903</li>
+
+  <li><a href="epsg/4303/index.html">EPSG:4303</a>: TC(1948)</li>
+
+  <li><a href="epsg/4304/index.html">EPSG:4304</a>: Voirol 1875</li>
+
+  <li><a href="epsg/4306/index.html">EPSG:4306</a>: Bern 1938</li>
+
+  <li><a href="epsg/4307/index.html">EPSG:4307</a>: Nord Sahara 1959</li>
+
+  <li><a href="epsg/4308/index.html">EPSG:4308</a>: RT38</li>
+
+  <li><a href="epsg/4309/index.html">EPSG:4309</a>: Yacare</li>
+
+  <li><a href="epsg/4310/index.html">EPSG:4310</a>: Yoff</li>
+
+  <li><a href="epsg/4311/index.html">EPSG:4311</a>: Zanderij</li>
+
+  <li><a href="epsg/4312/index.html">EPSG:4312</a>: MGI</li>
+
+  <li><a href="epsg/4313/index.html">EPSG:4313</a>: Belge 1972</li>
+
+  <li><a href="epsg/4314/index.html">EPSG:4314</a>: DHDN</li>
+
+  <li><a href="epsg/4315/index.html">EPSG:4315</a>: Conakry 1905</li>
+
+  <li><a href="epsg/4316/index.html">EPSG:4316</a>: Dealul Piscului 1930</li>
+
+  <li><a href="epsg/4317/index.html">EPSG:4317</a>: Dealul Piscului 1970</li>
+
+  <li><a href="epsg/4318/index.html">EPSG:4318</a>: NGN</li>
+
+  <li><a href="epsg/4319/index.html">EPSG:4319</a>: KUDAMS</li>
+
+  <li><a href="epsg/4322/index.html">EPSG:4322</a>: WGS 72</li>
+
+  <li><a href="epsg/4324/index.html">EPSG:4324</a>: WGS 72BE</li>
+
+  <li><a href="epsg/4326/index.html">EPSG:4326</a>: WGS 84</li>
+
+  <li><a href="epsg/4327/index.html">EPSG:4327</a>: WGS 84 (geographic 3D)</li>
+
+  <li><a href="epsg/4328/index.html">EPSG:4328</a>: WGS 84 (geocentric)</li>
+
+  <li><a href="epsg/4329/index.html">EPSG:4329</a>: WGS 84 (3D)</li>
+
+  <li><a href="epsg/4330/index.html">EPSG:4330</a>: ITRF88 (geocentric)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4331/index.html">EPSG:4331</a>: ITRF89 (geocentric)</li>
+
+  <li><a href="epsg/4332/index.html">EPSG:4332</a>: ITRF90 (geocentric)</li>
+
+  <li><a href="epsg/4333/index.html">EPSG:4333</a>: ITRF91 (geocentric)</li>
+
+  <li><a href="epsg/4334/index.html">EPSG:4334</a>: ITRF92 (geocentric)</li>
+
+  <li><a href="epsg/4335/index.html">EPSG:4335</a>: ITRF93 (geocentric)</li>
+
+  <li><a href="epsg/4336/index.html">EPSG:4336</a>: ITRF94 (geocentric)</li>
+
+  <li><a href="epsg/4337/index.html">EPSG:4337</a>: ITRF96 (geocentric)</li>
+
+  <li><a href="epsg/4338/index.html">EPSG:4338</a>: ITRF97 (geocentric)</li>
+
+  <li><a href="epsg/4339/index.html">EPSG:4339</a>: Australian Antarctic (3D)</li>
+
+  <li><a href="epsg/4340/index.html">EPSG:4340</a>: Australian Antarctic (geocentric)</li>
+
+  <li><a href="epsg/4341/index.html">EPSG:4341</a>: EST97 (3D)</li>
+
+  <li><a href="epsg/4342/index.html">EPSG:4342</a>: EST97 (geocentric)</li>
+
+  <li><a href="epsg/4343/index.html">EPSG:4343</a>: CHTRF95 (3D)</li>
+
+  <li><a href="epsg/4344/index.html">EPSG:4344</a>: CHTRF95 (geocentric)</li>
+
+  <li><a href="epsg/4345/index.html">EPSG:4345</a>: ETRS89 (3D)</li>
+
+  <li><a href="epsg/4346/index.html">EPSG:4346</a>: ETRS89 (geocentric)</li>
+
+  <li><a href="epsg/4347/index.html">EPSG:4347</a>: GDA94 (3D)</li>
+
+  <li><a href="epsg/4348/index.html">EPSG:4348</a>: GDA94 (geocentric)</li>
+
+  <li><a href="epsg/4349/index.html">EPSG:4349</a>: Hartebeesthoek94 (3D)</li>
+
+  <li><a href="epsg/4350/index.html">EPSG:4350</a>: Hartebeesthoek94 (geocentric)</li>
+
+  <li><a href="epsg/4351/index.html">EPSG:4351</a>: IRENET95 (3D)</li>
+
+  <li><a href="epsg/4352/index.html">EPSG:4352</a>: IRENET95 (geocentric)</li>
+
+  <li><a href="epsg/4353/index.html">EPSG:4353</a>: JGD2000 (3D)</li>
+
+  <li><a href="epsg/4354/index.html">EPSG:4354</a>: JGD2000 (geocentric)</li>
+
+  <li><a href="epsg/4355/index.html">EPSG:4355</a>: LKS94 (ETRS89) (3D)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=43">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=45">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

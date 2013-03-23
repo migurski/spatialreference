@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=95">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=97">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/31292/index.html">EPSG:31292</a>: MGI (Ferro) / Austria Central Zone</li>
+
+  <li><a href="epsg/31293/index.html">EPSG:31293</a>: MGI (Ferro) / Austria East Zone</li>
+
+  <li><a href="epsg/31294/index.html">EPSG:31294</a>: MGI / M28</li>
+
+  <li><a href="epsg/31295/index.html">EPSG:31295</a>: MGI / M31</li>
+
+  <li><a href="epsg/31296/index.html">EPSG:31296</a>: MGI / M34</li>
+
+  <li><a href="epsg/31297/index.html">EPSG:31297</a>: MGI / Austria Lambert</li>
+
+  <li><a href="epsg/31300/index.html">EPSG:31300</a>: Belge 1972 / Belge Lambert 72</li>
+
+  <li><a href="epsg/31370/index.html">EPSG:31370</a>: Belge 1972 / Belgian Lambert 72</li>
+
+  <li><a href="epsg/31461/index.html">EPSG:31461</a>: DHDN / 3-degree Gauss zone 1</li>
+
+  <li><a href="epsg/31462/index.html">EPSG:31462</a>: DHDN / 3-degree Gauss zone 2</li>
+
+  <li><a href="epsg/31463/index.html">EPSG:31463</a>: DHDN / 3-degree Gauss zone 3</li>
+
+  <li><a href="epsg/31464/index.html">EPSG:31464</a>: DHDN / 3-degree Gauss zone 4</li>
+
+  <li><a href="epsg/31465/index.html">EPSG:31465</a>: DHDN / 3-degree Gauss zone 5</li>
+
+  <li><a href="epsg/31466/index.html">EPSG:31466</a>: DHDN / 3-degree Gauss-Kruger zone 2</li>
+
+  <li><a href="epsg/31467/index.html">EPSG:31467</a>: DHDN / 3-degree Gauss-Kruger zone 3</li>
+
+  <li><a href="epsg/31468/index.html">EPSG:31468</a>: DHDN / 3-degree Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/31469/index.html">EPSG:31469</a>: DHDN / 3-degree Gauss-Kruger zone 5</li>
+
+  <li><a href="epsg/31528/index.html">EPSG:31528</a>: Conakry 1905 / UTM zone 28N</li>
+
+  <li><a href="epsg/31529/index.html">EPSG:31529</a>: Conakry 1905 / UTM zone 29N</li>
+
+  <li><a href="epsg/31600/index.html">EPSG:31600</a>: Dealul Piscului 1930 / Stereo 33</li>
+
+  <li><a href="epsg/31700/index.html">EPSG:31700</a>: Dealul Piscului 1970/ Stereo 70</li>
+
+  <li><a href="epsg/31838/index.html">EPSG:31838</a>: NGN / UTM zone 38N</li>
+
+  <li><a href="epsg/31839/index.html">EPSG:31839</a>: NGN / UTM zone 39N</li>
+
+  <li><a href="epsg/31900/index.html">EPSG:31900</a>: KUDAMS / KTM</li>
+
+  <li><a href="epsg/31901/index.html">EPSG:31901</a>: KUDAMS / KTM</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/31965/index.html">EPSG:31965</a>: SIRGAS 2000 / UTM zone 11N</li>
+
+  <li><a href="epsg/31966/index.html">EPSG:31966</a>: SIRGAS 2000 / UTM zone 12N</li>
+
+  <li><a href="epsg/31967/index.html">EPSG:31967</a>: SIRGAS 2000 / UTM zone 13N</li>
+
+  <li><a href="epsg/31968/index.html">EPSG:31968</a>: SIRGAS 2000 / UTM zone 14N</li>
+
+  <li><a href="epsg/31969/index.html">EPSG:31969</a>: SIRGAS 2000 / UTM zone 15N</li>
+
+  <li><a href="epsg/31970/index.html">EPSG:31970</a>: SIRGAS 2000 / UTM zone 16N</li>
+
+  <li><a href="epsg/31971/index.html">EPSG:31971</a>: SIRGAS 2000 / UTM zone 17N</li>
+
+  <li><a href="epsg/31972/index.html">EPSG:31972</a>: SIRGAS 2000 / UTM zone 18N</li>
+
+  <li><a href="epsg/31973/index.html">EPSG:31973</a>: SIRGAS 2000 / UTM zone 19N</li>
+
+  <li><a href="epsg/31974/index.html">EPSG:31974</a>: SIRGAS 2000 / UTM zone 20N</li>
+
+  <li><a href="epsg/31975/index.html">EPSG:31975</a>: SIRGAS 2000 / UTM zone 21N</li>
+
+  <li><a href="epsg/31976/index.html">EPSG:31976</a>: SIRGAS 2000 / UTM zone 22N</li>
+
+  <li><a href="epsg/31977/index.html">EPSG:31977</a>: SIRGAS 2000 / UTM zone 17S</li>
+
+  <li><a href="epsg/31978/index.html">EPSG:31978</a>: SIRGAS 2000 / UTM zone 18S</li>
+
+  <li><a href="epsg/31979/index.html">EPSG:31979</a>: SIRGAS 2000 / UTM zone 19S</li>
+
+  <li><a href="epsg/31980/index.html">EPSG:31980</a>: SIRGAS 2000 / UTM zone 20S</li>
+
+  <li><a href="epsg/31981/index.html">EPSG:31981</a>: SIRGAS 2000 / UTM zone 21S</li>
+
+  <li><a href="epsg/31982/index.html">EPSG:31982</a>: SIRGAS 2000 / UTM zone 22S</li>
+
+  <li><a href="epsg/31983/index.html">EPSG:31983</a>: SIRGAS 2000 / UTM zone 23S</li>
+
+  <li><a href="epsg/31984/index.html">EPSG:31984</a>: SIRGAS 2000 / UTM zone 24S</li>
+
+  <li><a href="epsg/31985/index.html">EPSG:31985</a>: SIRGAS 2000 / UTM zone 25S</li>
+
+  <li><a href="epsg/31986/index.html">EPSG:31986</a>: SIRGAS 1995 / UTM zone 17N</li>
+
+  <li><a href="epsg/31987/index.html">EPSG:31987</a>: SIRGAS 1995 / UTM zone 18N</li>
+
+  <li><a href="epsg/31988/index.html">EPSG:31988</a>: SIRGAS 1995 / UTM zone 19N</li>
+
+  <li><a href="epsg/31989/index.html">EPSG:31989</a>: SIRGAS 1995 / UTM zone 20N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=95">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=97">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=78">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=80">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/21035/index.html">EPSG:21035</a>: Arc 1960 / UTM zone 35S</li>
+
+  <li><a href="epsg/21036/index.html">EPSG:21036</a>: Arc 1960 / UTM zone 36S</li>
+
+  <li><a href="epsg/21037/index.html">EPSG:21037</a>: Arc 1960 / UTM zone 37S</li>
+
+  <li><a href="epsg/21095/index.html">EPSG:21095</a>: Arc 1960 / UTM zone 35N</li>
+
+  <li><a href="epsg/21096/index.html">EPSG:21096</a>: Arc 1960 / UTM zone 36N</li>
+
+  <li><a href="epsg/21097/index.html">EPSG:21097</a>: Arc 1960 / UTM zone 37N</li>
+
+  <li><a href="epsg/21100/index.html">EPSG:21100</a>: Batavia (Jakarta) / NEIEZ</li>
+
+  <li><a href="epsg/21148/index.html">EPSG:21148</a>: Batavia / UTM zone 48S</li>
+
+  <li><a href="epsg/21149/index.html">EPSG:21149</a>: Batavia / UTM zone 49S</li>
+
+  <li><a href="epsg/21150/index.html">EPSG:21150</a>: Batavia / UTM zone 50S</li>
+
+  <li><a href="epsg/21291/index.html">EPSG:21291</a>: Barbados 1938 / British West Indies Grid</li>
+
+  <li><a href="epsg/21292/index.html">EPSG:21292</a>: Barbados 1938 / Barbados National Grid</li>
+
+  <li><a href="epsg/21413/index.html">EPSG:21413</a>: Beijing 1954 / Gauss-Kruger zone 13</li>
+
+  <li><a href="epsg/21414/index.html">EPSG:21414</a>: Beijing 1954 / Gauss-Kruger zone 14</li>
+
+  <li><a href="epsg/21415/index.html">EPSG:21415</a>: Beijing 1954 / Gauss-Kruger zone 15</li>
+
+  <li><a href="epsg/21416/index.html">EPSG:21416</a>: Beijing 1954 / Gauss-Kruger zone 16</li>
+
+  <li><a href="epsg/21417/index.html">EPSG:21417</a>: Beijing 1954 / Gauss-Kruger zone 17</li>
+
+  <li><a href="epsg/21418/index.html">EPSG:21418</a>: Beijing 1954 / Gauss-Kruger zone 18</li>
+
+  <li><a href="epsg/21419/index.html">EPSG:21419</a>: Beijing 1954 / Gauss-Kruger zone 19</li>
+
+  <li><a href="epsg/21420/index.html">EPSG:21420</a>: Beijing 1954 / Gauss-Kruger zone 20</li>
+
+  <li><a href="epsg/21421/index.html">EPSG:21421</a>: Beijing 1954 / Gauss-Kruger zone 21</li>
+
+  <li><a href="epsg/21422/index.html">EPSG:21422</a>: Beijing 1954 / Gauss-Kruger zone 22</li>
+
+  <li><a href="epsg/21423/index.html">EPSG:21423</a>: Beijing 1954 / Gauss-Kruger zone 23</li>
+
+  <li><a href="epsg/21453/index.html">EPSG:21453</a>: Beijing 1954 / Gauss-Kruger CM 75E</li>
+
+  <li><a href="epsg/21454/index.html">EPSG:21454</a>: Beijing 1954 / Gauss-Kruger CM 81E</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/21455/index.html">EPSG:21455</a>: Beijing 1954 / Gauss-Kruger CM 87E</li>
+
+  <li><a href="epsg/21456/index.html">EPSG:21456</a>: Beijing 1954 / Gauss-Kruger CM 93E</li>
+
+  <li><a href="epsg/21457/index.html">EPSG:21457</a>: Beijing 1954 / Gauss-Kruger CM 99E</li>
+
+  <li><a href="epsg/21458/index.html">EPSG:21458</a>: Beijing 1954 / Gauss-Kruger CM 105E</li>
+
+  <li><a href="epsg/21459/index.html">EPSG:21459</a>: Beijing 1954 / Gauss-Kruger CM 111E</li>
+
+  <li><a href="epsg/21460/index.html">EPSG:21460</a>: Beijing 1954 / Gauss-Kruger CM 117E</li>
+
+  <li><a href="epsg/21461/index.html">EPSG:21461</a>: Beijing 1954 / Gauss-Kruger CM 123E</li>
+
+  <li><a href="epsg/21462/index.html">EPSG:21462</a>: Beijing 1954 / Gauss-Kruger CM 129E</li>
+
+  <li><a href="epsg/21463/index.html">EPSG:21463</a>: Beijing 1954 / Gauss-Kruger CM 135E</li>
+
+  <li><a href="epsg/21473/index.html">EPSG:21473</a>: Beijing 1954 / Gauss-Kruger 13N</li>
+
+  <li><a href="epsg/21474/index.html">EPSG:21474</a>: Beijing 1954 / Gauss-Kruger 14N</li>
+
+  <li><a href="epsg/21475/index.html">EPSG:21475</a>: Beijing 1954 / Gauss-Kruger 15N</li>
+
+  <li><a href="epsg/21476/index.html">EPSG:21476</a>: Beijing 1954 / Gauss-Kruger 16N</li>
+
+  <li><a href="epsg/21477/index.html">EPSG:21477</a>: Beijing 1954 / Gauss-Kruger 17N</li>
+
+  <li><a href="epsg/21478/index.html">EPSG:21478</a>: Beijing 1954 / Gauss-Kruger 18N</li>
+
+  <li><a href="epsg/21479/index.html">EPSG:21479</a>: Beijing 1954 / Gauss-Kruger 19N</li>
+
+  <li><a href="epsg/21480/index.html">EPSG:21480</a>: Beijing 1954 / Gauss-Kruger 20N</li>
+
+  <li><a href="epsg/21481/index.html">EPSG:21481</a>: Beijing 1954 / Gauss-Kruger 21N</li>
+
+  <li><a href="epsg/21482/index.html">EPSG:21482</a>: Beijing 1954 / Gauss-Kruger 22N</li>
+
+  <li><a href="epsg/21483/index.html">EPSG:21483</a>: Beijing 1954 / Gauss-Kruger 23N</li>
+
+  <li><a href="epsg/21500/index.html">EPSG:21500</a>: Belge 1950 (Brussels) / Belge Lambert 50</li>
+
+  <li><a href="epsg/21780/index.html">EPSG:21780</a>: Bern 1898 (Bern) / LV03C</li>
+
+  <li><a href="epsg/21781/index.html">EPSG:21781</a>: CH1903 / LV03</li>
+
+  <li><a href="epsg/21782/index.html">EPSG:21782</a>: CH1903 / LV03C-G</li>
+
+  <li><a href="epsg/21817/index.html">EPSG:21817</a>: Bogota 1975 / UTM zone 17N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=78">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=80">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

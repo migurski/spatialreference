@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=27">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=29">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/3271/index.html">EPSG:3271</a>: WGS 84 / SCAR IMW ST45-48</li>
+
+  <li><a href="epsg/3272/index.html">EPSG:3272</a>: WGS 84 / SCAR IMW ST49-52</li>
+
+  <li><a href="epsg/3273/index.html">EPSG:3273</a>: WGS 84 / SCAR IMW ST53-56</li>
+
+  <li><a href="epsg/3274/index.html">EPSG:3274</a>: WGS 84 / SCAR IMW ST57-60</li>
+
+  <li><a href="epsg/3275/index.html">EPSG:3275</a>: WGS 84 / SCAR IMW SU01-05</li>
+
+  <li><a href="epsg/3276/index.html">EPSG:3276</a>: WGS 84 / SCAR IMW SU06-10</li>
+
+  <li><a href="epsg/3277/index.html">EPSG:3277</a>: WGS 84 / SCAR IMW SU11-15</li>
+
+  <li><a href="epsg/3278/index.html">EPSG:3278</a>: WGS 84 / SCAR IMW SU16-20</li>
+
+  <li><a href="epsg/3279/index.html">EPSG:3279</a>: WGS 84 / SCAR IMW SU21-25</li>
+
+  <li><a href="epsg/3280/index.html">EPSG:3280</a>: WGS 84 / SCAR IMW SU26-30</li>
+
+  <li><a href="epsg/3281/index.html">EPSG:3281</a>: WGS 84 / SCAR IMW SU31-35</li>
+
+  <li><a href="epsg/3282/index.html">EPSG:3282</a>: WGS 84 / SCAR IMW SU36-40</li>
+
+  <li><a href="epsg/3283/index.html">EPSG:3283</a>: WGS 84 / SCAR IMW SU41-45</li>
+
+  <li><a href="epsg/3284/index.html">EPSG:3284</a>: WGS 84 / SCAR IMW SU46-50</li>
+
+  <li><a href="epsg/3285/index.html">EPSG:3285</a>: WGS 84 / SCAR IMW SU51-55</li>
+
+  <li><a href="epsg/3286/index.html">EPSG:3286</a>: WGS 84 / SCAR IMW SU56-60</li>
+
+  <li><a href="epsg/3287/index.html">EPSG:3287</a>: WGS 84 / SCAR IMW SV01-10</li>
+
+  <li><a href="epsg/3288/index.html">EPSG:3288</a>: WGS 84 / SCAR IMW SV11-20</li>
+
+  <li><a href="epsg/3289/index.html">EPSG:3289</a>: WGS 84 / SCAR IMW SV21-30</li>
+
+  <li><a href="epsg/3290/index.html">EPSG:3290</a>: WGS 84 / SCAR IMW SV31-40</li>
+
+  <li><a href="epsg/3291/index.html">EPSG:3291</a>: WGS 84 / SCAR IMW SV41-50</li>
+
+  <li><a href="epsg/3292/index.html">EPSG:3292</a>: WGS 84 / SCAR IMW SV51-60</li>
+
+  <li><a href="epsg/3293/index.html">EPSG:3293</a>: WGS 84 / SCAR IMW SW01-60</li>
+
+  <li><a href="epsg/3294/index.html">EPSG:3294</a>: WGS 84 / USGS Transantarctic Mountains</li>
+
+  <li><a href="epsg/3295/index.html">EPSG:3295</a>: Guam 1963 / Yap Islands</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/3296/index.html">EPSG:3296</a>: RGPF / UTM zone 5S</li>
+
+  <li><a href="epsg/3297/index.html">EPSG:3297</a>: RGPF / UTM zone 6S</li>
+
+  <li><a href="epsg/3298/index.html">EPSG:3298</a>: RGPF / UTM zone 7S</li>
+
+  <li><a href="epsg/3299/index.html">EPSG:3299</a>: RGPF / UTM zone 8S</li>
+
+  <li><a href="epsg/3300/index.html">EPSG:3300</a>: Estonian Coordinate System of 1992</li>
+
+  <li><a href="epsg/3301/index.html">EPSG:3301</a>: Estonian Coordinate System of 1997</li>
+
+  <li><a href="epsg/3302/index.html">EPSG:3302</a>: IGN63 Hiva Oa / UTM zone 7S</li>
+
+  <li><a href="epsg/3303/index.html">EPSG:3303</a>: Fatu Iva 72 / UTM zone 7S</li>
+
+  <li><a href="epsg/3304/index.html">EPSG:3304</a>: Tahiti 79 / UTM zone 6S</li>
+
+  <li><a href="epsg/3305/index.html">EPSG:3305</a>: Moorea 87 / UTM zone 6S</li>
+
+  <li><a href="epsg/3306/index.html">EPSG:3306</a>: Maupiti 83 / UTM zone 5S</li>
+
+  <li><a href="epsg/3307/index.html">EPSG:3307</a>: Nakhl-e Ghanem / UTM zone 39N</li>
+
+  <li><a href="epsg/3308/index.html">EPSG:3308</a>: GDA94 / NSW Lambert</li>
+
+  <li><a href="epsg/3309/index.html">EPSG:3309</a>: NAD27 / California Albers</li>
+
+  <li><a href="epsg/3310/index.html">EPSG:3310</a>: NAD83 / California Albers</li>
+
+  <li><a href="epsg/3311/index.html">EPSG:3311</a>: NAD83(HARN) / California Albers</li>
+
+  <li><a href="epsg/3312/index.html">EPSG:3312</a>: CSG67 / UTM zone 21N</li>
+
+  <li><a href="epsg/3313/index.html">EPSG:3313</a>: RGFG95 / UTM zone 21N</li>
+
+  <li><a href="epsg/3314/index.html">EPSG:3314</a>: Katanga 1955 / Katanga Lambert</li>
+
+  <li><a href="epsg/3315/index.html">EPSG:3315</a>: Katanga 1955 / Katanga TM</li>
+
+  <li><a href="epsg/3316/index.html">EPSG:3316</a>: Kasai 1953 / Congo TM zone 22</li>
+
+  <li><a href="epsg/3317/index.html">EPSG:3317</a>: Kasai 1953 / Congo TM zone 24</li>
+
+  <li><a href="epsg/3318/index.html">EPSG:3318</a>: IGC 1962 / Congo TM zone 12</li>
+
+  <li><a href="epsg/3319/index.html">EPSG:3319</a>: IGC 1962 / Congo TM zone 14</li>
+
+  <li><a href="epsg/3320/index.html">EPSG:3320</a>: IGC 1962 / Congo TM zone 16</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=27">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=29">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

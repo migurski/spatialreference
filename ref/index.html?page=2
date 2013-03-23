@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=1">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=3">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/55/index.html">SR-ORG:55</a>: test8</li>
+
+  <li><a href="sr-org/56/index.html">SR-ORG:56</a>: EPSG:31370 (correct datum shift)</li>
+
+  <li><a href="sr-org/62/index.html">SR-ORG:62</a>: Albers Equal Area</li>
+
+  <li><a href="sr-org/64/index.html">SR-ORG:64</a>: Slovenia GK modified</li>
+
+  <li><a href="sr-org/65/index.html">SR-ORG:65</a>: EPSG:258320</li>
+
+  <li><a href="sr-org/79/index.html">SR-ORG:79</a>: I would like to find correct Projection for my da</li>
+
+  <li><a href="sr-org/80/index.html">SR-ORG:80</a>: Sphere_ARC_INFO_Lambert_Azimuthal_Equal_Area</li>
+
+  <li><a href="sr-org/81/index.html">SR-ORG:81</a>: Geostationary Satellite View</li>
+
+  <li><a href="sr-org/82/index.html">SR-ORG:82</a>: NAD_1983_BC_Environment_Albers</li>
+
+  <li><a href="sr-org/83/index.html">SR-ORG:83</a>: NAD_1927_Albers Alaska Meters</li>
+
+  <li><a href="sr-org/84/index.html">SR-ORG:84</a>: PCS_Albers</li>
+
+  <li><a href="sr-org/85/index.html">SR-ORG:85</a>: NAD_1983_HARN_StatePlane_Florida_East_FIPS_0901_Feet</li>
+
+  <li><a href="sr-org/86/index.html">SR-ORG:86</a>: SAD69 / Brazil Polyconic Zeroed False Northing and Easting</li>
+
+  <li><a href="sr-org/87/index.html">SR-ORG:87</a>: Ba</li>
+
+  <li><a href="sr-org/89/index.html">SR-ORG:89</a>: pytest</li>
+
+  <li><a href="sr-org/90/index.html">SR-ORG:90</a>: pytest2</li>
+
+  <li><a href="sr-org/91/index.html">SR-ORG:91</a>: essai</li>
+
+  <li><a href="sr-org/93/index.html">SR-ORG:93</a>: test3</li>
+
+  <li><a href="sr-org/94/index.html">SR-ORG:94</a>: Sphere_Vertical_Perspective</li>
+
+  <li><a href="sr-org/95/index.html">SR-ORG:95</a>: Google Maps/Microsoft Live</li>
+
+  <li><a href="sr-org/98/index.html">SR-ORG:98</a>: Mapy.cz Projection</li>
+
+  <li><a href="sr-org/99/index.html">SR-ORG:99</a>: Tonga Map Grid 2005</li>
+
+  <li><a href="sr-org/100/index.html">SR-ORG:100</a>: Alabama State Plane East Ft.</li>
+
+  <li><a href="sr-org/101/index.html">SR-ORG:101</a>: West Virginia State Plane North Ft</li>
+
+  <li><a href="sr-org/102/index.html">SR-ORG:102</a>: Poland 1942 strefa 3</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/103/index.html">SR-ORG:103</a>: Poland 1942 strefa 4</li>
+
+  <li><a href="sr-org/105/index.html">SR-ORG:105</a>: Albers Conical Equal Area (Florida Geographic Data Library)</li>
+
+  <li><a href="sr-org/106/index.html">SR-ORG:106</a>: unnamed</li>
+
+  <li><a href="sr-org/107/index.html">SR-ORG:107</a>: PND1925</li>
+
+  <li><a href="sr-org/108/index.html">SR-ORG:108</a>: test</li>
+
+  <li><a href="sr-org/110/index.html">SR-ORG:110</a>: NAD_1983_HARN_StatePlane_Washington_North_FIPS_4601_Feet</li>
+
+  <li><a href="sr-org/111/index.html">SR-ORG:111</a>: UTM Zone 31, Clarke 1866</li>
+
+  <li><a href="sr-org/113/index.html">SR-ORG:113</a>: EPSG:42304</li>
+
+  <li><a href="sr-org/116/index.html">SR-ORG:116</a>: TWD-97</li>
+
+  <li><a href="sr-org/117/index.html">SR-ORG:117</a>: TWD-67</li>
+
+  <li><a href="sr-org/118/index.html">SR-ORG:118</a>: EPSG:27200</li>
+
+  <li><a href="sr-org/120/index.html">SR-ORG:120</a>: ESRI:102172</li>
+
+  <li><a href="sr-org/123/index.html">SR-ORG:123</a>: custom </li>
+
+  <li><a href="epsg/2000/index.html">EPSG:2000</a>: Anguilla 1957 / British West Indies Grid</li>
+
+  <li><a href="epsg/2001/index.html">EPSG:2001</a>: Antigua 1943 / British West Indies Grid</li>
+
+  <li><a href="epsg/2002/index.html">EPSG:2002</a>: Dominica 1945 / British West Indies Grid</li>
+
+  <li><a href="epsg/2003/index.html">EPSG:2003</a>: Grenada 1953 / British West Indies Grid</li>
+
+  <li><a href="epsg/2004/index.html">EPSG:2004</a>: Montserrat 1958 / British West Indies Grid</li>
+
+  <li><a href="epsg/2005/index.html">EPSG:2005</a>: St. Kitts 1955 / British West Indies Grid</li>
+
+  <li><a href="epsg/2006/index.html">EPSG:2006</a>: St. Lucia 1955 / British West Indies Grid</li>
+
+  <li><a href="epsg/2007/index.html">EPSG:2007</a>: St. Vincent 45 / British West Indies Grid</li>
+
+  <li><a href="epsg/2008/index.html">EPSG:2008</a>: NAD27(CGQ77) / SCoPQ zone 2</li>
+
+  <li><a href="epsg/2009/index.html">EPSG:2009</a>: NAD27(CGQ77) / SCoPQ zone 3</li>
+
+  <li><a href="epsg/2010/index.html">EPSG:2010</a>: NAD27(CGQ77) / SCoPQ zone 4</li>
+
+  <li><a href="epsg/2011/index.html">EPSG:2011</a>: NAD27(CGQ77) / SCoPQ zone 5</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=1">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=3">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

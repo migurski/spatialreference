@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=11">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=13">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/2470/index.html">EPSG:2470</a>: Pulkovo 1995 / Gauss-Kruger CM 63E</li>
+
+  <li><a href="epsg/2471/index.html">EPSG:2471</a>: Pulkovo 1995 / Gauss-Kruger CM 69E</li>
+
+  <li><a href="epsg/2472/index.html">EPSG:2472</a>: Pulkovo 1995 / Gauss-Kruger CM 75E</li>
+
+  <li><a href="epsg/2473/index.html">EPSG:2473</a>: Pulkovo 1995 / Gauss-Kruger CM 81E</li>
+
+  <li><a href="epsg/2474/index.html">EPSG:2474</a>: Pulkovo 1995 / Gauss-Kruger CM 87E</li>
+
+  <li><a href="epsg/2475/index.html">EPSG:2475</a>: Pulkovo 1995 / Gauss-Kruger CM 93E</li>
+
+  <li><a href="epsg/2476/index.html">EPSG:2476</a>: Pulkovo 1995 / Gauss-Kruger CM 99E</li>
+
+  <li><a href="epsg/2477/index.html">EPSG:2477</a>: Pulkovo 1995 / Gauss-Kruger CM 105E</li>
+
+  <li><a href="epsg/2478/index.html">EPSG:2478</a>: Pulkovo 1995 / Gauss-Kruger CM 111E</li>
+
+  <li><a href="epsg/2479/index.html">EPSG:2479</a>: Pulkovo 1995 / Gauss-Kruger CM 117E</li>
+
+  <li><a href="epsg/2480/index.html">EPSG:2480</a>: Pulkovo 1995 / Gauss-Kruger CM 123E</li>
+
+  <li><a href="epsg/2481/index.html">EPSG:2481</a>: Pulkovo 1995 / Gauss-Kruger CM 129E</li>
+
+  <li><a href="epsg/2482/index.html">EPSG:2482</a>: Pulkovo 1995 / Gauss-Kruger CM 135E</li>
+
+  <li><a href="epsg/2483/index.html">EPSG:2483</a>: Pulkovo 1995 / Gauss-Kruger CM 141E</li>
+
+  <li><a href="epsg/2484/index.html">EPSG:2484</a>: Pulkovo 1995 / Gauss-Kruger CM 147E</li>
+
+  <li><a href="epsg/2485/index.html">EPSG:2485</a>: Pulkovo 1995 / Gauss-Kruger CM 153E</li>
+
+  <li><a href="epsg/2486/index.html">EPSG:2486</a>: Pulkovo 1995 / Gauss-Kruger CM 159E</li>
+
+  <li><a href="epsg/2487/index.html">EPSG:2487</a>: Pulkovo 1995 / Gauss-Kruger CM 165E</li>
+
+  <li><a href="epsg/2488/index.html">EPSG:2488</a>: Pulkovo 1995 / Gauss-Kruger CM 171E</li>
+
+  <li><a href="epsg/2489/index.html">EPSG:2489</a>: Pulkovo 1995 / Gauss-Kruger CM 177E</li>
+
+  <li><a href="epsg/2490/index.html">EPSG:2490</a>: Pulkovo 1995 / Gauss-Kruger CM 177W</li>
+
+  <li><a href="epsg/2491/index.html">EPSG:2491</a>: Pulkovo 1995 / Gauss-Kruger CM 171W</li>
+
+  <li><a href="epsg/2492/index.html">EPSG:2492</a>: Pulkovo 1942 / Gauss-Kruger CM 9E</li>
+
+  <li><a href="epsg/2493/index.html">EPSG:2493</a>: Pulkovo 1942 / Gauss-Kruger CM 15E</li>
+
+  <li><a href="epsg/2494/index.html">EPSG:2494</a>: Pulkovo 1942 / Gauss-Kruger CM 21E</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/2495/index.html">EPSG:2495</a>: Pulkovo 1942 / Gauss-Kruger CM 27E</li>
+
+  <li><a href="epsg/2496/index.html">EPSG:2496</a>: Pulkovo 1942 / Gauss-Kruger CM 33E</li>
+
+  <li><a href="epsg/2497/index.html">EPSG:2497</a>: Pulkovo 1942 / Gauss-Kruger CM 39E</li>
+
+  <li><a href="epsg/2498/index.html">EPSG:2498</a>: Pulkovo 1942 / Gauss-Kruger CM 45E</li>
+
+  <li><a href="epsg/2499/index.html">EPSG:2499</a>: Pulkovo 1942 / Gauss-Kruger CM 51E</li>
+
+  <li><a href="epsg/2500/index.html">EPSG:2500</a>: Pulkovo 1942 / Gauss-Kruger CM 57E</li>
+
+  <li><a href="epsg/2501/index.html">EPSG:2501</a>: Pulkovo 1942 / Gauss-Kruger CM 63E</li>
+
+  <li><a href="epsg/2502/index.html">EPSG:2502</a>: Pulkovo 1942 / Gauss-Kruger CM 69E</li>
+
+  <li><a href="epsg/2503/index.html">EPSG:2503</a>: Pulkovo 1942 / Gauss-Kruger CM 75E</li>
+
+  <li><a href="epsg/2504/index.html">EPSG:2504</a>: Pulkovo 1942 / Gauss-Kruger CM 81E</li>
+
+  <li><a href="epsg/2505/index.html">EPSG:2505</a>: Pulkovo 1942 / Gauss-Kruger CM 87E</li>
+
+  <li><a href="epsg/2506/index.html">EPSG:2506</a>: Pulkovo 1942 / Gauss-Kruger CM 93E</li>
+
+  <li><a href="epsg/2507/index.html">EPSG:2507</a>: Pulkovo 1942 / Gauss-Kruger CM 99E</li>
+
+  <li><a href="epsg/2508/index.html">EPSG:2508</a>: Pulkovo 1942 / Gauss-Kruger CM 105E</li>
+
+  <li><a href="epsg/2509/index.html">EPSG:2509</a>: Pulkovo 1942 / Gauss-Kruger CM 111E</li>
+
+  <li><a href="epsg/2510/index.html">EPSG:2510</a>: Pulkovo 1942 / Gauss-Kruger CM 117E</li>
+
+  <li><a href="epsg/2511/index.html">EPSG:2511</a>: Pulkovo 1942 / Gauss-Kruger CM 123E</li>
+
+  <li><a href="epsg/2512/index.html">EPSG:2512</a>: Pulkovo 1942 / Gauss-Kruger CM 129E</li>
+
+  <li><a href="epsg/2513/index.html">EPSG:2513</a>: Pulkovo 1942 / Gauss-Kruger CM 135E</li>
+
+  <li><a href="epsg/2514/index.html">EPSG:2514</a>: Pulkovo 1942 / Gauss-Kruger CM 141E</li>
+
+  <li><a href="epsg/2515/index.html">EPSG:2515</a>: Pulkovo 1942 / Gauss-Kruger CM 147E</li>
+
+  <li><a href="epsg/2516/index.html">EPSG:2516</a>: Pulkovo 1942 / Gauss-Kruger CM 153E</li>
+
+  <li><a href="epsg/2517/index.html">EPSG:2517</a>: Pulkovo 1942 / Gauss-Kruger CM 159E</li>
+
+  <li><a href="epsg/2518/index.html">EPSG:2518</a>: Pulkovo 1942 / Gauss-Kruger CM 165E</li>
+
+  <li><a href="epsg/2519/index.html">EPSG:2519</a>: Pulkovo 1942 / Gauss-Kruger CM 171E</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=11">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=13">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

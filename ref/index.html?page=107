@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=106">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=108">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/32730/index.html">EPSG:32730</a>: WGS 84 / UTM zone 30S</li>
+
+  <li><a href="epsg/32731/index.html">EPSG:32731</a>: WGS 84 / UTM zone 31S</li>
+
+  <li><a href="epsg/32732/index.html">EPSG:32732</a>: WGS 84 / UTM zone 32S</li>
+
+  <li><a href="epsg/32733/index.html">EPSG:32733</a>: WGS 84 / UTM zone 33S</li>
+
+  <li><a href="epsg/32734/index.html">EPSG:32734</a>: WGS 84 / UTM zone 34S</li>
+
+  <li><a href="epsg/32735/index.html">EPSG:32735</a>: WGS 84 / UTM zone 35S</li>
+
+  <li><a href="epsg/32736/index.html">EPSG:32736</a>: WGS 84 / UTM zone 36S</li>
+
+  <li><a href="epsg/32737/index.html">EPSG:32737</a>: WGS 84 / UTM zone 37S</li>
+
+  <li><a href="epsg/32738/index.html">EPSG:32738</a>: WGS 84 / UTM zone 38S</li>
+
+  <li><a href="epsg/32739/index.html">EPSG:32739</a>: WGS 84 / UTM zone 39S</li>
+
+  <li><a href="epsg/32740/index.html">EPSG:32740</a>: WGS 84 / UTM zone 40S</li>
+
+  <li><a href="epsg/32741/index.html">EPSG:32741</a>: WGS 84 / UTM zone 41S</li>
+
+  <li><a href="epsg/32742/index.html">EPSG:32742</a>: WGS 84 / UTM zone 42S</li>
+
+  <li><a href="epsg/32743/index.html">EPSG:32743</a>: WGS 84 / UTM zone 43S</li>
+
+  <li><a href="epsg/32744/index.html">EPSG:32744</a>: WGS 84 / UTM zone 44S</li>
+
+  <li><a href="epsg/32745/index.html">EPSG:32745</a>: WGS 84 / UTM zone 45S</li>
+
+  <li><a href="epsg/32746/index.html">EPSG:32746</a>: WGS 84 / UTM zone 46S</li>
+
+  <li><a href="epsg/32747/index.html">EPSG:32747</a>: WGS 84 / UTM zone 47S</li>
+
+  <li><a href="epsg/32748/index.html">EPSG:32748</a>: WGS 84 / UTM zone 48S</li>
+
+  <li><a href="epsg/32749/index.html">EPSG:32749</a>: WGS 84 / UTM zone 49S</li>
+
+  <li><a href="epsg/32750/index.html">EPSG:32750</a>: WGS 84 / UTM zone 50S</li>
+
+  <li><a href="epsg/32751/index.html">EPSG:32751</a>: WGS 84 / UTM zone 51S</li>
+
+  <li><a href="epsg/32752/index.html">EPSG:32752</a>: WGS 84 / UTM zone 52S</li>
+
+  <li><a href="epsg/32753/index.html">EPSG:32753</a>: WGS 84 / UTM zone 53S</li>
+
+  <li><a href="epsg/32754/index.html">EPSG:32754</a>: WGS 84 / UTM zone 54S</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/32755/index.html">EPSG:32755</a>: WGS 84 / UTM zone 55S</li>
+
+  <li><a href="epsg/32756/index.html">EPSG:32756</a>: WGS 84 / UTM zone 56S</li>
+
+  <li><a href="epsg/32757/index.html">EPSG:32757</a>: WGS 84 / UTM zone 57S</li>
+
+  <li><a href="epsg/32758/index.html">EPSG:32758</a>: WGS 84 / UTM zone 58S</li>
+
+  <li><a href="epsg/32759/index.html">EPSG:32759</a>: WGS 84 / UTM zone 59S</li>
+
+  <li><a href="epsg/32760/index.html">EPSG:32760</a>: WGS 84 / UTM zone 60S</li>
+
+  <li><a href="epsg/32761/index.html">EPSG:32761</a>: WGS 84 / UPS South</li>
+
+  <li><a href="epsg/32766/index.html">EPSG:32766</a>: WGS 84 / TM 36 SE</li>
+
+  <li><a href="esri/37001/index.html">ESRI:37001</a>: GCS WGS 1966</li>
+
+  <li><a href="esri/37002/index.html">ESRI:37002</a>: GCS Fischer 1960</li>
+
+  <li><a href="esri/37003/index.html">ESRI:37003</a>: GCS Fischer 1968</li>
+
+  <li><a href="esri/37004/index.html">ESRI:37004</a>: GCS Fischer Modified</li>
+
+  <li><a href="esri/37005/index.html">ESRI:37005</a>: GCS Hough 1960</li>
+
+  <li><a href="esri/37006/index.html">ESRI:37006</a>: GCS Everest Modified 1969</li>
+
+  <li><a href="esri/37007/index.html">ESRI:37007</a>: GCS Walbeck</li>
+
+  <li><a href="esri/37008/index.html">ESRI:37008</a>: GCS Sphere ARC INFO</li>
+
+  <li><a href="esri/37201/index.html">ESRI:37201</a>: GCS European 1979</li>
+
+  <li><a href="esri/37202/index.html">ESRI:37202</a>: GCS Everest Bangladesh</li>
+
+  <li><a href="esri/37203/index.html">ESRI:37203</a>: GCS Everest India Nepal</li>
+
+  <li><a href="esri/37204/index.html">ESRI:37204</a>: GCS Hjorsey 1955</li>
+
+  <li><a href="esri/37205/index.html">ESRI:37205</a>: GCS Hong Kong 1963</li>
+
+  <li><a href="esri/37206/index.html">ESRI:37206</a>: GCS Oman</li>
+
+  <li><a href="esri/37207/index.html">ESRI:37207</a>: GCS South Asia Singapore</li>
+
+  <li><a href="esri/37208/index.html">ESRI:37208</a>: GCS Ayabelle</li>
+
+  <li><a href="esri/37211/index.html">ESRI:37211</a>: GCS Point 58</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=106">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=108">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

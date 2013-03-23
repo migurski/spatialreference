@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=82">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=84">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/24373/index.html">EPSG:24373</a>: Kalianpur 1880 / India zone III</li>
+
+  <li><a href="epsg/24374/index.html">EPSG:24374</a>: Kalianpur 1880 / India zone IV</li>
+
+  <li><a href="epsg/24375/index.html">EPSG:24375</a>: Kalianpur 1937 / India zone IIb</li>
+
+  <li><a href="epsg/24376/index.html">EPSG:24376</a>: Kalianpur 1962 / India zone I</li>
+
+  <li><a href="epsg/24377/index.html">EPSG:24377</a>: Kalianpur 1962 / India zone IIa</li>
+
+  <li><a href="epsg/24378/index.html">EPSG:24378</a>: Kalianpur 1975 / India zone I</li>
+
+  <li><a href="epsg/24379/index.html">EPSG:24379</a>: Kalianpur 1975 / India zone IIa</li>
+
+  <li><a href="epsg/24380/index.html">EPSG:24380</a>: Kalianpur 1975 / India zone IIb</li>
+
+  <li><a href="epsg/24381/index.html">EPSG:24381</a>: Kalianpur 1975 / India zone III</li>
+
+  <li><a href="epsg/24382/index.html">EPSG:24382</a>: Kalianpur 1880 / India zone IIb</li>
+
+  <li><a href="epsg/24383/index.html">EPSG:24383</a>: Kalianpur 1975 / India zone IV</li>
+
+  <li><a href="epsg/24500/index.html">EPSG:24500</a>: Kertau 1968 / Singapore Grid</li>
+
+  <li><a href="epsg/24547/index.html">EPSG:24547</a>: Kertau 1968 / UTM zone 47N</li>
+
+  <li><a href="epsg/24548/index.html">EPSG:24548</a>: Kertau 1968 / UTM zone 48N</li>
+
+  <li><a href="epsg/24571/index.html">EPSG:24571</a>: Kertau / R.S.O. Malaya (ch)</li>
+
+  <li><a href="epsg/24600/index.html">EPSG:24600</a>: KOC Lambert</li>
+
+  <li><a href="epsg/24718/index.html">EPSG:24718</a>: La Canoa / UTM zone 18N</li>
+
+  <li><a href="epsg/24719/index.html">EPSG:24719</a>: La Canoa / UTM zone 19N</li>
+
+  <li><a href="epsg/24720/index.html">EPSG:24720</a>: La Canoa / UTM zone 20N</li>
+
+  <li><a href="epsg/24817/index.html">EPSG:24817</a>: PSAD56 / UTM zone 17N</li>
+
+  <li><a href="epsg/24818/index.html">EPSG:24818</a>: PSAD56 / UTM zone 18N</li>
+
+  <li><a href="epsg/24819/index.html">EPSG:24819</a>: PSAD56 / UTM zone 19N</li>
+
+  <li><a href="epsg/24820/index.html">EPSG:24820</a>: PSAD56 / UTM zone 20N</li>
+
+  <li><a href="epsg/24821/index.html">EPSG:24821</a>: PSAD56 / UTM zone 21N</li>
+
+  <li><a href="epsg/24877/index.html">EPSG:24877</a>: PSAD56 / UTM zone 17S</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/24878/index.html">EPSG:24878</a>: PSAD56 / UTM zone 18S</li>
+
+  <li><a href="epsg/24879/index.html">EPSG:24879</a>: PSAD56 / UTM zone 19S</li>
+
+  <li><a href="epsg/24880/index.html">EPSG:24880</a>: PSAD56 / UTM zone 20S</li>
+
+  <li><a href="epsg/24881/index.html">EPSG:24881</a>: PSAD56 / UTM zone 21S</li>
+
+  <li><a href="epsg/24882/index.html">EPSG:24882</a>: PSAD56 / UTM zone 22S</li>
+
+  <li><a href="epsg/24891/index.html">EPSG:24891</a>: PSAD56 / Peru west zone</li>
+
+  <li><a href="epsg/24892/index.html">EPSG:24892</a>: PSAD56 / Peru central zone</li>
+
+  <li><a href="epsg/24893/index.html">EPSG:24893</a>: PSAD56 / Peru east zone</li>
+
+  <li><a href="epsg/25000/index.html">EPSG:25000</a>: Leigon / Ghana Metre Grid</li>
+
+  <li><a href="epsg/25231/index.html">EPSG:25231</a>: Lome / UTM zone 31N</li>
+
+  <li><a href="epsg/25391/index.html">EPSG:25391</a>: Luzon 1911 / Philippines zone I</li>
+
+  <li><a href="epsg/25392/index.html">EPSG:25392</a>: Luzon 1911 / Philippines zone II</li>
+
+  <li><a href="epsg/25393/index.html">EPSG:25393</a>: Luzon 1911 / Philippines zone III</li>
+
+  <li><a href="epsg/25394/index.html">EPSG:25394</a>: Luzon 1911 / Philippines zone IV</li>
+
+  <li><a href="epsg/25395/index.html">EPSG:25395</a>: Luzon 1911 / Philippines zone V</li>
+
+  <li><a href="epsg/25700/index.html">EPSG:25700</a>: Makassar (Jakarta) / NEIEZ</li>
+
+  <li><a href="epsg/25828/index.html">EPSG:25828</a>: ETRS89 / UTM zone 28N</li>
+
+  <li><a href="epsg/25829/index.html">EPSG:25829</a>: ETRS89 / UTM zone 29N</li>
+
+  <li><a href="epsg/25830/index.html">EPSG:25830</a>: ETRS89 / UTM zone 30N</li>
+
+  <li><a href="epsg/25831/index.html">EPSG:25831</a>: ETRS89 / UTM zone 31N</li>
+
+  <li><a href="epsg/25832/index.html">EPSG:25832</a>: ETRS89 / UTM zone 32N</li>
+
+  <li><a href="epsg/25833/index.html">EPSG:25833</a>: ETRS89 / UTM zone 33N</li>
+
+  <li><a href="epsg/25834/index.html">EPSG:25834</a>: ETRS89 / UTM zone 34N</li>
+
+  <li><a href="epsg/25835/index.html">EPSG:25835</a>: ETRS89 / UTM zone 35N</li>
+
+  <li><a href="epsg/25836/index.html">EPSG:25836</a>: ETRS89 / UTM zone 36N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=82">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=84">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

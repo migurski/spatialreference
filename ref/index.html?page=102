@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=101">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=103">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/32329/index.html">EPSG:32329</a>: WGS 72 / UTM zone 29S</li>
+
+  <li><a href="epsg/32330/index.html">EPSG:32330</a>: WGS 72 / UTM zone 30S</li>
+
+  <li><a href="epsg/32331/index.html">EPSG:32331</a>: WGS 72 / UTM zone 31S</li>
+
+  <li><a href="epsg/32332/index.html">EPSG:32332</a>: WGS 72 / UTM zone 32S</li>
+
+  <li><a href="epsg/32333/index.html">EPSG:32333</a>: WGS 72 / UTM zone 33S</li>
+
+  <li><a href="epsg/32334/index.html">EPSG:32334</a>: WGS 72 / UTM zone 34S</li>
+
+  <li><a href="epsg/32335/index.html">EPSG:32335</a>: WGS 72 / UTM zone 35S</li>
+
+  <li><a href="epsg/32336/index.html">EPSG:32336</a>: WGS 72 / UTM zone 36S</li>
+
+  <li><a href="epsg/32337/index.html">EPSG:32337</a>: WGS 72 / UTM zone 37S</li>
+
+  <li><a href="epsg/32338/index.html">EPSG:32338</a>: WGS 72 / UTM zone 38S</li>
+
+  <li><a href="epsg/32339/index.html">EPSG:32339</a>: WGS 72 / UTM zone 39S</li>
+
+  <li><a href="epsg/32340/index.html">EPSG:32340</a>: WGS 72 / UTM zone 40S</li>
+
+  <li><a href="epsg/32341/index.html">EPSG:32341</a>: WGS 72 / UTM zone 41S</li>
+
+  <li><a href="epsg/32342/index.html">EPSG:32342</a>: WGS 72 / UTM zone 42S</li>
+
+  <li><a href="epsg/32343/index.html">EPSG:32343</a>: WGS 72 / UTM zone 43S</li>
+
+  <li><a href="epsg/32344/index.html">EPSG:32344</a>: WGS 72 / UTM zone 44S</li>
+
+  <li><a href="epsg/32345/index.html">EPSG:32345</a>: WGS 72 / UTM zone 45S</li>
+
+  <li><a href="epsg/32346/index.html">EPSG:32346</a>: WGS 72 / UTM zone 46S</li>
+
+  <li><a href="epsg/32347/index.html">EPSG:32347</a>: WGS 72 / UTM zone 47S</li>
+
+  <li><a href="epsg/32348/index.html">EPSG:32348</a>: WGS 72 / UTM zone 48S</li>
+
+  <li><a href="epsg/32349/index.html">EPSG:32349</a>: WGS 72 / UTM zone 49S</li>
+
+  <li><a href="epsg/32350/index.html">EPSG:32350</a>: WGS 72 / UTM zone 50S</li>
+
+  <li><a href="epsg/32351/index.html">EPSG:32351</a>: WGS 72 / UTM zone 51S</li>
+
+  <li><a href="epsg/32352/index.html">EPSG:32352</a>: WGS 72 / UTM zone 52S</li>
+
+  <li><a href="epsg/32353/index.html">EPSG:32353</a>: WGS 72 / UTM zone 53S</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/32354/index.html">EPSG:32354</a>: WGS 72 / UTM zone 54S</li>
+
+  <li><a href="epsg/32355/index.html">EPSG:32355</a>: WGS 72 / UTM zone 55S</li>
+
+  <li><a href="epsg/32356/index.html">EPSG:32356</a>: WGS 72 / UTM zone 56S</li>
+
+  <li><a href="epsg/32357/index.html">EPSG:32357</a>: WGS 72 / UTM zone 57S</li>
+
+  <li><a href="epsg/32358/index.html">EPSG:32358</a>: WGS 72 / UTM zone 58S</li>
+
+  <li><a href="epsg/32359/index.html">EPSG:32359</a>: WGS 72 / UTM zone 59S</li>
+
+  <li><a href="epsg/32360/index.html">EPSG:32360</a>: WGS 72 / UTM zone 60S</li>
+
+  <li><a href="epsg/32401/index.html">EPSG:32401</a>: WGS 72BE / UTM zone 1N</li>
+
+  <li><a href="epsg/32402/index.html">EPSG:32402</a>: WGS 72BE / UTM zone 2N</li>
+
+  <li><a href="epsg/32403/index.html">EPSG:32403</a>: WGS 72BE / UTM zone 3N</li>
+
+  <li><a href="epsg/32404/index.html">EPSG:32404</a>: WGS 72BE / UTM zone 4N</li>
+
+  <li><a href="epsg/32405/index.html">EPSG:32405</a>: WGS 72BE / UTM zone 5N</li>
+
+  <li><a href="epsg/32406/index.html">EPSG:32406</a>: WGS 72BE / UTM zone 6N</li>
+
+  <li><a href="epsg/32407/index.html">EPSG:32407</a>: WGS 72BE / UTM zone 7N</li>
+
+  <li><a href="epsg/32408/index.html">EPSG:32408</a>: WGS 72BE / UTM zone 8N</li>
+
+  <li><a href="epsg/32409/index.html">EPSG:32409</a>: WGS 72BE / UTM zone 9N</li>
+
+  <li><a href="epsg/32410/index.html">EPSG:32410</a>: WGS 72BE / UTM zone 10N</li>
+
+  <li><a href="epsg/32411/index.html">EPSG:32411</a>: WGS 72BE / UTM zone 11N</li>
+
+  <li><a href="epsg/32412/index.html">EPSG:32412</a>: WGS 72BE / UTM zone 12N</li>
+
+  <li><a href="epsg/32413/index.html">EPSG:32413</a>: WGS 72BE / UTM zone 13N</li>
+
+  <li><a href="epsg/32414/index.html">EPSG:32414</a>: WGS 72BE / UTM zone 14N</li>
+
+  <li><a href="epsg/32415/index.html">EPSG:32415</a>: WGS 72BE / UTM zone 15N</li>
+
+  <li><a href="epsg/32416/index.html">EPSG:32416</a>: WGS 72BE / UTM zone 16N</li>
+
+  <li><a href="epsg/32417/index.html">EPSG:32417</a>: WGS 72BE / UTM zone 17N</li>
+
+  <li><a href="epsg/32418/index.html">EPSG:32418</a>: WGS 72BE / UTM zone 18N</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=101">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=103">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

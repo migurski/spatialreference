@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=61">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=63">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/6976/index.html">SR-ORG:6976</a>: test2</li>
+
+  <li><a href="sr-org/6977/index.html">SR-ORG:6977</a>: test</li>
+
+  <li><a href="sr-org/6978/index.html">SR-ORG:6978</a>: Van der Grinten</li>
+
+  <li><a href="sr-org/6979/index.html">SR-ORG:6979</a>: Test</li>
+
+  <li><a href="sr-org/6980/index.html">SR-ORG:6980</a>: World from space</li>
+
+  <li><a href="sr-org/6981/index.html">SR-ORG:6981</a>: Mercator (shpere)</li>
+
+  <li><a href="sr-org/6982/index.html">SR-ORG:6982</a>: test cs</li>
+
+  <li><a href="sr-org/6983/index.html">SR-ORG:6983</a>: NAD_1983_HARN_Adj_WI_EauClaire_Feet</li>
+
+  <li><a href="sr-org/6984/index.html">SR-ORG:6984</a>: TEST</li>
+
+  <li><a href="sr-org/6985/index.html">SR-ORG:6985</a>: SawyerCoWi Wiscrs</li>
+
+  <li><a href="sr-org/6986/index.html">SR-ORG:6986</a>: custom turkey proj</li>
+
+  <li><a href="sr-org/6987/index.html">SR-ORG:6987</a>: sp_lamb_wgs_1984</li>
+
+  <li><a href="sr-org/6988/index.html">SR-ORG:6988</a>: ssdf</li>
+
+  <li><a href="sr-org/6989/index.html">SR-ORG:6989</a>: Lambert IMPETUS Marokko</li>
+
+  <li><a href="sr-org/6990/index.html">SR-ORG:6990</a>: test</li>
+
+  <li><a href="sr-org/6991/index.html">SR-ORG:6991</a>: IGNF:GEOPORTALASP</li>
+
+  <li><a href="sr-org/6992/index.html">SR-ORG:6992</a>: CRTM90-WGS84</li>
+
+  <li><a href="sr-org/6993/index.html">SR-ORG:6993</a>: CRTM90-WGS84</li>
+
+  <li><a href="sr-org/6994/index.html">SR-ORG:6994</a>: test</li>
+
+  <li><a href="sr-org/6995/index.html">SR-ORG:6995</a>: Malaysia_Cassini_Selangor</li>
+
+  <li><a href="sr-org/6996/index.html">SR-ORG:6996</a>: Malaysia Cassini Selangor1</li>
+
+  <li><a href="sr-org/6997/index.html">SR-ORG:6997</a>: Datum_73</li>
+
+  <li><a href="sr-org/6998/index.html">SR-ORG:6998</a>: test</li>
+
+  <li><a href="sr-org/6999/index.html">SR-ORG:6999</a>: my proj</li>
+
+  <li><a href="sr-org/7000/index.html">SR-ORG:7000</a>: NAD_1983_StatePlane_Wyoming_East_Central_FIPS_4902_Feet1</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7001/index.html">SR-ORG:7001</a>: 1</li>
+
+  <li><a href="sr-org/7002/index.html">SR-ORG:7002</a>: test</li>
+
+  <li><a href="sr-org/7003/index.html">SR-ORG:7003</a>: jj</li>
+
+  <li><a href="sr-org/7004/index.html">SR-ORG:7004</a>: CAD-RYO-001</li>
+
+  <li><a href="sr-org/7005/index.html">SR-ORG:7005</a>: Some kind of projection</li>
+
+  <li><a href="sr-org/7006/index.html">SR-ORG:7006</a>: Turkish Lambert Conformal (K.Eren - ED50)</li>
+
+  <li><a href="sr-org/7007/index.html">SR-ORG:7007</a>: test</li>
+
+  <li><a href="sr-org/7008/index.html">SR-ORG:7008</a>: RTD Denver Bus Routes</li>
+
+  <li><a href="sr-org/7009/index.html">SR-ORG:7009</a>: GK 5 Croatia</li>
+
+  <li><a href="sr-org/7010/index.html">SR-ORG:7010</a>: GK 6 Croatia</li>
+
+  <li><a href="sr-org/7011/index.html">SR-ORG:7011</a>: Gauss Krueger SLO</li>
+
+  <li><a href="sr-org/7012/index.html">SR-ORG:7012</a>: NAD 83 State Plane Montana Fips</li>
+
+  <li><a href="sr-org/7013/index.html">SR-ORG:7013</a>: LCC</li>
+
+  <li><a href="sr-org/7014/index.html">SR-ORG:7014</a>: Malaysia Cassini Pahang</li>
+
+  <li><a href="sr-org/7015/index.html">SR-ORG:7015</a>: WB_TEST_PROJ</li>
+
+  <li><a href="sr-org/7016/index.html">SR-ORG:7016</a>: EPSG:3003 With towgs84 params</li>
+
+  <li><a href="sr-org/7017/index.html">SR-ORG:7017</a>: Cassini Pahang</li>
+
+  <li><a href="sr-org/7018/index.html">SR-ORG:7018</a>: My personal projection</li>
+
+  <li><a href="sr-org/7019/index.html">SR-ORG:7019</a>: RADOLAN</li>
+
+  <li><a href="sr-org/7020/index.html">SR-ORG:7020</a>: Realtor_neighbourhood</li>
+
+  <li><a href="sr-org/7021/index.html">SR-ORG:7021</a>: prova</li>
+
+  <li><a href="sr-org/7022/index.html">SR-ORG:7022</a>: NAD_83_HARN_Adj_WI_Washburn_Feet</li>
+
+  <li><a href="sr-org/7023/index.html">SR-ORG:7023</a>: Brown_County_WI</li>
+
+  <li><a href="sr-org/7024/index.html">SR-ORG:7024</a>: UTM51N_WGS84datum_Clark1866spheroid</li>
+
+  <li><a href="sr-org/7025/index.html">SR-ORG:7025</a>: Dont know what it is</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=61">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=63">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

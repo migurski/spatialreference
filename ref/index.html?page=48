@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=47">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=49">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4710/index.html">EPSG:4710</a>: St. Helena 1971</li>
+
+  <li><a href="epsg/4711/index.html">EPSG:4711</a>: Marcus Island 1952</li>
+
+  <li><a href="epsg/4712/index.html">EPSG:4712</a>: Ascension Island 1958</li>
+
+  <li><a href="sr-org/4713/index.html">SR-ORG:4713</a>: Lambert Maroc Zone I (Nord)</li>
+
+  <li><a href="epsg/4713/index.html">EPSG:4713</a>: Ayabelle Lighthouse</li>
+
+  <li><a href="sr-org/4714/index.html">SR-ORG:4714</a>: Lambert Maroc zone II (Agadir)</li>
+
+  <li><a href="epsg/4714/index.html">EPSG:4714</a>: Bellevue</li>
+
+  <li><a href="epsg/4715/index.html">EPSG:4715</a>: Camp Area Astro</li>
+
+  <li><a href="sr-org/4715/index.html">SR-ORG:4715</a>: Lambert Maroc Zone III (La&#39;youn)</li>
+
+  <li><a href="epsg/4716/index.html">EPSG:4716</a>: Phoenix Islands 1966</li>
+
+  <li><a href="sr-org/4716/index.html">SR-ORG:4716</a>: Lambert Maroc Zone IV (Ad-Dakhla)</li>
+
+  <li><a href="epsg/4717/index.html">EPSG:4717</a>: Cape Canaveral</li>
+
+  <li><a href="epsg/4718/index.html">EPSG:4718</a>: Solomon 1968</li>
+
+  <li><a href="epsg/4719/index.html">EPSG:4719</a>: Easter Island 1967</li>
+
+  <li><a href="epsg/4720/index.html">EPSG:4720</a>: Fiji 1986</li>
+
+  <li><a href="epsg/4721/index.html">EPSG:4721</a>: Fiji 1956</li>
+
+  <li><a href="epsg/4722/index.html">EPSG:4722</a>: South Georgia 1968</li>
+
+  <li><a href="epsg/4723/index.html">EPSG:4723</a>: Grand Cayman 1959</li>
+
+  <li><a href="sr-org/4724/index.html">SR-ORG:4724</a>: RUC</li>
+
+  <li><a href="epsg/4724/index.html">EPSG:4724</a>: Diego Garcia 1969</li>
+
+  <li><a href="epsg/4725/index.html">EPSG:4725</a>: Johnston Island 1961</li>
+
+  <li><a href="sr-org/4726/index.html">SR-ORG:4726</a>: RUC</li>
+
+  <li><a href="epsg/4726/index.html">EPSG:4726</a>: Little Cayman 1961</li>
+
+  <li><a href="epsg/4727/index.html">EPSG:4727</a>: Midway 1961</li>
+
+  <li><a href="epsg/4728/index.html">EPSG:4728</a>: Pico de la Nieves</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4729/index.html">EPSG:4729</a>: Pitcairn 1967</li>
+
+  <li><a href="epsg/4730/index.html">EPSG:4730</a>: Santo 1965</li>
+
+  <li><a href="epsg/4731/index.html">EPSG:4731</a>: Viti Levu 1916</li>
+
+  <li><a href="epsg/4732/index.html">EPSG:4732</a>: Marshall Islands 1960</li>
+
+  <li><a href="epsg/4733/index.html">EPSG:4733</a>: Wake Island 1952</li>
+
+  <li><a href="epsg/4734/index.html">EPSG:4734</a>: Tristan 1968</li>
+
+  <li><a href="epsg/4735/index.html">EPSG:4735</a>: Kusaie 1951</li>
+
+  <li><a href="epsg/4736/index.html">EPSG:4736</a>: Deception Island</li>
+
+  <li><a href="epsg/4737/index.html">EPSG:4737</a>: Korea 2000</li>
+
+  <li><a href="epsg/4738/index.html">EPSG:4738</a>: Hong Kong 1963</li>
+
+  <li><a href="epsg/4739/index.html">EPSG:4739</a>: Hong Kong 1963(67)</li>
+
+  <li><a href="epsg/4740/index.html">EPSG:4740</a>: PZ-90</li>
+
+  <li><a href="sr-org/4740/index.html">SR-ORG:4740</a>: Mercury 2000 IAU IAG</li>
+
+  <li><a href="sr-org/4741/index.html">SR-ORG:4741</a>: Mercury 2000 IAU IAG Sinusoidal 100W</li>
+
+  <li><a href="epsg/4741/index.html">EPSG:4741</a>: FD54</li>
+
+  <li><a href="epsg/4742/index.html">EPSG:4742</a>: GDM2000</li>
+
+  <li><a href="sr-org/4742/index.html">SR-ORG:4742</a>: Test WGS84</li>
+
+  <li><a href="sr-org/4743/index.html">SR-ORG:4743</a>: Test2 WGS84</li>
+
+  <li><a href="epsg/4743/index.html">EPSG:4743</a>: Karbala 1979 (Polservice)</li>
+
+  <li><a href="sr-org/4744/index.html">SR-ORG:4744</a>: Test3 WGS84</li>
+
+  <li><a href="epsg/4744/index.html">EPSG:4744</a>: Nahrwan 1934</li>
+
+  <li><a href="epsg/4745/index.html">EPSG:4745</a>: RD/83</li>
+
+  <li><a href="sr-org/4745/index.html">SR-ORG:4745</a>: Europa_2000</li>
+
+  <li><a href="epsg/4746/index.html">EPSG:4746</a>: PD/83</li>
+
+  <li><a href="epsg/4747/index.html">EPSG:4747</a>: GR96</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=47">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=49">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

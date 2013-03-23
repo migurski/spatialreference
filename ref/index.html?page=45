@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=44">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=46">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4356/index.html">EPSG:4356</a>: LKS94 (ETRS89) (geocentric)</li>
+
+  <li><a href="epsg/4357/index.html">EPSG:4357</a>: Moznet (3D)</li>
+
+  <li><a href="epsg/4358/index.html">EPSG:4358</a>: Moznet (geocentric)</li>
+
+  <li><a href="epsg/4359/index.html">EPSG:4359</a>: NAD83(CSRS) (3D)</li>
+
+  <li><a href="epsg/4360/index.html">EPSG:4360</a>: NAD83(CSRS) (geocentric)</li>
+
+  <li><a href="epsg/4361/index.html">EPSG:4361</a>: NAD83(HARN) (3D)</li>
+
+  <li><a href="epsg/4362/index.html">EPSG:4362</a>: NAD83(HARN) (geocentric)</li>
+
+  <li><a href="epsg/4363/index.html">EPSG:4363</a>: NZGD2000 (3D)</li>
+
+  <li><a href="epsg/4364/index.html">EPSG:4364</a>: NZGD2000 (geocentric)</li>
+
+  <li><a href="epsg/4365/index.html">EPSG:4365</a>: POSGAR 98 (3D)</li>
+
+  <li><a href="epsg/4366/index.html">EPSG:4366</a>: POSGAR 98 (geocentric)</li>
+
+  <li><a href="epsg/4367/index.html">EPSG:4367</a>: REGVEN (3D)</li>
+
+  <li><a href="epsg/4368/index.html">EPSG:4368</a>: REGVEN (geocentric)</li>
+
+  <li><a href="epsg/4369/index.html">EPSG:4369</a>: RGF93 (3D)</li>
+
+  <li><a href="epsg/4370/index.html">EPSG:4370</a>: RGF93 (geocentric)</li>
+
+  <li><a href="epsg/4371/index.html">EPSG:4371</a>: RGFG95 (3D)</li>
+
+  <li><a href="epsg/4372/index.html">EPSG:4372</a>: RGFG95 (geocentric)</li>
+
+  <li><a href="epsg/4373/index.html">EPSG:4373</a>: RGR92 (3D)</li>
+
+  <li><a href="epsg/4374/index.html">EPSG:4374</a>: RGR92 (geocentric)</li>
+
+  <li><a href="epsg/4375/index.html">EPSG:4375</a>: SIRGAS (3D)</li>
+
+  <li><a href="epsg/4376/index.html">EPSG:4376</a>: SIRGAS (geocentric)</li>
+
+  <li><a href="epsg/4377/index.html">EPSG:4377</a>: SWEREF99 (3D)</li>
+
+  <li><a href="epsg/4378/index.html">EPSG:4378</a>: SWEREF99 (geocentric)</li>
+
+  <li><a href="epsg/4379/index.html">EPSG:4379</a>: Yemen NGN96 (3D)</li>
+
+  <li><a href="epsg/4380/index.html">EPSG:4380</a>: Yemen NGN96 (geocentric)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4381/index.html">EPSG:4381</a>: RGNC 1991 (3D)</li>
+
+  <li><a href="epsg/4382/index.html">EPSG:4382</a>: RGNC 1991 (geocentric)</li>
+
+  <li><a href="epsg/4383/index.html">EPSG:4383</a>: RRAF 1991 (3D)</li>
+
+  <li><a href="epsg/4384/index.html">EPSG:4384</a>: RRAF 1991 (geocentric)</li>
+
+  <li><a href="epsg/4385/index.html">EPSG:4385</a>: ITRF2000 (geocentric)</li>
+
+  <li><a href="epsg/4386/index.html">EPSG:4386</a>: ISN93 (3D)</li>
+
+  <li><a href="epsg/4387/index.html">EPSG:4387</a>: ISN93 (geocentric)</li>
+
+  <li><a href="epsg/4388/index.html">EPSG:4388</a>: LKS92 (3D)</li>
+
+  <li><a href="epsg/4389/index.html">EPSG:4389</a>: LKS92 (geocentric)</li>
+
+  <li><a href="epsg/4600/index.html">EPSG:4600</a>: Anguilla 1957</li>
+
+  <li><a href="epsg/4601/index.html">EPSG:4601</a>: Antigua 1943</li>
+
+  <li><a href="epsg/4602/index.html">EPSG:4602</a>: Dominica 1945</li>
+
+  <li><a href="epsg/4603/index.html">EPSG:4603</a>: Grenada 1953</li>
+
+  <li><a href="epsg/4604/index.html">EPSG:4604</a>: Montserrat 1958</li>
+
+  <li><a href="epsg/4605/index.html">EPSG:4605</a>: St. Kitts 1955</li>
+
+  <li><a href="epsg/4606/index.html">EPSG:4606</a>: St. Lucia 1955</li>
+
+  <li><a href="epsg/4607/index.html">EPSG:4607</a>: St. Vincent 1945</li>
+
+  <li><a href="epsg/4608/index.html">EPSG:4608</a>: NAD27(76)</li>
+
+  <li><a href="epsg/4609/index.html">EPSG:4609</a>: NAD27(CGQ77)</li>
+
+  <li><a href="epsg/4610/index.html">EPSG:4610</a>: Xian 1980</li>
+
+  <li><a href="epsg/4611/index.html">EPSG:4611</a>: Hong Kong 1980</li>
+
+  <li><a href="epsg/4612/index.html">EPSG:4612</a>: JGD2000</li>
+
+  <li><a href="epsg/4613/index.html">EPSG:4613</a>: Segara</li>
+
+  <li><a href="epsg/4614/index.html">EPSG:4614</a>: QND95</li>
+
+  <li><a href="epsg/4615/index.html">EPSG:4615</a>: Porto Santo</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=44">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=46">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

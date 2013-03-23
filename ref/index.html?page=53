@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=52">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=54">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/5727/index.html">EPSG:5727</a>: Hon Dau 1992 height</li>
+
+  <li><a href="epsg/5728/index.html">EPSG:5728</a>: LN02 height</li>
+
+  <li><a href="epsg/5729/index.html">EPSG:5729</a>: LHN95 height</li>
+
+  <li><a href="epsg/5730/index.html">EPSG:5730</a>: EVRF2000 height</li>
+
+  <li><a href="epsg/5731/index.html">EPSG:5731</a>: Malin Head height</li>
+
+  <li><a href="epsg/5732/index.html">EPSG:5732</a>: Belfast height</li>
+
+  <li><a href="epsg/5733/index.html">EPSG:5733</a>: DNN height</li>
+
+  <li><a href="epsg/5734/index.html">EPSG:5734</a>: AIOC95 depth</li>
+
+  <li><a href="epsg/5735/index.html">EPSG:5735</a>: Black Sea height</li>
+
+  <li><a href="epsg/5736/index.html">EPSG:5736</a>: Yellow Sea 1956 height</li>
+
+  <li><a href="epsg/5737/index.html">EPSG:5737</a>: Yellow Sea 1985 height</li>
+
+  <li><a href="epsg/5738/index.html">EPSG:5738</a>: HKPD height</li>
+
+  <li><a href="epsg/5739/index.html">EPSG:5739</a>: HKCD depth</li>
+
+  <li><a href="epsg/5740/index.html">EPSG:5740</a>: ODN Orkney height</li>
+
+  <li><a href="epsg/5741/index.html">EPSG:5741</a>: Fair Isle height</li>
+
+  <li><a href="epsg/5742/index.html">EPSG:5742</a>: Lerwick height</li>
+
+  <li><a href="epsg/5743/index.html">EPSG:5743</a>: Foula height</li>
+
+  <li><a href="epsg/5744/index.html">EPSG:5744</a>: Sule Skerry height</li>
+
+  <li><a href="epsg/5745/index.html">EPSG:5745</a>: North Rona height</li>
+
+  <li><a href="epsg/5746/index.html">EPSG:5746</a>: Stornoway height</li>
+
+  <li><a href="epsg/5747/index.html">EPSG:5747</a>: St Kilda height</li>
+
+  <li><a href="epsg/5748/index.html">EPSG:5748</a>: Flannan Isles height</li>
+
+  <li><a href="epsg/5749/index.html">EPSG:5749</a>: St Marys height</li>
+
+  <li><a href="epsg/5750/index.html">EPSG:5750</a>: Douglas height</li>
+
+  <li><a href="epsg/5751/index.html">EPSG:5751</a>: Fao height</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/5752/index.html">EPSG:5752</a>: Bandar Abbas height</li>
+
+  <li><a href="epsg/5753/index.html">EPSG:5753</a>: NGNC height</li>
+
+  <li><a href="epsg/5754/index.html">EPSG:5754</a>: Poolbeg height</li>
+
+  <li><a href="epsg/5755/index.html">EPSG:5755</a>: NGG1977 height</li>
+
+  <li><a href="epsg/5756/index.html">EPSG:5756</a>: Martinique 1987 height</li>
+
+  <li><a href="epsg/5757/index.html">EPSG:5757</a>: Guadeloupe 1988 height</li>
+
+  <li><a href="epsg/5758/index.html">EPSG:5758</a>: Reunion 1989 height</li>
+
+  <li><a href="epsg/5759/index.html">EPSG:5759</a>: Auckland 1946 height</li>
+
+  <li><a href="epsg/5760/index.html">EPSG:5760</a>: Bluff 1955 height</li>
+
+  <li><a href="epsg/5761/index.html">EPSG:5761</a>: Dunedin 1958 height</li>
+
+  <li><a href="epsg/5762/index.html">EPSG:5762</a>: Gisborne 1926 height</li>
+
+  <li><a href="epsg/5763/index.html">EPSG:5763</a>: Lyttelton 1937 height</li>
+
+  <li><a href="epsg/5764/index.html">EPSG:5764</a>: Moturiki 1953 height</li>
+
+  <li><a href="epsg/5765/index.html">EPSG:5765</a>: Napier 1962 height</li>
+
+  <li><a href="epsg/5766/index.html">EPSG:5766</a>: Nelson 1955 height</li>
+
+  <li><a href="epsg/5767/index.html">EPSG:5767</a>: One Tree Point 1964 height</li>
+
+  <li><a href="epsg/5768/index.html">EPSG:5768</a>: Tararu 1952 height</li>
+
+  <li><a href="epsg/5769/index.html">EPSG:5769</a>: Taranaki 1970 height</li>
+
+  <li><a href="epsg/5770/index.html">EPSG:5770</a>: Wellington 1953 height</li>
+
+  <li><a href="epsg/5771/index.html">EPSG:5771</a>: Chatham Island 1959 height</li>
+
+  <li><a href="epsg/5772/index.html">EPSG:5772</a>: Stewart Island 1977 height</li>
+
+  <li><a href="epsg/5773/index.html">EPSG:5773</a>: EGM96 geoid height</li>
+
+  <li><a href="epsg/5774/index.html">EPSG:5774</a>: NG-L height</li>
+
+  <li><a href="epsg/5775/index.html">EPSG:5775</a>: Antalya height</li>
+
+  <li><a href="epsg/5776/index.html">EPSG:5776</a>: NN54 height</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=52">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=54">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

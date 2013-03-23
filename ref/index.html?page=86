@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=85">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=87">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/26795/index.html">EPSG:26795</a>: NAD27 / Mississippi West</li>
+
+  <li><a href="epsg/26796/index.html">EPSG:26796</a>: NAD27 / Missouri East</li>
+
+  <li><a href="epsg/26797/index.html">EPSG:26797</a>: NAD27 / Missouri Central</li>
+
+  <li><a href="epsg/26798/index.html">EPSG:26798</a>: NAD27 / Missouri West</li>
+
+  <li><a href="epsg/26799/index.html">EPSG:26799</a>: NAD27 / California zone VII</li>
+
+  <li><a href="epsg/26801/index.html">EPSG:26801</a>: NAD Michigan / Michigan East</li>
+
+  <li><a href="epsg/26802/index.html">EPSG:26802</a>: NAD Michigan / Michigan Old Central</li>
+
+  <li><a href="epsg/26803/index.html">EPSG:26803</a>: NAD Michigan / Michigan West</li>
+
+  <li><a href="epsg/26811/index.html">EPSG:26811</a>: NAD Michigan / Michigan North</li>
+
+  <li><a href="epsg/26812/index.html">EPSG:26812</a>: NAD Michigan / Michigan Central</li>
+
+  <li><a href="epsg/26813/index.html">EPSG:26813</a>: NAD Michigan / Michigan South</li>
+
+  <li><a href="epsg/26814/index.html">EPSG:26814</a>: NAD83 / Maine East (ftUS)</li>
+
+  <li><a href="epsg/26815/index.html">EPSG:26815</a>: NAD83 / Maine West (ftUS)</li>
+
+  <li><a href="epsg/26819/index.html">EPSG:26819</a>: NAD83 / Minnesota North (ftUS)</li>
+
+  <li><a href="epsg/26820/index.html">EPSG:26820</a>: NAD83 / Minnesota Central (ftUS)</li>
+
+  <li><a href="epsg/26821/index.html">EPSG:26821</a>: NAD83 / Minnesota South (ftUS)</li>
+
+  <li><a href="epsg/26822/index.html">EPSG:26822</a>: NAD83 / Nebraska (ftUS)</li>
+
+  <li><a href="epsg/26823/index.html">EPSG:26823</a>: NAD83 / West Virginia North (ftUS)</li>
+
+  <li><a href="epsg/26824/index.html">EPSG:26824</a>: NAD83 / West Virginia South (ftUS)</li>
+
+  <li><a href="epsg/26825/index.html">EPSG:26825</a>: NAD83(HARN) / Maine East (ftUS)</li>
+
+  <li><a href="epsg/26826/index.html">EPSG:26826</a>: NAD83(HARN) / Maine West (ftUS)</li>
+
+  <li><a href="epsg/26830/index.html">EPSG:26830</a>: NAD83(HARN) / Minnesota North (ftUS)</li>
+
+  <li><a href="epsg/26831/index.html">EPSG:26831</a>: NAD83(HARN) / Minnesota Central (ftUS)</li>
+
+  <li><a href="epsg/26832/index.html">EPSG:26832</a>: NAD83(HARN) / Minnesota South (ftUS)</li>
+
+  <li><a href="epsg/26833/index.html">EPSG:26833</a>: NAD83(HARN) / Nebraska (ftUS)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/26834/index.html">EPSG:26834</a>: NAD83(HARN) / West Virginia North (ftUS)</li>
+
+  <li><a href="epsg/26835/index.html">EPSG:26835</a>: NAD83(HARN) / West Virginia South (ftUS)</li>
+
+  <li><a href="epsg/26836/index.html">EPSG:26836</a>: NAD83(NSRS2007) / Maine East (ftUS)</li>
+
+  <li><a href="epsg/26837/index.html">EPSG:26837</a>: NAD83(NSRS2007) / Maine West (ftUS)</li>
+
+  <li><a href="epsg/26841/index.html">EPSG:26841</a>: NAD83(NSRS2007) / Minnesota North (ftUS)</li>
+
+  <li><a href="epsg/26842/index.html">EPSG:26842</a>: NAD83(NSRS2007) / Minnesota Central (ftUS)</li>
+
+  <li><a href="epsg/26843/index.html">EPSG:26843</a>: NAD83(NSRS2007) / Minnesota South (ftUS)</li>
+
+  <li><a href="epsg/26844/index.html">EPSG:26844</a>: NAD83(NSRS2007) / Nebraska (ftUS)</li>
+
+  <li><a href="epsg/26845/index.html">EPSG:26845</a>: NAD83(NSRS2007) / West Virginia North (ftUS)</li>
+
+  <li><a href="epsg/26846/index.html">EPSG:26846</a>: NAD83(NSRS2007) / West Virginia South (ftUS)</li>
+
+  <li><a href="epsg/26847/index.html">EPSG:26847</a>: NAD83 / Maine East (ftUS)</li>
+
+  <li><a href="epsg/26848/index.html">EPSG:26848</a>: NAD83 / Maine West (ftUS)</li>
+
+  <li><a href="epsg/26849/index.html">EPSG:26849</a>: NAD83 / Minnesota North (ftUS)</li>
+
+  <li><a href="epsg/26850/index.html">EPSG:26850</a>: NAD83 / Minnesota Central (ftUS)</li>
+
+  <li><a href="epsg/26851/index.html">EPSG:26851</a>: NAD83 / Minnesota South (ftUS)</li>
+
+  <li><a href="epsg/26852/index.html">EPSG:26852</a>: NAD83 / Nebraska (ftUS)</li>
+
+  <li><a href="epsg/26853/index.html">EPSG:26853</a>: NAD83 / West Virginia North (ftUS)</li>
+
+  <li><a href="epsg/26854/index.html">EPSG:26854</a>: NAD83 / West Virginia South (ftUS)</li>
+
+  <li><a href="epsg/26855/index.html">EPSG:26855</a>: NAD83(HARN) / Maine East (ftUS)</li>
+
+  <li><a href="epsg/26856/index.html">EPSG:26856</a>: NAD83(HARN) / Maine West (ftUS)</li>
+
+  <li><a href="epsg/26857/index.html">EPSG:26857</a>: NAD83(HARN) / Minnesota North (ftUS)</li>
+
+  <li><a href="epsg/26858/index.html">EPSG:26858</a>: NAD83(HARN) / Minnesota Central (ftUS)</li>
+
+  <li><a href="epsg/26859/index.html">EPSG:26859</a>: NAD83(HARN) / Minnesota South (ftUS)</li>
+
+  <li><a href="epsg/26860/index.html">EPSG:26860</a>: NAD83(HARN) / Nebraska (ftUS)</li>
+
+  <li><a href="epsg/26861/index.html">EPSG:26861</a>: NAD83(HARN) / West Virginia North (ftUS)</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=85">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=87">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

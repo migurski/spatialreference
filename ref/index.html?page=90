@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=89">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=91">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/27392/index.html">EPSG:27392</a>: NGO 1948 (Oslo) / NGO zone II</li>
+
+  <li><a href="epsg/27393/index.html">EPSG:27393</a>: NGO 1948 (Oslo) / NGO zone III</li>
+
+  <li><a href="epsg/27394/index.html">EPSG:27394</a>: NGO 1948 (Oslo) / NGO zone IV</li>
+
+  <li><a href="epsg/27395/index.html">EPSG:27395</a>: NGO 1948 (Oslo) / NGO zone V</li>
+
+  <li><a href="epsg/27396/index.html">EPSG:27396</a>: NGO 1948 (Oslo) / NGO zone VI</li>
+
+  <li><a href="epsg/27397/index.html">EPSG:27397</a>: NGO 1948 (Oslo) / NGO zone VII</li>
+
+  <li><a href="epsg/27398/index.html">EPSG:27398</a>: NGO 1948 (Oslo) / NGO zone VIII</li>
+
+  <li><a href="epsg/27429/index.html">EPSG:27429</a>: Datum 73 / UTM zone 29N</li>
+
+  <li><a href="epsg/27492/index.html">EPSG:27492</a>: Datum 73 / Modified Portuguese Grid</li>
+
+  <li><a href="epsg/27493/index.html">EPSG:27493</a>: Datum 73 / Modified Portuguese Grid</li>
+
+  <li><a href="epsg/27500/index.html">EPSG:27500</a>: ATF (Paris) / Nord de Guerre</li>
+
+  <li><a href="epsg/27561/index.html">EPSG:27561</a>: NTF (Paris) / Lambert Nord France</li>
+
+  <li><a href="epsg/27562/index.html">EPSG:27562</a>: NTF (Paris) / Lambert Centre France</li>
+
+  <li><a href="epsg/27563/index.html">EPSG:27563</a>: NTF (Paris) / Lambert Sud France</li>
+
+  <li><a href="epsg/27564/index.html">EPSG:27564</a>: NTF (Paris) / Lambert Corse</li>
+
+  <li><a href="epsg/27571/index.html">EPSG:27571</a>: NTF (Paris) / Lambert zone I</li>
+
+  <li><a href="epsg/27572/index.html">EPSG:27572</a>: NTF (Paris) / Lambert zone II</li>
+
+  <li><a href="epsg/27573/index.html">EPSG:27573</a>: NTF (Paris) / Lambert zone III</li>
+
+  <li><a href="epsg/27574/index.html">EPSG:27574</a>: NTF (Paris) / Lambert zone IV</li>
+
+  <li><a href="epsg/27581/index.html">EPSG:27581</a>: NTF (Paris) / France I</li>
+
+  <li><a href="epsg/27582/index.html">EPSG:27582</a>: NTF (Paris) / France II</li>
+
+  <li><a href="epsg/27583/index.html">EPSG:27583</a>: NTF (Paris) / France III</li>
+
+  <li><a href="epsg/27584/index.html">EPSG:27584</a>: NTF (Paris) / France IV</li>
+
+  <li><a href="epsg/27591/index.html">EPSG:27591</a>: NTF (Paris) / Nord France</li>
+
+  <li><a href="epsg/27592/index.html">EPSG:27592</a>: NTF (Paris) / Centre France</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/27593/index.html">EPSG:27593</a>: NTF (Paris) / Sud France</li>
+
+  <li><a href="epsg/27594/index.html">EPSG:27594</a>: NTF (Paris) / Corse</li>
+
+  <li><a href="epsg/27700/index.html">EPSG:27700</a>: OSGB 1936 / British National Grid</li>
+
+  <li><a href="epsg/28191/index.html">EPSG:28191</a>: Palestine 1923 / Palestine Grid</li>
+
+  <li><a href="epsg/28192/index.html">EPSG:28192</a>: Palestine 1923 / Palestine Belt</li>
+
+  <li><a href="epsg/28193/index.html">EPSG:28193</a>: Palestine 1923 / Israeli CS Grid</li>
+
+  <li><a href="epsg/28232/index.html">EPSG:28232</a>: Pointe Noire / UTM zone 32S</li>
+
+  <li><a href="epsg/28348/index.html">EPSG:28348</a>: GDA94 / MGA zone 48</li>
+
+  <li><a href="epsg/28349/index.html">EPSG:28349</a>: GDA94 / MGA zone 49</li>
+
+  <li><a href="epsg/28350/index.html">EPSG:28350</a>: GDA94 / MGA zone 50</li>
+
+  <li><a href="epsg/28351/index.html">EPSG:28351</a>: GDA94 / MGA zone 51</li>
+
+  <li><a href="epsg/28352/index.html">EPSG:28352</a>: GDA94 / MGA zone 52</li>
+
+  <li><a href="epsg/28353/index.html">EPSG:28353</a>: GDA94 / MGA zone 53</li>
+
+  <li><a href="epsg/28354/index.html">EPSG:28354</a>: GDA94 / MGA zone 54</li>
+
+  <li><a href="epsg/28355/index.html">EPSG:28355</a>: GDA94 / MGA zone 55</li>
+
+  <li><a href="epsg/28356/index.html">EPSG:28356</a>: GDA94 / MGA zone 56</li>
+
+  <li><a href="epsg/28357/index.html">EPSG:28357</a>: GDA94 / MGA zone 57</li>
+
+  <li><a href="epsg/28358/index.html">EPSG:28358</a>: GDA94 / MGA zone 58</li>
+
+  <li><a href="epsg/28402/index.html">EPSG:28402</a>: Pulkovo 1942 / Gauss-Kruger zone 2</li>
+
+  <li><a href="epsg/28403/index.html">EPSG:28403</a>: Pulkovo 1942 / Gauss-Kruger zone 3</li>
+
+  <li><a href="epsg/28404/index.html">EPSG:28404</a>: Pulkovo 1942 / Gauss-Kruger zone 4</li>
+
+  <li><a href="epsg/28405/index.html">EPSG:28405</a>: Pulkovo 1942 / Gauss-Kruger zone 5</li>
+
+  <li><a href="epsg/28406/index.html">EPSG:28406</a>: Pulkovo 1942 / Gauss-Kruger zone 6</li>
+
+  <li><a href="epsg/28407/index.html">EPSG:28407</a>: Pulkovo 1942 / Gauss-Kruger zone 7</li>
+
+  <li><a href="epsg/28408/index.html">EPSG:28408</a>: Pulkovo 1942 / Gauss-Kruger zone 8</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=89">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=91">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

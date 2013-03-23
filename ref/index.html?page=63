@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=62">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=64">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7026/index.html">SR-ORG:7026</a>: rvk-test</li>
+
+  <li><a href="sr-org/7027/index.html">SR-ORG:7027</a>: rvk-test2</li>
+
+  <li><a href="sr-org/7028/index.html">SR-ORG:7028</a>: china</li>
+
+  <li><a href="sr-org/7029/index.html">SR-ORG:7029</a>: test ale</li>
+
+  <li><a href="sr-org/7030/index.html">SR-ORG:7030</a>: US Great Lakes Albers GLCWC CWI version</li>
+
+  <li><a href="sr-org/7031/index.html">SR-ORG:7031</a>: lat_lon_wgs84 slo</li>
+
+  <li><a href="sr-org/7032/index.html">SR-ORG:7032</a>: Lat Long WGS84 slo</li>
+
+  <li><a href="sr-org/7033/index.html">SR-ORG:7033</a>: wgs </li>
+
+  <li><a href="sr-org/7034/index.html">SR-ORG:7034</a>: tets</li>
+
+  <li><a href="sr-org/7035/index.html">SR-ORG:7035</a>: ppp</li>
+
+  <li><a href="sr-org/7036/index.html">SR-ORG:7036</a>: Geodetic Datum of Mauritius 2008</li>
+
+  <li><a href="sr-org/7037/index.html">SR-ORG:7037</a>: Map Grid of Mauritius 2008</li>
+
+  <li><a href="sr-org/7038/index.html">SR-ORG:7038</a>: test</li>
+
+  <li><a href="sr-org/7039/index.html">SR-ORG:7039</a>: kmkn</li>
+
+  <li><a href="sr-org/7040/index.html">SR-ORG:7040</a>: LAEA 20E 60N WGS84</li>
+
+  <li><a href="sr-org/7041/index.html">SR-ORG:7041</a>: Gauss Krüger M34</li>
+
+  <li><a href="sr-org/7042/index.html">SR-ORG:7042</a>: macaupro</li>
+
+  <li><a href="sr-org/7043/index.html">SR-ORG:7043</a>: WGS_1984_UTM_Zone_11N</li>
+
+  <li><a href="sr-org/7044/index.html">SR-ORG:7044</a>: WGS_1984_UTM_Zone_12N</li>
+
+  <li><a href="sr-org/7045/index.html">SR-ORG:7045</a>: WGS_1984_UTM_Zone_13N</li>
+
+  <li><a href="sr-org/7046/index.html">SR-ORG:7046</a>: WGS_1984_UTM_Zone_14N</li>
+
+  <li><a href="sr-org/7047/index.html">SR-ORG:7047</a>: WGS_1984_UTM_Zone_16N</li>
+
+  <li><a href="sr-org/7048/index.html">SR-ORG:7048</a>: WGS_1984_UTM_Zone_17N</li>
+
+  <li><a href="sr-org/7049/index.html">SR-ORG:7049</a>: test</li>
+
+  <li><a href="sr-org/7050/index.html">SR-ORG:7050</a>: Okapi TEST</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7051/index.html">SR-ORG:7051</a>: TCPL Alberta (NGTL Ltd.) 10 degree Transverse Mercator</li>
+
+  <li><a href="sr-org/7052/index.html">SR-ORG:7052</a>: EPSG:2050001</li>
+
+  <li><a href="sr-org/7053/index.html">SR-ORG:7053</a>: EPSG:2100000</li>
+
+  <li><a href="sr-org/7054/index.html">SR-ORG:7054</a>: HR2100000</li>
+
+  <li><a href="sr-org/7055/index.html">SR-ORG:7055</a>: American Samoa</li>
+
+  <li><a href="sr-org/7056/index.html">SR-ORG:7056</a>: MarinProj</li>
+
+  <li><a href="sr-org/7057/index.html">SR-ORG:7057</a>: CRTM05-WGS84</li>
+
+  <li><a href="sr-org/7058/index.html">SR-ORG:7058</a>: NAD_1983_StatePlane_Maryland_FIPS_1900</li>
+
+  <li><a href="sr-org/7059/index.html">SR-ORG:7059</a>: Updated SVY21 / Singapore TM</li>
+
+  <li><a href="sr-org/7060/index.html">SR-ORG:7060</a>: North America Lambert Aero</li>
+
+  <li><a href="sr-org/7061/index.html">SR-ORG:7061</a>: teststsest</li>
+
+  <li><a href="sr-org/7062/index.html">SR-ORG:7062</a>: tetstest</li>
+
+  <li><a href="sr-org/7063/index.html">SR-ORG:7063</a>: MGI / Austria Lambert 48</li>
+
+  <li><a href="sr-org/7064/index.html">SR-ORG:7064</a>: MGI / Austria Lambert 48</li>
+
+  <li><a href="sr-org/7065/index.html">SR-ORG:7065</a>: TEST</li>
+
+  <li><a href="sr-org/7066/index.html">SR-ORG:7066</a>: SR-ORG:6640_test</li>
+
+  <li><a href="sr-org/7067/index.html">SR-ORG:7067</a>: SR-ORG:6640 extension</li>
+
+  <li><a href="sr-org/7068/index.html">SR-ORG:7068</a>: GRS80 Korea TM East Belt extension</li>
+
+  <li><a href="sr-org/7069/index.html">SR-ORG:7069</a>: NAD_1983_HARN_StatePlane_Michigan_South_FIPS_2113_IntlFeet</li>
+
+  <li><a href="sr-org/7070/index.html">SR-ORG:7070</a>: World Polyconic North America</li>
+
+  <li><a href="sr-org/7071/index.html">SR-ORG:7071</a>: seoul</li>
+
+  <li><a href="sr-org/7072/index.html">SR-ORG:7072</a>: Venier - Albers Canada</li>
+
+  <li><a href="sr-org/7073/index.html">SR-ORG:7073</a>: test</li>
+
+  <li><a href="sr-org/7074/index.html">SR-ORG:7074</a>: test</li>
+
+  <li><a href="sr-org/7075/index.html">SR-ORG:7075</a>: test</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=62">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=64">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=63">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=65">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="sr-org/7076/index.html">SR-ORG:7076</a>: GRS80 Korea TM West Belt extension </li>
+
+  <li><a href="sr-org/7077/index.html">SR-ORG:7077</a>: PA-DEP-ALBERS  WORKS</li>
+
+  <li><a href="sr-org/7078/index.html">SR-ORG:7078</a>: Lyon, France</li>
+
+  <li><a href="sr-org/7079/index.html">SR-ORG:7079</a>: Lyon Custom WKT</li>
+
+  <li><a href="sr-org/7080/index.html">SR-ORG:7080</a>: test</li>
+
+  <li><a href="sr-org/7081/index.html">SR-ORG:7081</a>: IGC</li>
+
+  <li><a href="sr-org/7082/index.html">SR-ORG:7082</a>: North American 1983 (CSRS98).prj</li>
+
+  <li><a href="sr-org/7083/index.html">SR-ORG:7083</a>: foo</li>
+
+  <li><a href="sr-org/7084/index.html">SR-ORG:7084</a>: foo</li>
+
+  <li><a href="sr-org/7085/index.html">SR-ORG:7085</a>: foo</li>
+
+  <li><a href="sr-org/7086/index.html">SR-ORG:7086</a>: A</li>
+
+  <li><a href="sr-org/7087/index.html">SR-ORG:7087</a>: B</li>
+
+  <li><a href="sr-org/7088/index.html">SR-ORG:7088</a>: istanbul</li>
+
+  <li><a href="sr-org/7089/index.html">SR-ORG:7089</a>: oof-web</li>
+
+  <li><a href="sr-org/7090/index.html">SR-ORG:7090</a>: oof-ttf</li>
+
+  <li><a href="sr-org/7091/index.html">SR-ORG:7091</a>: oof-tt</li>
+
+  <li><a href="sr-org/7092/index.html">SR-ORG:7092</a>: Drew</li>
+
+  <li><a href="sr-org/7093/index.html">SR-ORG:7093</a>: LCC IND-BANG 1916</li>
+
+  <li><a href="sr-org/7094/index.html">SR-ORG:7094</a>: Google Maps Global Mercator</li>
+
+  <li><a href="sr-org/7095/index.html">SR-ORG:7095</a>: Slovenia D48</li>
+
+  <li><a href="sr-org/7096/index.html">SR-ORG:7096</a>: Slovenia D48</li>
+
+  <li><a href="sr-org/7097/index.html">SR-ORG:7097</a>: Moscow CS</li>
+
+  <li><a href="sr-org/7098/index.html">SR-ORG:7098</a>: California Transverse Mercator (CTM83)</li>
+
+  <li><a href="sr-org/7099/index.html">SR-ORG:7099</a>: Mollweide (WGS84)</li>
+
+  <li><a href="sr-org/7100/index.html">SR-ORG:7100</a>: California Current / Albers Equal Area Conic (WGS84)</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="sr-org/7101/index.html">SR-ORG:7101</a>: CEMAC_TM_by_YH</li>
+
+  <li><a href="sr-org/7102/index.html">SR-ORG:7102</a>: NAD_1983_HARN_WISCRS_Chippewa_County_Feet</li>
+
+  <li><a href="sr-org/7103/index.html">SR-ORG:7103</a>: Fiji / Albers Equal Area Conic (WGS84)</li>
+
+  <li><a href="sr-org/7104/index.html">SR-ORG:7104</a>: abies</li>
+
+  <li><a href="sr-org/7105/index.html">SR-ORG:7105</a>: abies2</li>
+
+  <li><a href="sr-org/7106/index.html">SR-ORG:7106</a>: abies2</li>
+
+  <li><a href="sr-org/7107/index.html">SR-ORG:7107</a>: Picea</li>
+
+  <li><a href="sr-org/7108/index.html">SR-ORG:7108</a>: Picea</li>
+
+  <li><a href="sr-org/7109/index.html">SR-ORG:7109</a>: Try</li>
+
+  <li><a href="sr-org/7110/index.html">SR-ORG:7110</a>: NAD_1983_HARN_Adj_MN_Steele_Feet</li>
+
+  <li><a href="sr-org/7111/index.html">SR-ORG:7111</a>: amca</li>
+
+  <li><a href="sr-org/7112/index.html">SR-ORG:7112</a>: _footest</li>
+
+  <li><a href="sr-org/7113/index.html">SR-ORG:7113</a>: trollolo</li>
+
+  <li><a href="sr-org/7114/index.html">SR-ORG:7114</a>: trollolo</li>
+
+  <li><a href="sr-org/7115/index.html">SR-ORG:7115</a>: Chippewa Co, WI LCC GRID</li>
+
+  <li><a href="sr-org/7116/index.html">SR-ORG:7116</a>: China</li>
+
+  <li><a href="sr-org/7117/index.html">SR-ORG:7117</a>: My projection</li>
+
+  <li><a href="sr-org/7118/index.html">SR-ORG:7118</a>: Korea</li>
+
+  <li><a href="sr-org/7119/index.html">SR-ORG:7119</a>: SCRATCH CRS for gis.stackexchange.com question</li>
+
+  <li><a href="sr-org/7120/index.html">SR-ORG:7120</a>: Mid-Atlantic Bight / Albers Equal Area Conic (WGS84)</li>
+
+  <li><a href="sr-org/7121/index.html">SR-ORG:7121</a>: CEMAC_TM_2011</li>
+
+  <li><a href="sr-org/7122/index.html">SR-ORG:7122</a>: UCSB Lambert</li>
+
+  <li><a href="sr-org/7123/index.html">SR-ORG:7123</a>: UTM Zone 23, Southern Hemisphere [SAD 69]</li>
+
+  <li><a href="sr-org/7124/index.html">SR-ORG:7124</a>: Gauss-Kruger Bs.As.</li>
+
+  <li><a href="sr-org/7125/index.html">SR-ORG:7125</a>: LAEA</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=63">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=65">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

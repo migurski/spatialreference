@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=119">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=121">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/51321/index.html">IAU2000:51321</a>: Leda South Pole Stereographic</li>
+
+  <li><a href="iau2000/51360/index.html">IAU2000:51360</a>: Leda Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51361/index.html">IAU2000:51361</a>: Leda Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51362/index.html">IAU2000:51362</a>: Leda Stereographic AUTO</li>
+
+  <li><a href="iau2000/51363/index.html">IAU2000:51363</a>: Leda Stereographic AUTO</li>
+
+  <li><a href="iau2000/51364/index.html">IAU2000:51364</a>: Leda Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51365/index.html">IAU2000:51365</a>: Leda Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51366/index.html">IAU2000:51366</a>: Leda Orthographic AUTO</li>
+
+  <li><a href="iau2000/51367/index.html">IAU2000:51367</a>: Leda Orthographic AUTO</li>
+
+  <li><a href="iau2000/51368/index.html">IAU2000:51368</a>: Leda Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51369/index.html">IAU2000:51369</a>: Leda Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51370/index.html">IAU2000:51370</a>: Leda Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51371/index.html">IAU2000:51371</a>: Leda Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51372/index.html">IAU2000:51372</a>: Leda Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51373/index.html">IAU2000:51373</a>: Leda Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51374/index.html">IAU2000:51374</a>: Leda Mercator AUTO</li>
+
+  <li><a href="iau2000/51375/index.html">IAU2000:51375</a>: Leda Mercator AUTO</li>
+
+  <li><a href="iau2000/51376/index.html">IAU2000:51376</a>: Leda Albers AUTO</li>
+
+  <li><a href="iau2000/51377/index.html">IAU2000:51377</a>: Leda Albers AUTO</li>
+
+  <li><a href="iau2000/51378/index.html">IAU2000:51378</a>: Leda Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51379/index.html">IAU2000:51379</a>: Leda Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51400/index.html">IAU2000:51400</a>: Thebe 2000</li>
+
+  <li><a href="iau2000/51401/index.html">IAU2000:51401</a>: Thebe 2000</li>
+
+  <li><a href="iau2000/51410/index.html">IAU2000:51410</a>: Thebe Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51411/index.html">IAU2000:51411</a>: Thebe Equidistant Cylindrical</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/51412/index.html">IAU2000:51412</a>: Thebe Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51413/index.html">IAU2000:51413</a>: Thebe Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51414/index.html">IAU2000:51414</a>: Thebe Sinusoidal</li>
+
+  <li><a href="iau2000/51415/index.html">IAU2000:51415</a>: Thebe Sinusoidal</li>
+
+  <li><a href="iau2000/51416/index.html">IAU2000:51416</a>: Thebe Sinusoidal</li>
+
+  <li><a href="iau2000/51417/index.html">IAU2000:51417</a>: Thebe Sinusoidal</li>
+
+  <li><a href="iau2000/51418/index.html">IAU2000:51418</a>: Thebe North Pole Stereographic</li>
+
+  <li><a href="iau2000/51419/index.html">IAU2000:51419</a>: Thebe North Pole Stereographic</li>
+
+  <li><a href="iau2000/51420/index.html">IAU2000:51420</a>: Thebe South Pole Stereographic</li>
+
+  <li><a href="iau2000/51421/index.html">IAU2000:51421</a>: Thebe South Pole Stereographic</li>
+
+  <li><a href="iau2000/51460/index.html">IAU2000:51460</a>: Thebe Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51461/index.html">IAU2000:51461</a>: Thebe Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51462/index.html">IAU2000:51462</a>: Thebe Stereographic AUTO</li>
+
+  <li><a href="iau2000/51463/index.html">IAU2000:51463</a>: Thebe Stereographic AUTO</li>
+
+  <li><a href="iau2000/51464/index.html">IAU2000:51464</a>: Thebe Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51465/index.html">IAU2000:51465</a>: Thebe Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51466/index.html">IAU2000:51466</a>: Thebe Orthographic AUTO</li>
+
+  <li><a href="iau2000/51467/index.html">IAU2000:51467</a>: Thebe Orthographic AUTO</li>
+
+  <li><a href="iau2000/51468/index.html">IAU2000:51468</a>: Thebe Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51469/index.html">IAU2000:51469</a>: Thebe Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51470/index.html">IAU2000:51470</a>: Thebe Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51471/index.html">IAU2000:51471</a>: Thebe Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51472/index.html">IAU2000:51472</a>: Thebe Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51473/index.html">IAU2000:51473</a>: Thebe Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51474/index.html">IAU2000:51474</a>: Thebe Mercator AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=119">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=121">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

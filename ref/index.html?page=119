@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=118">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=120">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/51177/index.html">IAU2000:51177</a>: Carme Albers AUTO</li>
+
+  <li><a href="iau2000/51178/index.html">IAU2000:51178</a>: Carme Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51179/index.html">IAU2000:51179</a>: Carme Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51200/index.html">IAU2000:51200</a>: Ananke 2000</li>
+
+  <li><a href="iau2000/51201/index.html">IAU2000:51201</a>: Ananke 2000</li>
+
+  <li><a href="iau2000/51210/index.html">IAU2000:51210</a>: Ananke Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51211/index.html">IAU2000:51211</a>: Ananke Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51212/index.html">IAU2000:51212</a>: Ananke Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51213/index.html">IAU2000:51213</a>: Ananke Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51214/index.html">IAU2000:51214</a>: Ananke Sinusoidal</li>
+
+  <li><a href="iau2000/51215/index.html">IAU2000:51215</a>: Ananke Sinusoidal</li>
+
+  <li><a href="iau2000/51216/index.html">IAU2000:51216</a>: Ananke Sinusoidal</li>
+
+  <li><a href="iau2000/51217/index.html">IAU2000:51217</a>: Ananke Sinusoidal</li>
+
+  <li><a href="iau2000/51218/index.html">IAU2000:51218</a>: Ananke North Pole Stereographic</li>
+
+  <li><a href="iau2000/51219/index.html">IAU2000:51219</a>: Ananke North Pole Stereographic</li>
+
+  <li><a href="iau2000/51220/index.html">IAU2000:51220</a>: Ananke South Pole Stereographic</li>
+
+  <li><a href="iau2000/51221/index.html">IAU2000:51221</a>: Ananke South Pole Stereographic</li>
+
+  <li><a href="iau2000/51260/index.html">IAU2000:51260</a>: Ananke Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51261/index.html">IAU2000:51261</a>: Ananke Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/51262/index.html">IAU2000:51262</a>: Ananke Stereographic AUTO</li>
+
+  <li><a href="iau2000/51263/index.html">IAU2000:51263</a>: Ananke Stereographic AUTO</li>
+
+  <li><a href="iau2000/51264/index.html">IAU2000:51264</a>: Ananke Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51265/index.html">IAU2000:51265</a>: Ananke Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/51266/index.html">IAU2000:51266</a>: Ananke Orthographic AUTO</li>
+
+  <li><a href="iau2000/51267/index.html">IAU2000:51267</a>: Ananke Orthographic AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/51268/index.html">IAU2000:51268</a>: Ananke Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51269/index.html">IAU2000:51269</a>: Ananke Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/51270/index.html">IAU2000:51270</a>: Ananke Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51271/index.html">IAU2000:51271</a>: Ananke Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/51272/index.html">IAU2000:51272</a>: Ananke Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51273/index.html">IAU2000:51273</a>: Ananke Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/51274/index.html">IAU2000:51274</a>: Ananke Mercator AUTO</li>
+
+  <li><a href="iau2000/51275/index.html">IAU2000:51275</a>: Ananke Mercator AUTO</li>
+
+  <li><a href="iau2000/51276/index.html">IAU2000:51276</a>: Ananke Albers AUTO</li>
+
+  <li><a href="iau2000/51277/index.html">IAU2000:51277</a>: Ananke Albers AUTO</li>
+
+  <li><a href="iau2000/51278/index.html">IAU2000:51278</a>: Ananke Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51279/index.html">IAU2000:51279</a>: Ananke Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/51300/index.html">IAU2000:51300</a>: Leda 2000</li>
+
+  <li><a href="iau2000/51301/index.html">IAU2000:51301</a>: Leda 2000</li>
+
+  <li><a href="iau2000/51310/index.html">IAU2000:51310</a>: Leda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51311/index.html">IAU2000:51311</a>: Leda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51312/index.html">IAU2000:51312</a>: Leda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51313/index.html">IAU2000:51313</a>: Leda Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/51314/index.html">IAU2000:51314</a>: Leda Sinusoidal</li>
+
+  <li><a href="iau2000/51315/index.html">IAU2000:51315</a>: Leda Sinusoidal</li>
+
+  <li><a href="iau2000/51316/index.html">IAU2000:51316</a>: Leda Sinusoidal</li>
+
+  <li><a href="iau2000/51317/index.html">IAU2000:51317</a>: Leda Sinusoidal</li>
+
+  <li><a href="iau2000/51318/index.html">IAU2000:51318</a>: Leda North Pole Stereographic</li>
+
+  <li><a href="iau2000/51319/index.html">IAU2000:51319</a>: Leda North Pole Stereographic</li>
+
+  <li><a href="iau2000/51320/index.html">IAU2000:51320</a>: Leda South Pole Stereographic</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=118">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=120">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

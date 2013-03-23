@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=53">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=55">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/5777/index.html">EPSG:5777</a>: Durres height</li>
+
+  <li><a href="epsg/5778/index.html">EPSG:5778</a>: GHA height</li>
+
+  <li><a href="epsg/5779/index.html">EPSG:5779</a>: NVN99 height</li>
+
+  <li><a href="epsg/5780/index.html">EPSG:5780</a>: Cascais height</li>
+
+  <li><a href="epsg/5781/index.html">EPSG:5781</a>: Constanta height</li>
+
+  <li><a href="epsg/5782/index.html">EPSG:5782</a>: Alicante height</li>
+
+  <li><a href="epsg/5783/index.html">EPSG:5783</a>: DHHN92 height</li>
+
+  <li><a href="epsg/5784/index.html">EPSG:5784</a>: DHHN85 height</li>
+
+  <li><a href="epsg/5785/index.html">EPSG:5785</a>: SNN76 height</li>
+
+  <li><a href="epsg/5786/index.html">EPSG:5786</a>: Baltic 1982 height</li>
+
+  <li><a href="epsg/5787/index.html">EPSG:5787</a>: EOMA 1980 height</li>
+
+  <li><a href="epsg/5788/index.html">EPSG:5788</a>: Kuwait PWD height</li>
+
+  <li><a href="epsg/5789/index.html">EPSG:5789</a>: KOC WD depth</li>
+
+  <li><a href="epsg/5790/index.html">EPSG:5790</a>: KOC CD height</li>
+
+  <li><a href="epsg/5791/index.html">EPSG:5791</a>: NGC 1948 height</li>
+
+  <li><a href="epsg/5792/index.html">EPSG:5792</a>: Danger 1950 height</li>
+
+  <li><a href="epsg/5793/index.html">EPSG:5793</a>: Mayotte 1950 height</li>
+
+  <li><a href="epsg/5794/index.html">EPSG:5794</a>: Martinique 1955 height</li>
+
+  <li><a href="epsg/5795/index.html">EPSG:5795</a>: Guadeloupe 1951 height</li>
+
+  <li><a href="epsg/5796/index.html">EPSG:5796</a>: Lagos 1955 height</li>
+
+  <li><a href="epsg/5797/index.html">EPSG:5797</a>: AIOC95 height</li>
+
+  <li><a href="epsg/5798/index.html">EPSG:5798</a>: EGM84 geoid height</li>
+
+  <li><a href="epsg/5799/index.html">EPSG:5799</a>: DVR90 height</li>
+
+  <li><a href="epsg/5800/index.html">EPSG:5800</a>: Astra Minas Grid</li>
+
+  <li><a href="epsg/5801/index.html">EPSG:5801</a>: Barcelona Grid B1</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/5802/index.html">EPSG:5802</a>: Barcelona Grid B2</li>
+
+  <li><a href="epsg/5803/index.html">EPSG:5803</a>: Maturin Grid</li>
+
+  <li><a href="epsg/5804/index.html">EPSG:5804</a>: EPSG seismic bin grid example A</li>
+
+  <li><a href="epsg/5805/index.html">EPSG:5805</a>: EPSG seismic bin grid example B</li>
+
+  <li><a href="epsg/5806/index.html">EPSG:5806</a>: EPSG local engineering grid example A</li>
+
+  <li><a href="epsg/5807/index.html">EPSG:5807</a>: EPSG local engineering grid example B</li>
+
+  <li><a href="epsg/5808/index.html">EPSG:5808</a>: Maracaibo Cross Grid M4</li>
+
+  <li><a href="epsg/5809/index.html">EPSG:5809</a>: Maracaibo Cross Grid M5</li>
+
+  <li><a href="epsg/5810/index.html">EPSG:5810</a>: La Rosa Grid</li>
+
+  <li><a href="epsg/5811/index.html">EPSG:5811</a>: Mene Grande</li>
+
+  <li><a href="epsg/5812/index.html">EPSG:5812</a>: El Cubo</li>
+
+  <li><a href="epsg/5813/index.html">EPSG:5813</a>: Dabajuro</li>
+
+  <li><a href="epsg/5814/index.html">EPSG:5814</a>: Tucupita</li>
+
+  <li><a href="epsg/5815/index.html">EPSG:5815</a>: Santa Maria de Ipire</li>
+
+  <li><a href="epsg/5816/index.html">EPSG:5816</a>: Barinas west base</li>
+
+  <li><a href="epsg/5817/index.html">EPSG:5817</a>: Tombak LNG plant</li>
+
+  <li><a href="epsg/5818/index.html">EPSG:5818</a>: UKOOA P6 seismic bin grid example</li>
+
+  <li><a href="epsg/5819/index.html">EPSG:5819</a>: EPSG topocentric example A</li>
+
+  <li><a href="epsg/5820/index.html">EPSG:5820</a>: EPSG topocentric example B</li>
+
+  <li><a href="epsg/5821/index.html">EPSG:5821</a>: EPSG vertical perspective example</li>
+
+  <li><a href="sr-org/6618/index.html">SR-ORG:6618</a>: Madagascar Laborde Tan1925</li>
+
+  <li><a href="sr-org/6619/index.html">SR-ORG:6619</a>: jrc</li>
+
+  <li><a href="sr-org/6620/index.html">SR-ORG:6620</a>: US EPA Region 3 Albers GRS80 NAD83</li>
+
+  <li><a href="sr-org/6622/index.html">SR-ORG:6622</a>: test_LAEA</li>
+
+  <li><a href="sr-org/6624/index.html">SR-ORG:6624</a>: Lambert Deutschland 48°40&#39; / 52°40&#39;</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=53">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=55">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

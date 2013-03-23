@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=152">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=154">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="iau2000/80815/index.html">IAU2000:80815</a>: Proteus Sinusoidal</li>
+
+  <li><a href="iau2000/80816/index.html">IAU2000:80816</a>: Proteus Sinusoidal</li>
+
+  <li><a href="iau2000/80817/index.html">IAU2000:80817</a>: Proteus Sinusoidal</li>
+
+  <li><a href="iau2000/80818/index.html">IAU2000:80818</a>: Proteus North Pole Stereographic</li>
+
+  <li><a href="iau2000/80819/index.html">IAU2000:80819</a>: Proteus North Pole Stereographic</li>
+
+  <li><a href="iau2000/80820/index.html">IAU2000:80820</a>: Proteus South Pole Stereographic</li>
+
+  <li><a href="iau2000/80821/index.html">IAU2000:80821</a>: Proteus South Pole Stereographic</li>
+
+  <li><a href="iau2000/80860/index.html">IAU2000:80860</a>: Proteus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/80861/index.html">IAU2000:80861</a>: Proteus Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/80862/index.html">IAU2000:80862</a>: Proteus Stereographic AUTO</li>
+
+  <li><a href="iau2000/80863/index.html">IAU2000:80863</a>: Proteus Stereographic AUTO</li>
+
+  <li><a href="iau2000/80864/index.html">IAU2000:80864</a>: Proteus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/80865/index.html">IAU2000:80865</a>: Proteus Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/80866/index.html">IAU2000:80866</a>: Proteus Orthographic AUTO</li>
+
+  <li><a href="iau2000/80867/index.html">IAU2000:80867</a>: Proteus Orthographic AUTO</li>
+
+  <li><a href="iau2000/80868/index.html">IAU2000:80868</a>: Proteus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/80869/index.html">IAU2000:80869</a>: Proteus Equidistant Cylindrical AUTO</li>
+
+  <li><a href="iau2000/80870/index.html">IAU2000:80870</a>: Proteus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/80871/index.html">IAU2000:80871</a>: Proteus Lambert Conformal Conic AUTO</li>
+
+  <li><a href="iau2000/80872/index.html">IAU2000:80872</a>: Proteus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/80873/index.html">IAU2000:80873</a>: Proteus Lambert Azimuthal Equal Area AUTO</li>
+
+  <li><a href="iau2000/80874/index.html">IAU2000:80874</a>: Proteus Mercator AUTO</li>
+
+  <li><a href="iau2000/80875/index.html">IAU2000:80875</a>: Proteus Mercator AUTO</li>
+
+  <li><a href="iau2000/80876/index.html">IAU2000:80876</a>: Proteus Albers AUTO</li>
+
+  <li><a href="iau2000/80877/index.html">IAU2000:80877</a>: Proteus Albers AUTO</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="iau2000/80878/index.html">IAU2000:80878</a>: Proteus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/80879/index.html">IAU2000:80879</a>: Proteus Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="iau2000/89900/index.html">IAU2000:89900</a>: Neptune 2000</li>
+
+  <li><a href="iau2000/89901/index.html">IAU2000:89901</a>: Neptune 2000</li>
+
+  <li><a href="iau2000/89910/index.html">IAU2000:89910</a>: Neptune Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/89911/index.html">IAU2000:89911</a>: Neptune Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/89912/index.html">IAU2000:89912</a>: Neptune Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/89913/index.html">IAU2000:89913</a>: Neptune Equidistant Cylindrical</li>
+
+  <li><a href="iau2000/89914/index.html">IAU2000:89914</a>: Neptune Sinusoidal</li>
+
+  <li><a href="iau2000/89915/index.html">IAU2000:89915</a>: Neptune Sinusoidal</li>
+
+  <li><a href="iau2000/89916/index.html">IAU2000:89916</a>: Neptune Sinusoidal</li>
+
+  <li><a href="iau2000/89917/index.html">IAU2000:89917</a>: Neptune Sinusoidal</li>
+
+  <li><a href="iau2000/89918/index.html">IAU2000:89918</a>: Neptune North Pole Stereographic</li>
+
+  <li><a href="iau2000/89919/index.html">IAU2000:89919</a>: Neptune North Pole Stereographic</li>
+
+  <li><a href="iau2000/89920/index.html">IAU2000:89920</a>: Neptune South Pole Stereographic</li>
+
+  <li><a href="iau2000/89921/index.html">IAU2000:89921</a>: Neptune South Pole Stereographic</li>
+
+  <li><a href="iau2000/89960/index.html">IAU2000:89960</a>: Neptune Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/89961/index.html">IAU2000:89961</a>: Neptune Sinusoidal AUTO</li>
+
+  <li><a href="iau2000/89962/index.html">IAU2000:89962</a>: Neptune Stereographic AUTO</li>
+
+  <li><a href="iau2000/89963/index.html">IAU2000:89963</a>: Neptune Stereographic AUTO</li>
+
+  <li><a href="iau2000/89964/index.html">IAU2000:89964</a>: Neptune Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/89965/index.html">IAU2000:89965</a>: Neptune Transverse Mercator AUTO</li>
+
+  <li><a href="iau2000/89966/index.html">IAU2000:89966</a>: Neptune Orthographic AUTO</li>
+
+  <li><a href="iau2000/89967/index.html">IAU2000:89967</a>: Neptune Orthographic AUTO</li>
+
+  <li><a href="iau2000/89968/index.html">IAU2000:89968</a>: Neptune Equidistant Cylindrical AUTO</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=152">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=154">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

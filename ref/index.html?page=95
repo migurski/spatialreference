@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=94">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=96">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/30179/index.html">EPSG:30179</a>: Tokyo / Japan Plane Rectangular CS XIX</li>
+
+  <li><a href="iau2000/30179/index.html">IAU2000:30179</a>: Moon Oblique Cylindrical Equal Area AUTO</li>
+
+  <li><a href="epsg/30200/index.html">EPSG:30200</a>: Trinidad 1903 / Trinidad Grid</li>
+
+  <li><a href="epsg/30339/index.html">EPSG:30339</a>: TC(1948) / UTM zone 39N</li>
+
+  <li><a href="epsg/30340/index.html">EPSG:30340</a>: TC(1948) / UTM zone 40N</li>
+
+  <li><a href="epsg/30491/index.html">EPSG:30491</a>: Voirol 1875 / Nord Algerie (ancienne)</li>
+
+  <li><a href="epsg/30492/index.html">EPSG:30492</a>: Voirol 1875 / Sud Algerie (ancienne)</li>
+
+  <li><a href="epsg/30493/index.html">EPSG:30493</a>: Voirol 1879 / Nord Algerie (ancienne)</li>
+
+  <li><a href="epsg/30494/index.html">EPSG:30494</a>: Voirol 1879 / Sud Algerie (ancienne)</li>
+
+  <li><a href="epsg/30729/index.html">EPSG:30729</a>: Nord Sahara 1959 / UTM zone 29N</li>
+
+  <li><a href="epsg/30730/index.html">EPSG:30730</a>: Nord Sahara 1959 / UTM zone 30N</li>
+
+  <li><a href="epsg/30731/index.html">EPSG:30731</a>: Nord Sahara 1959 / UTM zone 31N</li>
+
+  <li><a href="epsg/30732/index.html">EPSG:30732</a>: Nord Sahara 1959 / UTM zone 32N</li>
+
+  <li><a href="epsg/30791/index.html">EPSG:30791</a>: Nord Sahara 1959 / Voirol Unifie Nord</li>
+
+  <li><a href="epsg/30792/index.html">EPSG:30792</a>: Nord Sahara 1959 / Voirol Unifie Sud</li>
+
+  <li><a href="epsg/30800/index.html">EPSG:30800</a>: RT38 2.5 gon W</li>
+
+  <li><a href="epsg/31028/index.html">EPSG:31028</a>: Yoff / UTM zone 28N</li>
+
+  <li><a href="epsg/31121/index.html">EPSG:31121</a>: Zanderij / UTM zone 21N</li>
+
+  <li><a href="epsg/31154/index.html">EPSG:31154</a>: Zanderij / TM 54 NW</li>
+
+  <li><a href="epsg/31170/index.html">EPSG:31170</a>: Zanderij / Suriname Old TM</li>
+
+  <li><a href="epsg/31171/index.html">EPSG:31171</a>: Zanderij / Suriname TM</li>
+
+  <li><a href="epsg/31251/index.html">EPSG:31251</a>: MGI (Ferro) / Austria GK West Zone</li>
+
+  <li><a href="epsg/31252/index.html">EPSG:31252</a>: MGI (Ferro) / Austria GK Central Zone</li>
+
+  <li><a href="epsg/31253/index.html">EPSG:31253</a>: MGI (Ferro) / Austria GK East Zone</li>
+
+  <li><a href="epsg/31254/index.html">EPSG:31254</a>: MGI / Austria GK West</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/31255/index.html">EPSG:31255</a>: MGI / Austria GK Central</li>
+
+  <li><a href="epsg/31256/index.html">EPSG:31256</a>: MGI / Austria GK East</li>
+
+  <li><a href="epsg/31257/index.html">EPSG:31257</a>: MGI / Austria GK M28</li>
+
+  <li><a href="epsg/31258/index.html">EPSG:31258</a>: MGI / Austria GK M31</li>
+
+  <li><a href="epsg/31259/index.html">EPSG:31259</a>: MGI / Austria GK M34</li>
+
+  <li><a href="epsg/31265/index.html">EPSG:31265</a>: MGI / 3-degree Gauss zone 5</li>
+
+  <li><a href="epsg/31266/index.html">EPSG:31266</a>: MGI / 3-degree Gauss zone 6</li>
+
+  <li><a href="epsg/31267/index.html">EPSG:31267</a>: MGI / 3-degree Gauss zone 7</li>
+
+  <li><a href="epsg/31268/index.html">EPSG:31268</a>: MGI / 3-degree Gauss zone 8</li>
+
+  <li><a href="epsg/31275/index.html">EPSG:31275</a>: MGI / Balkans zone 5</li>
+
+  <li><a href="epsg/31276/index.html">EPSG:31276</a>: MGI / Balkans zone 6</li>
+
+  <li><a href="epsg/31277/index.html">EPSG:31277</a>: MGI / Balkans zone 7</li>
+
+  <li><a href="epsg/31278/index.html">EPSG:31278</a>: MGI / Balkans zone 8</li>
+
+  <li><a href="epsg/31279/index.html">EPSG:31279</a>: MGI / Balkans zone 8</li>
+
+  <li><a href="epsg/31281/index.html">EPSG:31281</a>: MGI (Ferro) / Austria West Zone</li>
+
+  <li><a href="epsg/31282/index.html">EPSG:31282</a>: MGI (Ferro) / Austria Central Zone</li>
+
+  <li><a href="epsg/31283/index.html">EPSG:31283</a>: MGI (Ferro) / Austria East Zone</li>
+
+  <li><a href="epsg/31284/index.html">EPSG:31284</a>: MGI / Austria M28</li>
+
+  <li><a href="epsg/31285/index.html">EPSG:31285</a>: MGI / Austria M31</li>
+
+  <li><a href="epsg/31286/index.html">EPSG:31286</a>: MGI / Austria M34</li>
+
+  <li><a href="epsg/31287/index.html">EPSG:31287</a>: MGI / Austria Lambert</li>
+
+  <li><a href="epsg/31288/index.html">EPSG:31288</a>: MGI (Ferro) / M28</li>
+
+  <li><a href="epsg/31289/index.html">EPSG:31289</a>: MGI (Ferro) / M31</li>
+
+  <li><a href="epsg/31290/index.html">EPSG:31290</a>: MGI (Ferro) / M34</li>
+
+  <li><a href="epsg/31291/index.html">EPSG:31291</a>: MGI (Ferro) / Austria West Zone</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=94">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=96">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>

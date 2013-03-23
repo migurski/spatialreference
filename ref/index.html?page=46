@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/base.css" />
+    <title>Spatial Reference List -- Spatial Reference</title>
+     
+
+</head>
+
+<body >
+    <div id="header">
+        <div id="header_logo">
+            <a href="http://spatialreference.org/"><img src="../static/img/sr_logo.jpg" border=0></a>
+        </div>
+        <div id="header_title">
+            Spatial Reference List
+        </div>
+    </div>
+    <div id="searchbox">
+        <form action="index.html">
+        <input type="text"name="search" value=""/> <input type="submit" value="Search" />
+        </form>  
+    </div>
+
+    <div id="navbar">
+
+        <div id="navlinks">
+            <a href="http://spatialreference.org/">Home</a> | 
+            <a href="upload/index.html">Upload Your Own</a> | 
+            <a href="sr-org/index.html">List user-contributed references</a> | 
+            <a href="index.html">List all references</a>
+        </div>
+    </div>
+    <div id="content">
+         
+<form>
+  Search References: <input type="text" name="search" value=""/> <input type="submit" name="srtext" value="Search" />
+</form>  
+
+ 
+
+
+<a href="index.html?page=45">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=47">Next Page</a> 
+
+
+  
+
+<table width='98%' style='font-size:.85em'>
+<tr>
+<td>
+<ul>
+
+  <li><a href="epsg/4616/index.html">EPSG:4616</a>: Selvagem Grande</li>
+
+  <li><a href="epsg/4617/index.html">EPSG:4617</a>: NAD83(CSRS)</li>
+
+  <li><a href="epsg/4618/index.html">EPSG:4618</a>: SAD69</li>
+
+  <li><a href="epsg/4619/index.html">EPSG:4619</a>: SWEREF99</li>
+
+  <li><a href="epsg/4620/index.html">EPSG:4620</a>: Point 58</li>
+
+  <li><a href="epsg/4621/index.html">EPSG:4621</a>: Fort Marigot</li>
+
+  <li><a href="epsg/4622/index.html">EPSG:4622</a>: Guadeloupe 1948</li>
+
+  <li><a href="epsg/4623/index.html">EPSG:4623</a>: CSG67</li>
+
+  <li><a href="epsg/4624/index.html">EPSG:4624</a>: RGFG95</li>
+
+  <li><a href="epsg/4625/index.html">EPSG:4625</a>: Martinique 1938</li>
+
+  <li><a href="epsg/4626/index.html">EPSG:4626</a>: Reunion 1947</li>
+
+  <li><a href="epsg/4627/index.html">EPSG:4627</a>: RGR92</li>
+
+  <li><a href="epsg/4628/index.html">EPSG:4628</a>: Tahiti 52</li>
+
+  <li><a href="epsg/4629/index.html">EPSG:4629</a>: Tahaa 54</li>
+
+  <li><a href="epsg/4630/index.html">EPSG:4630</a>: IGN72 Nuku Hiva</li>
+
+  <li><a href="epsg/4631/index.html">EPSG:4631</a>: K0 1949</li>
+
+  <li><a href="epsg/4632/index.html">EPSG:4632</a>: Combani 1950</li>
+
+  <li><a href="epsg/4633/index.html">EPSG:4633</a>: IGN56 Lifou</li>
+
+  <li><a href="epsg/4634/index.html">EPSG:4634</a>: IGN72 Grand Terre</li>
+
+  <li><a href="epsg/4635/index.html">EPSG:4635</a>: ST87 Ouvea</li>
+
+  <li><a href="epsg/4636/index.html">EPSG:4636</a>: Petrels 1972</li>
+
+  <li><a href="epsg/4637/index.html">EPSG:4637</a>: Perroud 1950</li>
+
+  <li><a href="epsg/4638/index.html">EPSG:4638</a>: Saint Pierre et Miquelon 1950</li>
+
+  <li><a href="epsg/4639/index.html">EPSG:4639</a>: MOP78</li>
+
+  <li><a href="epsg/4640/index.html">EPSG:4640</a>: RRAF 1991</li>
+  
+</ul>
+</td>
+<td>
+<ul>
+
+  <li><a href="epsg/4641/index.html">EPSG:4641</a>: IGN53 Mare</li>
+
+  <li><a href="epsg/4642/index.html">EPSG:4642</a>: ST84 Ile des Pins</li>
+
+  <li><a href="epsg/4643/index.html">EPSG:4643</a>: ST71 Belep</li>
+
+  <li><a href="epsg/4644/index.html">EPSG:4644</a>: NEA74 Noumea</li>
+
+  <li><a href="epsg/4645/index.html">EPSG:4645</a>: RGNC 1991</li>
+
+  <li><a href="epsg/4646/index.html">EPSG:4646</a>: Grand Comoros</li>
+
+  <li><a href="epsg/4657/index.html">EPSG:4657</a>: Reykjavik 1900</li>
+
+  <li><a href="epsg/4658/index.html">EPSG:4658</a>: Hjorsey 1955</li>
+
+  <li><a href="epsg/4659/index.html">EPSG:4659</a>: ISN93</li>
+
+  <li><a href="epsg/4660/index.html">EPSG:4660</a>: Helle 1954</li>
+
+  <li><a href="epsg/4661/index.html">EPSG:4661</a>: LKS92</li>
+
+  <li><a href="epsg/4662/index.html">EPSG:4662</a>: IGN72 Grande Terre</li>
+
+  <li><a href="epsg/4663/index.html">EPSG:4663</a>: Porto Santo 1995</li>
+
+  <li><a href="epsg/4664/index.html">EPSG:4664</a>: Azores Oriental 1995</li>
+
+  <li><a href="epsg/4665/index.html">EPSG:4665</a>: Azores Central 1995</li>
+
+  <li><a href="epsg/4666/index.html">EPSG:4666</a>: Lisbon 1890</li>
+
+  <li><a href="epsg/4667/index.html">EPSG:4667</a>: IKBD-92</li>
+
+  <li><a href="epsg/4668/index.html">EPSG:4668</a>: ED79</li>
+
+  <li><a href="epsg/4669/index.html">EPSG:4669</a>: LKS94</li>
+
+  <li><a href="epsg/4670/index.html">EPSG:4670</a>: IGM95</li>
+
+  <li><a href="epsg/4671/index.html">EPSG:4671</a>: Voirol 1879</li>
+
+  <li><a href="epsg/4672/index.html">EPSG:4672</a>: Chatham Islands 1971</li>
+
+  <li><a href="epsg/4673/index.html">EPSG:4673</a>: Chatham Islands 1979</li>
+
+  <li><a href="epsg/4674/index.html">EPSG:4674</a>: SIRGAS 2000</li>
+
+  <li><a href="epsg/4675/index.html">EPSG:4675</a>: Guam 1963</li>
+  
+</ul>
+</td></tr></table>
+
+
+
+
+<a href="index.html?page=45">Previous Page</a> 
+
+
+ | 
+ 
+
+<a href="index.html?page=47">Next Page</a> 
+
+
+    </div>
+    <br style="clear:both" /> 
+    <div id="footer">
+    <a href="http://spatialreference.org/about/">About</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6768472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </div>
+</body>
+</html>
