@@ -1,0 +1,1 @@
+PROJCS["Amalthea_Mercator_AUTO",GEOGCS["Amalthea 2000",DATUM["D_Amalthea_2000",SPHEROID["Amalthea_2000_IAU_IAG",125000.0,2.0491803278688523]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Mercator"],PARAMETER["False_Easting",0],PARAMETER["False_Northing",0],PARAMETER["Central_Meridian",0],PARAMETER["Standard_Parallel_1",0],UNIT["Meter",1]]

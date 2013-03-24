@@ -1,0 +1,1 @@
+LOCAL_CS["Dabajuro",LOCAL_DATUM["Dabajuro",0,AUTHORITY["EPSG","9307"]],UNIT["m",1.0],AXIS["Northing",NORTH],AXIS["Easting",EAST],AUTHORITY["EPSG","5813"]]

@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 937226, 'esri', 37226, '+proj=longlat +ellps=intl +no_defs ', 'GEOGCS["GCS_Pitcairn_1967",DATUM["Pitcairn_1967",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37226"]]');

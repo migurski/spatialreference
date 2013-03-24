@@ -1,0 +1,12 @@
+PROJCS["Io_Orthographic_AUTO",
+    GEOGCS["Io 2000",
+        DATUM["D_Io_2000",
+            SPHEROID["Io_2000_IAU_IAG",1829400.0,133.53284671532847]],
+        PRIMEM["Greenwich",0],
+        UNIT["Decimal_Degree",0.0174532925199433]],
+    PROJECTION["Orthographic"],
+    PARAMETER["False_Easting",0],
+    PARAMETER["False_Northing",0],
+    PARAMETER["Longitude_Of_Center",0.0],
+    PARAMETER["Latitude_Of_Center",90.0],
+    UNIT["Meter",1]]

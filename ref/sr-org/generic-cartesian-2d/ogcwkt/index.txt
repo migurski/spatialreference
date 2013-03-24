@@ -1,0 +1,1 @@
+LOCAL_CS["Generic cartesian 2D",LOCAL_DATUM["Unknow",0],UNIT["m",1.0],AXIS["x",EAST],AXIS["y",NORTH]]

@@ -1,0 +1,114 @@
+<gml:ProjectedCRS gml:id="ogrcrs75">
+  <gml:srsName>Hong_Kong_1980_Grid</gml:srsName>
+  <gml:srsID>
+    <gml:name gml:codeSpace="urn:ogc:def:crs:EPSG::">102140</gml:name>
+  </gml:srsID>
+  <gml:baseCRS>
+    <gml:GeographicCRS gml:id="ogrcrs76">
+      <gml:srsName>GCS_Hong_Kong_1980</gml:srsName>
+      <gml:usesEllipsoidalCS>
+        <gml:EllipsoidalCS gml:id="ogrcrs77">
+          <gml:csName>ellipsoidal</gml:csName>
+          <gml:csID>
+            <gml:name gml:codeSpace="urn:ogc:def:cs:EPSG::">6402</gml:name>
+          </gml:csID>
+          <gml:usesAxis>
+            <gml:CoordinateSystemAxis gml:id="ogrcrs78" gml:uom="urn:ogc:def:uom:EPSG::9102">
+              <gml:name>Geodetic latitude</gml:name>
+              <gml:axisID>
+                <gml:name gml:codeSpace="urn:ogc:def:axis:EPSG::">9901</gml:name>
+              </gml:axisID>
+              <gml:axisAbbrev>Lat</gml:axisAbbrev>
+              <gml:axisDirection>north</gml:axisDirection>
+            </gml:CoordinateSystemAxis>
+          </gml:usesAxis>
+          <gml:usesAxis>
+            <gml:CoordinateSystemAxis gml:id="ogrcrs79" gml:uom="urn:ogc:def:uom:EPSG::9102">
+              <gml:name>Geodetic longitude</gml:name>
+              <gml:axisID>
+                <gml:name gml:codeSpace="urn:ogc:def:axis:EPSG::">9902</gml:name>
+              </gml:axisID>
+              <gml:axisAbbrev>Lon</gml:axisAbbrev>
+              <gml:axisDirection>east</gml:axisDirection>
+            </gml:CoordinateSystemAxis>
+          </gml:usesAxis>
+        </gml:EllipsoidalCS>
+      </gml:usesEllipsoidalCS>
+      <gml:usesGeodeticDatum>
+        <gml:GeodeticDatum gml:id="ogrcrs80">
+          <gml:datumName>Hong_Kong_1980</gml:datumName>
+          <gml:usesPrimeMeridian>
+            <gml:PrimeMeridian gml:id="ogrcrs81">
+              <gml:meridianName>Greenwich</gml:meridianName>
+              <gml:greenwichLongitude>
+                <gml:angle gml:uom="urn:ogc:def:uom:EPSG::9102">0</gml:angle>
+              </gml:greenwichLongitude>
+            </gml:PrimeMeridian>
+          </gml:usesPrimeMeridian>
+          <gml:usesEllipsoid>
+            <gml:Ellipsoid gml:id="ogrcrs82">
+              <gml:ellipsoidName>International_1924</gml:ellipsoidName>
+              <gml:semiMajorAxis gml:uom="urn:ogc:def:uom:EPSG::9001">6378388</gml:semiMajorAxis>
+              <gml:secondDefiningParameter>
+                <gml:inverseFlattening gml:uom="urn:ogc:def:uom:EPSG::9201">297</gml:inverseFlattening>
+              </gml:secondDefiningParameter>
+            </gml:Ellipsoid>
+          </gml:usesEllipsoid>
+        </gml:GeodeticDatum>
+      </gml:usesGeodeticDatum>
+    </gml:GeographicCRS>
+  </gml:baseCRS>
+  <gml:definedByConversion>
+    <gml:Conversion gml:id="ogrcrs83">
+      <gml:usesMethod xlink:href="urn:ogc:def:method:EPSG::9807"/>
+      <gml:usesParameterValue>
+        <gml:value gml:uom="urn:ogc:def:uom:EPSG::9102">22.31213333333334</gml:value>
+        <gml:valueOfParameter xlink:href="urn:ogc:def:parameter:EPSG::8801"/>
+      </gml:usesParameterValue>
+      <gml:usesParameterValue>
+        <gml:value gml:uom="urn:ogc:def:uom:EPSG::9102">114.1785555555556</gml:value>
+        <gml:valueOfParameter xlink:href="urn:ogc:def:parameter:EPSG::8802"/>
+      </gml:usesParameterValue>
+      <gml:usesParameterValue>
+        <gml:value gml:uom="urn:ogc:def:uom:EPSG::9001">1</gml:value>
+        <gml:valueOfParameter xlink:href="urn:ogc:def:parameter:EPSG::8805"/>
+      </gml:usesParameterValue>
+      <gml:usesParameterValue>
+        <gml:value gml:uom="urn:ogc:def:uom:EPSG::9001">836694.05</gml:value>
+        <gml:valueOfParameter xlink:href="urn:ogc:def:parameter:EPSG::8806"/>
+      </gml:usesParameterValue>
+      <gml:usesParameterValue>
+        <gml:value gml:uom="urn:ogc:def:uom:EPSG::9001">819069.8</gml:value>
+        <gml:valueOfParameter xlink:href="urn:ogc:def:parameter:EPSG::8807"/>
+      </gml:usesParameterValue>
+    </gml:Conversion>
+  </gml:definedByConversion>
+  <gml:usesCartesianCS>
+    <gml:CartesianCS gml:id="ogrcrs84">
+      <gml:csName>Cartesian</gml:csName>
+      <gml:csID>
+        <gml:name gml:codeSpace="urn:ogc:def:cs:EPSG::">4400</gml:name>
+      </gml:csID>
+      <gml:usesAxis>
+        <gml:CoordinateSystemAxis gml:id="ogrcrs85" gml:uom="urn:ogc:def:uom:EPSG::9001">
+          <gml:name>Easting</gml:name>
+          <gml:axisID>
+            <gml:name gml:codeSpace="urn:ogc:def:axis:EPSG::">9906</gml:name>
+          </gml:axisID>
+          <gml:axisAbbrev>E</gml:axisAbbrev>
+          <gml:axisDirection>east</gml:axisDirection>
+        </gml:CoordinateSystemAxis>
+      </gml:usesAxis>
+      <gml:usesAxis>
+        <gml:CoordinateSystemAxis gml:id="ogrcrs86" gml:uom="urn:ogc:def:uom:EPSG::9001">
+          <gml:name>Northing</gml:name>
+          <gml:axisID>
+            <gml:name gml:codeSpace="urn:ogc:def:axis:EPSG::">9907</gml:name>
+          </gml:axisID>
+          <gml:axisAbbrev>N</gml:axisAbbrev>
+          <gml:axisDirection>north</gml:axisDirection>
+        </gml:CoordinateSystemAxis>
+      </gml:usesAxis>
+    </gml:CartesianCS>
+  </gml:usesCartesianCS>
+</gml:ProjectedCRS>

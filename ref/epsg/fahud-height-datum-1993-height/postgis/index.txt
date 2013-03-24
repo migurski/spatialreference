@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95725, 'epsg', 5725, '', 'VERT_CS["Fahud Height Datum 1993",VERT_DATUM["Fahud Height Datum",2005,AUTHORITY["EPSG","5124"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5725"]]');

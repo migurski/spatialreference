@@ -1,0 +1,5 @@
+PROJECTION
+	"proj=longlat"
+	"ellps=bess_nam"
+	"no_defs"
+END

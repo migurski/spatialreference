@@ -1,0 +1,1 @@
+VERT_CS["NGC 1948",VERT_DATUM["Nivellement General de la Corse 1948",2005],UNIT["m",1.0]]

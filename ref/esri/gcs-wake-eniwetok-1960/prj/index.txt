@@ -1,0 +1,1 @@
+GEOGCS["GCS_Wake_Eniwetok_1960",DATUM["D_Wake_Eniwetok_1960",SPHEROID["Hough_1960",6378270,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

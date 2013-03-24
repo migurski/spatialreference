@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95614, 'epsg', 5614, '', 'VERT_CS["KOC WD depth (ft)",VERT_DATUM["KOC Well Datum",2005,AUTHORITY["EPSG","5187"]],UNIT["ft",0.3048],AXIS["Gravity-related depth",DOWN],AUTHORITY["EPSG","5614"]]');

@@ -1,0 +1,3 @@
+# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
+#You can further work with your projections via the web admin tool.
+7402=PROJCS["Cassini-Soldner_Monte-Brutto",GEOGCS["Latitude/Longitude",DATUM["Not_specified_based_on_Bessel_1841_ellipsoid",SPHEROID["Bessel 1841",6377397.155,299.152812800029]],PRIMEM["anon",8.92103027777778],UNIT["degrees",0.0174532925199433]],PROJECTION["Cassini_Soldner"],PARAMETER["Central_Meridian",7.50094186111111],PARAMETER["False_Easting",-0],PARAMETER["False_Northing",-0],PARAMETER["Latitude_of_Origin",39.1395087777778],UNIT["m",1]]

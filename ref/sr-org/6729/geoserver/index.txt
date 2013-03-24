@@ -1,0 +1,3 @@
+# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
+#You can further work with your projections via the web admin tool.
+6729="+proj=lcc+lat_1=43.45678000+lat_2=43.45680000+lat_0=3.86550343+lon_0=23.19729755+x_0=8496745.16350000+y_0=0.0+ellps=krass+towgs84=24"

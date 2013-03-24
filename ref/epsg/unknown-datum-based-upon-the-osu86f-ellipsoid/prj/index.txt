@@ -1,0 +1,1 @@
+GEOGCS["Unknown datum based upon the OSU86F ellipsoid",DATUM["D_OSU_86F",SPHEROID["OSU86F",6378136.2,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

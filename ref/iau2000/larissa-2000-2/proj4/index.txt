@@ -1,0 +1,1 @@
++proj=longlat +a=96000 +b=96000 +no_defs 

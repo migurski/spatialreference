@@ -1,0 +1,1 @@
+GEOGCS["TM75 (deg)",DATUM["D_Geodetic Datum of 1965",SPHEROID["Airy_Modified_1849",6377340.189,299.3249646]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]]

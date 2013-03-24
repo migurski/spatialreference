@@ -1,0 +1,1 @@
+PROJCS["LGD2006 / Libya TM zone 7",GEOGCS["LGD2006",DATUM["D_",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",13],PARAMETER["scale_factor",0.99995],PARAMETER["false_easting",200000],PARAMETER["false_northing",0],UNIT["Meter",1]]

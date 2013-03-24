@@ -1,0 +1,1 @@
+GEOGCS["Greek (Athens) (deg)",DATUM["D_Greek (Athens)",SPHEROID["Bessel_1841",6377397.155,299.1528128]],PRIMEM["Athens",23.7163375],UNIT["Degree",0.017453292519943295]]

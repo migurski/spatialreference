@@ -1,0 +1,13 @@
+PROJCS["Clay County Coordinates (feet)",
+    GEOGCS["GCS_North_American_1983",
+        DATUM["D_North_American_1983",
+            SPHEROID["GRS_1980",6378137,298.257222101]],
+        PRIMEM["Greenwich",0],
+        UNIT["Degree",0.017453292519943295]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["False_Easting",500023.65813648293],
+    PARAMETER["False_Northing",100004.73195538057],
+    PARAMETER["Central_Meridian",-96.70000000010001],
+    PARAMETER["Scale_Factor",1.000045317862],
+    PARAMETER["Latitude_Of_Origin",46.63],
+    UNIT["Foot_US",0.30480060960121924]]

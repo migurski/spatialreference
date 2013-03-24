@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95719, 'epsg', 5719, '', 'VERT_CS["NGF Lallemand",VERT_DATUM["Nivellement General de la France - Lallemand",2005,AUTHORITY["EPSG","5118"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5719"]]');

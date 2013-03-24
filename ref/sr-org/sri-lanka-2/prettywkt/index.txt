@@ -1,0 +1,13 @@
+PROJCS["SL_grid_99",
+    GEOGCS["GCS_Kandawala",
+        DATUM["D_Kandawala",
+            SPHEROID["Everest_1830",6377276.345,300.8017]],
+        PRIMEM["Greenwich",0],
+        UNIT["Degree",0.017453292519943295]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["False_Easting",200000],
+    PARAMETER["False_Northing",200000],
+    PARAMETER["Central_Meridian",80.77171],
+    PARAMETER["Scale_Factor",0.9999238418000001],
+    PARAMETER["Latitude_Of_Origin",7.00048],
+    UNIT["Meter",1]]

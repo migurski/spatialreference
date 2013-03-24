@@ -1,0 +1,8 @@
+PROJECTION
+	"proj=utm"
+	"zone=6"
+	"ellps=GRS80"
+	"datum=NAD83"
+	"units=m"
+	"no_defs"
+END

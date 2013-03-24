@@ -1,0 +1,13 @@
+PROJCS["BritishNatGrid",
+    GEOGCS["LL-OSGB-MOD",
+        DATUM["OSGB-MOD",
+            SPHEROID["AIRY30",6377563.396,299.32496127]],
+        PRIMEM["Greenwich",0],
+        UNIT["Degree",0.017453292519943295]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["false_easting",400000.000],
+    PARAMETER["false_northing",-100000.000],
+    PARAMETER["scale_factor",0.999601271625],
+    PARAMETER["central_meridian",-2.00000000000000],
+    PARAMETER["latitude_of_origin",49.00000000000000],
+    UNIT["Meter",1.00000000000000]]

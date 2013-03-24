@@ -1,0 +1,6 @@
+PROJECTION
+	"proj=longlat"
+	"a=6378273"
+	"b=6356889.449"
+	"no_defs"
+END

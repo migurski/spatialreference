@@ -1,0 +1,8 @@
+PROJECTION
+	"proj=utm"
+	"zone=18"
+	"south"
+	"ellps=WGS72"
+	"units=m"
+	"no_defs"
+END

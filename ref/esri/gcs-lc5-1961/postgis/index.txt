@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 937243, 'esri', 37243, '+proj=longlat +ellps=clrk66 +no_defs ', 'GEOGCS["GCS_LC5_1961",DATUM["LC5_1961",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37243"]]');

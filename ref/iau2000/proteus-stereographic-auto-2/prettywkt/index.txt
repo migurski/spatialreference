@@ -1,0 +1,13 @@
+PROJCS["Proteus_Stereographic_AUTO",
+    GEOGCS["Proteus 2000",
+        DATUM["D_Proteus_2000",
+            SPHEROID["Proteus_2000_IAU_IAG",218000.0,12.823529411764705]],
+        PRIMEM["Greenwich",0],
+        UNIT["Decimal_Degree",0.0174532925199433]],
+    PROJECTION["Stereographic"],
+    PARAMETER["False_Easting",0],
+    PARAMETER["False_Northing",0],
+    PARAMETER["Central_Meridian",0],
+    PARAMETER["Scale_Factor",1],
+    PARAMETER["Latitude_Of_Origin",0],
+    UNIT["Meter",1]]

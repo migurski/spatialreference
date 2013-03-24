@@ -1,0 +1,11 @@
+PROJECTION
+	"proj=cass"
+	"lat_0=39.1395087777778"
+	"lon_0=7.50094186111111"
+	"x_0=-0"
+	"y_0=-0"
+	"ellps=bessel"
+	"pm=8.921030277777779"
+	"units=m"
+	"no_defs"
+END

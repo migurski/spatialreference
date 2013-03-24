@@ -1,0 +1,1 @@
+Projectiontype:PolarStereographicProjectionparameter:1060CornerCoordinates:+54.661715+1.871499["upperleft"]

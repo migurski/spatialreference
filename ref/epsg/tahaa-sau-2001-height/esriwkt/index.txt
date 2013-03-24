@@ -1,0 +1,1 @@
+VERT_CS["Tahaa SAU 2001",VERT_DATUM["Tahaa SAU 2001",2005],UNIT["m",1.0]]

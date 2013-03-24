@@ -1,0 +1,1 @@
++proj=cass +lat_0=0 +lon_0=0 +x_0=44.91472 +y_0=8.61135 +ellps=WGS84 +datum=WGS84 +units=m +no_defs 

@@ -1,0 +1,1 @@
+"+proj=tmerc+ellps=GRS80+x_0=100000+y_0=1000000+units=m+lat_0=58+lon_0=9.5+towgs84=-0.39"

@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 96857, 'sr-org', 6857, '', 'PROJCS["Unknown",GEOGCS["GCS_Chua",DATUM["D_Chua",SPHEROID["International_1924",6378388,297.0]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],UNIT["unknown",1]]');

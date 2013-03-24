@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 937203, 'esri', 37203, '+proj=longlat +a=6377301.243 +b=6356100.230165384 +no_defs ', 'GEOGCS["GCS_Everest_India_Nepal",DATUM["Everest_India_Nepal",SPHEROID["Everest_Definition_1962",6377301.243,300.8017255]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37203"]]');

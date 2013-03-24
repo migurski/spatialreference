@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 96899, 'sr-org', 6899, '', 'POLYGON[[-3775,-3774,-3674,-3675,-3775]]');

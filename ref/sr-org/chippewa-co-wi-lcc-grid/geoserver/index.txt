@@ -1,0 +1,3 @@
+# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
+#You can further work with your projections via the web admin tool.
+7115=PROJCS["Chippewa County Grid",GEOGCS["GRS80 Modified",DATUM["<custom>",SPHEROID["<custom>",6378412.542,298.2701071153019]],PRIMEM["<custom>",0.0],UNIT["<custom>",1.0]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",197000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-91.2944444444444],PARAMETER["Standard_Parallel_1",45.1416666666666],PARAMETER["Standard_Parallel_2",44.8138888888888],PARAMETER["Scale_Factor",1.0],PARAMETER["Latitude_Of_Origin",44.581111111111],UNIT["Foot_US",0.3048006096012192]]

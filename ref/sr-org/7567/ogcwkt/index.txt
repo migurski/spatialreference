@@ -1,0 +1,1 @@
+PROJCS["unnamed",GEOGCS["Normal Sphere (r=6370997)",DATUM["unknown",SPHEROID["sphere",6370997,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Lambert_Azimuthal_Equal_Area"],PARAMETER["latitude_of_center",-10],PARAMETER["longitude_of_center",-70],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["Meter",1]]

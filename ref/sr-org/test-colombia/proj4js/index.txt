@@ -1,0 +1,1 @@
+Proj4js.defs["SR-ORG:7380"] = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs";

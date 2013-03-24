@@ -1,0 +1,1 @@
++proj=laea +lat_0=44.7 +lon_0=-95 +x_0=0 +y_0=0 +ellps=WGS84 +units=m +no_defs 

@@ -1,0 +1,1 @@
+Proj4js.defs["SR-ORG:6772"] = "+proj=tmerc +lat_0=7.078887141666667 +lon_0=-73.19734322222222 +k=1 +x_0=1097241.305 +y_0=1274642.278 +ellps=GRS80 +units=m +no_defs";

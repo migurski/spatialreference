@@ -1,0 +1,1 @@
+GEOGCS["Unknown datum based upon the Struve 1860 ellipsoid",DATUM["D_Struve_1860",SPHEROID["Struve_1860",6378298.3,294.73]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

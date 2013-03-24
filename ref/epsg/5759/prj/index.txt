@@ -1,0 +1,1 @@
+VERT_CS["Auckland",VERT_DATUM["Auckland",2005],UNIT["m",1.0]]

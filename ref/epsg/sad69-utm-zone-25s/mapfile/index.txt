@@ -1,0 +1,8 @@
+PROJECTION
+	"proj=utm"
+	"zone=25"
+	"south"
+	"ellps=GRS67"
+	"units=m"
+	"no_defs"
+END

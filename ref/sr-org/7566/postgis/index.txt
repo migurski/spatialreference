@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 97566, 'sr-org', 7566, '', 'Projection:TransverseMercator["syn:Gauss-Krueger"]');

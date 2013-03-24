@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map srs="+proj=tmerc +lat_0=0 +lon_0=-111 +k=1 +x_0=-1362952 +y_0=-6940531 +ellps=WGS84 +towgs84=0,0,0,0,-60833.32878,0,0.999591365529242 +units=m +no_defs">
+	<Layer srs="+proj=tmerc +lat_0=0 +lon_0=-111 +k=1 +x_0=-1362952 +y_0=-6940531 +ellps=WGS84 +towgs84=0,0,0,0,-60833.32878,0,0.999591365529242 +units=m +no_defs">
+	</Layer>
+</Map>

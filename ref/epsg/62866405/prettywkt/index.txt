@@ -1,0 +1,11 @@
+GEOGCS["Qatar 1948 (deg)",
+    DATUM["Qatar 1948",
+        SPHEROID["Helmert 1906",6378200.0,298.3,
+            AUTHORITY["EPSG","7020"]],
+        AUTHORITY["EPSG","6286"]],
+    PRIMEM["Greenwich",0.0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree",0.017453292519943295],
+    AXIS["Geodetic latitude",NORTH],
+    AXIS["Geodetic longitude",EAST],
+    AUTHORITY["EPSG","62866405"]]

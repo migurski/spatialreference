@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 96743, 'sr-org', 6743, '', 'LOCAL_CS["ADMINCS4",LOCAL_DATUM["ADMINDAT4",10004,AUTHORITY["TEST","1004"]],UNIT["m",1.0],AXIS["X",EAST],AXIS["Y",NORTH],AUTHORITY["TEST","100004"]]');

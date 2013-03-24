@@ -1,0 +1,1 @@
+GEOGCS["Monte Mario (Rome) (deg)",DATUM["D_Monte Mario (Rome)",SPHEROID["International_1924",6378388.0,297.0]],PRIMEM["Rome",12.452333333333332],UNIT["Degree",0.017453292519943295]]

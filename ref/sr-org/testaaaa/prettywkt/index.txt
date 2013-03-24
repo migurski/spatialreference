@@ -1,0 +1,12 @@
+PROJCS["A Coordinate System",
+    GEOGCS["_GENERATED_GCS",
+        DATUM["user_spec_ellipsoid a: 6366707.02 b: 0.0",
+            SPHEROID["A Spheroid",6366707.020000000,0]],
+        PRIMEM["Greenwich",0],
+        UNIT["Radian",1]],
+    PROJECTION["Equirectangular"],
+    PARAMETER["False_Easting",0],
+    PARAMETER["False_Northing",-1234.666666766],
+    PARAMETER["Central_Meridian",-0.000363610],
+    PARAMETER["Standard_Parallel_1",0.000193925],
+    UNIT["Meter",1]]

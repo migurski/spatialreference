@@ -1,0 +1,1 @@
+VERT_CS["NGF Lallemand",VERT_DATUM["Nivellement General de la France - Lallemand",2005],UNIT["m",1.0]]

@@ -1,0 +1,1 @@
+GEOGCS["Hong Kong 1980 (deg)",DATUM["D_Hong Kong 1980",SPHEROID["International_1924",6378388.0,297.0]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]]

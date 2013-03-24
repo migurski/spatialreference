@@ -1,0 +1,1 @@
+COMPD_CS["NAD27 + NGVD29",GEOGCS["GCS_North_American_1927",DATUM["D_North American Datum 1927",SPHEROID["Clarke_1866",6378206.4,294.9786982138982]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]],VERT_CS["National Geodetic Vertical Datum of 1929",VERT_DATUM["National Geodetic Vertical Datum 1929",2005],UNIT["foot_survey_us",0.30480060960121924]]]

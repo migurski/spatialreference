@@ -1,0 +1,1 @@
+Proj4js.defs["IAU2000:70700"] = "+proj=longlat +a=15000 +b=15000 +no_defs";

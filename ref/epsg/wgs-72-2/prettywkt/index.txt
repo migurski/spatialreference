@@ -1,0 +1,13 @@
+GEOCCS["WGS 72",
+    DATUM["World Geodetic System 1972",
+        SPHEROID["WGS 72",6378135.0,298.26,
+            AUTHORITY["EPSG","7043"]],
+        TOWGS84[0.0,0.0,4.5,0.0,0.0,0.554,0.045171992568114105],
+        AUTHORITY["EPSG","6322"]],
+    PRIMEM["Greenwich",0.0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["m",1.0],
+    AXIS["Geocentric X",OTHER],
+    AXIS["Geocentric Y",EAST],
+    AXIS["Geocentric Z",NORTH],
+    AUTHORITY["EPSG","4984"]]

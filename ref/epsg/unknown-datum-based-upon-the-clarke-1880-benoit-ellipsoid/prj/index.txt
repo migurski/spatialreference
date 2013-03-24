@@ -1,0 +1,1 @@
+GEOGCS["Unknown datum based upon the Clarke 1880 (Benoit) ellipsoid",DATUM["D_Clarke_1880_Benoit",SPHEROID["Clarke_1880_Benoit",6378300.789,293.4663155389811]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

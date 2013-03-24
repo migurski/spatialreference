@@ -1,0 +1,1 @@
+GEOGCS["Unknown datum based upon the Plessis 1817 ellipsoid",DATUM["D_Plessis_1817",SPHEROID["Plessis_1817",6376523,308.64]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

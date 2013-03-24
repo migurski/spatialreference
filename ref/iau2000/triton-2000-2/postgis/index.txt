@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 980101, 'iau2000', 80101, '+proj=longlat +a=1352600 +b=1352600 +no_defs ', 'GEOGCS["Triton 2000",DATUM["D_Triton_2000",SPHEROID["Triton_2000_IAU_IAG",1352600.0,0.0]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]]');

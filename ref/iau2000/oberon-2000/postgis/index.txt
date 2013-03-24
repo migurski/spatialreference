@@ -1,0 +1,1 @@
+INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 970400, 'iau2000', 70400, '+proj=longlat +a=761400 +b=761400 +no_defs ', 'GEOGCS["Oberon 2000",DATUM["D_Oberon_2000",SPHEROID["Oberon_2000_IAU_IAG",761400.0,0.0]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]]');

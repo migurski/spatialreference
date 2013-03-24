@@ -1,0 +1,6 @@
+GEOGCS["unnamed",
+    DATUM["MIF 0",
+        SPHEROID["WGS 84 (MAPINFO Datum 0)",6378137.01,298.257223563],
+        TOWGS84[0,0,0,-0,-0,-0,0]],
+    PRIMEM["Greenwich",0],
+    UNIT["degree",0.0174532925199433]]
