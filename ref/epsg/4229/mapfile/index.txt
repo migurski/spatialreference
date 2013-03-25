@@ -1,5 +1,0 @@
-PROJECTION
-	"proj=longlat"
-	"ellps=helmert"
-	"no_defs"
-END

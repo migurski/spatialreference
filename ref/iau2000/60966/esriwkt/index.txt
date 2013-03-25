@@ -1,1 +1,0 @@
-PROJCS["Phoebe_Orthographic_AUTO",GEOGCS["Phoebe 2000",DATUM["D_Phoebe_2000",SPHEROID["Phoebe_2000_IAU_IAG",115000.0,11.5]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Orthographic"],PARAMETER["False_Easting",0],PARAMETER["False_Northing",0],PARAMETER["Longitude_Of_Center",0.0],PARAMETER["Latitude_Of_Center",90.0],UNIT["Meter",1]]

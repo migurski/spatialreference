@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 960700, 'iau2000', 60700, '+proj=longlat +a=164000 +b=107000 +no_defs ', 'GEOGCS["Hyperion 2000",DATUM["D_Hyperion_2000",SPHEROID["Hyperion_2000_IAU_IAG",164000.0,2.8771929824561404]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]]');

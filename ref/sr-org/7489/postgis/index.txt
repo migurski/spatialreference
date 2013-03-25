@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 97489, 'sr-org', 7489, '', 'PROJCS["Aitoff",GEOGCS["WGS 84",DATUM["unknown",SPHEROID["WGS84",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Aitoff"],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0]]');

@@ -1,6 +1,0 @@
-PROJECTION
-	"proj=longlat"
-	"a=581100"
-	"b=577700"
-	"no_defs"
-END

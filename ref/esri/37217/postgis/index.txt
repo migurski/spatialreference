@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 937217, 'esri', 37217, '+proj=longlat +ellps=intl +no_defs ', 'GEOGCS["GCS_Chatham_Island_1971",DATUM["Chatham_Island_1971",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37217"]]');

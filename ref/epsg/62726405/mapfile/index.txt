@@ -1,6 +1,0 @@
-PROJECTION
-	"proj=longlat"
-	"ellps=intl"
-	"datum=nzgd49"
-	"no_defs"
-END

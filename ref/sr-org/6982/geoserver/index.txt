@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-6982=PROJCS["mytest",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563],TOWGS84[0,0,15,-13065.65,-32926.5,54254.7,0],AUTHORITY["EPSG","6140"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",57.033973040895],PARAMETER["central_meridian",-111.64513787069],PARAMETER["scale_factor",1.0000001],PARAMETER["false_easting",50010.10],PARAMETER["false_northing",50009.47],UNIT["metre",1.048153]]

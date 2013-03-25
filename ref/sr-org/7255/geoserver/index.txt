@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-7255=PROJCS["NAD83 / Mississippi West",GEOGCS["NAD83",DATUM["North_American_Datum_1983",SPHEROID["GRS 1980",6378137,298.2572221010002,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6269"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4269"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",29.5],PARAMETER["central_meridian",-90.33333333333333],PARAMETER["scale_factor",0.99995],PARAMETER["false_easting",2296583.333333333],PARAMETER["false_northing",0],UNIT["US survey foot",0.3048006096012192,AUTHORITY["EPSG","9003"]],AUTHORITY["EPSG","26995"]]

@@ -1,1 +1,0 @@
-+proj=longlat +ellps=intl +pm=lisbon +no_defs 

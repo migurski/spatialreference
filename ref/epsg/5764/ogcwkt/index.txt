@@ -1,1 +1,0 @@
-VERT_CS["Moturiki",VERT_DATUM["Moturiki",2005,AUTHORITY["EPSG","5162"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5764"]]

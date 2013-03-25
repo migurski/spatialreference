@@ -1,1 +1,0 @@
-+proj=utm +zone=33 +a=6377492.018 +b=6356173.508712696 +units=m +no_defs 

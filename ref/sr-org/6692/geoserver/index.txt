@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-6692=PROJCS["&quot;WGS_1984_UTM_Zone_43N&quot;",GEOGCS["&quot;GCS_WGS_1984&quot;",DATUM["&quot;D_WGS_1984&quot;",SPHEROID["&quot;WGS_1984&quot;",6378137.0,298.257223563]],PRIMEM["&quot;Greenwich&quot;",0.0],UNIT["&quot;Degree&quot;",0.0174532925199433]],PROJECTION["&quot;Transverse_Mercator&quot;"],PARAMETER["&quot;False_Easting&quot;",500000.0],PARAMETER["&quot;False_Northing&quot;",0.0],PARAMETER["&quot;Central_Meridian&quot;",75.0],PARAMETER["&quot;Scale_Factor&quot;",0.9996],PARAMETER["&quot;Latitude_Of_Origin&quot;",0.0],UNIT["&quot;Meter&quot;",1.0]]

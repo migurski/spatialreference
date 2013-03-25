@@ -1,1 +1,0 @@
-VERT_CS["GHA",VERT_DATUM["Gebrauchshohen ADRIA",2005],UNIT["m",1.0]]

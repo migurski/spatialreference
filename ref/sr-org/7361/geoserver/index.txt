@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-7361=PROJCS["UA-63_CM 41.5E",GEOGCS["UA-42",DATUM["Pulkovo_1942",SPHEROID["Krasovsky_1940",6378245,298.3]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["scale_factor",1],PARAMETER["central_meridian",41.5],PARAMETER["latitude_of_origin",0],PARAMETER["false_easting",7300000],PARAMETER["false_northing",-9214.692],UNIT["Meter",1]]

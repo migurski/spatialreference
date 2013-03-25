@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 937207, 'esri', 37207, '+proj=longlat +ellps=fschr60m +no_defs ', 'GEOGCS["GCS_South_Asia_Singapore",DATUM["South_Asia_Singapore",SPHEROID["Fischer_Modified",6378155,298.3]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37207"]]');

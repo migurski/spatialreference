@@ -1,1 +1,0 @@
-Proj4js.defs["SR-ORG:7190"] = "+proj=utm +zone=17 +ellps=clrk66 +to_meter=0.30480060960122 +no_defs";

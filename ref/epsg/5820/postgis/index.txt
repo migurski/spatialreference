@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95820, 'epsg', 5820, '', 'PROJCS["EPSG topocentric example B"]');

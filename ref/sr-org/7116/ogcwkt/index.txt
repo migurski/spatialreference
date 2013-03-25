@@ -1,1 +1,0 @@
-GEOGCS["Generic Lat/Long's, Degrees, -180 ==> +180",DATUM["D_unnamed",SPHEROID["World Geodetic System of 1984",6378137,298.257222932867]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]]

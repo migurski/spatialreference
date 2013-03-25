@@ -1,6 +1,0 @@
-PROJECTION
-	"proj=longlat"
-	"ellps=clrk80"
-	"towgs84=725.0,685.0,536.0,0.0,0.0,0.0,0.0"
-	"no_defs"
-END

@@ -1,1 +1,0 @@
-GEOGCS["ELD79",DATUM["D_European_Libyan_1979",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

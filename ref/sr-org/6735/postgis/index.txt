@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 96735, 'sr-org', 6735, '', '"SR-ORG"');

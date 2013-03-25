@@ -1,1 +1,0 @@
-GEOGCS["AGD66 (deg)",DATUM["D_Australian Geodetic Datum 1966",SPHEROID["Australian_National_Spheroid",6378160.0,298.25]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]]

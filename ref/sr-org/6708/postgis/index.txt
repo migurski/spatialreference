@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 96708, 'sr-org', 6708, '', 'LOCAL_CS["Non-Earth (Meter)",LOCAL_DATUM["Local Datum",0],UNIT["m",1.0],AXIS["X",NORTH],AXIS["Geocentric Y",EAST],AUTHORITY["EPSG","262148"]]');

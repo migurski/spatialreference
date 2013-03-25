@@ -1,6 +1,0 @@
-GEOGCS["GCS_Fischer_Modified",
-    DATUM["Fischer_Modified",
-        SPHEROID["Fischer_Modified",6378155,298.3]],
-    PRIMEM["Greenwich",0],
-    UNIT["Degree",0.017453292519943295],
-    AUTHORITY["EPSG","37004"]]

@@ -1,1 +1,0 @@
-PROJCS["WSIG",GEOGCS["GCS_WGS_1972",DATUM["D_WGS_1972",SPHEROID["WGS_1972",6378135.0,298.26]],PRIMEM["Greenwich",0.0],UNIT["Degree",2.0]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",700000.0],PARAMETER["False_Northing",7000000.0],PARAMETER["Central_Meridian",-1.500983156715124],PARAMETER["Scale_Factor",1.0],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]

@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-7014=PROJCS["Malaysia_Cassini_Pahang",GEOGCS["GCS_Kertau",DATUM["Kertau_1968",SPHEROID["Everest_1830_Modified",6377304.063,300.8017]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],UNIT["Meter",1],PROJECTION["Cassini_Soldner"],PARAMETER["Latitude_Of_Origin",3.710972222],PARAMETER["Central_Meridian",102.4361778],PARAMETER["False_Easting",0],PARAMETER["False_Northing",0],PARAMETER["Scale_Factor",1],AUTHORITY["EPSG","60003379"]]

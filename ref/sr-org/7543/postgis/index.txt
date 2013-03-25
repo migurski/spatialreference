@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 97543, 'sr-org', 7543, '+proj=longlat +ellps=WGS84 +no_defs ', 'GEOGCS["Unknown",DATUM["D_MIF 0",SPHEROID["WGS_84_MAPINFO_Datum_0",6378137.01,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]');

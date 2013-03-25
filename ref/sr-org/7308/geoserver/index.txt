@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-7308=PROJCS["UTM-K",GEOGCS["GCS_ITRF_2000",DATUM["D_ITRF_2000 (EPSG ID 9028080)",SPHEROID["GRS_1980 (EPSG ID 9021980)",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["degree",0.017453292519943295],AXIS["Longitude",EAST],AXIS["Latitude",NORTH]],PROJECTION["Transverse_Mercator"],PARAMETER["central_meridian",127.5],PARAMETER["latitude_of_origin",38.0],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",1000000.0],PARAMETER["false_northing",2000000.0],UNIT["m",1.0],AXIS["x",EAST],AXIS["y",NORTH]]

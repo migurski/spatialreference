@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 97336, 'sr-org', 7336, '', '"+proj=nzmg+lat_0=-41+lon_0=173+x_0=2510000+y_0=6023150+no_defs+a=6378388+rf=297+towgs84=84"');

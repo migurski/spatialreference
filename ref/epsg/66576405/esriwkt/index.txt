@@ -1,1 +1,0 @@
-GEOGCS["Reykjavik 1900 (deg)",DATUM["D_Reykjavik 1900",SPHEROID["Danish_1876",6377019.27,300.0]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]]

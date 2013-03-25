@@ -1,1 +1,0 @@
-GEOGCS["RGNC 1991 (3D)",DATUM["D_Reseau Geodesique Nouvelle Caledonie 1991",SPHEROID["International_1924",6378388.0,297.0]],PRIMEM["Greenwich",0.0],UNIT["DMS",0.00000484813681109536]]

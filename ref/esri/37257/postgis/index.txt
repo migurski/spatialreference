@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 937257, 'esri', 37257, '+proj=longlat +ellps=krass +no_defs ', 'GEOGCS["GCS_S42_Hungary",DATUM["S42_Hungary",SPHEROID["Krasovsky_1940",6378245,298.3]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37257"]]');

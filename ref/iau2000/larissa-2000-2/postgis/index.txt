@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 980701, 'iau2000', 80701, '+proj=longlat +a=96000 +b=96000 +no_defs ', 'GEOGCS["Larissa 2000",DATUM["D_Larissa_2000",SPHEROID["Larissa_2000_IAU_IAG",96000.0,0.0]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]]');

@@ -1,1 +1,0 @@
-VERT_CS["Stornoway",VERT_DATUM["Stornoway",2005],UNIT["m",1.0]]

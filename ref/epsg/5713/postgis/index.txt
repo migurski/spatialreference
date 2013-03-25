@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95713, 'epsg', 5713, '', 'VERT_CS["Canadian Geodetic Vertical Datum of 1928",VERT_DATUM["Canadian Geodetic Vertical Datum of 1928",2005,AUTHORITY["EPSG","5114"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5713"]]');

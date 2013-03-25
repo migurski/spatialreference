@@ -1,1 +1,0 @@
-Name:GCS_GDA_1994AngularUnit:Degree[0.017453292519943299]

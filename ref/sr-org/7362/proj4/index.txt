@@ -1,1 +1,0 @@
-+proj=tmerc +lat_0=0 +lon_0=-172 +k=1 +x_0=700000 +y_0=7000000 +ellps=WGS72 +units=m +no_defs 

@@ -1,5 +1,0 @@
-PROJECTION
-	"proj=longlat"
-	"ellps=fschr60m"
-	"no_defs"
-END

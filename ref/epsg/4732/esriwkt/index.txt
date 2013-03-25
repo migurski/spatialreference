@@ -1,1 +1,0 @@
-GEOGCS["Marshall Islands 1960",DATUM["D_",SPHEROID["Hough_1960",6378270,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

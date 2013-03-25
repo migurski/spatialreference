@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 96648, 'sr-org', 6648, '', 'Name:GCS_GDA_1994AngularUnit:Degree[0.017453292519943299]');

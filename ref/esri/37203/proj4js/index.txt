@@ -1,1 +1,0 @@
-Proj4js.defs["ESRI:37203"] = "+proj=longlat +a=6377301.243 +b=6356100.230165384 +no_defs";

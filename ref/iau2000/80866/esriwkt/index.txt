@@ -1,1 +1,0 @@
-PROJCS["Proteus_Orthographic_AUTO",GEOGCS["Proteus 2000",DATUM["D_Proteus_2000",SPHEROID["Proteus_2000_IAU_IAG",218000.0,12.823529411764705]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Orthographic"],PARAMETER["False_Easting",0],PARAMETER["False_Northing",0],PARAMETER["Longitude_Of_Center",0.0],PARAMETER["Latitude_Of_Center",90.0],UNIT["Meter",1]]

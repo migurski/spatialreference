@@ -1,5 +1,0 @@
-PROJECTION
-	"proj=longlat"
-	"ellps=WGS72"
-	"no_defs"
-END

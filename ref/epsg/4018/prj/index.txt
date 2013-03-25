@@ -1,1 +1,0 @@
-GEOGCS["Unknown datum based upon the Everest 1830 Modified ellipsoid",DATUM["D_Everest_Modified",SPHEROID["Everest_1830_Modified",6377304.063,300.8017]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

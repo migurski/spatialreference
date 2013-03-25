@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-6720=PROJCS["Albers",GEOGCS["GCS_Unknown datum based upon the Clarke 1866 ellipsoid",DATUM["Not_specified_based_on_Clarke_1866_ellipsoid",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Albers_Conic_Equal_Area"],PARAMETER["standard_parallel_1",43],PARAMETER["standard_parallel_2",48],PARAMETER["latitude_of_center",41],PARAMETER["longitude_of_center",-117],PARAMETER["false_easting",700000],PARAMETER["false_northing",0],UNIT["METERS",1]]

@@ -1,7 +1,0 @@
-PROJECTION
-	"proj=utm"
-	"zone=13"
-	"ellps=GRS80"
-	"to_meter=0.3048006096012192"
-	"no_defs"
-END

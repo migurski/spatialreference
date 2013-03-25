@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 94901, 'epsg', 4901, '+proj=longlat +a=6376523 +b=6355862.933255573 +pm=2.3372291666985 +no_defs ', 'GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6376523,308.6399999999995]],PRIMEM["paris",2.3372291666985],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4901"]]');

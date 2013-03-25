@@ -1,1 +1,0 @@
-+proj=tmerc +lat_0=0 +lon_0=-55.8 +k=1.0001349 +x_0=500000 +y_0=10002228.19 +ellps=aust_SA +towgs84=-155,171,37,0,0,0,0 +units=m +no_defs 

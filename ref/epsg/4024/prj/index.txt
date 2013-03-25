@@ -1,1 +1,0 @@
-GEOGCS["Unknown datum based upon the Krassowsky 1940 ellipsoid",DATUM["D_Krasovsky_1940",SPHEROID["Krassowsky_1940",6378245,298.3]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

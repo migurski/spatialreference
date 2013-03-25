@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 97462, 'sr-org', 7462, '', 'projcs<projectedcs>=PROJCS["<name>","<geographiccs>","<projection>","{<parameter>","}*<linearunit>{","<twinaxes>}{","<authority>}"]');

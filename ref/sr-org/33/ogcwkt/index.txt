@@ -1,1 +1,0 @@
-PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",30],PARAMETER["central_meridian",-82.166666666667],PARAMETER["scale_factor",0.9999],PARAMETER["false_easting",200000],PARAMETER["false_northing",0]]

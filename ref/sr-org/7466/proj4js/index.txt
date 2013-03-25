@@ -1,1 +1,0 @@
-Proj4js.defs["SR-ORG:7466"] = "+proj=poly +lat_0=-22.5 +lon_0=17 +x_0=0 +y_0=0 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs";

@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 97346, 'sr-org', 7346, '', 'Proj4js.defs["EPSG:32644"]');

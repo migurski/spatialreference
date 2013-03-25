@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 94740, 'sr-org', 4740, '+proj=longlat +a=2439700 +b=2439700 +no_defs ', 'GEOGCS["GCS_Mercury_2000",DATUM["Mercury_2000",SPHEROID["Mercury_2000_IAU_IAG",2439700.0,0.0]],PRIMEM["Reference_Meridian",0.0],UNIT["Degree",0.0174532925199433]]');

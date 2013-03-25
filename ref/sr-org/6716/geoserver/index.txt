@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-6716=PROJCS["NAD27 / Quebec Lambert",GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982138982]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["standard_parallel_1",77],PARAMETER["standard_parallel_2",41.7],PARAMETER["latitude_of_origin",49],PARAMETER["central_meridian",-95.0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["Meter",1]]

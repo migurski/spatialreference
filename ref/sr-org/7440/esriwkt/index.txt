@@ -1,1 +1,0 @@
-PROJCS["Greenland_sp71_cm-39",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]],PROJECTION["Stereographic_North_Pole"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-39.0],PARAMETER["Standard_Parallel_1",71.0],UNIT["Kilometer",1000.0]]

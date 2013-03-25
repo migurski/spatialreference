@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95714, 'epsg', 5714, '', 'VERT_CS["mean sea level height",VERT_DATUM["Mean Sea Level",2005,AUTHORITY["EPSG","5100"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5714"]]');

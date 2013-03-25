@@ -1,1 +1,0 @@
-GEOGCS["Moorea 87",DATUM["D_Moorea_1987",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

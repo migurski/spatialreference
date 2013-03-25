@@ -1,1 +1,0 @@
-GEOGCS["GCS_Everest_India_Nepal",DATUM["Everest_India_Nepal",SPHEROID["Everest_Definition_1962",6377301.243,300.8017255]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37203"]]

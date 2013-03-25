@@ -1,1 +1,0 @@
-PROJCS["NAD_1983_UTM_Zone_16N"]

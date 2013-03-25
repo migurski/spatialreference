@@ -1,1 +1,0 @@
-GEOGCS["Perroud 1950 (deg)",DATUM["D_Pointe Geologie Perroud 1950",SPHEROID["International_1924",6378388.0,297.0]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]]

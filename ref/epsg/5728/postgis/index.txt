@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95728, 'epsg', 5728, '', 'VERT_CS["Landesnivellement 1902",VERT_DATUM["Landesnivellement 1902",2005,AUTHORITY["EPSG","5127"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5728"]]');

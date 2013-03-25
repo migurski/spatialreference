@@ -1,1 +1,0 @@
-GEOGCS["Segara (Jakarta) (deg)",DATUM["D_Gunung Segara (Jakarta)",SPHEROID["Bessel_1841",6377397.155,299.1528128]],PRIMEM["Jakarta",106.80771944444446],UNIT["Degree",0.017453292519943295]]

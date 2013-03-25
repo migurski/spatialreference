@@ -1,1 +1,0 @@
-projcs<projectedcs>=PROJCS["<name>","<geographiccs>","<projection>","{<parameter>","}*<linearunit>{","<twinaxes>}{","<authority>}"]

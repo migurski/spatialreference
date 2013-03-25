@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95755, 'epsg', 5755, '', 'VERT_CS["NGG1977",VERT_DATUM["Nivellement General Guyanais 1977",2005,AUTHORITY["EPSG","5153"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5755"]]');

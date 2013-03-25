@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 937239, 'esri', 37239, '+proj=longlat +ellps=clrk66 +no_defs ', 'GEOGCS["GCS_Cape_Canaveral",DATUM["Cape_Canaveral",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37239"]]');

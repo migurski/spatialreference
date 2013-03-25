@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 990100, 'iau2000', 90100, '+proj=longlat +a=593000 +b=593000 +no_defs ', 'GEOGCS["Charon 2000",DATUM["D_Charon_2000",SPHEROID["Charon_2000_IAU_IAG",593000.0,0.0]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]]');

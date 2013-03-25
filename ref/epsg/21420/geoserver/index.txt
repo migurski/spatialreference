@@ -1,5 +1,0 @@
-<featureType datastore = "your_layer" >
-<name>your_layer</name>
-<SRS>21420</SRS>
-<!-- remainder of featuretype info-->
-</featureType>

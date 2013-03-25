@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95787, 'epsg', 5787, '', 'VERT_CS["EOMA 1980",VERT_DATUM["Baltic 1980",2005,AUTHORITY["EPSG","5185"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5787"]]');

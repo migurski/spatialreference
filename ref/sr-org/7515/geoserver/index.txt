@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-7515="+proj=tmerc+lat_0=37.75+lon_0=-95.75+k=0.999933333+x_0=250000+y_0=0+ellps=GRS80+towgs84=0"

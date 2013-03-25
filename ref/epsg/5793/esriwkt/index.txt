@@ -1,1 +1,0 @@
-VERT_CS["Mayotte 1950",VERT_DATUM["Mayotte 1950",2005],UNIT["m",1.0]]

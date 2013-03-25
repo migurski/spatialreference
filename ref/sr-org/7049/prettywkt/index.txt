@@ -1,1 +1,0 @@
-"+proj=tmerc+pm=greenwich+lat_0=0+lon_0=18+k=0.9999+x_0=6500000+y_0=0+ellps=bessel+towgs84=550.499"

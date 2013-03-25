@@ -1,1 +1,0 @@
-Proj4js.defs["IAU2000:19967"] = "+proj=ortho +lat_0=90 +lon_0=0 +x_0=0 +y_0=0 +a=2439700 +b=2439700 +units=m +no_defs";

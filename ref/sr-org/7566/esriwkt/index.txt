@@ -1,1 +1,0 @@
-Projection:TransverseMercator["syn:Gauss-Krueger"]

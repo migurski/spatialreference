@@ -1,1 +1,0 @@
-+proj=longlat +ellps=bessel +towgs84=565.04,49.91,465.84,-0.40939,0.3597,-1.86849,0 +no_defs 

@@ -1,1 +1,0 @@
-Proj4js.defs["SR-ORG:7061"] = "+proj=longlat +a=6378137.1 +b=6356752.413909898 +no_defs";

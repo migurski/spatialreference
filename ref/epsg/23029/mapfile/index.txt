@@ -1,7 +1,0 @@
-PROJECTION
-	"proj=utm"
-	"zone=29"
-	"ellps=intl"
-	"units=m"
-	"no_defs"
-END

@@ -1,6 +1,0 @@
-VERT_CS["KOC WD",
-    VERT_DATUM["KOC Well Datum",2005,
-        AUTHORITY["EPSG","5187"]],
-    UNIT["m",1.0],
-    AXIS["Gravity-related depth",DOWN],
-    AUTHORITY["EPSG","5789"]]

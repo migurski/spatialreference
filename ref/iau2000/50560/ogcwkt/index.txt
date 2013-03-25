@@ -1,1 +1,0 @@
-PROJCS["Amalthea_Sinusoidal_AUTO",GEOGCS["Amalthea 2000",DATUM["D_Amalthea_2000",SPHEROID["Amalthea_2000_IAU_IAG",125000.0,2.0491803278688523]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]],PROJECTION["Sinusoidal"],PARAMETER["False_Easting",0],PARAMETER["False_Northing",0],PARAMETER["Central_Meridian",0],UNIT["Meter",1]]

@@ -1,1 +1,0 @@
-+proj=longlat +ellps=clrk80 +towgs84=-169.559,-72.34,303.102,0.0,0.0,0.0,0.0 +no_defs 

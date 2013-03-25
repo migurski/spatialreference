@@ -1,1 +1,0 @@
-GEOGCS["PSAD56",DATUM["D_Provisional_S_American_1956",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]

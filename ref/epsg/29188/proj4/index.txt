@@ -1,1 +1,0 @@
-+proj=utm +zone=18 +south +ellps=aust_SA +units=m +no_defs 

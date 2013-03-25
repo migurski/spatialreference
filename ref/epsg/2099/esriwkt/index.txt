@@ -1,1 +1,0 @@
-PROJCS["Qatar 1948 / Qatar Grid",GEOGCS["Qatar 1948",DATUM["D_Qatar_1948",SPHEROID["Helmert_1906",6378200,298.3]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Cassini"],PARAMETER["latitude_of_origin",25.38236111111111],PARAMETER["central_meridian",50.76138888888889],PARAMETER["false_easting",100000],PARAMETER["false_northing",100000],UNIT["Meter",1]]

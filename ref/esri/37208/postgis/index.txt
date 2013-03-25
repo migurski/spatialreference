@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 937208, 'esri', 37208, '+proj=longlat +ellps=clrk80 +no_defs ', 'GEOGCS["GCS_Ayabelle",DATUM["Ayabelle",SPHEROID["Clarke_1880_RGS",6378249.145,293.465]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295],AUTHORITY["EPSG","37208"]]');

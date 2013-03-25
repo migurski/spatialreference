@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95784, 'epsg', 5784, '', 'VERT_CS["DHHN85",VERT_DATUM["Deutches Haupthohennetz 1985",2005,AUTHORITY["EPSG","5182"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5784"]]');

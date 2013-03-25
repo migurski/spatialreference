@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-4700=PROJCS["Transverse_Mercator",GEOGCS["Geographic Coordinate System",DATUM["Deutsches_Hauptdreiecksnetz",SPHEROID["Bessel 1841",6377397.155,299.1528131060786]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["scale_factor",1],PARAMETER["central_meridian",12],PARAMETER["latitude_of_origin",0],PARAMETER["false_easting",4500000],PARAMETER["false_northing",0],UNIT["Meter",1]]

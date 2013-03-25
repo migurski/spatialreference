@@ -1,1 +1,0 @@
-PROJCS["Custom",GEOGCS["GCS_Pulkovo_1942",DATUM["D_Pulkovo_1942",SPHEROID["Krasovsky_1940",6378245.0,298.3]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",95942.17],PARAMETER["False_Northing",-6552810.0],PARAMETER["Central_Meridian",30.0],UNIT["Meter",1.0]]

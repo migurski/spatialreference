@@ -1,1 +1,0 @@
-GEOCCS["RRAF 1991",DATUM["D_Reseau de Reference des Antilles Francaises 1991",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["m",1.0]]

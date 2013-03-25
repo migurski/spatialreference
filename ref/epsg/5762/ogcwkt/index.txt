@@ -1,1 +1,0 @@
-VERT_CS["Gisborne",VERT_DATUM["Gisborne",2005,AUTHORITY["EPSG","5160"]],UNIT["m",1.0],AXIS["Gravity-related height",UP],AUTHORITY["EPSG","5762"]]

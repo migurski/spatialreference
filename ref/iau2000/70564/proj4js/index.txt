@@ -1,1 +1,0 @@
-Proj4js.defs["IAU2000:70564"] = "+proj=tmerc +lat_0=0 +lon_0=0 +k=0.9996 +x_0=0 +y_0=0 +a=240400 +b=232900 +units=m +no_defs";

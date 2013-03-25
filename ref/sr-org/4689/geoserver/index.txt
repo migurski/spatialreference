@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-4689=PROJCS["KIST L1",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Local"],PARAMETER["longitude_of_center",127.045267],PARAMETER["latitude_of_center",37.598419],PARAMETER["scale_factor",1.0],PARAMETER["azimuth",106.0],PARAMETER["false_easting",70.0],PARAMETER["false_northing",41.2],UNIT["Meter",1,AUTHORITY["EPSG","9001"]],AUTHORITY["KIST","101"]]

@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-6955=PROJCS["AL-W",GEOGCS["LL27",DATUM["NAD27",SPHEROID["CLRK66",6378206.400,294.97869821]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["false_easting",500000.000],PARAMETER["false_northing",0.000],PARAMETER["scale_factor",0.999933333333],PARAMETER["central_meridian",-87.50000000000000],PARAMETER["latitude_of_origin",30.00000000000000],UNIT["Foot_US",0.30480060960122]]

@@ -1,1 +1,0 @@
-Proj4js.defs["SR-ORG:6934"] = "+proj=krovak +lat_0=56.469926 +lon_0=-112.175982 +alpha=0 +k=0.9996 +x_0=0 +y_0=0 +ellps=GRS80 +units=m +no_defs";

@@ -1,1 +1,0 @@
-PROJCS["Atlas_Sinusoidal",GEOGCS["Atlas 2000",DATUM["D_Atlas_2000",SPHEROID["Atlas_2000_IAU_IAG",18500.0,3.6999999999999997]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]],PROJECTION["Sinusoidal"],PARAMETER["False_Easting",0],PARAMETER["False_Northing",0],PARAMETER["Central_Meridian",180],UNIT["Meter",1]]

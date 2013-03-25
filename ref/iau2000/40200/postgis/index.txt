@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 940200, 'iau2000', 40200, '+proj=longlat +a=7500 +b=5200 +no_defs ', 'GEOGCS["Deimos 2000",DATUM["D_Deimos_2000",SPHEROID["Deimos_2000_IAU_IAG",7500.0,3.2608695652173916]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]]');

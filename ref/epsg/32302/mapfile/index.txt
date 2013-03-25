@@ -1,8 +1,0 @@
-PROJECTION
-	"proj=utm"
-	"zone=2"
-	"south"
-	"ellps=WGS72"
-	"units=m"
-	"no_defs"
-END

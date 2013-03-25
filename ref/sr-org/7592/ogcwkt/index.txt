@@ -1,1 +1,0 @@
-PROJCS["Sinusoidal (Sanson-Flamsteed)",GEOGCS["unnamed",DATUM["unknown",SPHEROID["unnamed",6371007.181,"inf"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Sinusoidal"],PARAMETER["longitude_of_center",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1]]

@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 950201, 'iau2000', 50201, '+proj=longlat +a=1564130 +b=1560930 +no_defs ', 'GEOGCS["Europa 2000",DATUM["D_Europa_2000",SPHEROID["Europa_2000_IAU_IAG",1564130.0,488.79062499999998]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]]');

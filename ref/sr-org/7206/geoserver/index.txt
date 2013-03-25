@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-7206=PROJCS["ITRF92Lambert_Conformal_Conic",GEOGCS["GCS_ITRF_1992",Datum["ITRF92",SPHEROID["WGS_1984",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",2500000],PARAMETER["False_Northing",0],PARAMETER["Central_Meridian",-102],PARAMETER["Standard_Parallel_1",17.5],PARAMETER["Standard_Parallel_2",29.5],PARAMETER["Latitude_Of_Origin",0],UNIT["Meter",1]]

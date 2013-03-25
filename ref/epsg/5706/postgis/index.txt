@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95706, 'epsg', 5706, '', 'VERT_CS["Caspian",VERT_DATUM["Caspian Sea",2005,AUTHORITY["EPSG","5106"]],UNIT["m",1.0],AXIS["Gravity-related depth",DOWN],AUTHORITY["EPSG","5706"]]');

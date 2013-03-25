@@ -1,1 +1,0 @@
-VERT_CS["St. Kilda",VERT_DATUM["St. Kilda",2005],UNIT["m",1.0]]

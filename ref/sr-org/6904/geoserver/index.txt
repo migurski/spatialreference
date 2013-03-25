@@ -1,3 +1,0 @@
-# put this custom projection in the 'user_projections' file inside the GEOSERVER_DATA_DIR
-#You can further work with your projections via the web admin tool.
-6904=PROJCS["VCMAC North",GEOGCS["NAD27",DATUM["North_American_Datum_1927",SPHEROID["Clarke 1866",6378206.4,294.978698213901],TOWGS84[-9.0,151.0,185.0,0.0,0.0,0.0,0.0]],PRIMEM["Greenwich",0.0],UNIT["degree",0.017453292519943295],AXIS["Longitude",EAST],AXIS["Latitude",NORTH]],PROJECTION["Stereographic"],PARAMETER["central_meridian",-95.0],PARAMETER["latitude_of_origin",50.0],PARAMETER["scale_factor",0.25],PARAMETER["false_easting",0.0],PARAMETER["false_northing",0.0],UNIT["m",1.0],AXIS["x",EAST],AXIS["y",NORTH],AUTHORITY["EPSG","200001"]]

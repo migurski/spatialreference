@@ -1,1 +1,0 @@
-+proj=longlat +ellps=airy +datum=OSGB36 +no_defs 

@@ -1,1 +1,0 @@
-+proj=longlat +ellps=intl +towgs84=-2.0,374.0,172.0,0.0,0.0,0.0,0.0 +no_defs 

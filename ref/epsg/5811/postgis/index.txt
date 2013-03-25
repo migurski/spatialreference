@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 95811, 'epsg', 5811, '', 'LOCAL_CS["Mene Grande",LOCAL_DATUM["Mene Grande",0,AUTHORITY["EPSG","9305"]],UNIT["m",1.0],AXIS["Northing",NORTH],AXIS["Easting",EAST],AUTHORITY["EPSG","5811"]]');

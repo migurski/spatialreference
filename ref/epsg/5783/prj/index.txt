@@ -1,1 +1,0 @@
-VERT_CS["DHHN92",VERT_DATUM["Deutches Haupthohennetz 1992",2005],UNIT["m",1.0]]

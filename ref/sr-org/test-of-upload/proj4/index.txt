@@ -1,1 +1,0 @@
-+proj=longlat +ellps=GRS80 +datum=NAD83 +no_defs 

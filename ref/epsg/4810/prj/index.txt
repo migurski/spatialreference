@@ -1,1 +1,0 @@
-GEOGCS["Tananarive (Paris)",DATUM["D_Tananarive_1925",SPHEROID["International_1924",6378388,297]],PRIMEM["Paris",2.33722917],UNIT["grad",0.01570796326794897]]

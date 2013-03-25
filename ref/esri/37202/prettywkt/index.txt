@@ -1,6 +1,0 @@
-GEOGCS["GCS_Everest_Bangladesh",
-    DATUM["Everest_Bangladesh",
-        SPHEROID["Everest_Adjustment_1937",6377276.345,300.8017]],
-    PRIMEM["Greenwich",0],
-    UNIT["Degree",0.017453292519943295],
-    AUTHORITY["EPSG","37202"]]

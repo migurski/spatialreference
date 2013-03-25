@@ -1,1 +1,0 @@
-INSERT into spatial_ref_sys (srid, auth_name, auth_srid, proj4text, srtext) values ( 950501, 'iau2000', 50501, '+proj=longlat +a=125000 +b=64000 +no_defs ', 'GEOGCS["Amalthea 2000",DATUM["D_Amalthea_2000",SPHEROID["Amalthea_2000_IAU_IAG",125000.0,2.0491803278688523]],PRIMEM["Greenwich",0],UNIT["Decimal_Degree",0.0174532925199433]]');

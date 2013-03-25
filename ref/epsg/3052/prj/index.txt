@@ -1,1 +1,0 @@
-PROJCS["Reykjavik 1900 / Lambert 1900",GEOGCS["Reykjavik 1900",DATUM["D_Reykjavik_1900",SPHEROID["Danish_1876",6377019.27,300]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],UNIT["Meter",1]]
